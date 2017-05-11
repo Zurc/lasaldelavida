@@ -14,7 +14,7 @@ decí pavadas hasta quedarte ronco de alegría, que el sinsentido de la vida no 
 
 cométe un buen asado de tira y salí vestido de tiradores, y tirá la chancleta a la pileta
 
-comé sandía, sí, comé sandía hasta que te salga por las orejas, porque si es san dia sera otro dia san
+comé sandía, sí, comé sandía hasta que te salga por las orejas, porque si no es san dia sera otro dia san
 
 revolcate en el pasto aunque te ensucies, que mas vale sucio y muerto de risa que con cara de guanaco resfriado
 
