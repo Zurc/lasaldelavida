@@ -10,6 +10,10 @@ From [why searching sometimes could be more important than learning...] (title: 
 
 > ***Never memorize something that you can look up.*** Albert Einstein
 
+> “Only memorize the things you use every day. Everything else, just memorize how to look it up.”
+
+> You can learn from the mistakes of others without having to make those mistakes yourself.
+
 
 
 
