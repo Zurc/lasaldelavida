@@ -14,6 +14,9 @@ From [why searching sometimes could be more important than learning...] (title: 
 
 > You can learn from the mistakes of others without having to make those mistakes yourself.
 
+> You should never be afraid to admit you don’t know something, and seek to correct it using whatever means necessary.
+***There is only one cure for ignorance, and that will always be asking questions.***
+
 
 
 
