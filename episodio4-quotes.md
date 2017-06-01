@@ -4,11 +4,11 @@
 
 From [What I learnt from my first 100 days of code]:
 
-There will always be a day where you feel like you’ve hit a wall and can’t go further. I learned to tell myself, ***“the next time, it will work”***
+> There will always be a day where you feel like you’ve hit a wall and can’t go further. I learned to tell myself, ***“the next time, it will work”***
 
 From [why searching sometimes could be more important than learning...] (title: something like that):
 
-***Never memorize something that you can look up.*** Albert Einstein
+> ***Never memorize something that you can look up.*** Albert Einstein
 
 
 
