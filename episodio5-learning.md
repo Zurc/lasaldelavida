@@ -17,7 +17,7 @@ Cosas que voy aprendiendo...
 
 
 
-[cómo funciona Ember (egghed.io)]: <https://egghead.io/courses/ember-2-fundamentals?utm_source=drip&utm_medium=email&utm_content=ember-fundamentals>
+[Ember (egghed.io)]: <https://egghead.io/courses/ember-2-fundamentals?utm_source=drip&utm_medium=email&utm_content=ember-fundamentals>
 [amcharts]: <https://www.amcharts.com/knowledge-base/>
 
 [node.js (egghead.io)]: <https://egghead.io/lessons/node-js-use-the-node-js-repl-shell>
