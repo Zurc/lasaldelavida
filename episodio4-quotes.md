@@ -25,6 +25,12 @@ From [This morning routine...]: (productivity - quality - inspiration )
 
 > Quality Vs. Quantity
 
+> Mind-body connection exercise
+
+> play - cognitive and social benefits of play
+
+
+
 
 
 [What I learnt from my first 100 days of code]: <https://medium.freecodecamp.com/what-i-learned-from-my-first-100daysofcode-13ac805ff0a9>
