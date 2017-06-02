@@ -7,7 +7,9 @@ Cosas que voy aprendiendo...
 ### 2-Jun-2017
 
 [node.js (egghead.io)]
-  REPL (read evaluate print loop) shell
+
+-  REPL (read evaluate print loop) shell
+-  callbacks in node.js
 
 ### 1-Jun-2017
 
