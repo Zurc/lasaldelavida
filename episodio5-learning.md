@@ -2,7 +2,7 @@
 
 Cosas que voy aprendiendo...
 
-### 3-Jun-2017
+### Sat 3-Jun-2017
 
 Non related things and videos...
 
@@ -18,14 +18,14 @@ Non related things and videos...
 
 
 
-### 2-Jun-2017
+### Fri 2-Jun-2017
 
 [node.js (egghead.io)]
 
 -  REPL (read evaluate print loop) shell
 -  callbacks in node.js
 
-### 1-Jun-2017
+### Thu 1-Jun-2017
 
 [Ember (egghed.io)] basics: cómo funciona, ember-cli, templates, components, ...
 
