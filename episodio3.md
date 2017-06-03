@@ -13,6 +13,8 @@ si necesitás amparo
 que te puede salir caro
 aunque no salgas ufano.
 
+--
+
 Cuando la tarde se acaba
 y el viento sopla en la cara
 cuando la luna sonrie
@@ -25,3 +27,20 @@ déjame soñarte un poco
 tesoro mío, mi amada
 y así tenerte más cerca.
 de mi corazón, de mi alma.
+
+--
+
+cuando es tiempo de aprender
+concentración hace falta
+atención en lo que haces
+y hacer que la pena valga
+memoria y razonamiento
+a la par juntas han de ir
+y esto para prevenir
+dispersión y gastar tiempo
+eso para otro momento
+de relajación y juego
+más eso ya viene luego
+mejor después de comer... ;)
+
+--
