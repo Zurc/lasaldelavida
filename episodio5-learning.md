@@ -2,6 +2,13 @@
 
 Cosas que voy aprendiendo...
 
+### Dom 4-Jun-2017
+
+[node.js - Academind]
+
+    Adding Session and Validation to node.js
+
+
 ### Sat 3-Jun-2017
 
 Non related things and videos...
@@ -41,3 +48,4 @@ Non related things and videos...
 [Amazing Illusions Will Help Your Realistic Drawing]: <https://www.youtube.com/watch?v=r6ZsGBp9GLE>
 [A friendly introduction to Deep Learning and Neural Networks]: <https://www.youtube.com/watch?v=BR9h47Jtqyw>
 [For the Love of Physics (Walter Lewin's Last Lecture)]: <https://www.youtube.com/watch?v=4a0FbQdH3dY&t=368s>
+[node.js - Academind]: <https://www.youtube.com/watch?v=hE5zeEiVqpw&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR&index=13>
