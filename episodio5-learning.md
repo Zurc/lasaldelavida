@@ -6,15 +6,15 @@ Cosas que voy aprendiendo...
 
 [node.js - Academind]
 
-    Installing mongodb on your computer
+- Installing mongodb on your computer
     
-    ref: [fixing problem mongodb installment]
+ref: [fixing problem mongodb installment]
 
 ### Dom 4-Jun-2017
 
 [node.js - Academind]
 
-    Adding Session and Validation to node.js
+- Adding Session and Validation to node.js
 
 
 ### Sat 3-Jun-2017
