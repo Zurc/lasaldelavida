@@ -6,6 +6,14 @@ Cosas que voy aprendiendo...
 
 [node.js - Academind]
 
+    Installing mongodb on your computer
+    
+    ref: [fixing problem mongodb installment]
+
+### Dom 4-Jun-2017
+
+[node.js - Academind]
+
     Adding Session and Validation to node.js
 
 
@@ -49,3 +57,4 @@ Non related things and videos...
 [A friendly introduction to Deep Learning and Neural Networks]: <https://www.youtube.com/watch?v=BR9h47Jtqyw>
 [For the Love of Physics (Walter Lewin's Last Lecture)]: <https://www.youtube.com/watch?v=4a0FbQdH3dY&t=368s>
 [node.js - Academind]: <https://www.youtube.com/watch?v=hE5zeEiVqpw&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR&index=13>
+[fixing problem mongodb installment]: <https://stackoverflow.com/questions/42446931/mongodb-exception-in-initandlisten-20-attempted-to-create-a-lock-file-on-a-rea>
