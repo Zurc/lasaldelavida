@@ -10,6 +10,9 @@ Cosas que voy aprendiendo...
     
 ref: [fixing problem mongodb installment]
 
+Mongodb is a noSQL db, so it has collections (JSON formated approach) instead of tables.
+
+
 ### Dom 4-Jun-2017
 
 [node.js - Academind]
