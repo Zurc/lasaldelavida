@@ -2,7 +2,14 @@
 
 Cosas que voy aprendiendo...
 
-### Dom 4-Jun-2017
+### Mt 6-Jun-2017
+
+[node.js - Academind]
+
+- Inserting and getting data with mongodb
+
+
+### Lun 5-Jun-2017
 
 [node.js - Academind]
 
