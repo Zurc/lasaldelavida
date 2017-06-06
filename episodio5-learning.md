@@ -11,7 +11,7 @@ Cosas que voy aprendiendo...
 
 ### Lun 5-Jun-2017
 
-[node.js - Academind]
+[node.js - Setup mongodb - Academind]
 
 - Installing mongodb on your computer
     
@@ -22,7 +22,7 @@ Mongodb is a noSQL db, so it has collections (JSON formated approach) instead of
 
 ### Dom 4-Jun-2017
 
-[node.js - Academind]
+[node.js - Validation and sessions - Academind]
 
 - Adding Session and Validation to node.js
 
@@ -66,6 +66,7 @@ Non related things and videos...
 [Amazing Illusions Will Help Your Realistic Drawing]: <https://www.youtube.com/watch?v=r6ZsGBp9GLE>
 [A friendly introduction to Deep Learning and Neural Networks]: <https://www.youtube.com/watch?v=BR9h47Jtqyw>
 [For the Love of Physics (Walter Lewin's Last Lecture)]: <https://www.youtube.com/watch?v=4a0FbQdH3dY&t=368s>
-[node.js - Academind]: <https://www.youtube.com/watch?v=hE5zeEiVqpw&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR&index=13>
+[node.js - Validation and sessions - Academind]: <https://www.youtube.com/watch?v=hE5zeEiVqpw&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR&index=13>
+[node.js - Setup mongodb - Academind]:<https://www.youtube.com/watch?v=3fj9sx7UXfE&index=14&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR>
 [fixing problem mongodb installment]: <https://stackoverflow.com/questions/42446931/mongodb-exception-in-initandlisten-20-attempted-to-create-a-lock-file-on-a-rea>
 [node.js - Inserting and getting data - Academind]:<https://www.youtube.com/watch?v=ZKwrOXl5TDI&index=15&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR>
