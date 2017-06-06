@@ -45,4 +45,14 @@ mejor después de comer... ;)
 
 --
 
+Quien sabe lo que es perder
+como quien lo perdió todo
+y esto no es de cualquier modo
+quizá' alguno así lo ha de ver
+pruebe tan solo en el comer
+y pierda unos días de peso
+va a ver que es mucho más que eso
+para aquel que se proponga
+y en haras de la virtud ponga
+todo su esfuerzo y progreso.
 
