@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### Mt 6-Jun-2017
 
-[node.js - Academind]
+[node.js - Inserting and getting data - Academind]
 
 - Inserting and getting data with mongodb
 
@@ -68,3 +68,4 @@ Non related things and videos...
 [For the Love of Physics (Walter Lewin's Last Lecture)]: <https://www.youtube.com/watch?v=4a0FbQdH3dY&t=368s>
 [node.js - Academind]: <https://www.youtube.com/watch?v=hE5zeEiVqpw&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR&index=13>
 [fixing problem mongodb installment]: <https://stackoverflow.com/questions/42446931/mongodb-exception-in-initandlisten-20-attempted-to-create-a-lock-file-on-a-rea>
+[node.js - Inserting and getting data - Academind]:<https://www.youtube.com/watch?v=ZKwrOXl5TDI&index=15&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR>
