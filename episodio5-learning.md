@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Mie 7-Jun-2017
+
+[node.js - Update and delete data - Academind]
+
+- Update and delete data
+
 ### Mt 6-Jun-2017
 
 [node.js - Inserting and getting data - Academind]
@@ -70,3 +76,4 @@ Non related things and videos...
 [node.js - Setup mongodb - Academind]:<https://www.youtube.com/watch?v=3fj9sx7UXfE&index=14&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR>
 [fixing problem mongodb installment]: <https://stackoverflow.com/questions/42446931/mongodb-exception-in-initandlisten-20-attempted-to-create-a-lock-file-on-a-rea>
 [node.js - Inserting and getting data - Academind]:<https://www.youtube.com/watch?v=ZKwrOXl5TDI&index=15&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR>
+[node.js - Update and delete data - Academind]: <https://www.youtube.com/watch?v=-JcgwLIh0Z4&index=16&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR>
