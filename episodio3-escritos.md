@@ -58,3 +58,19 @@ todo su esfuerzo y progreso.
 
 --
 
+Si te vas, estás conmigo
+grabada en mi corazón
+como una estrella en el cielo
+o en una simple canción
+presente en cada momento
+unidos en oración
+
+Cuando el tiempo alce su vuelo
+y nos volvamos a ver
+de felicidad mi alma
+rebozará jubilar
+y nunca más separarnos
+por toda la eternidad
+
+--
+
