@@ -7,7 +7,7 @@ solía mi abuela decir,
 el necio no ha de pedir
 ayuda que necesite
 ni aunque la muerte lo 'envite'
-en un duelo mano a mano
+en un duelo mano a mano.
 malaya! avivate hermano
 si necesitás amparo
 que te puede salir caro
@@ -73,6 +73,4 @@ y nunca más separarnos
 por toda la eternidad
 
 --
-
-
 
