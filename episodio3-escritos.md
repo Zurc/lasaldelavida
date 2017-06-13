@@ -74,3 +74,15 @@ por toda la eternidad
 
 --
 
+El tiempo pasa volando
+suelen algunos decir
+mas yo no suelo advertir
+ese segundo a segundo
+quizás cosas de este mundo
+meta girar y girar
+que ni siquiera al mirar
+uno nota el movimiento
+si les diría les miento
+mas vale me vo'a siestear.
+
+
