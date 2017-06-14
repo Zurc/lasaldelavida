@@ -8,6 +8,10 @@ Cosas que voy aprendiendo...
 
 - Lots of info about IP's, fastforwarding, how internet works...
 
+[howToNode page]
+
+- How to deploy node blog to Heroku
+
 ### Mie 7-Jun-2017
 
 [node.js - Update and delete data - Academind]
@@ -84,3 +88,5 @@ Non related things and videos...
 [node.js - Inserting and getting data - Academind]:<https://www.youtube.com/watch?v=ZKwrOXl5TDI&index=15&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR>
 [node.js - Update and delete data - Academind]: <https://www.youtube.com/watch?v=-JcgwLIh0Z4&index=16&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR>
 [whatIsMyIp]: <https://www.whatismyip.com/>
+[howToNode page]: <https://howtonode.org/deploy-blog-to-heroku>
+
