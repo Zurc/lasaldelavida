@@ -12,6 +12,10 @@ Cosas que voy aprendiendo...
 
 - How to deploy node blog to Heroku
 
+[How to make a solar powered workstation]
+
+- Very interesting and detailed about how solar panels work and what you need to make a workstation.
+
 ### Mie 7-Jun-2017
 
 [node.js - Update and delete data - Academind]
@@ -89,4 +93,5 @@ Non related things and videos...
 [node.js - Update and delete data - Academind]: <https://www.youtube.com/watch?v=-JcgwLIh0Z4&index=16&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR>
 [whatIsMyIp]: <https://www.whatismyip.com/>
 [howToNode page]: <https://howtonode.org/deploy-blog-to-heroku>
+[How to make a solar powered workstation]: <https://creationix.com/solar-powered-workstation/>
 
