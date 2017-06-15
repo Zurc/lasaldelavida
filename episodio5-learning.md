@@ -10,7 +10,9 @@ Cosas que voy aprendiendo...
 
 [howToNode page]
 
-- How to deploy node blog to Heroku
+- How to deploy node blog to Heroku (in process)
+
+- Started server and blog with a couple of articles...
 
 [How to make a solar powered workstation]
 
