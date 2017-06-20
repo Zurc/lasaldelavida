@@ -85,4 +85,17 @@ uno nota el movimiento
 si les diría les miento
 mas vale me vo'a siestear.
 
+--
 
+Cuando la ocasión merezca
+hablar se ha con precaución
+ante cualquier decisión
+aunque difícil parezca
+esto puede hacer que crezca
+la relación de amistad
+con respeto e igualdad
+y que a todos aproveche
+y en lugar que usté' sospeche
+se  alegrará en la verdad.
+
+--
