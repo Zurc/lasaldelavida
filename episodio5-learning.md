@@ -2,6 +2,15 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 21-Jun-2017
+
+In a [Front End Happy Hour] episode I listen about this and seems interesting...
+
+[Functional programming book] 'The Little Schemer'
+
+[Front End Happy Hour]: <http://frontendhappyhour.com/>
+[Functional programming book]: <https://7chan.org/pr/src/The_Little_Schemer_4th_2.pdf>
+
 ### Wed 14-Jun-2017
 
 [whatIsMyIp]
