@@ -1,5 +1,7 @@
 # Arrays
 
+### flatMap and thinking process...
+
 Let’s say we have an array called oddNumbers:
 
 ```
