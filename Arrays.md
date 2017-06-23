@@ -35,5 +35,37 @@ console.log(oneToSix)    // [1, 2, 3, 4, 5, 6]
 
 voila!
 
+### Option 2
+
+Let's try functional programming but only array functions...
+
+```
+oddNumbers.map(x => [x,x=1]);
+console.log(oddNumbers)    // [[1,2],[3,4],[5,6]]
+```
+
+Now, let's create a function and use reduce (to apply a function on prev and current sub-arrays)...
+
+...and concat (to join this two each time)
+
+```
+function flatten(arr) {
+    return arr.reduce((prevArr, currArr) => prevArr.concat(currArr), []);    // without the second parameter works the same
+}    
+```
+
+Now we can get oneToSix appling flatten function to oddNumbers array
+
+```
+const oneToSix = flatten(oddNumbers)
+    
+console.log(oddNumbers)    // [1,2,3,4,5,6]
+```
+
+
+Ta da!
+
+
+
 
 
