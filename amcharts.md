@@ -26,10 +26,6 @@ this is a selection of our most used classes from amcharts
 
 [AmStockChart]: <https://docs.amcharts.com/3/javascriptstockchart/AmStockChart>
 
-[AmCategoryAxesSetting] = CategoryAxesSettings settings set's settings common for all CategoryAxes of StockPanels. If you change a property after the chart is initialized, you should call stockChart.validateNow() method in order for it to work. If there is no default value specified, default value of CategoryAxis class will be used.
-
-[AmCategoryAxesSetting]: <https://docs.amcharts.com/3/javascriptstockchart/CategoryAxesSettings>
-
 [AmCategoryAxis] = Extension for AxisBase, gets automatically populated if none has been specified.
 
 [AmCategoryAxis]: <https://docs.amcharts.com/3/javascriptstockchart/CategoryAxis>
