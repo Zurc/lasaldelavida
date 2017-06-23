@@ -18,6 +18,10 @@ this is a selection of our most used classes from amcharts
 
 [AmCharts]: <https://docs.amcharts.com/3/javascriptstockchart/AmCharts>
 
+[AmGraph] = Creates the visualization of the data in following types: line, column, step line, smoothed line, olhc and candlestick.
+
+[AmGraph]: <https://docs.amcharts.com/3/javascriptstockchart/AmGraph>
+
 [AmLegend] = creates de legend, automatically adapts the color settings of the graphs.
 
 [AmLegend]: <https://docs.amcharts.com/3/javascriptstockchart/AmLegend>
