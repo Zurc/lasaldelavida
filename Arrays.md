@@ -15,7 +15,7 @@ I want to combine this into a 3rd array of objects with same length, like this..
 arr3 = [{id:1, name:"Coco"}, {id:2, name: "Eve"}, {id:3, name:"John"}]
 ```
 
-**First Attempt: ** nested maps
+***First Attempt:*** nested maps
 
 ```
 arr3 = []
@@ -35,7 +35,7 @@ console.table(arr3)
 
 [live sample]:<https://jsbin.com/rojajip/1/edit?js,console>
 
-**Second Attempt: ** object assign
+***Second Attempt:*** object assign
 
 ```
 arr3 = []
