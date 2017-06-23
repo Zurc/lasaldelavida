@@ -1,5 +1,55 @@
 # Arrays
 
+### Combine same length arrays of objects into a new one (same length and amount of objects)
+
+Imagine 2 arrays of objects, same length...
+
+```
+arr1 = [{id:1}, {id:2}, {id:3}];
+arr2 = [{name: "Coco"}, {name: "Eve"}, {name: "john"}]
+```
+
+I want to combine this into a 3rd array of objects with same length, like this...
+
+```
+arr3 = [{id:1, name:"Coco"}, {id:2, name: "Eve"}, {id:3, name:"John"}]
+```
+
+**First Attempt: ** nested maps
+
+```
+arr3 = []
+
+arr1.map((i, index) => {
+  arr2.map (j => {
+    if (arr1.indexOf(i) === arr2.indexOf(j)) {
+      arr3[index] = Object.assign({}, i,j)
+    }
+  })
+})
+
+console.table(arr3)
+```
+
+[live sample]
+
+[live sample]:<https://jsbin.com/rojajip/1/edit?js,console>
+
+**Second Attempt: ** object assign
+
+```
+arr3 = []
+
+arr1.map((e,i) => arr3[i] = Object.assign(e, arr2[i]))
+
+console.table(arr3)
+```
+
+[live sample]
+
+[live sample]:<https://jsbin.com/vivineg/2/edit?js,output>
+
+
 ### flatMap and thinking process...
 
 Let’s say we have an array called oddNumbers:
