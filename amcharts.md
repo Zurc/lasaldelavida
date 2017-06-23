@@ -30,6 +30,12 @@ this is a selection of our most used classes from amcharts
 
 [AmCategoryAxesSetting]: <https://docs.amcharts.com/3/javascriptstockchart/CategoryAxesSettings>
 
+[AmCategoryAxis] = Extension for AxisBase, gets automatically populated if none has been specified.
+
+[AmCategoryAxis]: <https://docs.amcharts.com/3/javascriptstockchart/CategoryAxis>
+
+
+
 
 
 
