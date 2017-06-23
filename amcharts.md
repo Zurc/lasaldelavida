@@ -46,7 +46,9 @@ this is a selection of our most used classes from amcharts
 
 [AmStockGraph]: <https://docs.amcharts.com/3/javascriptstockchart/StockGraph>
 
+[AmStockPanel] =  StockPanel class creates stock panels (charts). AmStockChart can have multiple Stock panels.
 
+[AmStockPanel]: <https://docs.amcharts.com/3/javascriptstockchart/StockPanel>
 
 
 
