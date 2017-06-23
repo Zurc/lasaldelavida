@@ -34,6 +34,10 @@ this is a selection of our most used classes from amcharts
 
 [AmCategoryAxis]: <https://docs.amcharts.com/3/javascriptstockchart/CategoryAxis>
 
+[AmChartCursor] = Creates a cursor for the chart which follows the mouse movements. In case of AmSerialChart charts it shows the balloons of hovered data points.
+
+[AmChartCursor]: <https://docs.amcharts.com/3/javascriptstockchart/ChartCursor>
+
 
 
 
