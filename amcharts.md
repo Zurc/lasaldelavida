@@ -10,7 +10,11 @@ checking on the [documentation for amcharts version 3]
 
 [AmCharts] = namespace
 
-[AmLegend] = Creates de legend, automatically adapts the color settings of the graphs.
+[AmLegend] = creates de legend, automatically adapts the color settings of the graphs.
+
+[AmStockChart] = main class Stock chart.
+
+
 
 
 
@@ -18,6 +22,7 @@ checking on the [documentation for amcharts version 3]
 [AmChart]: <https://docs.amcharts.com/3/javascriptstockchart/AmChart>
 [AmCharts]: <https://docs.amcharts.com/3/javascriptstockchart/AmCharts>
 [AmLegend]: <https://docs.amcharts.com/3/javascriptstockchart/AmLegend>
+[AmStockChart]: <https://docs.amcharts.com/3/javascriptstockchart/AmStockChart>
 
 
 # Live editing chart data
