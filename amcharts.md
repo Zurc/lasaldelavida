@@ -42,9 +42,15 @@ this is a selection of our most used classes from amcharts
 
 [AmDataSet]: <https://docs.amcharts.com/3/javascriptstockchart/DataSet>
 
+#### StockChart related
+
 [AmStockGraph] =  StockGraph displays graphs on StockPanel.
 
 [AmStockGraph]: <https://docs.amcharts.com/3/javascriptstockchart/StockGraph>
+
+[AmStockLegend] =  StockLegend is a legend of StockPanel.
+
+[AmStockLegend]: <https://docs.amcharts.com/3/javascriptstockchart/StockLegend>
 
 [AmStockPanel] =  StockPanel class creates stock panels (charts). AmStockChart can have multiple Stock panels.
 
