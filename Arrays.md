@@ -64,8 +64,8 @@ console.log(oddNumbers)    // [1,2,3,4,5,6]
 
 Ta da!
 
-<a href="https://jsbin.com/vutakun/edit?html,js,console" target="_blank">live sample</a>
+[live sample]
 
 
-
+[live sample]: <https://jsbin.com/vutakun/edit?html,js,console>
 
