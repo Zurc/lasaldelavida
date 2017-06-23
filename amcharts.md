@@ -42,7 +42,9 @@ this is a selection of our most used classes from amcharts
 
 [AmDataSet]: <https://docs.amcharts.com/3/javascriptstockchart/DataSet>
 
+[AmStockGraph] =  StockGraph displays graphs on StockPanel.
 
+[AmStockGraph]: <https://docs.amcharts.com/3/javascriptstockchart/StockGraph>
 
 
 
