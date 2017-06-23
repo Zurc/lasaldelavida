@@ -62,9 +62,11 @@ const oneToSix = flatten(oddNumbers)
 console.log(oddNumbers)    // [1,2,3,4,5,6]
 ```
 
-
 Ta da!
 
+[live sample]
+
+[live sample]:<https://jsbin.com/vutakun/edit?html,js,console>
 
 
 
