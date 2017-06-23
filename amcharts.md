@@ -17,7 +17,7 @@ checking on the [documentation for amcharts version 3]
 [AmBalloon]:<https://docs.amcharts.com/3/javascriptstockchart/AmBalloon>
 [AmChart]: <https://docs.amcharts.com/3/javascriptstockchart/AmChart>
 [AmCharts]: <https://docs.amcharts.com/3/javascriptstockchart/AmCharts>
-[AmCharts]: <https://docs.amcharts.com/3/javascriptstockchart/AmLegend>
+[AmLegend]: <https://docs.amcharts.com/3/javascriptstockchart/AmLegend>
 
 
 # Live editing chart data
