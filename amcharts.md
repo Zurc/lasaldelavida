@@ -4,6 +4,8 @@ checking on the [documentation for amcharts version 3]
 
 # Classes
 
+this is a selection of our most used classes from amcharts
+
 [AmBalloon] = tooltips of the chart
 
 [AmChart] = base class
