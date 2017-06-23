@@ -10,9 +10,14 @@ checking on the [documentation for amcharts version 3]
 
 [AmCharts] = namespace
 
+[AmLegend] = Creates de legend, automatically adapts the color settings of the graphs.
+
+
+
 [AmBalloon]:<https://docs.amcharts.com/3/javascriptstockchart/AmBalloon>
 [AmChart]: <https://docs.amcharts.com/3/javascriptstockchart/AmChart>
 [AmCharts]: <https://docs.amcharts.com/3/javascriptstockchart/AmCharts>
+[AmCharts]: <https://docs.amcharts.com/3/javascriptstockchart/AmLegend>
 
 
 # Live editing chart data
