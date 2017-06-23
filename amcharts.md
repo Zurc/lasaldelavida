@@ -38,7 +38,9 @@ this is a selection of our most used classes from amcharts
 
 [AmChartCursor]: <https://docs.amcharts.com/3/javascriptstockchart/ChartCursor>
 
+[AmDataSet] = All info about data. Includes props like 'dataProvider'.
 
+[AmDataSet]: <https://docs.amcharts.com/3/javascriptstockchart/DataSet>
 
 
 
