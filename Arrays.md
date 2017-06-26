@@ -116,6 +116,12 @@ Ta da!
 
 [live sample]
 
+So, let's recap: with arrays, flatMap applied a mapping function to each element of the array, and then flattened the result into one big array (which was only one level deep — no nesting).
+
 
 [live sample]: <https://jsbin.com/vutakun/edit?html,js,console>
+
+
+
+
 
