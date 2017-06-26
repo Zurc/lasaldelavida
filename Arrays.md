@@ -121,7 +121,6 @@ So, let's recap: with arrays, flatMap applied a mapping function to each element
 
 [live sample]: <https://jsbin.com/vutakun/edit?html,js,console>
 
-
-
+### With Observables
 
 
