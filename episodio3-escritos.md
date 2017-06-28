@@ -1,4 +1,6 @@
-Episodio 3
+Episodio 3 - escritos y décimas
+
+decima abbaaccddc
 
 La barriga es tobogán para una niña pequeña, o es puente o es trampolín, la felicidad me adueña.
 
@@ -99,3 +101,20 @@ y en lugar que usté' sospeche
 se  alegrará en la verdad.
 
 --
+
+No sé qué pasó ni cuando
+todavía no lo recuerdo
+será que no estoy tan cuerdo
+o sin pensar 'toy hablando
+que una buena'alma ayudando
+a mi memoria y no dude
+decir qué hacía yo aquel día
+sin saber si me perdía
+o al buscar las direcciones
+por tontear me confundía.
+
+--
+
+
+
+
