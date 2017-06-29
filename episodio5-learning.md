@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 Learning about gitbooks to document git repos...
 
-[gitbook page]
+[gitbook]
 
 [gitbook page]: <https://www.gitbook.com>
 
