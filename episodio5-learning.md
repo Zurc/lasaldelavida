@@ -2,6 +2,18 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 29-Jun-2017
+
+Learning about gitbooks to document git repos...
+
+[gitbook page]
+
+[gitbook page]: <https://www.gitbook.com>
+
+[explore gitbooks...]
+
+[gitbook page]: <https://www.gitbook.com/explore>
+
 ### Wed 21-Jun-2017
 
 In a [Front End Happy Hour] episode I listen about this and seems interesting...
