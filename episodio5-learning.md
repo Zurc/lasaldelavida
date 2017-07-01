@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### Sat 1-Jul-2017
+
+Published my First (not test) Gitbook! An amazing and fascinating trip into Vue.js lands...
+
+[Vue Journey]
+
+[Vue Journey]:<https://zurc.gitbooks.io/vue-journey/content/>
+
 ### Thu 29-Jun-2017
 
 Learning about gitbooks to document git repos...
