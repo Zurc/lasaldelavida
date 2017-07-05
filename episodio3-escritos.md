@@ -115,6 +115,18 @@ por tontear me confundía.
 
 --
 
+El tiempo pasa volando
+como el ave solitaria
+cosa fija y temeraria
+sin aflojar va avanzando
+y antes de que digas cuando
+otro momento pasó
+la pucha que lo tiró
+alguno se asustará
+pero ha decir la verda'
+el pasado se vivió.
+
+
 
 
 
