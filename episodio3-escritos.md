@@ -4,6 +4,19 @@ decima abbaaccddc
 
 La barriga es tobogán para una niña pequeña, o es puente o es trampolín, la felicidad me adueña.
 
+Quien sabe lo que sería
+el hombre sin las virtudes
+sin esos hábitos buenos
+que lo ayudan a crecer
+es cosa de estremecer
+atisbos de decadencia
+que bajo el disfraz de cencia
+todo se quiera ocultar
+mejor no ponerse a hablar
+pa no perder la pacencia.
+
+--
+
 Al mal tiempo buena cara, 
 solía mi abuela decir,
 el necio no ha de pedir
