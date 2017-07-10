@@ -2,6 +2,15 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 10-Jul-2017
+
+
+
+
+[Planning the App | Vue.js + Vuetify + Firebase FULL PROJECT]
+
+[Planning the App | Vue.js + Vuetify + Firebase FULL PROJECT]:<https://www.youtube.com/watch?v=dIkPb8krORU>
+
 ### Sat 1-Jul-2017
 
 Published my First (not test) Gitbook! An amazing and fascinating trip into Vue.js lands...
