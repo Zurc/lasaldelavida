@@ -4,8 +4,11 @@ Cosas que voy aprendiendo...
 
 ### Mon 10-Jul-2017
 
+React For Everyone #7 - Starting A Real Project
 
+[React refresh Playlist]
 
+[React refresh Playlist]: <https://www.youtube.com/watch?v=qdOKkK0YBYM>
 
 [Planning the App | Vue.js + Vuetify + Firebase FULL PROJECT]
 
