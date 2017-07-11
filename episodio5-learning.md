@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 11-Jul-2017
+
+React For Everyone #7.5 and #8
+
 ### Mon 10-Jul-2017
 
 React For Everyone #7 - Starting A Real Project
