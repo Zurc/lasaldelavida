@@ -26,6 +26,11 @@ Integrating with GitHub is done in 3 steps:
 
 [Linking an existing book]
 
+You need to go to your gitbook account ( www (dot) gitbook (dot) com/book/[your-user]/[your-book-name]/settings/github )
+then sync with a repo (or just create one first if you didn't) and sometimes you can force sync based on the content from your gitbook or from your github repo...
+
+That's it!
+
 [Linking an existing book]:<https://help.gitbook.com/github/how-can-i-export-to-repo.html>
 
 [Creating a new book from a GitHub repository]
