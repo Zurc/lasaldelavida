@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 12-Jul-2017
+
+[Understanding RxJS - Academind playlist]
+
+[Understanding RxJS - Academind playlist]:<https://www.youtube.com/watch?v=b59tcUwfpWU&list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi>
+
 ### Tue 11-Jul-2017
 
 React For Everyone #7.5 and #8
