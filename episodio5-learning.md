@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 13-Jul-2017
+
+End up watching "Understanding RxJs" videos
+
+[Vue.js + Vuetify + Firebase Project - DevMeetup]
+
+[Vue.js + Vuetify + Firebase Project - DevMeetup]:<https://www.youtube.com/playlist?list=PL55RiY5tL51qxUbODJG9cgrsVd7ZHbPrt>
+
 ### Wed 12-Jul-2017
 
 [Understanding RxJS - Academind playlist]
