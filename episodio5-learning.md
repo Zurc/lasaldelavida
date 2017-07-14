@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 14-Jul-2017
+
+quick video on how to play with [JSON-server] and fake REST API
+
+[JSON-server]:<https://github.com/typicode/json-server>
+
 ### Thu 13-Jul-2017
 
 End up watching "Understanding RxJs" videos
