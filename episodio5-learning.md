@@ -8,6 +8,10 @@ quick video on how to play with [JSON-server] and fake REST API
 
 [JSON-server]:<https://github.com/typicode/json-server>
 
+learning about ***websockets*** with [The Net Ninja]
+
+[The Net Ninja]:<https://www.youtube.com/watch?v=vQjiN8Qgs3c&list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9>
+
 ### Thu 13-Jul-2017
 
 End up watching "Understanding RxJs" videos
