@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 continue playing with JSON-server
 
+[Create a Fake REST API with JSON-Server - Traversy Media]
+
+[Create a Fake REST API with JSON-Server - Traversy Media]:<https://www.youtube.com/watch?v=1zkgdLZEdwM>
+
 
 ### Fri 14-Jul-2017
 
