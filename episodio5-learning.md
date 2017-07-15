@@ -2,6 +2,11 @@
 
 Cosas que voy aprendiendo...
 
+### Sat 15-Jul-2017
+
+continue playing with JSON-server
+
+
 ### Fri 14-Jul-2017
 
 quick video on how to play with [JSON-server] and fake REST API
