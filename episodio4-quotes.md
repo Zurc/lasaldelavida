@@ -2,15 +2,19 @@
 
 ***Quotes***
 
-From [...your brain will be not the same](After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver)
+From [...your brain will be not the same](https://www.youtube.com/watch?v=LNHBMFCzznE)
 
 > "Study how and what you learn best, repeat those behaviours that are helathy for your brain and break those behaviours and habits that are not"
 
 > "Practice, learning is about doing the work that your brain requires, so the best strategies are going to vary between individuals."
 
-From [How to Become a Millionaire in 3 Years | Daniel Ally | TEDxBergenCommunityCollege](How to Become a Millionaire in 3 Years | Daniel Ally | TEDxBergenCommunityCollege)
+From [How to Become a Millionaire in 3 Years | Daniel Ally | TEDxBergenCommunityCollege](https://www.youtube.com/watch?v=jvBaRf9LHDs)
 
 > "Think BIG: B: the ***Books*** that your read, I: the ***Individuals*** that you meet, G: the ***Goals*** that you set for yourself"
+
+From [The surprising secret to speaking with confidence | Caroline Goyder | TEDxBrixton](https://www.youtube.com/watch?v=a2MR5XbJtXU)
+
+> Practice - Voice (magnificent instrument), Breathing - Confident Diaphragm, Air - shut up...
 
 From [What I learnt from my first 100 days of code]:
 
