@@ -12,6 +12,12 @@ From [How to Become a Millionaire in 3 Years | Daniel Ally | TEDxBergenCommunity
 
 > "Think BIG: B: the ***Books*** that your read, I: the ***Individuals*** that you meet, G: the ***Goals*** that you set for yourself"
 
+From [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
+
+> The 20 hours thing...
+
+> The major barrier to skill acquisition isn't intellectual... it's emotional. Scared of feeling stupid...
+
 From [The surprising secret to speaking with confidence | Caroline Goyder | TEDxBrixton](https://www.youtube.com/watch?v=a2MR5XbJtXU)
 
 > Practice - Voice (magnificent instrument), Breathing - Confident Diaphragm, Air/ we Breath our thougths - breath in(thoughts) shut up...
