@@ -14,7 +14,15 @@ From [How to Become a Millionaire in 3 Years | Daniel Ally | TEDxBergenCommunity
 
 From [The surprising secret to speaking with confidence | Caroline Goyder | TEDxBrixton](https://www.youtube.com/watch?v=a2MR5XbJtXU)
 
-> Practice - Voice (magnificent instrument), Breathing - Confident Diaphragm, Air - shut up...
+> Practice - Voice (magnificent instrument), Breathing - Confident Diaphragm, Air/ we Breath our thougths - breath in(thoughts) shut up...
+
+> "...Feel the breath in, and as you breath in think of someone you really love. If we were all to speak on that out breath, it would be full of love."
+
+From [The most important lesson from 83,000 brain scans | Daniel Amen | TEDxOrangeCoast](https://www.youtube.com/watch?v=esPRsT-lmw8)
+
+> Brain-smart programs
+
+> Dovstoevsky: "A society should be judged not by how it treats its oustanding citizens, but by how it treats its criminals". Crime, evaluation and treatment.
 
 From [What I learnt from my first 100 days of code]:
 
