@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 18-Jul-2017
+
+Testing with Angular...
+
+[Testing Angular 2+ Apps with Jasmine and Karma - Mosh](https://www.youtube.com/watch?v=yG4FH60fhUE)
+
+[Unit Testing with Angular - Paul Halliday](https://www.youtube.com/watch?v=Yod3tBt0beM)
+
 ### Mon 17-Jul-2017
 
 continue with Vue + Vuetify + Firebase app
