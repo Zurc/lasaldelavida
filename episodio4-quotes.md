@@ -2,6 +2,12 @@
 
 ***Quotes***
 
+From [how to multiply time... TED talk](https://www.youtube.com/watch?v=y2X7c9TUQJ8)
+
+> 'how to MULTIPLY time?: giving yourself the EMOTIONAL PERMISSION to spend time on things TODAY that will give you more time TOMORROW'
+
+> 'Give yourself the permission to say no', 'every time you said YES to something you say NO to other million things'
+
 From [...pasive income TED talk](https://www.youtube.com/watch?v=fDCAPOTnBIo)
 
 > The hardest thing you need to overcame is your limiting beliefs on your head
