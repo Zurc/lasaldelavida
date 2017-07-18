@@ -2,6 +2,10 @@
 
 ***Quotes***
 
+From [...pasive income TED talk](https://www.youtube.com/watch?v=fDCAPOTnBIo)
+
+> The hardest thing you need to overcame is your limiting beliefs on your head
+
 From [...your brain will be not the same](https://www.youtube.com/watch?v=LNHBMFCzznE)
 
 > "Study how and what you learn best, repeat those behaviours that are helathy for your brain and break those behaviours and habits that are not"
