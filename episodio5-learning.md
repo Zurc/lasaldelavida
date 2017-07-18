@@ -12,6 +12,8 @@ Testing with Angular...
 
 [Test driven Angular 2](https://semaphoreci.com/community/tutorials/setting-up-angular-2-with-webpack)
 
+[Angular 4 - the complete guide - Udemy](https://www.udemy.com/courses/) Intro to Unit Testing
+
 ### Mon 17-Jul-2017
 
 continue with Vue + Vuetify + Firebase app
