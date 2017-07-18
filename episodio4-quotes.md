@@ -8,7 +8,9 @@ From [how to multiply time... TED talk](https://www.youtube.com/watch?v=y2X7c9TU
 
 > 'Give yourself the permission to say no', 'every time you said YES to something you say NO to other million things'
 
-> Can be automated? can be delegated?
+> Can be automated? can be delegated? -> permission to protect, permission to make it fale for a while.
+
+> 'Be fruitful and multiply' (genesis)
 
 From [...pasive income TED talk](https://www.youtube.com/watch?v=fDCAPOTnBIo)
 
