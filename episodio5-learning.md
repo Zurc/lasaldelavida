@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 17-Jul-2017
+
+continue with Vue + Vuetify + Firebase app
+
 ### Sat 15-Jul-2017
 
 continue playing with JSON-server
