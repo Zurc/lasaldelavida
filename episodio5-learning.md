@@ -10,6 +10,8 @@ Testing with Angular...
 
 [Unit Testing with Angular - Paul Halliday](https://www.youtube.com/watch?v=Yod3tBt0beM)
 
+[Test driven Angular 2](https://semaphoreci.com/community/tutorials/setting-up-angular-2-with-webpack)
+
 ### Mon 17-Jul-2017
 
 continue with Vue + Vuetify + Firebase app
