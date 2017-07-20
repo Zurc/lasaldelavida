@@ -2,6 +2,13 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 20-Jul-2017
+
+Testing...
+
+[Talk: Testing with Angular - Some recipes Juri Strumpflohner](https://www.youtube.com/watch?v=Uw_XomCJaGQ)
+
+
 ### Tue 18-Jul-2017
 
 Testing with Angular...
