@@ -8,6 +8,10 @@ Testing...
 
 [Talk: Testing with Angular - Some recipes Juri Strumpflohner](https://www.youtube.com/watch?v=Uw_XomCJaGQ)
 
+[Angular2: A TDD Intro In ES6 (1/3)](https://www.youtube.com/watch?v=FMyduWydQv4)
+
+continued with Vue + Vuetify + Firebase...
+
 
 ### Tue 18-Jul-2017
 
