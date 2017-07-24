@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 24-Jul-2107
+
+[CSS Grid](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+
+continue with Vue + Vuetify + Firebase app
+
 ### Thu 20-Jul-2017
 
 Testing...
