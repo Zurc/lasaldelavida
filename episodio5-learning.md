@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 continue with Vue + Vuetify + Firebase app
 
+[How To Run A Creative Business: In-depth breakdown w/ Melinda Livsey](https://www.youtube.com/watch?v=D8BN2YSyYkg)
+
 ### Thu 20-Jul-2017
 
 Testing...
