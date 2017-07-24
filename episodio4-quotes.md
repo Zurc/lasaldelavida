@@ -2,6 +2,13 @@
 
 ***Quotes***
 
+From [Thinking for yourself - first principles](http://jamesclear.com/first-principles)
+
+>  Self-taught mental models—or, in simple terms, figuring things out for yourself—seem to be a favorite weapon of brilliant minds.
+>  
+>  'I think it is important to reason from first principles rather than by analogy' - Elon Musk
+
+
 From [how to multiply time... TED talk](https://www.youtube.com/watch?v=y2X7c9TUQJ8)
 
 > 'how to MULTIPLY time?: giving yourself the EMOTIONAL PERMISSION to spend time on things TODAY that will give you more time TOMORROW'
