@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 26-Jul-2017
+
+[CSS grid and flexbox UI exercise](https://github.com/geddski/overwatch-hero-picker/tree/selections)
+
 ### Mon 24-Jul-2107
 
 [CSS Grid](https://www.youtube.com/watch?v=7kVeCqQCxlk)
