@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [CSS grid and flexbox UI exercise](https://github.com/geddski/overwatch-hero-picker/tree/selections)
 
+[VueJS 2 tuts - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+
 ### Mon 24-Jul-2107
 
 [CSS Grid](https://www.youtube.com/watch?v=7kVeCqQCxlk)
