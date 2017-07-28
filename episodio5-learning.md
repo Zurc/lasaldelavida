@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 28-Jul-2017
+
+check [this course](https://www.skillshare.com/classes/Vector-Illustration-Design-a-Playful-Character-Using-Geometric-Shapes/1832339814/classroom/discussions?enrolledRedirect=1) to sharp affinity designer skills 
+
 ### Wed 26-Jul-2017
 
 [CSS grid and flexbox UI exercise](https://github.com/geddski/overwatch-hero-picker/tree/selections)
