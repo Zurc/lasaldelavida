@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 1-Aug-2017
+
+Learning [how to clone a WP site into a subdomain with cPanel](https://www.youtube.com/watch?v=-Ck2Pa80Iw8&t=170s)
+
 ### Fri 28-Jul-2017
 
 check [this course](https://www.skillshare.com/classes/Vector-Illustration-Design-a-Playful-Character-Using-Geometric-Shapes/1832339814/classroom/discussions?enrolledRedirect=1) to sharp affinity designer skills 
