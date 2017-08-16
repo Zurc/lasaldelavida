@@ -30,4 +30,4 @@ reíte que la risa es vida, mira el vaso medio vacio, medio lleno, llenalo de un
 
 hablá con tu viejos, contale cuánto lo querés, sino estás enfrente hablales por telefono, whatsap, escaip o lo que mongo sea, pero no dejes de hablarles, que si tenés la dicha de ser padre vas a atesorar cada 'te quiero' de tu prole
 
-andá y volvé y andá de nuevo, tomá el camino recto y el de la rotonda, subí a la montaña y bañate en el río, pero eso sí... cuando todo se acabe tomatelo con soda, que la vida es una y la que vale te espera.
+andá y volvé y andá de nuevo, tomá el camino recto y el de la rotonda, subí a la montaña y bañate en el río, pero eso sí... cuando todo se acabe tomatelo con soda, que la vida es una, y la que vale... te espera.
