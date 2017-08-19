@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Sat 19-Aug-2017 (returning after holidays :)
+
+refreshing Academind Vue project
+
 ### Wed 1-Aug-2017
 
 Learning [how to clone a WP site into a subdomain with cPanel](https://www.youtube.com/watch?v=-Ck2Pa80Iw8&t=170s)
