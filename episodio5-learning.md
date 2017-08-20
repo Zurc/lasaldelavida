@@ -6,6 +6,9 @@ Cosas que voy aprendiendo...
 
 [STATE & STORE | VueJS 2 & Vuex | Learning the Basics](https://www.youtube.com/watch?v=2CSr2vBApSI&list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo)
 
+continue with Vue + Vuetify + Firebase
+[Manage State with Vuex | Vue.js + Vuetify + Firebase FULL PROJECT](https://www.youtube.com/watch?v=GcyjaJZaVLg)
+
 ### Sat 19-Aug-2017 (returning after holidays :)
 
 refreshing Academind Vue project
