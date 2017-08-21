@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 21-Aug-2017
+
+[Harvard i-lab | Why You're Over-Thinking Your UI/UX with Rohan Puri](https://www.youtube.com/watch?v=Is2O666qDPs)
+
+[What is UX Design? Defining User Experience Design & Explaining the Process - The Futur](https://www.youtube.com/watch?v=CJnfAXlBRTE&index=1&list=PLzKJi2GjpkEELRD-YatYYLyItQ9O_MPU8)
+
 ### Sun 20-Aug-2017
 
 [STATE & STORE | VueJS 2 & Vuex | Learning the Basics](https://www.youtube.com/watch?v=2CSr2vBApSI&list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo)
