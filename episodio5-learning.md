@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### Tue 22-Aug-2017
 
-[Designing with Lean UX : Rapid Product Design [UX Lisbon 2014](https://www.slideshare.net/intelleto/designing-with-lean-ux-rapid-product-design-ux-lisbon-2014/38-Designing_with_Lean_UX_UX)
+[Designing with Lean UX : Rapid Product Design [UX Lisbon 2014]](https://www.slideshare.net/intelleto/designing-with-lean-ux-rapid-product-design-ux-lisbon-2014/38-Designing_with_Lean_UX_UX)
 
 [UX Design 1: How To Design a Website: Site Audit](https://www.youtube.com/watch?v=vSx2wayTk0g)
 
