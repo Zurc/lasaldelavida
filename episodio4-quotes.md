@@ -2,6 +2,12 @@
 
 ***Quotes***
 
+From [Softskills - episode 2: influencing your team and dealing with anger](https://softskills.audio/2016/03/14/episode-2-influencing-your-team-and-dealing-with-anger/)
+
+>  Separate your ego from your idea
+
+>  Empathy: try to undestand why the other think in that particular way
+
 From [Thinking for yourself - first principles](http://jamesclear.com/first-principles)
 
 >  Self-taught mental models—or, in simple terms, figuring things out for yourself—seem to be a favorite weapon of brilliant minds.
