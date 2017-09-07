@@ -2,10 +2,18 @@
 
 ***Quotes***
 
+From [Dave Ramsey on 7 BABY STEPS for SUPER SAVINGS](https://www.youtube.com/watch?v=aGueh1idszA)
+
+From [Warren Buffett - How to Stay Out of Debt Forever](https://www.youtube.com/watch?v=UWzNsxRyvew)
+
+>  Habits you form from people you admire
+>  
+>  Financial advice: Avoid credit cards (stay out of trouble). Be ahead of the game, no behind. Find out where you don't want to be ahead on time.
+
 From [Softskills - episode 2: influencing your team and dealing with anger](https://softskills.audio/2016/03/14/episode-2-influencing-your-team-and-dealing-with-anger/)
 
 >  Separate your ego from your idea
-
+>  
 >  Empathy: try to undestand why the other think in that particular way
 
 From [Thinking for yourself - first principles](http://jamesclear.com/first-principles)
