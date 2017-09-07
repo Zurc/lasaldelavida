@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 7-Sep-2017
+
+[Pluralsight: project management beginners guide](https://app.pluralsight.com/library/courses/project-management-beginners-guide/table-of-contents)
+
 ### Tue 22-Aug-2017
 
 [Designing with Lean UX : Rapid Product Design [UX Lisbon 2014]](https://www.slideshare.net/intelleto/designing-with-lean-ux-rapid-product-design-ux-lisbon-2014/38-Designing_with_Lean_UX_UX)
