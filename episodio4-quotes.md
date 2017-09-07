@@ -4,6 +4,33 @@
 
 From [Dave Ramsey on 7 BABY STEPS for SUPER SAVINGS](https://www.youtube.com/watch?v=aGueh1idszA)
 
+>  Save as priority | importance - What if I need to pay a vaccine for my child, retire with dignity, ...
+>  
+>  Baby Step 1 – $1,000 to start an Emergency Fund = unexpected events (you need to be prepared); 
+>  
+>  Baby Step 2 – Pay off all debt using the Debt Snowball
+>  
+>  Baby Step 3 – 3 to 6 months of expenses in savings (not investment, it's to protect you) (in a money market account? no penalty for taking that money out)
+>  
+>  Baby Step 4 – Invest 15% of household income into Roth IRAs and pre-tax retirement - Save for purchasing instead of borrowing
+>  
+>  Baby Step 5 – College funding for children
+>  
+>  Baby Step 6 – Pay off home early
+>  
+>  Baby Step 7 – Build wealth and give!
+>  
+>  wealth building takes discipline (corregirse?) (hebreos 12,11)... it's a marathon, not a sprint (80% behaviour, 20% knowledge)
+>  
+>  
+>  preauthorized checking for discipline (automated process). Compound interest chart... mathematical explotion (how much interest I would get for my money? it changes a lot over the years
+>  
+>  fill a basic one page budget (zero based budget) form with all the money you spent by month... address the issue
+>  
+>  It's not over until you quit. Michelangelo painted the sixting chapel return of christ and he was 78 years old!
+>  
+>  money is amoral, same as a brick. How people use it (attitude) it's a different story.
+
 From [Warren Buffett - How to Stay Out of Debt Forever](https://www.youtube.com/watch?v=UWzNsxRyvew)
 
 >  Habits you form from people you admire
