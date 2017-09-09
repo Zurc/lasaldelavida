@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 8/ Sat 9-Sep-2017
+
+[Cómo Desarrollar Una Súper Memoria y Convertirse en Hacker de tu propio Cerebro". Demostración](https://www.youtube.com/watch?v=I0uP1HBmK3o)
+
 ### Tue 7-Sep-2017
 
 [Pluralsight: project management beginners guide](https://app.pluralsight.com/library/courses/project-management-beginners-guide/table-of-contents)
