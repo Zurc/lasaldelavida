@@ -2,6 +2,9 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 13-Sep-2017
+Continued learning python, seleccionar archivos, cambiar el nombre...
+
 ### Fri 8/ Sat 9-Sep-2017
 
 [Cómo Desarrollar Una Súper Memoria y Convertirse en Hacker de tu propio Cerebro". Demostración](https://www.youtube.com/watch?v=I0uP1HBmK3o)
