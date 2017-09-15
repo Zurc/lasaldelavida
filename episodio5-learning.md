@@ -2,7 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 15-Sep-2017
+
+more python: classes
+
 ### Wed 13-Sep-2017
+
 Continued learning python, seleccionar archivos, cambiar el nombre...
 
 ### Fri 8/ Sat 9-Sep-2017
