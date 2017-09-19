@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 19-Sep-2017
+
+[StencilJS: getting started](https://www.youtube.com/watch?v=MqMYaT1GlWY)
+
 ### Fri 15-Sep-2017
 
 more python: classes
