@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 21-Sep-2017
 
+Softskills up to episode 6 included...
+
 [softskills podcast - developer compensation](https://softskills.audio/2016/04/04/episode-5-developer-compensation/)
 
 usually devs are not so comfy talking about compensation, but the people you are dealing with are very used to it, so don't be afraid to ask (tell me more details about this compensation, or you have a 10% annual bonnus, so whats the percentage of people who actually received the full percentage?)
