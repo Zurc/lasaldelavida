@@ -2,6 +2,22 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 21-Sep-2017
+
+[softskills podcast - developer compensation](https://softskills.audio/2016/04/04/episode-5-developer-compensation/)
+
+usually devs are not so comfy talking about compensation, but the people you are dealing with are very used to it, so don't be afraid to ask (tell me more details about this compensation, or you have a 10% annual bonnus, so whats the percentage of people who actually received the full percentage?)
+
+[softskills podcast - what to look for in a dev team](https://softskills.audio/2016/03/21/episode-3-what-to-look-for-in-a-dev-team/)
+
+3 things: able to learn, passionate about what company does (their mission), on the cutting edge (changing the world in some way). How much of disfunction that company has?
+
+Ask different people from different roles/areas (leads, peers/software engineers, executives/vp's): 
+
+to peers > how do you know what to work on each day? do you write unit tests? approach to technology?
+
+to managers> how does your team what to work on each day? do your team write unit tests? 
+
 ### Mon 19-Sep-2017
 
 [StencilJS: getting started](https://www.youtube.com/watch?v=MqMYaT1GlWY)
