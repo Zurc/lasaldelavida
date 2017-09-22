@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 22-Sep-2017
+
+Finished with 'programming foundation with python' Fullstack nanodegree project
+
+Started 'build a portfolio site' > [Responsive design fundamentals](https://classroom.udacity.com/courses/ud893)
+
 ### Thu 21-Sep-2017
 
 Softskills up to episode 6 included...
