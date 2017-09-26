@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 26-sep-2017
+
+[Pluralsight: Python, getting started](https://www.pluralsight.com/courses/python-getting-started)
+
 ### Fri 22-Sep-2017
 
 Finished with 'programming foundation with python' Fullstack nanodegree project
