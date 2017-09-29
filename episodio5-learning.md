@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 29-sep-2017
+
+more Python, now [Python fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
+
 ### Thu 28-sep-2017
 
 finished 'Python, getting started' course from the [Python Path @ Pluralsight](https://app.pluralsight.com/paths/skills/python)
