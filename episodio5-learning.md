@@ -12,6 +12,12 @@ OOCSS (object oriented CSS paradigm)
 >  
 >  "Separating the container from the content means that any object (the container) should be able to adapt itself to accept any content;"
 
+[OOCSS - smashing magazine](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
+
+>  "...the common styles are combined into a reusable “skin” and nothing is unnecessarily repeated."
+>  
+>  "we ensure that our styles are not dependent on any containing element. This means they can then be reused anywhere in the document, regardless of structural context."
+
 ### Fri 29-sep-2017
 
 more Python, now [Python fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
