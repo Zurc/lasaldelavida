@@ -2,6 +2,28 @@
 
 ***Quotes***
 
+From learning linux to [problem solving skills](https://ryanstutorials.net/problem-solving-skills/)
+
+Logic and Creativity Games
+
+gamepadTwo more important skills to develop for problem solving are logical and creative thinking. Creative thinking allows us to discover new approaches which may be beneficial to us. Logical thinking then helps us to proceed down that path. Some people are naturally good at logical and creative thinking but if you are not then don't worry. Everyone can improve both of these and it's not too difficult.
+
+One of the best ways to improve these skills is through practice. The more problems you tackle and persevere with to find solutions, the better you will become. The more you learn the more resources you will also have at your disposal to use in different ways so working through the tutorials you'll find on this site is good for you too.
+
+Another great way to enhance these skills is through games. Games are fun and you learn best when you're having fun. Below you will find some good games to play. There are many more out there though so these are just to get you started.
+
+Mastermind - Good for developing logical thinking.
+Set - Develop your powers of observation.
+Creativity Games - many fun and quick word games.
+2048 - can you plan far enough ahead?
+Petals around the rose - another good observation puzzle.
+Ultimate Tic Tac Toe - again, good for planning ahead.
+Sudoku
+Chess
+Rubiks Cube
+Keep it varied. The more different games you play the better.
+
+
 From [Dave Ramsey on 7 BABY STEPS for SUPER SAVINGS](https://www.youtube.com/watch?v=aGueh1idszA)
 
 >  Save as priority | importance - What if I need to pay a vaccine for my child, retire with dignity, ...
