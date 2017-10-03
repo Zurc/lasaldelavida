@@ -18,7 +18,7 @@ OOCSS (object oriented CSS paradigm)
 >  
 >  "we ensure that our styles are not dependent on any containing element. This means they can then be reused anywhere in the document, regardless of structural context."
 
-[The sass way](http://thesassway.com/intermediate/using-object-oriented-css-with-sass)
+[OOSass - The sass way](http://thesassway.com/intermediate/using-object-oriented-css-with-sass)
 
 >  Separate structure and skin: You should keep the structure and positioning in a base object and the visual features (like background or border) in extender clases. This way you'd never have to overwrite visual properties.
 >  
