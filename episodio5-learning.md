@@ -18,6 +18,12 @@ OOCSS (object oriented CSS paradigm)
 >  
 >  "we ensure that our styles are not dependent on any containing element. This means they can then be reused anywhere in the document, regardless of structural context."
 
+[The sass way](http://thesassway.com/intermediate/using-object-oriented-css-with-sass)
+
+>  Separate structure and skin: You should keep the structure and positioning in a base object and the visual features (like background or border) in extender clases. This way you'd never have to overwrite visual properties.
+>  
+>  Separate container and content: Never mimic the structure of your HTML in CSS. In other words, don't refer to tags or IDs in your stylesheets. Instead, try to create and apply classes that describe the use of the tag in question. And keep nested classes to a bare minimum.
+
 ### Fri 29-sep-2017
 
 more Python, now [Python fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
