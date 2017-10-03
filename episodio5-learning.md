@@ -24,6 +24,8 @@ OOCSS (object oriented CSS paradigm)
 >  
 >  Separate container and content: Never mimic the structure of your HTML in CSS. In other words, don't refer to tags or IDs in your stylesheets. Instead, try to create and apply classes that describe the use of the tag in question. And keep nested classes to a bare minimum.
 
+[keycdn](https://www.keycdn.com/blog/oocss/)
+
 ### Fri 29-sep-2017
 
 more Python, now [Python fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
