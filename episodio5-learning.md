@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 3-Oct-2017
 
+refreshing some rusty linux knowledge... 
+
 OOCSS (object oriented CSS paradigm)
 
 [code.tutsplus](https://code.tutsplus.com/tutorials/object-oriented-css-what-how-and-why--net-6986)
