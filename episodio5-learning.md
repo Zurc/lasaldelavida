@@ -26,6 +26,10 @@ OOCSS (object oriented CSS paradigm)
 
 [keycdn](https://www.keycdn.com/blog/oocss/)
 
+[hongkiat](http://www.hongkiat.com/blog/basics-of-object-oriented-css/)
+
+>  video inside > "create a component library..."
+
 ### Fri 29-sep-2017
 
 more Python, now [Python fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
