@@ -2,6 +2,16 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 3-Oct-2017
+
+OOCSS (object oriented CSS paradigm)
+
+[code.tutsplus](https://code.tutsplus.com/tutorials/object-oriented-css-what-how-and-why--net-6986)
+
+>  "Separating the structure from the skin means that your layout styling and your design styling are separate. One very practical way to do this is to use a grid system;"
+>  
+>  "Separating the container from the content means that any object (the container) should be able to adapt itself to accept any content;"
+
 ### Fri 29-sep-2017
 
 more Python, now [Python fundamentals](https://app.pluralsight.com/library/courses/python-fundamentals)
