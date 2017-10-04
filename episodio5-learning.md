@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 4-Oct-2017
+
+finished JS 'Practical design patterns' course on Pluralsight
+
 ### Tue 3-Oct-2017
 
 refreshing some rusty linux knowledge... 
