@@ -4,7 +4,11 @@ Cosas que voy aprendiendo...
 
 ### Thu 5-Oct-2017
 
+[Intro to relational databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 
+structure, data, tables, keys and relationships.
+
+select, insert, basic operatinos, operators and syntax.
 
 ### Wed 4-Oct-2017
 
