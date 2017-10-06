@@ -2,13 +2,17 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 5-Oct-2017
+
+
+
 ### Wed 4-Oct-2017
 
 finished JS 'Practical design patterns' course on Pluralsight
 
 ### Tue 3-Oct-2017
 
-refreshing some rusty linux knowledge... 
+refreshing some rusty linux knowledge... [ryanstutorials](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 OOCSS (object oriented CSS paradigm)
 
