@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 13-Oct-2017
 
+[transitioning code into 'strict mode'](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+
 [Understanding CORS - cross origin resource sharing](https://medium.com/@Jscrambler/understanding-cors-cross-origin-resource-sharing-80430e12d21d)
 
 For anyone looking to refresh their angular knowledge this is a shorter course than the udemy one
