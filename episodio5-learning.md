@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 13-Oct-2017
+
+For anyone looking to refresh their angular knowledge this is a shorter course than the udemy one
+
+[academind - angular 2.0 final](https://www.youtube.com/watch?v=nvD2Dvzj8_E&index=1&list=PL55RiY5tL51rLeDxRPlE6Hsnss3QDCCKc)
+
 ### Thu 5-Oct-2017
 
 [Intro to relational databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
