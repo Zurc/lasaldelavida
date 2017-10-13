@@ -4,7 +4,17 @@ Cosas que voy aprendiendo...
 
 ### Fri 13-Oct-2017
 
+JS promises >>
+
 [consumption of returned promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+
+[google developers](https://developers.google.com/web/fundamentals/primers/promises)
+
+[JS promises for dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+
+<< JS promises
+
+[a bit about progressive enhancement](https://jakearchibald.com/2013/progressive-enhancement-is-faster/)
 
 [transitioning code into 'strict mode'](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 
