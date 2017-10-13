@@ -4,6 +4,14 @@ Cosas que voy aprendiendo...
 
 ### Fri 13-Oct-2017
 
+ES6 generators >>
+
+[david walsh](https://davidwalsh.name/es6-generators)
+
+[MDN - generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
+
+<< ES6 generators
+
 JS promises >>
 
 [consumption of returned promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
