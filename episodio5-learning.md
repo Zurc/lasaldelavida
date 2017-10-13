@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 13-Oct-2017
 
+[consumption of returned promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+
 [transitioning code into 'strict mode'](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 
 [Understanding CORS - cross origin resource sharing](https://medium.com/@Jscrambler/understanding-cors-cross-origin-resource-sharing-80430e12d21d)
