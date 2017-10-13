@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 13-Oct-2017
 
+[Understanding CORS - cross origin resource sharing](https://medium.com/@Jscrambler/understanding-cors-cross-origin-resource-sharing-80430e12d21d)
+
 For anyone looking to refresh their angular knowledge this is a shorter course than the udemy one
 
 [academind - angular 2.0 final](https://www.youtube.com/watch?v=nvD2Dvzj8_E&index=1&list=PL55RiY5tL51rLeDxRPlE6Hsnss3QDCCKc)
