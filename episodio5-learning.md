@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 24-Oct-2017
+
+[The power of one focused hour a day](https://medium.com/the-mission/the-power-of-one-focused-hour-a-day-22e4851f89b1)
+
 ### Fri 13-Oct-2017
 
 ES6 generators >>
