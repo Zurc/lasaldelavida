@@ -2,6 +2,16 @@
 
 ***Quotes***
 
+From aikido martial artist Morihei Ueshiba [courage and creativity](https://medium.com/personal-growth/how-to-build-your-courage-and-creativity-with-the-aikido-philosophy-d41b451b0e43)
+
+>  Life is growth. If we stop growing, technically and spiritually, we are as good as dead. The Art of Peace is a celebration of the bonding of heaven, earth, and humankind. It is all that is true, good and beautiful.
+>  
+>  Always keep your mind as bright and clear as the vast sky, the highest peak, and the deepest ocean, empty of all limiting thoughts.
+>  
+>  When your eyes engage those of another person, greet him or her with a smile and they will smile back. This is one of the essential techniques of the Art of Peace.
+>  Progress comes to those who train and train; Reliance on secret techniques will get you nowhere.
+
+
 From learning linux to [problem solving skills](https://ryanstutorials.net/problem-solving-skills/)
 
 Logic and Creativity Games
