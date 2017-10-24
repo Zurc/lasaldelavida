@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### Tue 24-Oct-2017
 
+[ionic framework explained by its creator - youtube](https://www.youtube.com/watch?v=O2WiI9QrS5s)
+
+[Ionic 2/4 - the practical guide to building ios android apps](https://www.udemy.com/ionic-2-the-practical-guide-to-building-ios-android-apps/learn/v4/t/lecture/6347340?start=0)
+
 [The power of one focused hour a day](https://medium.com/the-mission/the-power-of-one-focused-hour-a-day-22e4851f89b1)
 
 ### Fri 13-Oct-2017
