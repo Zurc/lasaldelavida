@@ -2,6 +2,17 @@
 
 ***Quotes***
 
+From Eren Bali - founder of Udemy
+
+> To really improve your life you need to things: 
+>  
+>  you need the tenacity of keep trying
+>  
+>  and take failures and put you to work on it
+>
+>  and you also need access (that's where internet takes place)
+
+
 From aikido martial artist Morihei Ueshiba [courage and creativity](https://medium.com/personal-growth/how-to-build-your-courage-and-creativity-with-the-aikido-philosophy-d41b451b0e43)
 
 >  Life is growth. If we stop growing, technically and spiritually, we are as good as dead. The Art of Peace is a celebration of the bonding of heaven, earth, and humankind. It is all that is true, good and beautiful.
