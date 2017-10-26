@@ -2,6 +2,16 @@
 
 ***Quotes***
 
+From Fernando Suarez
+
+>  Sean Felices, disfruten del ahora.
+>  
+>  No critiquen a los demás ni a ustedes mismos
+>  
+>  No intenten cambiar a los otros, vean lo que tienen de bueno
+>
+>  Talentos, fortalezcan lo que Dios les dió (ejemplo de Federer)
+
 From Eren Bali - founder of Udemy
 
 > To really improve your life you need to things: 
