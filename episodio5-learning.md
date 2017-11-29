@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 29-Nov-2017
+
+[How to measure performance - chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/network-performance/understanding-resource-timing)
+
+[Angular deployment](https://angular.io/guide/deployment)
+
+[coursetro - deploy ng 4 app to production / github pages](https://coursetro.com/posts/code/64/How-to-Deploy-an-Angular-App-(Angular-4))
+
 ### Tue 24-Oct-2017
 
 [ionic framework explained by its creator - youtube](https://www.youtube.com/watch?v=O2WiI9QrS5s)
