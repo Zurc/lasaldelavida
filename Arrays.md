@@ -85,7 +85,7 @@ console.log(oneToSix)    // [1, 2, 3, 4, 5, 6]
 
 voila!
 
-### Option 2
+#### Option 2
 
 Let's try functional programming but only array functions...
 
@@ -121,6 +121,14 @@ So, let's recap: with arrays, flatMap applied a mapping function to each element
 
 [live sample]: <https://jsbin.com/vutakun/edit?html,js,console>
 
-### With Observables
+
+### add id property to an objects array or Observables
+
+```
+arr1.map((item, index) => {
+  item.id = index;
+})
+```
+http://jsbin.com/wacegel/edit?js,console
 
 
