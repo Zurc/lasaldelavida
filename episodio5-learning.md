@@ -32,7 +32,11 @@ Styleguides
 
 [Airbnb - how research guides our product development](https://airbnb.design/from-the-ground-up/)
 
+[Airbnb - building a visual language (design system)](https://airbnb.design/building-a-visual-language/)
 
+[Airbnb - Painting with code (open source library React Sketch.app)](https://airbnb.design/painting-with-code/)
+
+[Airbnb - react sketchapp](http://airbnb.io/react-sketchapp/)
 
 ### Wed 29-Nov-2017
 
