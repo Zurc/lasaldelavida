@@ -2,6 +2,9 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 19-Apr-2018
+[JS application design](https://livebook.manning.com/#!/book/javascript-application-design/about-this-book/3)
+
 ### Wed 29-Nov-2017
 
 [How to measure performance - chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/network-performance/understanding-resource-timing)
