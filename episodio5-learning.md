@@ -16,6 +16,8 @@ slides > [Advanced Front End Architecture in D8: Sass, Gulp, & Living Style Guid
 
 github > [mainspring](https://github.com/fosterinteractive/mainspring)
 
+[Responsive design](https://www.slideshare.net/afoster0/responsive-design-for-publishers-what-it-takes-to-get-mobile-friendly-future-friendly?next_slideshow=1)
+
 ### Wed 29-Nov-2017
 
 [How to measure performance - chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/network-performance/understanding-resource-timing)
