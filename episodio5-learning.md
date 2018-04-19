@@ -14,6 +14,8 @@ youtube > [Advanced Front End Architecture in D8: Sass, Gulp, & Living Style Gui
 
 slides > [Advanced Front End Architecture in D8: Sass, Gulp, & Living Style Guides](https://www.slideshare.net/afoster0/advanced-front-end-architecture-in-d8-sass-gulp-living-style-guides)
 
+github > [mainspring](https://github.com/fosterinteractive/mainspring)
+
 ### Wed 29-Nov-2017
 
 [How to measure performance - chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/network-performance/understanding-resource-timing)
