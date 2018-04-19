@@ -22,9 +22,17 @@ Styleguides
 
 [styleguides.io](http://styleguides.io/)
 
+##### Atlassian
+
 [Atlassian design Product guidelines](https://atlassian.design/guidelines/product/overview)
 
 [Atlassian API docs](https://atlaskit.atlassian.com/packages)
+
+##### Airbnb
+
+[Airbnb - how research guides our product development](https://airbnb.design/from-the-ground-up/)
+
+
 
 ### Wed 29-Nov-2017
 
