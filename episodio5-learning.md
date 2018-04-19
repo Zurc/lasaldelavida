@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 [Advanced Front End Architecture in D8: Sass, Gulp, & Living Style Guides
 ](https://www.youtube.com/watch?v=NNmYqcPam6I)
 
+Good tools used (could be applied to different architectures than drupal only
+
 ### Wed 29-Nov-2017
 
 [How to measure performance - chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/network-performance/understanding-resource-timing)
