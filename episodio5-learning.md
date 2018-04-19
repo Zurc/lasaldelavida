@@ -7,10 +7,12 @@ Cosas que voy aprendiendo...
 
 [Front End Dev handbook 2017](https://www.frontendhandbook.com/learning/front-end-apps.html)
 
-[Advanced Front End Architecture in D8: Sass, Gulp, & Living Style Guides
+Good tools used (could be applied to different architectures than drupal only)
+
+youtube > [Advanced Front End Architecture in D8: Sass, Gulp, & Living Style Guides
 ](https://www.youtube.com/watch?v=NNmYqcPam6I)
 
-Good tools used (could be applied to different architectures than drupal only
+slides > [Advanced Front End Architecture in D8: Sass, Gulp, & Living Style Guides](https://www.slideshare.net/afoster0/advanced-front-end-architecture-in-d8-sass-gulp-living-style-guides)
 
 ### Wed 29-Nov-2017
 
