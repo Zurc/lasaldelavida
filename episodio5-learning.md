@@ -7,6 +7,9 @@ Cosas que voy aprendiendo...
 
 [Front End Dev handbook 2017](https://www.frontendhandbook.com/learning/front-end-apps.html)
 
+[Advanced Front End Architecture in D8: Sass, Gulp, & Living Style Guides
+](https://www.youtube.com/watch?v=NNmYqcPam6I)
+
 ### Wed 29-Nov-2017
 
 [How to measure performance - chrome dev tools](https://developers.google.com/web/tools/chrome-devtools/network-performance/understanding-resource-timing)
