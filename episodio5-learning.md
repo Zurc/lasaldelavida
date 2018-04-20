@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 20-Apr-2018
+
+[Attlasian - how to build a design system](https://www.atlassian.com/blog/apps/what-is-design-system-how-to-build-one)
+
 ### Thu 19-Apr-2018
 [JS application design](https://livebook.manning.com/#!/book/javascript-application-design/about-this-book/3)
 
