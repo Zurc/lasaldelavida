@@ -2,6 +2,13 @@
 
 Cosas que voy aprendiendo...
 
+### Sun 22-Apr-2018
+
+[refreshing some videos I saw long time ago...](https://www.ctrlpaint.com/library/) 
+
+[Digital art - blending techniques](https://www.ctrlpaint.com/videos/best-blending-tools-pt1)
+
+
 ### Fri 20-Apr-2018
 
 [Attlasian - how to build a design system](https://www.atlassian.com/blog/apps/what-is-design-system-how-to-build-one)
