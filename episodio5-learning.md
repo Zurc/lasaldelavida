@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 24-Apr-2018
+
+[online IDE for web apps (created by VS Code)](https://stackblitz.com/)
+
 ### Sun 22-Apr-2018
 
 [refreshing some videos I saw long time ago...](https://www.ctrlpaint.com/library/) 
