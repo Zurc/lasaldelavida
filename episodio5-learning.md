@@ -8,6 +8,12 @@ Cosas que voy aprendiendo...
 
 [online code editor to create and share web apps](https://codesandbox.io/)
 
+[Software design and implementation](https://github.com/ldfaiztt/CSE331) 
+
+>  incluye el libro 'the pragmatic programmer'
+
+
+
 ### Sun 22-Apr-2018
 
 [refreshing some videos I saw long time ago...](https://www.ctrlpaint.com/library/) 
