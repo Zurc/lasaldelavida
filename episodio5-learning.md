@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### Mon 30-Apr-2018
 
+[color in UI design](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)
+
+>  Darker color variations are made by lowering brightness and increasing saturation. Brighter color variations are made by increasing brightness and lowering saturation.
+
 [content strategy: content or people oriented?, lifecycle, best practices](https://www.usability.gov/what-and-why/content-strategy.html)
 
 [basic elements and principles of visual design](https://www.usability.gov/what-and-why/visual-design.html)
