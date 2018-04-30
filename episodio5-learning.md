@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 30-Apr-2018
 
+about improving UX. Lots of resources on [usability.gov](https://www.usability.gov/)
+
 reading more carefully about [Design Language System (DLS) by Airbnb](https://airbnb.design/building-a-visual-language/)
 
 ### Tue 24-Apr-2018
