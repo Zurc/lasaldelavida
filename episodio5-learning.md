@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 30-Apr-2018
 
+[prototypes need - atlassian](https://medium.com/designing-atlassian/why-prototyping-is-a-must-for-designers-5ef98dfb3bdc)
+
 [Pluralsight Design System](https://design-system.pluralsight.com/)
 
 [liderazgo y riesgo - innovación](https://es.linkedin.com/learning/liderazgo-y-la-capacidad-de-asumir-riesgos/presentacion-del-curso-liderazgo-y-la-capacidad-de-asumir-riesgos)
