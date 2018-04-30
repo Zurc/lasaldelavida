@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 >  
 >  you can see customers interact with your finished design, before you’ve written a single line of code. Conducting well structured user research using a prototype is extremely cheap and easy, even if you don’t have access to a full-time researcher.
 
+[error handling when they are same color as brand](https://medium.com/product-labs/when-your-brand-isn-t-broken-elegant-error-handling-for-apps-with-red-logos-f0d619c14758)
+
 [Pluralsight Design System](https://design-system.pluralsight.com/)
 
 [liderazgo y riesgo - innovación](https://es.linkedin.com/learning/liderazgo-y-la-capacidad-de-asumir-riesgos/presentacion-del-curso-liderazgo-y-la-capacidad-de-asumir-riesgos)
