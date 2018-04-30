@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 30-Apr-2018
 
+[Pluralsight Design System](https://design-system.pluralsight.com/)
+
 [liderazgo y riesgo - innovación](https://es.linkedin.com/learning/liderazgo-y-la-capacidad-de-asumir-riesgos/presentacion-del-curso-liderazgo-y-la-capacidad-de-asumir-riesgos)
 
 [color in UI design](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)
