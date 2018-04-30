@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 30-Apr-2018
 
+[basic elements and principles of visual design](https://www.usability.gov/what-and-why/visual-design.html)
+
 [About Unity Design System - Exxonmobil](https://bigmedium.com/projects/unity-design-system-exxonmobil.html)
 
 [Interactions Design Foundation - UI colors](https://www.interaction-design.org/literature/article/dressing-up-your-ui-with-colors-that-fit)
