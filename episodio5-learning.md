@@ -7,6 +7,8 @@ Cosas que voy aprendiendo...
 [prototypes need - atlassian](https://medium.com/designing-atlassian/why-prototyping-is-a-must-for-designers-5ef98dfb3bdc)
 
 >  Prototypes (...) reduce the need for documentation. So, a prototype can save a lot of time, wasted effort, and frustration during the development lifecycle as multi-disciplined teams will need to go back and forth far less to validate interactions and flows. Just like a picture paints a 1000 words, a prototype can paint a 1000 user stories. 
+>  
+>  you can see customers interact with your finished design, before you’ve written a single line of code. Conducting well structured user research using a prototype is extremely cheap and easy, even if you don’t have access to a full-time researcher.
 
 [Pluralsight Design System](https://design-system.pluralsight.com/)
 
