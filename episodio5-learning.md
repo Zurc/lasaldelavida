@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 30-Apr-2018
 
+[liderazgo y riesgo - innovación](https://es.linkedin.com/learning/liderazgo-y-la-capacidad-de-asumir-riesgos/presentacion-del-curso-liderazgo-y-la-capacidad-de-asumir-riesgos)
+
 [color in UI design](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e)
 
 >  Darker color variations are made by lowering brightness and increasing saturation. Brighter color variations are made by increasing brightness and lowering saturation.
