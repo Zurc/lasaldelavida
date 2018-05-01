@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Airbnb - how they changed their design approach](https://airbnb.design/the-way-we-build/)
 
+[Airbnb - how they use typography](https://design.google/library/airbnb-communicating-clarity-and-charm/)
+
 ### Mon 30-Apr-2018
 
 [prototypes need - atlassian](https://medium.com/designing-atlassian/why-prototyping-is-a-must-for-designers-5ef98dfb3bdc)
