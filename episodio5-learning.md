@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 1-May-2018
 
+[Anticipatory design](https://www.cygnismedia.com/blog/how-to-create-anticipatory-design/)
+
 [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG/)
 
 [Airbnb - how they changed their design approach](https://airbnb.design/the-way-we-build/)
