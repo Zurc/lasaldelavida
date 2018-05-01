@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 1-May-2018
+
+[Airbnb - how they changed their design approach](https://airbnb.design/the-way-we-build/)
+
 ### Mon 30-Apr-2018
 
 [prototypes need - atlassian](https://medium.com/designing-atlassian/why-prototyping-is-a-must-for-designers-5ef98dfb3bdc)
