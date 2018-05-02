@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Accessibility gitbook](https://ebay.gitbooks.io/oatmeal/content/)
 
+[contrast ratio checker - Lea Verou](http://contrast-ratio.com/)
+
 ### Tue 1-May-2018
 
 [Invision - Design Systems handbook](https://www.designbetter.co/design-systems-handbook/introducing-design-systems)
