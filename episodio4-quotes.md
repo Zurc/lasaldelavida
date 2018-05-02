@@ -2,6 +2,10 @@
 
 ***Quotes***
 
+[Design Systems](www.designbetter.co/design-systems-handbook)
+
+>  Understanding not only the what, but the why, behind the design of a system is critical to creating an exceptional user experience. Defining and adhering to standards is how we create that understanding. Doing so removes the subjectivity and ambiguity that often creates friction and confusion within product teams.
+
 From Fernando Suarez
 
 >  Sean Felices, disfruten del ahora.
