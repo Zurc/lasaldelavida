@@ -27,3 +27,7 @@ El hábito no hace al monje... lo viste.
 El que no llora no mama, el bebe... llora, el chumao... mama.
 
 En casa de herrero, cuchillo de palo, en casa de pescadero, bife.
+
+En tiempo de inundación buscá bote...
+
+Hablar a calzón quitado... puede ser motivo de resfríos en invierno.
