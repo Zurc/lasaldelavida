@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### Thu 10-May-2018
 
-[agnostic Design Systems](http://bradfrost.com/blog/post/your-sketch-library-is-not-a-design-system/)
+[agnostic Design Systems](http://bradfrost.com/blog/post/managing-technology-agnostic-design-systems/)
 
 [30 days of react](https://www.fullstackreact.com/30-days-of-react/)
 
