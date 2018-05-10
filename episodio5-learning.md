@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [30 days... github](https://github.com/Zurc/30-days-of-react)
 
+[30 days... pdf](https://www.fullstackreact.com/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf)
+
 
 [Designbetter handbook](https://www.designbetter.co/design-systems-handbook/introducing-design-systems)
 
