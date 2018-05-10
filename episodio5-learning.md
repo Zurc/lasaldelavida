@@ -2,11 +2,16 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 10-May-2018
+
 [Designbetter handbook](https://www.designbetter.co/design-systems-handbook/introducing-design-systems)
 
 >  Components are portions of reusable code within your system and they serve as the building blocks of your application’s interface. Components range in complexity. Reducing components to a single function, like a button or a drop down increases flexibility, making them more reusable.
 >  
 >  The more reusable your components are, the less you need to maintain, and the easier scale becomes.
+>  
+>  Who needs to be involved? 1 person from every pillar (product) to act as user research group
+>  Disciplines involved: designers, FE devs, accesibility experts, content strategists, researchers, performance experts, product managers and leaders.
 
 ### Wed 2-May-2018
 
