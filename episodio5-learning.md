@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 10-May-2018
 
+[atomic design](http://atomicdesign.bradfrost.com/table-of-contents/)
+
 [agnostic Design Systems](http://bradfrost.com/blog/post/managing-technology-agnostic-design-systems/)
 
 [30 days of react](https://www.fullstackreact.com/30-days-of-react/)
