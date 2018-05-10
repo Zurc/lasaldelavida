@@ -4,6 +4,11 @@ Cosas que voy aprendiendo...
 
 ### Thu 10-May-2018
 
+[30 days of react](https://www.fullstackreact.com/30-days-of-react/)
+
+[30 days... github](https://github.com/Zurc/30-days-of-react)
+
+
 [Designbetter handbook](https://www.designbetter.co/design-systems-handbook/introducing-design-systems)
 
 >  Components are portions of reusable code within your system and they serve as the building blocks of your application’s interface. Components range in complexity. Reducing components to a single function, like a button or a drop down increases flexibility, making them more reusable.
