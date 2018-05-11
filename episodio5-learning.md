@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [Color theory and the web](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html)
 
+[hsluv project](http://www.hsluv.org/)
+
+>  HSLuv allows you to define a color based on three dimensions – hue, saturation, and lightness – but contrary to a HSL color model based on sRGB, colors that share the same value for a dimension are guaranteed to look similar. Two colors with an identical lightness value will look equally bright, and two colors with the same saturation will have the same perceived color purity.
+
 ### Thu 10-May-2018
 
 [atomic design](http://atomicdesign.bradfrost.com/table-of-contents/)
