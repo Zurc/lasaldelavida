@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 11-May-2018
+
+[Color theory and the web](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html)
+
 ### Thu 10-May-2018
 
 [atomic design](http://atomicdesign.bradfrost.com/table-of-contents/)
