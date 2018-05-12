@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Sat 12-May-2018
 
+[Studying the art of painting trees](https://static1.squarespace.com/static/523f6ffee4b0c2ff638d91c0/t/56e1bb13f8baf3bc5474002d/1457634076912/Studying+The+Art+ofPainting+Trees.pdf)
+
 Impre sionante!!! [Clyde Aspevig - Landscape artist](http://www.clydeaspevig.com/clydes-advice.html)
 
 ### Fri 11-May-2018
