@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Sat 12-May-2018
+
+Impre sionante!!! [Clyde Aspevig - Landscape artist](http://www.clydeaspevig.com/clydes-advice.html)
+
 ### Fri 11-May-2018
 
 [Color theory and the web](https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html)
