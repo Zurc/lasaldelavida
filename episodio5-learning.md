@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 14-May-2018
 
+[tips to improve your UI](https://www.smashingmagazine.com/2008/12/10-useful-techniques-to-improve-your-user-interface-designs/)
+
 [Google study on forms usability](http://storage.googleapis.com/pub-tools-public-publication-data/pdf/42513.pdf)
 
 ### Sat 12-May-2018
