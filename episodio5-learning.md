@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 15-May-2018
+
+[smashing magazine - efficient forms](https://www.smashingmagazine.com/2017/06/designing-efficient-web-forms/)
+
 ### Mon 14-May-2018
 
 [tips to improve your UI](https://www.smashingmagazine.com/2008/12/10-useful-techniques-to-improve-your-user-interface-designs/)
