@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 16-May-2018
+
+[color scheme - codrops | tympanus](https://tympanus.net/codrops/2012/09/17/build-a-color-scheme-the-fundamentals/)
+
 ### Tue 15-May-2018
 
 [gov.uk UI forms](https://govuk-elements.herokuapp.com/form-elements/)
@@ -9,6 +13,16 @@ Cosas que voy aprendiendo...
 [creating a design system](https://medium.com/qstream-design/creating-a-design-system-158a2d832551)
 
 [smashing magazine - efficient forms](https://www.smashingmagazine.com/2017/06/designing-efficient-web-forms/)
+
+regarding colors, color schemes, sass...
+
+[programatically go from one color to another](http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass)
+
+[colors in css](https://hugogiraudel.com/2012/11/27/css-colors/)
+
+[color palettes in sass](https://www.sitepoint.com/using-sass-build-color-palettes/)
+
+[color schemes in sass](https://www.sitepoint.com/dealing-color-schemes-sass/)
 
 ### Mon 14-May-2018
 
