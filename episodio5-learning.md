@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Thu-17-May-2018
+
+some reference docs about forms
+
+[input mozilla devs - check other elements too](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+
 ### Wed 16-May-2018
 
 [color scheme - codrops | tympanus](https://tympanus.net/codrops/2012/09/17/build-a-color-scheme-the-fundamentals/)
