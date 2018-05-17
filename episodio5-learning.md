@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu-17-May-2018
 
+[CSS3 selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
 some reference docs about forms
 
 [input mozilla devs - check other elements too](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
