@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [ref custom selector](http://jsfiddle.net/pht9d295/3/)
 
+[custom select themes](https://codepen.io/sverrirs/pen/dXJLRa)
+
 ### Thu-17-May-2018
 
 [CSS3 selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
