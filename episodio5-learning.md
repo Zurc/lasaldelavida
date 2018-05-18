@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Fri-18-May-2018
+
+[accessibility - Mozzilla ...read more](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
+
+[ref custom selector](http://jsfiddle.net/pht9d295/3/)
+
 ### Thu-17-May-2018
 
 [CSS3 selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
