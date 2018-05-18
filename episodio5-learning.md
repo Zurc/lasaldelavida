@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri-18-May-2018
 
+[color palettes with shades](https://codepen.io/afranceschetti/pen/zNWeVg)
+
 [accessibility - Mozzilla ...read more](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
 
 [custom select - freefrontend](http://freefrontend.com/css-select-boxes/)
