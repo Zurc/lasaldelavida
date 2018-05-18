@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [accessibility - Mozzilla ...read more](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
 
+[custom select - freefrontend](http://freefrontend.com/css-select-boxes/)
+
 [custom select - w3schools](https://www.w3schools.com/howto/howto_custom_select.asp)
 
 [ref custom selector](http://jsfiddle.net/pht9d295/3/)
