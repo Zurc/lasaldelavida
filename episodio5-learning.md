@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri-18-May-2018
 
+resources | blog [Tucson academy of art](http://www.tucsonartacademyonline.com/explore/)
+
 [color palettes with shades](https://codepen.io/afranceschetti/pen/zNWeVg)
 
 [accessibility - Mozzilla ...read more](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
