@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue-22-May-2018
+
+[national statistics browser usage](https://data.gov.uk/data/site-usage?month=2018-05#browsers_versions)
+
 ### Fri-18-May-2018
 
 resources | blog [Tucson academy of art](http://www.tucsonartacademyonline.com/explore/)
