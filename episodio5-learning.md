@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue-22-May-2018
 
+[JS landscape 2018](https://css-tricks.com/javascript-learning-landscape-2018/)
+
 [using SASS to control scope with BEM naming](https://css-tricks.com/using-sass-control-scope-bem-naming/)
 
 [pixels are dead](https://medium.com/@julienetienne/pixels-are-dead-faa87cd8c8b9)
