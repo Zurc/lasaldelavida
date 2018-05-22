@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue-22-May-2018
 
+[pixels are dead](https://medium.com/@julienetienne/pixels-are-dead-faa87cd8c8b9)
+
 [easy peasy rem with SASS](http://www.stubbornella.org/content/2013/07/01/easy-peasy-rem-conversion-with-sass/)
 
 [mixins for rem fonts - css-tricks](https://css-tricks.com/snippets/css/less-mixin-for-rem-font-sizing/)
