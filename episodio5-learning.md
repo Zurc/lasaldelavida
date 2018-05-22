@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Tue-22-May-2018
 
-[national statistics browser usage](https://data.gov.uk/data/site-usage?month=2018-05#browsers_versions)
+[browser usage national statistics](https://data.gov.uk/data/site-usage?month=2018-05#browsers_versions)
+
+[w3schools browser usage statistics](https://www.w3schools.com/BROWSERS/default.asp)
 
 ### Fri-18-May-2018
 
