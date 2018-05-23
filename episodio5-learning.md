@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 23-May-2018
 
+[typographic system - scale and rythm](https://www.gridlover.net/)
+
 [tips for Clarity Design UI](https://medium.com/claritydesignsystem/advanced-tips-with-the-clarity-ui-template-da7e594581ef)
 
 ### Tue-22-May-2018
