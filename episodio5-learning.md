@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 23-May-2018
 
+[typography - compose with a vertical rythm](https://24ways.org/2006/compose-to-a-vertical-rhythm/)
+
 [typographic system - scale and rythm](https://www.gridlover.net/)
 
 [tips for Clarity Design UI](https://medium.com/claritydesignsystem/advanced-tips-with-the-clarity-ui-template-da7e594581ef)
