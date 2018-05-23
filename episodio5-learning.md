@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 23-May-2018
+
+[tips for Clarity Design UI](https://medium.com/claritydesignsystem/advanced-tips-with-the-clarity-ui-template-da7e594581ef)
+
 ### Tue-22-May-2018
 
 [JS landscape 2018](https://css-tricks.com/javascript-learning-landscape-2018/)
