@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 23-May-2018
 
+[box sizing - border, padding, width and margin](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+
 [typography - compose with a vertical rythm](https://24ways.org/2006/compose-to-a-vertical-rhythm/)
 
 [typographic system - scale and rythm](https://www.gridlover.net/)
