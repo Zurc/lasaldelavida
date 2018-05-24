@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 24-May-2018
 
+[Mozilla - aligning items in a flex container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container)
+
 [Mozilla - mastering wrapping of flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items)
 
 [codepen - float elements with flex](https://codepen.io/cjtoem/pen/aGrEjv)
