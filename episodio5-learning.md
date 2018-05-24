@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 24-May-2018
 
+[px to rem conversion](http://www.standardista.com/px-to-rem-conversion-if-root-font-size-is-16px/)
+
 [Mozilla - aligning items in a flex container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container)
 
 [Mozilla - mastering wrapping of flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items)
