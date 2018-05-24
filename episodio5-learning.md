@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [codepen - float elements with flex](https://codepen.io/cjtoem/pen/aGrEjv)
 
+[codepen - float elements with CSS float](https://codepen.io/cjtoem/pen/odRpGL)
+
 ### Wed 23-May-2018
 
 [box sizing - border, padding, width and margin](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
