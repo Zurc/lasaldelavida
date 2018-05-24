@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 24-May-2018
+
+[codepen - float elements with flex](https://codepen.io/cjtoem/pen/aGrEjv)
+
 ### Wed 23-May-2018
 
 [box sizing - border, padding, width and margin](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
