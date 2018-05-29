@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue-29-May-2018
 
+[line lenght - w3](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Line_Length)
+
 [w3 - text spacing](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html)
 
 [letter spacing guidelines - css tricks](https://css-tricks.com/keeping-track-letter-spacing-guidelines/)
