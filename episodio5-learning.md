@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue-29-May-2018
 
+[line length readability](https://baymard.com/blog/line-length-readability)
+
 [a list apart - web, typography and layout](http://alistapart.com/event/web-typography-layout-past-present-future)
 
 [balancing line length and font size in responsive web design - smashing magazine](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/)
