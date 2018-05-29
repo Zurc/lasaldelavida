@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue-29-May-2018
 
+[A practical guide to web typography](http://webtypography.net/)
+
 [line length - practical typography](https://practicaltypography.com/line-length.html)
 
 [line length - wikipedia](https://en.wikipedia.org/wiki/Line_length)
