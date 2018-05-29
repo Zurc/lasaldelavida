@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Tue-29-May-2018
 
-[line lenght - wikipedia](https://en.wikipedia.org/wiki/Line_length)
+[line length - practical typography](https://practicaltypography.com/line-length.html)
+
+[line length - wikipedia](https://en.wikipedia.org/wiki/Line_length)
 
 [axis praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
 
