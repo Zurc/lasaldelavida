@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue-29-May-2018
 
+[axis praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
+
 [variable fonts](https://medium.com/@Lorp/variable-fonts-a-talk-with-laurence-penney-d6f8e9777007)
 
 [line lenght - w3](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Line_Length)
