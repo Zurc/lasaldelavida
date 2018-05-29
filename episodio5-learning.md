@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### Tue-29-May-2018
 
+
+
+[serifs and font legibility](https://www.sciencedirect.com/science/article/pii/S0042698905003007)
+
 [optimal text layout line length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
 
 [line length readability](https://baymard.com/blog/line-length-readability)
