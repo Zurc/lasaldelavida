@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue-29-May-2018
+
+[typography - modular scale with golden ratio](http://alistapart.com/article/more-meaningful-typography)
+
 ### Thu 24-May-2018
 
 [px to rem conversion](http://www.standardista.com/px-to-rem-conversion-if-root-font-size-is-16px/)
