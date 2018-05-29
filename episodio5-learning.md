@@ -6,6 +6,16 @@ Cosas que voy aprendiendo...
 
 [typography - modular scale with golden ratio](http://alistapart.com/article/more-meaningful-typography)
 
+some differences btwn <b> <strong> and font-weight
+
+[strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
+
+[b](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b)
+
+[b and strong - semantic differences](https://codeengineered.com/blog/2013/html5-semantic-diff-bold-strong/)
+
+[CSS font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
+
 ### Thu 24-May-2018
 
 [px to rem conversion](http://www.standardista.com/px-to-rem-conversion-if-root-font-size-is-16px/)
