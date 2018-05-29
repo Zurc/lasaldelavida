@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### Tue-29-May-2018
 
-
+[letter spacing guidelines - css tricks](https://css-tricks.com/keeping-track-letter-spacing-guidelines/)
 
 [serifs and font legibility](https://www.sciencedirect.com/science/article/pii/S0042698905003007)
 
