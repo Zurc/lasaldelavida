@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 [typography - modular scale with golden ratio](http://alistapart.com/article/more-meaningful-typography)
 
-some differences btwn <b> <strong> and font-weight
+some differences btwn b and strong HTML tags and CSS font-weight
 
 [strong](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
 
