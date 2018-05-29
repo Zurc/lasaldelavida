@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue-29-May-2018
 
+[balancing line length and font size in responsive web design - smashing magazine](https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/)
+
 [dev skills: estimation](https://trackchanges.postlight.com/estimation-is-a-core-competency-36dfc1dfdea3)
 
 [typography - modular scale with golden ratio](http://alistapart.com/article/more-meaningful-typography)
