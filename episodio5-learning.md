@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue-29-May-2018
 
+[optimal text layout line length](https://www.paulolyslager.com/optimal-text-layout-line-length/)
+
 [line length readability](https://baymard.com/blog/line-length-readability)
 
 [a list apart - web, typography and layout](http://alistapart.com/event/web-typography-layout-past-present-future)
