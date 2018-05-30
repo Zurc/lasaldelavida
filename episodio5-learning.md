@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed-30-May-2018
 
+[tricks - disable a link](https://css-tricks.com/how-to-disable-links/)
+
 [creating a design system - uxpin](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
 
 [material design - interaction states](https://material.io/design/interaction/states.html)
