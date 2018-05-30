@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed-30-May-2018
+
+[Affordances, signifiers and clickability](https://www.codecademy.com/articles/ui-design-affordances-signifiers-clickability)
+
 ### Tue-29-May-2018
 
 [A practical guide to web typography](http://webtypography.net/)
