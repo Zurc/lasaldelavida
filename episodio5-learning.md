@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### Wed-30-May-2018
 
-[Affordances, signifiers and clickability](https://www.codecademy.com/articles/ui-design-affordances-signifiers-clickability)
+[Affordances, signifiers and clickability - codecademy](https://www.codecademy.com/articles/ui-design-affordances-signifiers-clickability)
 
 ### Tue-29-May-2018
 
