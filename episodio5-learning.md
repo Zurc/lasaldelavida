@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [guides to optimise UX UI on web and mobile apps](https://www.nickkolenda.com/user-experience/)
 
+[some pdf's from the guides above](https://www.nickkolenda.com/the-members-area/)
+
 [Affordances, signifiers and clickability - codecademy](https://www.codecademy.com/articles/ui-design-affordances-signifiers-clickability)
 
 ### Tue-29-May-2018
