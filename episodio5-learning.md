@@ -8,6 +8,8 @@ Tables, tables, tables...
 
 [apple - human interface guidelines - tables](https://developer.apple.com/ios/human-interface-guidelines/views/tables/)
 
+[semantic UI - tables](https://semantic-ui.com/collections/table.html)
+
 ### Wed-30-May-2018
 
 [tricks - disable a link](https://css-tricks.com/how-to-disable-links/)
