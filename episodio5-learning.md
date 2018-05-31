@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Thu-31-May-2018
+
+Tables, tables, tables...
+
+[apple - human interface guidelines - tables](https://developer.apple.com/ios/human-interface-guidelines/views/tables/)
+
 ### Wed-30-May-2018
 
 [tricks - disable a link](https://css-tricks.com/how-to-disable-links/)
