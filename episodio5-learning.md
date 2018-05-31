@@ -12,6 +12,8 @@ Tables, tables, tables...
 
 [Design better data tables - uxdesign cc](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
 
+[Design tables for reusability](https://uxdesign.cc/designing-tables-for-reusability-490a3760533)
+
 ### Wed-30-May-2018
 
 [tricks - disable a link](https://css-tricks.com/how-to-disable-links/)
