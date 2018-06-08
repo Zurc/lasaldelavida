@@ -2,7 +2,15 @@
 
 Cosas que voy aprendiendo...
 
-### Thu 7-Jun-2018
+### Fri-8-Jun-2018
+
+about react and angular...
+
+[hackernoon - feb 2018](https://hackernoon.com/why-im-switching-from-angular-to-react-and-redux-in-2018-cb48be00fda7)
+
+
+
+### Thu-7-Jun-2018
 
 [ABEM - adaptation of BEM CSS class naming convention](https://css-tricks.com/abem-useful-adaptation-bem/)
 
