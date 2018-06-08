@@ -12,6 +12,8 @@ about react and angular...
 
 [from angular to react without massive rewrite](https://www.smartly.io/blog/how-to-migrate-from-angular-to-react-without-a-massive-rewrite)
 
+[react graphQL and .NET](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react/)
+
 ### Thu-7-Jun-2018
 
 [ABEM - adaptation of BEM CSS class naming convention](https://css-tricks.com/abem-useful-adaptation-bem/)
