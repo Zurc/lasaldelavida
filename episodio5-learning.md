@@ -8,7 +8,7 @@ about react and angular...
 
 [hackernoon - feb 2018](https://hackernoon.com/why-im-switching-from-angular-to-react-and-redux-in-2018-cb48be00fda7)
 
-
+[Beereal CTO](https://medium.com/beereal/enterprise-software-angular-vs-react-2a5010574c7d)
 
 ### Thu-7-Jun-2018
 
