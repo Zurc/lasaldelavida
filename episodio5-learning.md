@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Mon 11-Jun-2018
 
-[specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)
+[CSS specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)
+
+[CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 
 ### Fri-8-Jun-2018
 
