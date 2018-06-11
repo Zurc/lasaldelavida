@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 11-Jun-2018
+
+[specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)
+
 ### Fri-8-Jun-2018
 
 about react and angular...
