@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 12-Jun-2018
 
+[memoria humana - investigacion y teoría](http://www.psicothema.com/pdf/323.pdf)
+
 [keyframes app - chrome extention too](https://keyframes.app/)
 
 [Create CSS Animations Easily with this Chrome Extension](https://www.youtube.com/watch?v=H598jXvQhLw)
