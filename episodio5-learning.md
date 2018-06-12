@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 12-Jun-2018
 
+[memoria - aprender libros al pie de la letra](https://www.elconfidencial.com/alma-corazon-vida/2016-05-20/secreto-gran-memoria-aprender-paraiso-perdido-milton_1202793/)
+
 [memoria y repecitión - center for hellenic studies - harvard univ](https://chs.harvard.edu/CHS/article/display/4007.2-memoria-y-repetici%F3n)
 
 [memoriza de manera óptima con repetición espaciada](http://www.insanity-mind.com/insanitymind_es/memoriza-de-manera-optima-con-la-repeticion-espaciada/)
