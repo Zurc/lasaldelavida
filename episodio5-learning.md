@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 12-Jun-2018
 
+[memoriza de manera óptima con repetición espaciada](http://www.insanity-mind.com/insanitymind_es/memoriza-de-manera-optima-con-la-repeticion-espaciada/)
+
 [4 técnicas de memorización](https://lecturaagil.com/4-tecnicas-memorizacion/)
 
 [16 técnicas... memoria](http://noticias.universia.com.ar/educacion/noticia/2016/12/19/1147581/16-consejos-tecnicas-memorizar-informacion.html)
