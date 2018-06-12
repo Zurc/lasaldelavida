@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 12-Jun-2018
 
+[6 tecnicas para desarrollar la memoria](http://noticias.universia.com.ar/educacion/noticia/2016/07/21/1142022/6-tecnicas-desarrollar-memoria.html)
+
 [gov de cantabria - la memoria pdf](http://almez.pntic.mec.es/~erug0000/orientacion/psicologia/Documentos/La%20memoria.pdf)
 
 [la memoria desde el procesamiento de información - univ de valencia](https://www.uv.es/seoane/publicaciones/Garzon-Seoane%201982%20La%20Memoria%20desde%20el%20Procesamiento%20de%20Informacion.pdf)
