@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 12-Jun-2018
 
+[la memoria humana - pdf ](http://spain-s3-mhe-prod.s3-website-eu-west-1.amazonaws.com/bcv/guide/capitulo/8448180607.pdf)
+
 [memoria humana - investigacion y teoría](http://www.psicothema.com/pdf/323.pdf)
 
 [keyframes app - chrome extention too](https://keyframes.app/)
