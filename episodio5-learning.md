@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 12-Jun-2018
+
+[full page screenshots](https://css-tricks.com/full-page-screenshots-browsers/)
+
 ### Mon 11-Jun-2018
 
 [CSS specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)
