@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 27-Jun-2018
+
+[intro to micro frontends - youtube](https://www.youtube.com/watch?v=LH3QoDWAD8k)
+
 ### Tue 12-Jun-2018
 
 [técnicas de estudio y repetición](https://www.metaaprendizaje.net/tecnicas-de-estudio-la-repeticion/)
