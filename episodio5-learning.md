@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 27-Jun-2018
 
+[benefits of a decoupled frontend architecture](https://vimeo.com/237812253)
+
 [intro to micro frontends - youtube](https://www.youtube.com/watch?v=LH3QoDWAD8k)
 
 ### Tue 12-Jun-2018
