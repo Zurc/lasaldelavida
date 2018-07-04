@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 4-Jul-2018
 
+[compressive images - filament group](https://www.filamentgroup.com/lab/compressive-images.html)
+
 [Picturefill - a responsive image polyfill](http://scottjehl.github.io/picturefill/)
 
 [picturefill github](https://github.com/scottjehl/picturefill)
