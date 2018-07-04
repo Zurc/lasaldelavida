@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 4-Jul-2018
 
+[Optimize images for JPEG - adobe help](https://helpx.adobe.com/photoshop-elements/using/optimizing-images-jpeg-format.html)
+
 [compressive images - filament group](https://www.filamentgroup.com/lab/compressive-images.html)
 
 [Picturefill - a responsive image polyfill](http://scottjehl.github.io/picturefill/)
