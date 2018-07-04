@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Picturefill - a responsive image polyfill](http://scottjehl.github.io/picturefill/)
 
+[picturefill github](https://github.com/scottjehl/picturefill)
+
 ### Wed 27-Jun-2018
 
 [benefits of a decoupled frontend architecture](https://vimeo.com/237812253)
