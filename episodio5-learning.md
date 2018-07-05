@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 5-Jul-2018
+
+Book summaries
+
+[deconstructing excellence](http://www.deconstructingexcellence.com/)
+
 ### Wed 4-Jul-2018
 
 [jpeg compresssion photoshop for web](https://photography.tutsplus.com/tutorials/save-for-web-better-jpeg-compression-with-adobe-photoshop--cms-23080)
