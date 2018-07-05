@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 5-Jul-2018
 
+
+
 [CSS positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
 
 Book summaries
@@ -11,6 +13,8 @@ Book summaries
 [deconstructing excellence](http://www.deconstructingexcellence.com/)
 
 [book summary - the power of habit](http://www.deconstructingexcellence.com/the-power-of-habit-summary/)
+
+[el poder de los habitos - links interesantes para emprendedores](https://librosparaemprendedores.net/podcast/078-el-poder-de-los-habitos/)
 
 ### Wed 4-Jul-2018
 
