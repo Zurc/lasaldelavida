@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 5-Jul-2018
 
+[CSS positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+
 Book summaries
 
 [deconstructing excellence](http://www.deconstructingexcellence.com/)
