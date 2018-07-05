@@ -8,6 +8,8 @@ Book summaries
 
 [deconstructing excellence](http://www.deconstructingexcellence.com/)
 
+[book summary - the power of habit](http://www.deconstructingexcellence.com/the-power-of-habit-summary/)
+
 ### Wed 4-Jul-2018
 
 [jpeg compresssion photoshop for web](https://photography.tutsplus.com/tutorials/save-for-web-better-jpeg-compression-with-adobe-photoshop--cms-23080)
