@@ -4,13 +4,13 @@ Cosas que voy aprendiendo...
 
 ### Tue-10-Jul-2018
 
+[UX workshop on General Assembly](https://generalassemb.ly/education?format=classes-workshops)
+
 [SVG optimiser](http://petercollingridge.appspot.com/svg-optimiser)
 
 [Scrimba playground](https://scrimba.com/)
 
 ### Thu 5-Jul-2018
-
-
 
 [CSS positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
 
