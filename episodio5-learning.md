@@ -10,6 +10,10 @@ Cosas que voy aprendiendo...
 
 [Scrimba playground](https://scrimba.com/)
 
+### Mon 9-Jul-2018
+
+[SVG from illustrator to the web](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
+
 ### Thu 5-Jul-2018
 
 [CSS positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
