@@ -2,7 +2,7 @@
 
 Cosas que voy aprendiendo...
 
-### Tue-10-Jul-2018
+### Tue 10-Jul-2018
 
 [UX workshop on General Assembly](https://generalassemb.ly/education?format=classes-workshops)
 
