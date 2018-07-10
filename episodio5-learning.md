@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue-10-Jul-2018
 
+[SVG optimiser](http://petercollingridge.appspot.com/svg-optimiser)
+
 [Scrimba playground](https://scrimba.com/)
 
 ### Thu 5-Jul-2018
