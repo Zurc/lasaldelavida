@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue-10-Jul-2018
+
+[Scrimba playground](https://scrimba.com/)
+
 ### Thu 5-Jul-2018
 
 
