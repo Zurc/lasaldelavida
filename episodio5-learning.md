@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 11-Jul-2018
+
+[full bg image tricks](https://css-tricks.com/perfect-full-page-background-image/)
+
+[responsive SVG](http://slides.com/dudleystorey/deck-3#/17)
+
 ### Tue 10-Jul-2018
 
 [UX workshop on General Assembly](https://generalassemb.ly/education?format=classes-workshops)
