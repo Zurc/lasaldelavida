@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 11-Jul-2018
 
+[memorización con repetición espaciada](http://www.insanity-mind.com/insanitymind_es/memoriza-de-manera-optima-con-la-repeticion-espaciada/)
+
 [16 JS concepts you should know well](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 
 [interesting approach to explain 'this' on JS](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
