@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 18-Jul-2018
+
+>  Super Simple Highlighter (chrome extension) allows to highlight text and save it in markdown if I want. Pretty neat!
+
 ### Wed 11-Jul-2018
 
 [tecnicas de estudio: el repaso](http://biblioguias.unex.es/c.php?g=572102&p=3944254)
