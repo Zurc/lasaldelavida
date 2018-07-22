@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [eleven fifty academy - cursos interesantes](https://www.elevenfifty.org/courses/)
 
+[eleven fifty react github book](https://eleven-fifty-academy.gitbook.io/javascript-301-reactfundamentals/)
+
 ### Wed 18-Jul-2018
 
 >  Super Simple Highlighter (chrome extension) allows to highlight text and save it in markdown if I want. Pretty neat!
