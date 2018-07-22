@@ -4,9 +4,11 @@ Cosas que voy aprendiendo...
 
 ### Sun 22-Jul-2018
 
-[eleven fifty academy - cursos interesantes](https://www.elevenfifty.org/courses/)
+[1150 academy - cursos interesantes](https://www.elevenfifty.org/courses/)
 
-[eleven fifty react github book](https://eleven-fifty-academy.gitbook.io/javascript-301-reactfundamentals/)
+[1150 react github book](https://eleven-fifty-academy.gitbook.io/javascript-301-reactfundamentals/)
+
+[1150 main github](https://github.com/ElevenfiftyAcademy)
 
 ### Wed 18-Jul-2018
 
