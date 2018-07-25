@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 11-Jul-2018
 
+[memory - how to retain more from book reading](https://medium.com/personal-growth/how-to-retain-more-of-every-book-you-read-3bb9fa45f49d)
+
 [tecnicas de estudio: el repaso](http://biblioguias.unex.es/c.php?g=572102&p=3944254)
 
 [memorización con repetición espaciada](http://www.insanity-mind.com/insanitymind_es/memoriza-de-manera-optima-con-la-repeticion-espaciada/)
