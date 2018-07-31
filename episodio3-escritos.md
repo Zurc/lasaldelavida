@@ -139,7 +139,19 @@ alguno se asustará
 pero ha decir la verda'
 el pasado se vivió.
 
+--
 
+Dos corazones que se unen
+en un solo corazón
+no necesitan razón
+en el amor se sostienen
+y así solos se mantienen
+en un mutuo dialogar
+9 meses al pasar
+creciendo juntos los dos
+y esto te lo digo a vos
+para que sepas mirar.
 
+--
 
 
