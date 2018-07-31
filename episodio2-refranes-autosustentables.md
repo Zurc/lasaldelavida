@@ -31,3 +31,5 @@ En casa de herrero, cuchillo de palo, en casa de pescadero, bife.
 En tiempo de inundación buscá bote...
 
 Hablar a calzón quitado... puede ser motivo de resfríos en invierno.
+
+El pez por la boca muere, no seas pescao'.
