@@ -6,6 +6,14 @@ Cosas que voy aprendiendo...
 
 [12 Shocking Habits of Successful People](https://www.youtube.com/watch?v=_ulhxX_tnqY)
 
+
+>  wake up early, learn from failure (mistakes | lessons, take chances, don't be afraid of failure), ignore conformity (new solutions to problems, innovation), read, spend money to earn money, make sacrifices, creative writing, mild procastination, self improvement (noone is perfect but can improve), networking (who you know, go and practice, create a group, volunteer, ...), exercising consistently, meditation (prayer)
+
+[Denzel Washington's Life Advice Will Change Your Future (MUST WATCH) Motivational Speech 2018
+](https://www.youtube.com/watch?v=M99NCxR0a-Q)
+
+>  First god, be thankful (say thank you in advance for what is already yours), have goals, apply discipline and consistency. Hard work works, aspire to make a difference not a living, every failed experiment is one step closer to success, if you don't fail you're not even trying, to get something you never did you have to do something you never did, what are you going to do with what you have?, 
+
 ### Sun 22-Jul-2018
 
 [1150 academy - cursos interesantes](https://www.elevenfifty.org/courses/)
