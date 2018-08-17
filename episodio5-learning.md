@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### Fri 17-Aug-2018
 
+[Wireframes, Mockups, Prototypes](https://www.uxpin.com/studio/blog/wireframe-mockup-lofi-hifi-nomenclature/)
+
+[productividad - ley de Pareto o regla del 80/20](https://www.sebascelis.com/como-aprovechar-la-ley-de-pareto-80-20/)
+
 [12 Shocking Habits of Successful People](https://www.youtube.com/watch?v=_ulhxX_tnqY)
 
 
