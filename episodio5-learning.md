@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 17-Aug-2018
+
+[12 Shocking Habits of Successful People](https://www.youtube.com/watch?v=_ulhxX_tnqY)
+
 ### Sun 22-Jul-2018
 
 [1150 academy - cursos interesantes](https://www.elevenfifty.org/courses/)
