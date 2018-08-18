@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [mozilla > react JSON schema form examples](https://mozilla-services.github.io/react-jsonschema-form/)
 
+[Auto generate ReactJS Forms from json schema](https://medium.com/@sairamkrish/rapid-development-of-data-collection-platform-with-reactjs-and-json-schema-ef147f4c665)
+
 ### Fri 17-Aug-2018
 
 [Wireframes, Mockups, Prototypes](https://www.uxpin.com/studio/blog/wireframe-mockup-lofi-hifi-nomenclature/)
