@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 12-Sep-2018
+
+[code splitting - react and webpack](https://hackernoon.com/lessons-learned-code-splitting-with-webpack-and-react-f012a989113)
+
 ### Sat 18-Aug-2018
 
 [react JSON schema form - forked github](https://github.com/Zurc/react-jsonschema-form)
