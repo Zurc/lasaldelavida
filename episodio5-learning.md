@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 17 Sep 2018
+
+[Objects in JS with ES6](https://medium.freecodecamp.org/how-to-conditionally-build-an-object-in-javascript-with-es6-e2c49022c448)
+
+>  Here I found things like **parameter object destructuring**, parameter defaulting and spread syntax to unwrap the object if the condition is truthy
+
+[Destructuring in ES6 - Beau teaches JavaScript](https://www.youtube.com/watch?v=-vR3a11Wzt0)
+
 ### Wed 12-Sep-2018
 
 [code splitting - react and webpack](https://hackernoon.com/lessons-learned-code-splitting-with-webpack-and-react-f012a989113)
