@@ -8,6 +8,8 @@ Learning about VPN's, Skype numbers, ...
 
 [now (zeit) aliases](https://zeit.co/docs/features/aliases)
 
+[now - remove deployments](https://zeit.co/blog/now-rm-is-here-and-more)
+
 ### Mon 17 Sep 2018
 
 [ES6 markdown files](https://github.com/tagtree/expert-es6/tree/master/lessons)
