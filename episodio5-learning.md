@@ -4,11 +4,15 @@ Cosas que voy aprendiendo...
 
 ### Mon 17 Sep 2018
 
+[ES6 markdown files](https://github.com/tagtree/expert-es6/tree/master/lessons)
+
 [Objects in JS with ES6](https://medium.freecodecamp.org/how-to-conditionally-build-an-object-in-javascript-with-es6-e2c49022c448)
 
 >  Here I found things like **parameter object destructuring**, parameter defaulting and spread syntax to unwrap the object if the condition is truthy
 
 [Destructuring in ES6 - Beau teaches JavaScript](https://www.youtube.com/watch?v=-vR3a11Wzt0)
+
+[nested object destructuring (and renaming) - Wes Bos](https://www.youtube.com/watch?v=_ApRMRGI-6g)
 
 ### Wed 12-Sep-2018
 
