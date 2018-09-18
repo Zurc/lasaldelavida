@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 18 Sep 2018
+
+Learning about VPN's, Skype numbers, ...
+
 ### Mon 17 Sep 2018
 
 [ES6 markdown files](https://github.com/tagtree/expert-es6/tree/master/lessons)
