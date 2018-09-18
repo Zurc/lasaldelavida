@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 Learning about VPN's, Skype numbers, ...
 
+[now (zeit) aliases](https://zeit.co/docs/features/aliases)
+
 ### Mon 17 Sep 2018
 
 [ES6 markdown files](https://github.com/tagtree/expert-es6/tree/master/lessons)
