@@ -2,6 +2,20 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 19 Sep 2018
+
+**Apache index.html redirection**
+
+First create your .htaccess file
+
+```
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+```
+
 ### Tue 18 Sep 2018
 
 Learning about VPN's, Skype numbers, ...
