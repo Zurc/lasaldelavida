@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 19 Sep 2018
 
+[Eric Elliot tips on learning JS](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f)
+
 [same TODO app in react and vue](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
 
 **Apache index.html redirection**
