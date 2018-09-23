@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Sun 23 Sep 2018
+
+checking on [angular material and reactive forms](https://www.c-sharpcorner.com/article/angular-material-design-components-with-reactive-form-part-2/)
+
 ### Wed 19 Sep 2018
 
 [Angular 6 Weather app from scratch](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
