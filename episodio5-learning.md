@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Sun 23 Sep 2018
 
+[material icons](https://material.io/tools/icons/?style=baseline)
+
 [angular flex](https://github.com/angular/flex-layout)
 
 checking on [angular material and reactive forms](https://www.c-sharpcorner.com/article/angular-material-design-components-with-reactive-form-part-2/)
