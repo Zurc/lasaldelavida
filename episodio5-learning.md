@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Array Vs Obj Vs Set Vs Map](https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b)
 
+[obj values, keys and entries - convert obj to arr of obj](https://medium.com/chrisburgin/javascript-converting-an-object-to-an-array-94b030a1604c)
+
 ### Sun 23 Sep 2018
 
 [material icons](https://material.io/tools/icons/?style=baseline)
