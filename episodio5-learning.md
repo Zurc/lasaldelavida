@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 25 Sep 2018
+
+[thinking patterns - think clear and better](https://medium.com/@ztrana/the-trick-to-thinking-clearer-and-better-4a61c54114fa)
+
 ### Mon 24 Sep 2018
 
 [Array Vs Obj Vs Set Vs Map](https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b)
