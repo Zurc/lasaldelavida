@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 28 Sep 2018
+
+[Nameservers setup on Cpanel](https://documentation.cpanel.net/display/CKB/How+to+Set+Up+Nameservers+in+a+cPanel+Environment)
+
 ### Tue 25 Sep 2018
 
 [thinking patterns - think clear and better](https://medium.com/@ztrana/the-trick-to-thinking-clearer-and-better-4a61c54114fa)
