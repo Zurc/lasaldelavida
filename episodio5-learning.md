@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [JS extensions for VS code](https://code.visualstudio.com/docs/nodejs/extensions)
 
+[VS code - create your own snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+
 [got MEAN stack certificate](https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/)
 
 [Hi Fredrik Christenson... nice to meet you](https://www.youtube.com/user/Fidde12345)
