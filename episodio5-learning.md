@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 3 Oct 2018
 
+[Hi Fredrik Christenson... nice to meet you](https://www.youtube.com/user/Fidde12345)
+
 [Interaction design - scroll card list with Vue](https://levelup.gitconnected.com/making-a-scrolling-card-list-wotw-bcd5e31fbcc5)
 
 [How browser rendering works](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10)
