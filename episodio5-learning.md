@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 3 Oct 2018
 
+[Interaction design - scroll card list with Vue](https://levelup.gitconnected.com/making-a-scrolling-card-list-wotw-bcd5e31fbcc5)
+
 [How browser rendering works](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10)
 
 [React+Node+MySQL data science app](https://towardsdatascience.com/guide-building-data-science-web-application-with-react-nodejs-and-mysql-1c55416ff0fb)
