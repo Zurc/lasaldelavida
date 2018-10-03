@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 3 Oct 2018
 
+[automate with python (book)](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994)
+
 [automate with node](https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017)
 
 [take screenshots with node!](https://www.penta-code.com/how-to-take-screenshots-of-webpages-with-node-js/?src=related)
