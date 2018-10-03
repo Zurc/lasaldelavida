@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 3 Oct 2018
+
+[React+Node+MySQL data science app](https://towardsdatascience.com/guide-building-data-science-web-application-with-react-nodejs-and-mysql-1c55416ff0fb)
+
+>  I liked how he though about the architecture of the app, and why he used that tech stack
+
+
+
 ### Fri 28 Sep 2018
 
 [Nameservers setup on Cpanel](https://documentation.cpanel.net/display/CKB/How+to+Set+Up+Nameservers+in+a+cPanel+Environment)
