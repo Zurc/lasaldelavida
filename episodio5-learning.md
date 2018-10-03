@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [JS and VS code](https://code.visualstudio.com/docs/languages/javascript)
 
+[JS extensions for VS code](https://code.visualstudio.com/docs/nodejs/extensions)
+
 [got MEAN stack certificate](https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/)
 
 [Hi Fredrik Christenson... nice to meet you](https://www.youtube.com/user/Fidde12345)
