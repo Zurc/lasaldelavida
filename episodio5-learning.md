@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 3 Oct 2018
 
+[JS and VS code](https://code.visualstudio.com/docs/languages/javascript)
+
 [got MEAN stack certificate](https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/)
 
 [Hi Fredrik Christenson... nice to meet you](https://www.youtube.com/user/Fidde12345)
