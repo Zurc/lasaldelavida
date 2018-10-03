@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 3 Oct 2018
 
+[VS code tips to improve productivity](https://www.penta-code.com/10-visual-studio-code-tips-to-boost-your-productivity/)
+
 [JS and VS code](https://code.visualstudio.com/docs/languages/javascript)
 
 [got MEAN stack certificate](https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/)
