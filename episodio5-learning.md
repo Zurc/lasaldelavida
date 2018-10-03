@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 3 Oct 2018
 
+[automate with node](https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017)
+
 [take screenshots with node!](https://www.penta-code.com/how-to-take-screenshots-of-webpages-with-node-js/?src=related)
 
 [VS code tips to improve productivity](https://www.penta-code.com/10-visual-studio-code-tips-to-boost-your-productivity/)
