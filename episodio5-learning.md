@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 4 Oct 2018
+
+[requests with Node](https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html)
+
 ### Wed 3 Oct 2018
 
 [automate with python (book)](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994)
