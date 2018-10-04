@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [requests with Node](https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html)
 
+[codeburst node series](https://codeburst.io/how-to-make-an-http-request-in-nodejs-http-mechanism-libraries-f25ec990d307)
+
 ### Wed 3 Oct 2018
 
 [automate with python (book)](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994)
