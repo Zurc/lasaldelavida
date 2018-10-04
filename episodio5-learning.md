@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Thu 4 Oct 2018
 
-[node courses on Pluralsight (needs sign in)](https://app.pluralsight.com/library/search?q=node)
+[node courses on Pluralsight (sign in required)](https://app.pluralsight.com/library/search?q=node)
+
+[github for that course modules](https://github.com/jscomplete/ngs)
 
 [requests with Node](https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html)
 
