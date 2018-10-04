@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [reactnative.com](http://www.reactnative.com/)
 
+[run and modified my 1st react native app! yuhuuu](https://facebook.github.io/react-native/docs/getting-started)
+
 [node courses on Pluralsight (sign in required)](https://app.pluralsight.com/library/search?q=node)
 
 [github for that course modules](https://github.com/jscomplete/ngs)
