@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 5 Oct 2018
+
+Read all [react native documentation](https://facebook.github.io/react-native/docs/tutorial)
+
 ### Thu 4 Oct 2018
 
 [reactnative.com](http://www.reactnative.com/)
