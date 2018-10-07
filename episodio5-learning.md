@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Sun 7 Oct 2018
+
+[JS promises in depth](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
+
 ### Fri 5 Oct 2018
 
 Read all [react native documentation](https://facebook.github.io/react-native/docs/tutorial)
