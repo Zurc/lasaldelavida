@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Sun 7 Oct 2018
 
+[medium: the startup](https://medium.com/swlh)
+
 [great clients dont care about your portfolio](https://medium.com/swlh/great-clients-dont-care-about-your-portfolio-49f9569bf637)
 
 [JS promises in depth](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
