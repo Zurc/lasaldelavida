@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Sun 7 Oct 2018
 
+[ed weissman](https://edweissman.wordpress.com/2013/03/24/who-is-a-good-programmer/)
+
 [medium: the startup](https://medium.com/swlh)
 
 [great clients dont care about your portfolio](https://medium.com/swlh/great-clients-dont-care-about-your-portfolio-49f9569bf637)
