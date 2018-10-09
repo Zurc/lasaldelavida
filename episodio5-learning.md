@@ -2,7 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+
 ### Tue 9 Oct 2018
+
+[freelancing ideas](https://www.bradhussey.ca/six-figure-freelancing/)
+
+[codepen radio - servers](https://blog.codepen.io/2014/02/22/002-servers/)
 
 [Open Source - how to contribute](https://opensource.guide/how-to-contribute/)
 
