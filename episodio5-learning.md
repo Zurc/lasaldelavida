@@ -5,7 +5,11 @@ Cosas que voy aprendiendo...
 
 ### Tue 9 Oct 2018
 
+[Online survey data collector](https://www.typeform.com/)
+
 [freelancing ideas](https://www.bradhussey.ca/six-figure-freelancing/)
+
+[freelance service - your strenghts](https://www.bradhussey.ca/perfect-freelance-service/)
 
 [codepen radio - servers](https://blog.codepen.io/2014/02/22/002-servers/)
 
