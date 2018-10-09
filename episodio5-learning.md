@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 9 Oct 2018
+
+[Open Source - how to contribute](https://opensource.guide/how-to-contribute/)
+
 ### Sun 7 Oct 2018
 
 [FIRE movement/trend](https://medium.com/the-new-york-times/how-to-retire-in-your-30s-with-1-million-in-the-bank-d2911b3fa206)
