@@ -5,6 +5,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 9 Oct 2018
 
+[wev dev youtube channels](https://www.managedsolution.com/16-best-youtube-channels-to-learn-web-development-from/)
+
 [Online survey data collector](https://www.typeform.com/)
 
 [freelancing ideas](https://www.bradhussey.ca/six-figure-freelancing/)
