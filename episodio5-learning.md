@@ -7,6 +7,8 @@ Cosas que voy aprendiendo...
 
 [wev dev youtube channels](https://www.managedsolution.com/16-best-youtube-channels-to-learn-web-development-from/)
 
+[web dev YT channels to double check](https://www.thebalancecareers.com/the-10-best-web-development-youtube-channels-2071397)
+
 [Online survey data collector](https://www.typeform.com/)
 
 [freelancing ideas](https://www.bradhussey.ca/six-figure-freelancing/)
