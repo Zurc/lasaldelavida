@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 10 Oct 2018
 
+[express.js middleware](https://expressjs.com/en/guide/writing-middleware.html)
+
 [good motivational tips on freelancing](https://www.bradhussey.ca/3-reasons-you-should-not-freelance/)
 
 Finished the 1 course on the Node saga (Pluralsight) by Samer Buna. Really excited, learning a lot.
