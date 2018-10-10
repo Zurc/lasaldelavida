@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 10 Oct 2018
 
+[Simon Sinek - how great leaders inspire action, their WHY](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+
 [express generator](https://expressjs.com/en/starter/generator.html)
 
 [express.js middleware](https://expressjs.com/en/guide/writing-middleware.html)
