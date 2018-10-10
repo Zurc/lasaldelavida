@@ -2,6 +2,9 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 10 Oct 2018
+
+Finished the 1 course on the Node saga (Pluralsight) by Samer Buna. Really excited, learning a lot.
 
 ### Tue 9 Oct 2018
 
