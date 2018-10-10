@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 10 Oct 2018
 
+[express generator](https://expressjs.com/en/starter/generator.html)
+
 [express.js middleware](https://expressjs.com/en/guide/writing-middleware.html)
 
 [good motivational tips on freelancing](https://www.bradhussey.ca/3-reasons-you-should-not-freelance/)
