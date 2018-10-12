@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 12 Oct 2018
+
+[color scheme workflow](https://stories.uplabs.com/best-three-color-scheme-for-music-player-5da996d7f460)
+
 ### Wed 10 Oct 2018
 
 [publish-subscribe method](https://itnext.io/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-72a12cd68d44)
