@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 12 Oct 2018
 
+[git cheatsheet guide... ;)](http://rogerdudler.github.io/git-guide/)
+
 [quick git ref](https://www.christianengvall.se/a-quick-git-commands-refresh/)
 
 [mobile color scheme trends](https://envato.com/blog/8-color-scheme-trends-mobile-app-design/)
