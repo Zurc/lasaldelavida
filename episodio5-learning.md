@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 12 Oct 2018
 
+[mobile color scheme trends](https://envato.com/blog/8-color-scheme-trends-mobile-app-design/)
+
 [color scheme workflow](https://stories.uplabs.com/best-three-color-scheme-for-music-player-5da996d7f460)
 
 ### Wed 10 Oct 2018
