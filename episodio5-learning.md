@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 15 Oct 2018
 
+[understanding people](https://www.youtube.com/watch?v=OyV8LELM_HM)
+
 [pre-suation and influence](https://www.youtube.com/watch?v=HctZg2aOPMw)
 
 [remote work culture, tips and ideas](https://blog.cloudpeeps.com/top-10-companies-winning-at-remote-work-culture/)
