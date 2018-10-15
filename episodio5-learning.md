@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 15 Oct 2018
+
+[How debt can generate income - robert kiyosaki](https://www.youtube.com/watch?v=dN5qHjnd_xk)
+
 ### Fri 12 Oct 2018
 
 [git cheatsheet guide... ;)](http://rogerdudler.github.io/git-guide/)
