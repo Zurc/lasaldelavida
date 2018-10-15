@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 15 Oct 2018
 
+[freelance and remote workers resources](https://medium.com/we-are-testers/best-resources-for-successful-freelancers-and-remote-workers-f9fd66fc412a)
+
 [How debt can generate income - robert kiyosaki](https://www.youtube.com/watch?v=dN5qHjnd_xk)
 
 ### Fri 12 Oct 2018
