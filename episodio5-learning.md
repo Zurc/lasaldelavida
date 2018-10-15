@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 15 Oct 2018
 
+[remote work culture, tips and ideas](https://blog.cloudpeeps.com/top-10-companies-winning-at-remote-work-culture/)
+
 [freelance and remote workers resources](https://medium.com/we-are-testers/best-resources-for-successful-freelancers-and-remote-workers-f9fd66fc412a)
 
 [How debt can generate income - robert kiyosaki](https://www.youtube.com/watch?v=dN5qHjnd_xk)
