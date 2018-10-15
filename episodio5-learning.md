@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 15 Oct 2018
 
+[pre-suation and influence](https://www.youtube.com/watch?v=HctZg2aOPMw)
+
 [remote work culture, tips and ideas](https://blog.cloudpeeps.com/top-10-companies-winning-at-remote-work-culture/)
 
 [freelance and remote workers resources](https://medium.com/we-are-testers/best-resources-for-successful-freelancers-and-remote-workers-f9fd66fc412a)
