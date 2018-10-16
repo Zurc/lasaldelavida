@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 16 Oct 2018
 
+[How to graphql](https://www.howtographql.com/)
+
 [Gatsby + WP](https://www.gatsbyjs.org/blog/2018-01-22-getting-started-gatsby-and-wordpress/)
 
 [Gatsby JS crash course - traversy media](https://www.youtube.com/watch?v=6YhqQ2ZW1sc)
