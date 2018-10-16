@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 15 Oct 2018
 
+[financial education - kiyosaki](https://www.youtube.com/watch?v=YoN1XM8SndA)
+
 [understanding people](https://www.youtube.com/watch?v=OyV8LELM_HM)
 
 [pre-suation and influence](https://www.youtube.com/watch?v=HctZg2aOPMw)
