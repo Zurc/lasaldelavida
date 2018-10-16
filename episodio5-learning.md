@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [cashflow quadrant](https://www.youtube.com/watch?v=C9kQaeg3iRM)
 
+[kiyosaki 7 rules](https://youtu.be/C9kQaeg3iRM)
+
 [financial education - kiyosaki](https://www.youtube.com/watch?v=YoN1XM8SndA)
 
 [understanding people](https://www.youtube.com/watch?v=OyV8LELM_HM)
