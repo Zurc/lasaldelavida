@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 15 Oct 2018
 
+[Jim kwick - the morning routine](https://www.youtube.com/watch?v=o8ky8PDLBRw)
+
 [cashflow quadrant](https://www.youtube.com/watch?v=C9kQaeg3iRM)
 
 [kiyosaki 7 rules](https://youtu.be/C9kQaeg3iRM)
