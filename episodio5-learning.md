@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 16 Oct 2018
 
+[Gatsby JS crash course - traversy media](https://www.youtube.com/watch?v=6YhqQ2ZW1sc)
+
 [learn fast - Jim Kwick](https://www.youtube.com/watch?v=uT_GcOGEFsk)
 
 ### Mon 15 Oct 2018
