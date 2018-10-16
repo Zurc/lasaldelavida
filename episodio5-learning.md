@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 16 Oct 2018
+
+[learn fast - Jim Kwick](https://www.youtube.com/watch?v=uT_GcOGEFsk)
+
 ### Mon 15 Oct 2018
 
 [Jim kwick - the morning routine](https://www.youtube.com/watch?v=o8ky8PDLBRw)
