@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 17 Oct 2018
+
+[Decomposing techniques for React components](https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da)
+
 ### Tue 16 Oct 2018
 
 [grandstack.io](https://grandstack.io/)
