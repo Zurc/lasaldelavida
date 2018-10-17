@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 17 Oct 2018
 
+[Static Website + Blog (React + Gratsby + GraphQL)](https://priceless-neumann-121335.netlify.com)
+
 [Sytle site or md like Medium](https://medium.freecodecamp.org/style-webpage-or-markdown-like-medium-article-using-html-css-sass-bootstrap-c6f9e64c0955)
 
 [Decomposing techniques for React components](https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da)
