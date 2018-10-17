@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 17 Oct 2018
 
+[style images with markdown](https://dzone.com/articles/how-to-style-images-with-markdown)
+
 [markdown and CSS](https://jblevins.org/log/custom-css)
 
 [Static Website + Blog (React + Gratsby + GraphQL)](https://priceless-neumann-121335.netlify.com)
