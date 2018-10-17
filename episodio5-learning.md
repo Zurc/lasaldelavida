@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 17 Oct 2018
 
+[flexing pagination arrow](https://codepen.io/hakimel/pen/gfIsk)
+
 [arrows and more... - freefrontend](https://freefrontend.com/css-arrows/)
 
 [style images with markdown](https://dzone.com/articles/how-to-style-images-with-markdown)
