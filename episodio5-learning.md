@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 17 Oct 2018
 
+Following [this tut](https://blog.theodo.fr/2016/02/introduction-to-react/) I've made [my own version](https://react-c6ernm.stackblitz.io/)
+
 [flexing pagination arrow](https://codepen.io/hakimel/pen/gfIsk)
 
 [arrows and more... - freefrontend](https://freefrontend.com/css-arrows/)
