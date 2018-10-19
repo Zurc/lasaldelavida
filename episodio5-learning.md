@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 18 Oct 2018
 
+[prioritization matrix examples - UX](https://www.productplan.com/prioritization-matrix-example/)
+
 [product prioritization techniques - UX](https://foldingburritos.com/product-prioritization-techniques/)
 
 ### Wed 17 Oct 2018
