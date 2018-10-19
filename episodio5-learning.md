@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 18 Oct 2018
 
+[lucidchart - how to create a user story map - UX](https://www.lucidchart.com/blog/how-to-create-a-user-story-map)
+
 [prioritization matrix examples - UX](https://www.productplan.com/prioritization-matrix-example/)
 
 [product prioritization techniques - UX](https://foldingburritos.com/product-prioritization-techniques/)
