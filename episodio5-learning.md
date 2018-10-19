@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 18 Oct 2018
+
+[product prioritization techniques - UX](https://foldingburritos.com/product-prioritization-techniques/)
+
 ### Wed 17 Oct 2018
 
 Following [this tut](https://blog.theodo.fr/2016/02/introduction-to-react/) I've made [my own version](https://react-c6ernm.stackblitz.io/)
