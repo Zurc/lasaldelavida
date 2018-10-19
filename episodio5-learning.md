@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 18 Oct 2018
 
+[lucidchart - 4 phases of PM lifecycle](https://www.lucidchart.com/blog/the-4-phases-of-the-project-management-life-cycle)
+
 [lucidchart - how to create a user story map - UX](https://www.lucidchart.com/blog/how-to-create-a-user-story-map)
 
 [prioritization matrix examples - UX](https://www.productplan.com/prioritization-matrix-example/)
