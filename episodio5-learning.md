@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 22 Oct 2018
+
+[Modern Web dev book - dexteryy](https://github.com/dexteryy/spellbook-of-modern-webdev)
+
 ### Fri 18 Oct 2018
 
 [lucidchart - 4 phases of PM lifecycle](https://www.lucidchart.com/blog/the-4-phases-of-the-project-management-life-cycle)
