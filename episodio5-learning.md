@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 22 Oct 2018
 
+[gatsby starters](https://www.gatsbyjs.org/starters)
+
 [scrap the web - JS chrome puppeteer node](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
 
 [start node server - popular frameworks](https://stackabuse.com/how-to-start-a-node-server-examples-with-the-most-popular-frameworks/)
@@ -39,6 +41,8 @@ Following [this tut](https://blog.theodo.fr/2016/02/introduction-to-react/) I've
 [markdown and CSS](https://jblevins.org/log/custom-css)
 
 [Static Website + Blog (React + Gratsby + GraphQL)](https://priceless-neumann-121335.netlify.com)
+
+[]()
 
 [Sytle site or md like Medium](https://medium.freecodecamp.org/style-webpage-or-markdown-like-medium-article-using-html-css-sass-bootstrap-c6f9e64c0955)
 
