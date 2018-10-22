@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Modern Web dev book - dexteryy](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
+[rxjs book](https://chrisnoring.gitbooks.io/rxjs-5-ultimate/content/)
+
 ### Fri 18 Oct 2018
 
 [lucidchart - 4 phases of PM lifecycle](https://www.lucidchart.com/blog/the-4-phases-of-the-project-management-life-cycle)
