@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 22 Oct 2018
 
+[JS functions pocket ref](https://medium.com/@ajmeyghani/javascript-functions-a-pocket-reference-d42597ceb496)
+
 [gatsby starters](https://www.gatsbyjs.org/starters)
 
 [scrap the web - JS chrome puppeteer node](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
