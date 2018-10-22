@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 [Modern Web dev book - dexteryy](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
-[rxjs book](https://chrisnoring.gitbooks.io/rxjs-5-ultimate/content/)
+[rxjs gitbook](https://chrisnoring.gitbooks.io/rxjs-5-ultimate/content/)
 
 ### Fri 18 Oct 2018
 
