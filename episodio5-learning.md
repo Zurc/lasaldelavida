@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 22 Oct 2018
 
+[scrap the web - JS chrome puppeteer node](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
+
 [start node server - popular frameworks](https://stackabuse.com/how-to-start-a-node-server-examples-with-the-most-popular-frameworks/)
 
 [watch replay hacksummit](https://www.crowdcast.io/e/hacksummit-2016/register)
