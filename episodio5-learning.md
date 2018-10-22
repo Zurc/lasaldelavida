@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 22 Oct 2018
 
+[hack pledge - give or receive one hour code mentoring](https://hackpledge.org/)
+
 [Modern Web dev book - dexteryy](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
 [rxjs gitbook](https://chrisnoring.gitbooks.io/rxjs-5-ultimate/content/)
