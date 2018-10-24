@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 24 Oct 2018
+
+[Firestore -> collections](https://github.com/angular/angularfire2/blob/master/docs/firestore/collections.md)
+
 ### Mon 22 Oct 2018
 
 [JS functions pocket ref](https://medium.com/@ajmeyghani/javascript-functions-a-pocket-reference-d42597ceb496)
