@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [mozilla: using files from web apps](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 
+[google devs: capture images from users](https://developers.google.com/web/fundamentals/media/capturing-images/)
+
 ### Wed 24 Oct 2018
 
 [Firestore -> collections](https://github.com/angular/angularfire2/blob/master/docs/firestore/collections.md)
