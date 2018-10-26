@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [google devs: capture images from users](https://developers.google.com/web/fundamentals/media/capturing-images/)
 
+[youtube: React Drag and Drop tut without using external or third party libraries](https://www.youtube.com/watch?v=FdDpyD4EMrA)
+
 ### Wed 24 Oct 2018
 
 [Firestore -> collections](https://github.com/angular/angularfire2/blob/master/docs/firestore/collections.md)
