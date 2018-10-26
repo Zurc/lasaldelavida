@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 26 Oct 2018
+
+[mozilla: using files from web apps](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
+
 ### Wed 24 Oct 2018
 
 [Firestore -> collections](https://github.com/angular/angularfire2/blob/master/docs/firestore/collections.md)
