@@ -6,9 +6,14 @@ Cosas que voy aprendiendo...
 
 [mozilla: using files from web apps](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 
+[Drag & Drop With Vanilla JS - traversy media](https://www.youtube.com/watch?v=C22hQKE_32c)
+
 [google devs: capture images from users](https://developers.google.com/web/fundamentals/media/capturing-images/)
 
 [youtube: React Drag and Drop tut without using external or third party libraries](https://www.youtube.com/watch?v=FdDpyD4EMrA)
+
+[Let's Create a Drag & Drop Image Uploader on React #01
+](https://www.youtube.com/watch?v=jlbuMCzSq0Y)
 
 ### Wed 24 Oct 2018
 
