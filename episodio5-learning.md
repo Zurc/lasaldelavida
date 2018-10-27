@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Sat 27 Oct 2018
+
+[React: 'What the Hooks!'](https://reactjs.org/docs/hooks-intro.html)
+
 ### Fri 26 Oct 2018
 
 [mozilla: using files from web apps](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
