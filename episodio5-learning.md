@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [motion design - material](https://medium.com/google-design/motion-design-doesnt-have-to-be-hard-33089196e6c2)
 
+[angular - moving design beyond pictures](https://blog.angular.io/moving-design-beyond-pictures-1509c315f94e)
+
 ### Sat 27 Oct 2018
 
 [React: 'What the Hooks!'](https://reactjs.org/docs/hooks-intro.html)
