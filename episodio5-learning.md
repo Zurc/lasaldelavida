@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 29 Oct 2018
+
+[motion design - material](https://medium.com/google-design/motion-design-doesnt-have-to-be-hard-33089196e6c2)
+
 ### Sat 27 Oct 2018
 
 [React: 'What the Hooks!'](https://reactjs.org/docs/hooks-intro.html)
