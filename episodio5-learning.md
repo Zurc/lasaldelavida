@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 31 Oct 2018
+
+[angular communication btwn comps - observable>subject](http://jasonwatmore.com/post/2016/12/01/angular-2-communicating-between-components-with-observable-subject)
+
 ### Mon 29 Oct 2018
 
 [motion design - material](https://medium.com/google-design/motion-design-doesnt-have-to-be-hard-33089196e6c2)
