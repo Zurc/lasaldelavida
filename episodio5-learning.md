@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angular communication btwn comps - observable>subject](http://jasonwatmore.com/post/2016/12/01/angular-2-communicating-between-components-with-observable-subject)
 
+[angular/rxjs - Observable data service](https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
+
 ### Mon 29 Oct 2018
 
 [motion design - material](https://medium.com/google-design/motion-design-doesnt-have-to-be-hard-33089196e6c2)
