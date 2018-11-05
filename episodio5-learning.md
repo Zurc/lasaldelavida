@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 5 Nov 2018
 
+[Using GraphQL, ReactJS and Apollo To Create Amazing Apps](https://www.youtube.com/watch?v=kXH2dbnHYA0)
+
 [bring content to any platform - graphCMS](https://graphcms.com/)
 
 [storyblock - headless CMS](https://www.storyblok.com)
