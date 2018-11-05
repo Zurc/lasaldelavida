@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### Mon 5 Nov 2018
 
+[ideas √√√](https://www.producthunt.com)
+
+[create illustrations](https://www.producthunt.com/posts/juicy-illustrations)
+
 [Top 10 Headless CMS's You Should Check Out (and what they are!)](https://www.youtube.com/watch?v=hhX8nCnaNFM)
 
 [FE dev 2018](https://www.youtube.com/watch?list=PL03Lrmd9CiGfprrIjzbjdA2RRShJMzYIM)
