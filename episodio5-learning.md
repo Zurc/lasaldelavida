@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 5 Nov 2018
 
+[bring content to any platform - graphCMS](https://graphcms.com/)
+
 [storyblock - headless CMS](https://www.storyblok.com)
 
 [developing and running angular components in a sandbox](https://blog.codewithdan.com/angular-playground-developing-and-running-components-in-a-sandbox/)
