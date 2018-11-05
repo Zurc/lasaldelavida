@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [why content & service design](https://contentdesign.london/content-design/content-design-in-services-5-reasons-why-its-important/)
 
+[Content designer working on services](https://designnotes.blog.gov.uk/2017/01/04/advice-for-content-designers-working-on-services/)
+
 ### Wed 31 Oct 2018
 
 [angular communication btwn comps - observable>subject](http://jasonwatmore.com/post/2016/12/01/angular-2-communicating-between-components-with-observable-subject)
