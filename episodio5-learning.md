@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [Content designer working on services](https://designnotes.blog.gov.uk/2017/01/04/advice-for-content-designers-working-on-services/)
 
+[service designer skills](https://www.gov.uk/government/publications/service-designer-skills-they-need/service-designer-skills-they-need)
+
 ### Wed 31 Oct 2018
 
 [angular communication btwn comps - observable>subject](http://jasonwatmore.com/post/2016/12/01/angular-2-communicating-between-components-with-observable-subject)
