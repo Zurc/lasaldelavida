@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 5 Nov 2018
 
+[Top 10 Headless CMS's You Should Check Out (and what they are!)](https://www.youtube.com/watch?v=hhX8nCnaNFM)
+
 [FE dev 2018](https://www.youtube.com/watch?list=PL03Lrmd9CiGfprrIjzbjdA2RRShJMzYIM)
 
 [why content & service design](https://contentdesign.london/content-design/content-design-in-services-5-reasons-why-its-important/)
