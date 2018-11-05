@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 5 Nov 2018
 
+[FE dev 2018](https://www.youtube.com/watch?list=PL03Lrmd9CiGfprrIjzbjdA2RRShJMzYIM)
+
 [why content & service design](https://contentdesign.london/content-design/content-design-in-services-5-reasons-why-its-important/)
 
 [Content designer working on services](https://designnotes.blog.gov.uk/2017/01/04/advice-for-content-designers-working-on-services/)
