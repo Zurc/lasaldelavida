@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 5 Nov 2018
+
+[why content & service design](https://contentdesign.london/content-design/content-design-in-services-5-reasons-why-its-important/)
+
 ### Wed 31 Oct 2018
 
 [angular communication btwn comps - observable>subject](http://jasonwatmore.com/post/2016/12/01/angular-2-communicating-between-components-with-observable-subject)
