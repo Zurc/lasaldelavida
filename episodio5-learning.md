@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 5 Nov 2018
 
+[angular playground](http://www.angularplayground.it/)
+
 [ideas √√√](https://www.producthunt.com)
 
 [create illustrations](https://www.producthunt.com/posts/juicy-illustrations)
