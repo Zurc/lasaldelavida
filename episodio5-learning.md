@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Mon 5 Nov 2018
 
-[angular playground](http://www.angularplayground.it/)
+[developing and running angular components in a sandbox](https://blog.codewithdan.com/angular-playground-developing-and-running-components-in-a-sandbox/)
+
+[angular playground - build and run Angular components/pipes/directives in isolation](http://www.angularplayground.it/)
 
 [ideas √√√](https://www.producthunt.com)
 
