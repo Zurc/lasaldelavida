@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 6 Nov 2018
+
+[How to price design services and creativity](https://www.youtube.com/watch?v=RKXZ7t_RiOE)
+
 ### Mon 5 Nov 2018
 
 [Using GraphQL, ReactJS and Apollo To Create Amazing Apps](https://www.youtube.com/watch?v=kXH2dbnHYA0)
