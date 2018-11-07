@@ -7,6 +7,8 @@ Cosas que voy aprendiendo...
 [frontend devs guide GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 
 >  the data you consume on the client is no longer coupled to an endpoint’s resource!
+>  
+>  Your GraphQL server always gives you back exactly the data you ask for. Nothing more.
 
 [the power of serverless](https://thepowerofserverless.info)
 
