@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 7 Nov 2018
+
+[the power of serverless](https://thepowerofserverless.info)
+
 ### Tue 6 Nov 2018
 
 next mini app to translate into stackblitz? [auth0 - beautiful apps with angular material](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
