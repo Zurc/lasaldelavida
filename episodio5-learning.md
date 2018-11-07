@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Tue 6 Nov 2018
 
-[github api - jquery, github, bootstrap](https://codepen.io/andreic/pen/oKghp?editors=1010)
+[github api - jquery and bootstrap](https://codepen.io/andreic/pen/oKghp?editors=1010)
+
+[github api - (my version) with angular and material design](https://angular-qlvuut.stackblitz.io)
 
 [angular material design comps](https://www.sitepoint.com/angular-material-design-components/)
 
