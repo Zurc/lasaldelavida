@@ -8,7 +8,7 @@ Cosas que voy aprendiendo...
 
 >  the data you consume on the client is no longer coupled to an endpoint’s resource!
 >  
->  Your GraphQL server always gives you back exactly the data you ask for. Nothing more.
+>  Your GraphQL server always gives you back exactly the data you ask for. Nothing more. This differs significantly from REST, where you often have to filter and transform the data you get back from the server into the shape your UI components need. Not only does this save you time, it also results in smaller network payloads and CPU savings from loading and parsing the response.
 
 [the power of serverless](https://thepowerofserverless.info)
 
