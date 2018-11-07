@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 6 Nov 2018
 
+[github api - jquery, github, bootstrap](https://codepen.io/andreic/pen/oKghp?editors=1010)
+
 [angular dynamic themes without a library](https://dev.to/adamaso/angular-6-dynamic-themes-without-a-library-2e9c)
 
 [How to price design services and creativity](https://www.youtube.com/watch?v=RKXZ7t_RiOE)
