@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 7 Nov 2018
 
+[OOP in JS in depth - javascriptissexy](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+
 [frontend devs guide GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 
 >  the data you consume on the client is no longer coupled to an endpoint’s resource!
