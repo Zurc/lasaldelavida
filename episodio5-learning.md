@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### Wed 7 Nov 2018
 
+[frontend devs guide GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
+
+>  the data you consume on the client is no longer coupled to an endpoint’s resource!
+
 [the power of serverless](https://thepowerofserverless.info)
 
 ### Tue 6 Nov 2018
