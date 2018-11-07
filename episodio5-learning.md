@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [OOP in JS in depth - javascriptissexy](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 
+[eric elliot - 3 kinds of prototypal inheritance (JS)](https://ericleads.wordpress.com/2013/02/11/fluent-javascript-three-different-kinds-of-prototypal-oo/)
+
 [frontend devs guide GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 
 >  the data you consume on the client is no longer coupled to an endpoint’s resource!
