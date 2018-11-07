@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 6 Nov 2018
 
+next mini app to translate into stackblitz? [auth0 - beautiful apps with angular material](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
+
 [github api - jquery and bootstrap](https://codepen.io/andreic/pen/oKghp?editors=1010)
 
 [github api - (my version) with angular and material design](https://angular-qlvuut.stackblitz.io)
