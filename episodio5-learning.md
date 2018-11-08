@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [20%-80% CSS grid](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577)
 
+[understand flexbox](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
+
 [Codepen Music app practising CSS grid](https://codepen.io/CruzWeb/full/qQZjbN)
 
 ### Wed 7 Nov 2018
