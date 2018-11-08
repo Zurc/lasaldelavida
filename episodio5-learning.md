@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 8 Nov 2018
+
+[20%-80% CSS grid](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577)
+
 ### Wed 7 Nov 2018
 
 [OOP in JS in depth - javascriptissexy](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
