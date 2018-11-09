@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 9 Nov 2018
 
+[how to graphql](https://www.howtographql.com/)
+
 [react readux to reactn](https://itnext.io/replacing-redux-with-reactn-to-reduce-complexity-and-bundle-size-1c8bcc6b14cc)
 
 ### Thu 8 Nov 2018
