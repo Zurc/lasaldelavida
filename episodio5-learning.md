@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 9 Nov 2018
+
+[react readux to reactn](https://itnext.io/replacing-redux-with-reactn-to-reduce-complexity-and-bundle-size-1c8bcc6b14cc)
+
 ### Thu 8 Nov 2018
 
 [20%-80% CSS grid](https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577)
