@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### Fri 9 Nov 2018
 
-[React movie search demo](https://react-i1fb2z.stackblitz.io)
+[Movie Search demo - moviedb API, react, grid CSS, flexbox](https://react-i1fb2z.stackblitz.io)
 
 [how to graphql](https://www.howtographql.com/)
 
