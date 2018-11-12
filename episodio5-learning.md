@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 12 Nov 2018
 
+[SASS architecture - scotch](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
+
 [SASS architecture - sitepoint](https://www.sitepoint.com/architecture-sass-project/)
 
 ### Sun 11 Nov 2018
