@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Mon 12 Nov 2018
 
+[protect (an e-commmerce) app from hackers attack_](http://www.tothenew.com/blog/things-you-must-know-to-protect-your-e-commerce-application/)
+
 [SASS architecture - scotch](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
 
 [SASS architecture - sitepoint](https://www.sitepoint.com/architecture-sass-project/)
