@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Sun 11 Nov 2018
+
+[OOP in JS - scotch](https://scotch.io/tutorials/object-oriented-programming-in-javascript)
+
 ### Fri 9 Nov 2018
 
 [Movie Search demo - moviedb API, react, grid CSS, flexbox](https://react-i1fb2z.stackblitz.io)
