@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [OOP in JS - scotch](https://scotch.io/tutorials/object-oriented-programming-in-javascript)
 
+[scotch.io - JS tuts](https://scotch.io/tag/javascript)
+
 ### Fri 9 Nov 2018
 
 [Movie Search demo - moviedb API, react, grid CSS, flexbox](https://react-i1fb2z.stackblitz.io)
