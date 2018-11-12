@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 12 Nov 2018
+
+[SASS architecture - sitepoint](https://www.sitepoint.com/architecture-sass-project/)
+
 ### Sun 11 Nov 2018
 
 [OOP in JS - scotch](https://scotch.io/tutorials/object-oriented-programming-in-javascript)
