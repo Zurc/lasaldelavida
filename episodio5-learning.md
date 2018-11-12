@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [SASS architecture - sitepoint](https://www.sitepoint.com/architecture-sass-project/)
 
+[SASS architecture - matthewelsom](https://matthewelsom.com/blog/simple-scss-playbook.html)
+
 ### Sun 11 Nov 2018
 
 [OOP in JS - scotch](https://scotch.io/tutorials/object-oriented-programming-in-javascript)
