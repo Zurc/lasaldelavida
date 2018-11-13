@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [UX process - UX mastery](https://uxmastery.com/resources/process/)
 
+[process and principles of UX design](https://www.uxteam.com/blog/the-process-and-principles-of-ux-design/)
+
 ### Mon 12 Nov 2018
 
 [protect (an e-commmerce) app from hackers attack_](http://www.tothenew.com/blog/things-you-must-know-to-protect-your-e-commerce-application/)
