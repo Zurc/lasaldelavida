@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [universal pples US design - smashingmagazine](https://www.smashingmagazine.com/2018/01/universal-principles-ux-design/)
 
+[mini-course in design principles](http://www.rit.edu/~w-rkelly/resources/pdf/04_cou/cou_des.pdf)
+
 ### Mon 12 Nov 2018
 
 [protect (an e-commmerce) app from hackers attack_](http://www.tothenew.com/blog/things-you-must-know-to-protect-your-e-commerce-application/)
