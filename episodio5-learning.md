@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 13 Nov 2018
+
+[UX principles by a service design company](https://uxplanet.org/7-ux-principles-by-a-service-design-company-5a32da62f7e8)
+
 ### Mon 12 Nov 2018
 
 [protect (an e-commmerce) app from hackers attack_](http://www.tothenew.com/blog/things-you-must-know-to-protect-your-e-commerce-application/)
