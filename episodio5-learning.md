@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [mini-course in design principles](http://www.rit.edu/~w-rkelly/resources/pdf/04_cou/cou_des.pdf)
 
+[interaction design principles to boost UX design](https://www.mockplus.com/blog/post/interaction-design-principles)
+
 ### Mon 12 Nov 2018
 
 [protect (an e-commmerce) app from hackers attack_](http://www.tothenew.com/blog/things-you-must-know-to-protect-your-e-commerce-application/)
