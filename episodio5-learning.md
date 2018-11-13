@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Tue 13 Nov 2018
 
-[UX principles by a service design company](https://uxplanet.org/7-ux-principles-by-a-service-design-company-5a32da62f7e8)
+[UX principles by a service design company - uxplanet](https://uxplanet.org/7-ux-principles-by-a-service-design-company-5a32da62f7e8)
+
+[universal pples US design - smashingmagazine](https://www.smashingmagazine.com/2018/01/universal-principles-ux-design/)
 
 ### Mon 12 Nov 2018
 
