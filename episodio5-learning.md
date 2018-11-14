@@ -2,6 +2,11 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 14 Nov 2018
+
+[Using StackBlitz & Angular for Rapid App Prototyping - Eric Simons and Albert Pai
+](https://www.youtube.com/watch?v=EBzoTnX6LzU)
+
 ### Tue 13 Nov 2018
 
 [UX principles by a service design company - uxplanet](https://uxplanet.org/7-ux-principles-by-a-service-design-company-5a32da62f7e8)
