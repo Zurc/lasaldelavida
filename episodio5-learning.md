@@ -7,6 +7,9 @@ Cosas que voy aprendiendo...
 [Using StackBlitz & Angular for Rapid App Prototyping - Eric Simons and Albert Pai
 ](https://www.youtube.com/watch?v=EBzoTnX6LzU)
 
+[StackBlitz + Angular A Better Way to Build PWA's - Albert Pai, Eric Simons
+](https://www.youtube.com/watch?v=P1-HAN1g4_4)
+
 ### Tue 13 Nov 2018
 
 [UX principles by a service design company - uxplanet](https://uxplanet.org/7-ux-principles-by-a-service-design-company-5a32da62f7e8)
