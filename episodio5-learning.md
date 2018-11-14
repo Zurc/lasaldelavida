@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 14 Nov 2018
 
+[top CMS for building a website](https://alternativeto.net/list/341/top-10-cms-for-building-a-website)
+
 [react + styled-components demo](https://stackblitz.com/edit/react-ete4lb)
 
 [Using StackBlitz & Angular for Rapid App Prototyping - Eric Simons and Albert Pai
@@ -46,7 +48,7 @@ Cosas que voy aprendiendo...
 
 ### Fri 9 Nov 2018
 
-[Movie Search demo - moviedb API, react, grid CSS, flexbox](https://react-i1fb2z.stackblitz.io)
+[CRUZ - Movie Search demo - moviedb API, react, grid CSS, flexbox](https://react-i1fb2z.stackblitz.io)
 
 [how to graphql](https://www.howtographql.com/)
 
@@ -58,7 +60,7 @@ Cosas que voy aprendiendo...
 
 [understand flexbox](https://medium.freecodecamp.org/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)
 
-[Codepen Music app practising CSS grid](https://codepen.io/CruzWeb/full/qQZjbN)
+[CRUZ - Codepen Music app practising CSS grid](https://codepen.io/CruzWeb/full/qQZjbN)
 
 ### Wed 7 Nov 2018
 
