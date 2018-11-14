@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### Wed 14 Nov 2018
 
+[hackernoon - CMS for react app with firebase](https://hackernoon.com/how-i-built-a-content-management-system-for-a-react-app-in-one-day-269df17f5509)
+
+[PIMCORE - digital platform for enterprises](https://pimcore.com/en)
+
 [GRAV - open source CMS](https://getgrav.org/)
 
 [built with Electron](https://alternativeto.net/list/55/built-with-electron)
