@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 15 Nov 2018
 
+[edutopia](https://www.edutopia.org/)
+
 ideas? [wizbots - robotics and lego for children](https://wizbots.com)
 
 [makeymakey](https://makeymakey.com/pages/educators#resources)
