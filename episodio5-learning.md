@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 15 Nov 2018
+
+[free bootstrap templates for react](https://www.codeinwp.com/blog/best-free-bootstrap-templates-for-reactjs/)
+
 ### Wed 14 Nov 2018
 
 [headless CMS comparison](https://geekflare.com/headless-cms/)
