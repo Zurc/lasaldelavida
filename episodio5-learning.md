@@ -12,7 +12,8 @@ Cosas que voy aprendiendo...
 
 [prismic demo - multipage site with navigation in node](https://user-guides.prismic.io/examples/nodejs-samples/sample-multi-page-site-with-navigation-in-nodejs)
 
-[contentful CMS](https://www.contentful.com)
+[contentful CMS - content infrastructure to deliver 
+content to any website, app or device](https://www.contentful.com)
 
 [butterCMS](https://buttercms.com)
 
