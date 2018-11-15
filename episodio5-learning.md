@@ -8,6 +8,9 @@ ideas? [wizbots - robotics and lego for children](https://wizbots.com)
 
 [makeymakey](https://makeymakey.com/pages/educators#resources)
 
+[Hacking Everyday Objects Inspires Students to Explore Technology
+](https://www.youtube.com/watch?v=RRwqutcy5B0&feature=youtu.be)
+
 [squishy circuits - electronic fun!](https://squishycircuits.com/) source: [AnnMarie Thomas: Hands-on science with squishy circuits
 ](https://www.youtube.com/watch?v=5M3Dow20KlM)
 
