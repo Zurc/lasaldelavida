@@ -4,6 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Thu 15 Nov 2018
 
+[How to set up your own knowledge base with React, Contentful and Netlify - Part 1
+](https://www.youtube.com/watch?v=DSxGa6uVtm4)
+
 [strapi - The most advanced open-source Content Management Framework to build powerful API with no effort.](https://strapi.io/)
 
 [squitex - CMS for apps, websites and services](https://squidex.io)
@@ -1284,4 +1287,3 @@ Non related things and videos...
 [whatIsMyIp]: <https://www.whatismyip.com/>
 [howToNode page]: <https://howtonode.org/deploy-blog-to-heroku>
 [How to make a solar powered workstation]: <https://creationix.com/solar-powered-workstation/>
-
