@@ -8,7 +8,8 @@ ideas? [wizbots - robotics and lego for children](https://wizbots.com)
 
 [makeymakey](https://makeymakey.com/pages/educators#resources)
 
-[squishy circuits - electronic fun!](https://squishycircuits.com/)
+[squishy circuits - electronic fun!](https://squishycircuits.com/) source: [AnnMarie Thomas: Hands-on science with squishy circuits
+](https://www.youtube.com/watch?v=5M3Dow20KlM)
 
 [getting kids into programming (resources)](http://blog.pamelafox.org/2013/01/getting-kids-into-programming.html)
 
