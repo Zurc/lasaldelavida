@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 15 Nov 2018
 
+[strapi - The most advanced open-source Content Management Framework to build powerful API with no effort.](https://strapi.io/)
+
 [squitex - CMS for apps, websites and services](https://squidex.io)
 
 [prismic - One CMS Backend for all your Websites & Apps](https://prismic.io/)
