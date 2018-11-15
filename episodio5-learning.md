@@ -9,6 +9,8 @@ Cosas que voy aprendiendo...
 
 [today I learned - tutorial](https://today-i-learned.netlify.com/tutorial/)
 
+[stefan judis - today I learned (TIL)](https://www.stefanjudis.com/today-i-learned/)
+
 [strapi - The most advanced open-source Content Management Framework to build powerful API with no effort.](https://strapi.io/)
 
 [squitex - CMS for apps, websites and services](https://squidex.io)
