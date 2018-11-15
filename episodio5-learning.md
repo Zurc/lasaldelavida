@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 ideas? [wizbots - robotics and lego for children](https://wizbots.com)
 
+[makeymakey](https://makeymakey.com/pages/educators#resources)
+
 [getting kids into programming (resources)](http://blog.pamelafox.org/2013/01/getting-kids-into-programming.html)
 
 [netlify site of the week - great resources!](https://www.netlify.com/site-of-the-week/)
