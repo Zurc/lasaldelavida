@@ -4,6 +4,13 @@ Cosas que voy aprendiendo...
 
 ### Thu 15 Nov 2018
 
+[netlify site of the week - great resources!](https://www.netlify.com/site-of-the-week/)
+
+>  here I found sites like: 
+>  
+>  [kinto - open source from Mozilla (alternative to firebase)](https://www.kinto-storage.org/)
+>  [react boilerplate - Quick setup for new performance oriented, offline–first React.js applications](https://www.reactboilerplate.com/)
+
 [How to set up your own knowledge base with React, Contentful and Netlify - Part 1
 ](https://www.youtube.com/watch?v=DSxGa6uVtm4)
 
