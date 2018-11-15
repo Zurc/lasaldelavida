@@ -4,7 +4,11 @@ Cosas que voy aprendiendo...
 
 ### Thu 15 Nov 2018
 
+[squitex - CMS for apps, websites and services](https://squidex.io)
+
 [prismic - One CMS Backend for all your Websites & Apps](https://prismic.io/)
+
+[prismic demo - multipage site with navigation in node](https://user-guides.prismic.io/examples/nodejs-samples/sample-multi-page-site-with-navigation-in-nodejs)
 
 [contentful CMS](https://www.contentful.com)
 
