@@ -4,6 +4,14 @@ Cosas que voy aprendiendo...
 
 ### Thu 15 Nov 2018
 
+[prismic - One CMS Backend for all your Websites & Apps](https://prismic.io/)
+
+[contentful CMS](https://www.contentful.com)
+
+[butterCMS](https://buttercms.com)
+
+[graphCMS - graphQL content - headless CMS](https://graphcms.com/)
+
 [awesome CMS - collection of CMS's for different languages](https://github.com/postlight/awesome-cms)
 
 [free bootstrap templates for react](https://www.codeinwp.com/blog/best-free-bootstrap-templates-for-reactjs/)
@@ -12,7 +20,7 @@ Cosas que voy aprendiendo...
 
 [headless CMS comparison](https://geekflare.com/headless-cms/)
 
-[netlifyCMS](https://www.netlifycms.org/)
+[netlifyCMS - open source CMS](https://www.netlifycms.org/)
 
 [hackernoon - CMS for react app with firebase](https://hackernoon.com/how-i-built-a-content-management-system-for-a-react-app-in-one-day-269df17f5509)
 
