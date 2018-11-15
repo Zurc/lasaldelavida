@@ -7,6 +7,8 @@ Cosas que voy aprendiendo...
 [How to set up your own knowledge base with React, Contentful and Netlify - Part 1
 ](https://www.youtube.com/watch?v=DSxGa6uVtm4)
 
+[today I learned - tutorial](https://today-i-learned.netlify.com/tutorial/)
+
 [strapi - The most advanced open-source Content Management Framework to build powerful API with no effort.](https://strapi.io/)
 
 [squitex - CMS for apps, websites and services](https://squidex.io)
