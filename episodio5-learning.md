@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 15 Nov 2018
 
+[awesome CMS - collection of CMS's for different languages](https://github.com/postlight/awesome-cms)
+
 [free bootstrap templates for react](https://www.codeinwp.com/blog/best-free-bootstrap-templates-for-reactjs/)
 
 ### Wed 14 Nov 2018
