@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 16 Nov 2018
+
+[Semantic UI In 60 Minutes - traversy media](https://www.youtube.com/watch?v=a9mUH1EWp40)
+
 ### Thu 15 Nov 2018
 
 [edutopia](https://www.edutopia.org/)
