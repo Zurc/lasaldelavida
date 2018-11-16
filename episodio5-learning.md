@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Semantic UI In 60 Minutes - traversy media](https://www.youtube.com/watch?v=a9mUH1EWp40)
 
+[CRUZ - semantic.ui cheatsheet](https://codepen.io/CruzWeb/full/LXLBXB)
+
 ### Thu 15 Nov 2018
 
 [edutopia](https://www.edutopia.org/)
