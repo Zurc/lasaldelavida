@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 19 Nov 2018
+
+[react router for beginners](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
+
+[nprogress with react-router in create-react-app](https://gist.github.com/shelldandy/02ad1a9f8b5b86d1b2e4dd26a11967b2)
+
+[CRUZ - nprogress and react-router demo](https://react-z2z1qv.stackblitz.io)
+
 ### Fri 16 Nov 2018
 
 [Semantic UI In 60 Minutes - traversy media](https://www.youtube.com/watch?v=a9mUH1EWp40)
