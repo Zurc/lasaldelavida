@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [nprogress with react-router in create-react-app](https://gist.github.com/shelldandy/02ad1a9f8b5b86d1b2e4dd26a11967b2)
 
+[flexbox - navigation bars of the most popular apps](https://medium.com/flexbox-and-grids/the-most-popular-navigation-bars-created-with-flexbox-6c0f59f55686)
+
 [CRUZ - nprogress and react-router demo](https://react-z2z1qv.stackblitz.io)
 
 ### Fri 16 Nov 2018
