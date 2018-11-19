@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [flexbox fully responsive navbar](https://medium.freecodecamp.org/how-to-create-a-fully-responsive-navbar-with-flexbox-a4435d175dd3)
 
+[flexbox bar nav - css-tricks](https://css-tricks.com/flexbox-bar-navigation/)
+
 [CRUZ - nprogress and react-router demo](https://react-z2z1qv.stackblitz.io)
 
 ### Fri 16 Nov 2018
