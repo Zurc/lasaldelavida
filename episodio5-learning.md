@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [flexbox bar nav - css-tricks](https://css-tricks.com/flexbox-bar-navigation/)
 
+[nav menus using flexbox](https://codepen.io/terrymun/pen/cKxwu)
+
 [CRUZ - nprogress and react-router demo](https://react-z2z1qv.stackblitz.io)
 
 ### Fri 16 Nov 2018
