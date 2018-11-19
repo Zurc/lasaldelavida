@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [nav menus using flexbox](https://codepen.io/terrymun/pen/cKxwu)
 
+[nav menu inspiration - codemyUI](https://codemyui.com/tag/navigation-menu/page/2/)
+
 [CRUZ - nprogress and react-router demo](https://react-z2z1qv.stackblitz.io)
 
 ### Fri 16 Nov 2018
