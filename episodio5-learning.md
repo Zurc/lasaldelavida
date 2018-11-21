@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 20 Nov 2018
+
+[RxFire - Firebase meets RxJS](https://www.youtube.com/watch?v=fq6UPn5H2Bs)
+
 ### Mon 19 Nov 2018
 
 [react router for beginners](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
