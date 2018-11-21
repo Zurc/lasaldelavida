@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 20 Nov 2018
 
+[websockets tut (chat) - youtube playlist](https://www.youtube.com/watch?v=vQjiN8Qgs3c&list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9)
+
 [Howie Liu - Airtable](https://www.youtube.com/watch?v=hGUCqWa0Msc)
 
 [RxFire - Firebase meets RxJS](https://www.youtube.com/watch?v=fq6UPn5H2Bs)
