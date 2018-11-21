@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Wed 20 Nov 2018
 
+[Howie Liu - Airtable](https://www.youtube.com/watch?v=hGUCqWa0Msc)
+
 [RxFire - Firebase meets RxJS](https://www.youtube.com/watch?v=fq6UPn5H2Bs)
 
 ### Mon 19 Nov 2018
