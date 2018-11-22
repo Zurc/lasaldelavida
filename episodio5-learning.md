@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 22 Nov 2018
 
+[khan academy - hour of programming](https://www.khanacademy.org/hourofcode)
+
 [react concepts after knowing the basics](https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030)
 
 regarding code teaching for refugees
