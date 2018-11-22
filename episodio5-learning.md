@@ -8,7 +8,9 @@ Interesting, collaborative [rich text editor](https://medium.com/front-end-hacki
 
 encontré una [versión de chat que hice un año atrás](https://cwd-chat.herokuapp.com) con Node.js y sockets.io...
 
-[versión chat using reactjs y socket.io](https://solvemprobler.com/blog/2013/06/16/reactjs-and-socket-dot-io-chat-application/)
+[chat version using reactjs socket.io](https://solvemprobler.com/blog/2013/06/16/reactjs-and-socket-dot-io-chat-application/)
+
+[chat version using angular typescript socket.io](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 
 ### Wed 21 Nov 2018
 
