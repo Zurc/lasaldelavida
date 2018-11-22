@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### Wed 20 Nov 2018
 
-[websockets tut (chat) - youtube playlist](https://www.youtube.com/watch?v=vQjiN8Qgs3c&list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9)
+[websockets tutorial (chat) - youtube playlist](https://www.youtube.com/watch?v=vQjiN8Qgs3c&list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9) from [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 [Howie Liu - Airtable](https://www.youtube.com/watch?v=hGUCqWa0Msc)
 
