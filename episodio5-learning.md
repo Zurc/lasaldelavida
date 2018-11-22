@@ -2,7 +2,11 @@
 
 Cosas que voy aprendiendo...
 
-### Wed 20 Nov 2018
+### Thu 22 Nov 2018
+
+Interesting, collaborative [rich text editor](https://medium.com/front-end-hacking/build-a-collaborative-rich-text-editor-with-node-js-and-socket-io-38ee25b6e315) (Froala) with Node.js and sockets.io 
+
+### Wed 21 Nov 2018
 
 CRUZ... cree mi propia versión básica 'websocket chat'
 
