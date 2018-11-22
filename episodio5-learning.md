@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 Interesting, collaborative [rich text editor](https://medium.com/front-end-hacking/build-a-collaborative-rich-text-editor-with-node-js-and-socket-io-38ee25b6e315) (Froala) with Node.js and sockets.io 
 
+encontré una [versión de chat que hice un año atrás](https://cwd-chat.herokuapp.com) con Node.js y sockets.io...
+
 ### Wed 21 Nov 2018
 
 CRUZ... cree mi propia versión básica 'websocket chat'
