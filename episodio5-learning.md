@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Thu 22 Nov 2018
 
+[react concepts after knowing the basics](https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030)
+
 regarding code teaching for refugees
 
 >  [medium article ](https://medium.freecodecamp.org/how-we-taught-dozens-of-refugees-to-code-then-helped-them-get-developer-jobs-fd37036c13b0)
