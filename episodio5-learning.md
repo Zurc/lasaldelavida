@@ -8,6 +8,8 @@ Interesting, collaborative [rich text editor](https://medium.com/front-end-hacki
 
 encontré una [versión de chat que hice un año atrás](https://cwd-chat.herokuapp.com) con Node.js y sockets.io...
 
+[versión chat using reactjs y socket.io](https://solvemprobler.com/blog/2013/06/16/reactjs-and-socket-dot-io-chat-application/)
+
 ### Wed 21 Nov 2018
 
 CRUZ... cree mi propia versión básica 'websocket chat'
