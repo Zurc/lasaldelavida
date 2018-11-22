@@ -4,6 +4,14 @@ Cosas que voy aprendiendo...
 
 ### Thu 22 Nov 2018
 
+regarding code teaching for refugees
+
+>  [medium article ](https://medium.freecodecamp.org/how-we-taught-dozens-of-refugees-to-code-then-helped-them-get-developer-jobs-fd37036c13b0)
+>  
+>  [Hack your future](http://hackyourfuture.net/)
+>  
+>  [Hack your future curriculum - github](https://github.com/HackYourFuture/curriculum/)
+
 Interesting, collaborative [rich text editor](https://medium.com/front-end-hacking/build-a-collaborative-rich-text-editor-with-node-js-and-socket-io-38ee25b6e315) (Froala) with Node.js and sockets.io 
 
 encontré una [versión de chat que hice un año atrás](https://cwd-chat.herokuapp.com) con Node.js y sockets.io...
