@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 23 Nov 2018
 
+Filling new challenges in freecodecamp - Basic HTML and HTML5 and Basic CSS -
+
 [build a clone of momentum chrome extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e)
 
 [how to identify a toxic culture before accepting a job offer](https://medium.com/fast-company/how-to-identify-a-toxic-culture-before-accepting-a-job-offer-e27709368f16)
