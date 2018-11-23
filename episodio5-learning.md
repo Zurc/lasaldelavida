@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [build a clone of momentum chrome extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e)
 
+[how to identify a toxic culture before accepting a job offer](https://medium.com/fast-company/how-to-identify-a-toxic-culture-before-accepting-a-job-offer-e27709368f16)
+
 ### Thu 22 Nov 2018
 
 [khan academy - hour of programming](https://www.khanacademy.org/hourofcode)
