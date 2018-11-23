@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Fri 23 Nov 2018
+
+[build a clone of momentum chrome extension](https://medium.com/@thejungwon/best-html-css-javascript-practice-chrome-extension-ae4e5e7839e)
+
 ### Thu 22 Nov 2018
 
 [khan academy - hour of programming](https://www.khanacademy.org/hourofcode)
