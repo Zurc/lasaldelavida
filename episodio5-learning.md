@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Sun 25 Nov 2018
+
+[nested ternaries are great - eric elliot](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
+
 ### Sat 24 Nov 2018
 
 [learnings after a year of react]( https://medium.com/@tomas.eglinskas/the-most-important-lessons-ive-learned-after-a-year-of-working-with-react-1de862421981?source=email-32afed580e42-1543049421116-digest.reader------0-1------------------5d0a96a9_96bb_4983_bbab_6102706c5823-1&sectionName=top )
