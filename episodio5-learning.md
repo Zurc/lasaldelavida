@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [Beginners JS study plan](https://medium.freecodecamp.org/a-beginners-javascript-study-plan-27f1d698ea5e)
 
+[TODO list in vanilla JS](https://medium.com/@Linda_Ikechukwu/building-a-to-do-list-app-with-vanilla-javascript-e27dda195fea)
+
 ### Sun 25 Nov 2018
 
 [nested ternaries are great - eric elliot](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
