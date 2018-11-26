@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [how to effectively develop vanilla JS app](https://www.codementor.io/vineetdev/how-to-effectively-develop-vanilla-javascript-application-5k19c0ct9)
 
+[codementor - how to build powerful rest apis blazingly fast with node](https://www.codementor.io/justinheadley/how-to-build-powerful-rest-apis-blazingly-fast-with-node-js-kwvfsviby)
+
 ### Sun 25 Nov 2018
 
 [nested ternaries are great - eric elliot](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
