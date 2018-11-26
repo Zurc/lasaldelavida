@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [app ideas - The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
+[learn JS before using JS frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)
+
 ### Sun 25 Nov 2018
 
 [nested ternaries are great - eric elliot](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
