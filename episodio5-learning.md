@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [SPA without framework - currency converter](https://www.sitepoint.com/single-page-app-without-framework/)
 
+[how to effectively develop vanilla JS app](https://www.codementor.io/vineetdev/how-to-effectively-develop-vanilla-javascript-application-5k19c0ct9)
+
 ### Sun 25 Nov 2018
 
 [nested ternaries are great - eric elliot](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
