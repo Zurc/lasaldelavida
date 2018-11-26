@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [TODO list in vanilla JS](https://medium.com/@Linda_Ikechukwu/building-a-to-do-list-app-with-vanilla-javascript-e27dda195fea)
 
+[SPA without framework - currency converter](https://www.sitepoint.com/single-page-app-without-framework/)
+
 ### Sun 25 Nov 2018
 
 [nested ternaries are great - eric elliot](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
