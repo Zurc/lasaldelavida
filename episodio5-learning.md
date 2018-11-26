@@ -18,6 +18,8 @@ Cosas que voy aprendiendo...
 
 [codementor - how to build powerful rest apis blazingly fast with node](https://www.codementor.io/justinheadley/how-to-build-powerful-rest-apis-blazingly-fast-with-node-js-kwvfsviby)
 
+[webpack - getting started](https://www.codementor.io/javascript/tutorial/module-bundler-webpack-getting-started-guide?icn=5k19c0ct9&ici=webpack-starter)
+
 ### Sun 25 Nov 2018
 
 [nested ternaries are great - eric elliot](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
