@@ -20,6 +20,8 @@ Cosas que voy aprendiendo...
 
 [webpack - getting started](https://www.codementor.io/javascript/tutorial/module-bundler-webpack-getting-started-guide?icn=5k19c0ct9&ici=webpack-starter)
 
+[connectin to hackernews firebase API](https://codeburst.io/on-connecting-my-app-to-the-hackernews-firebase-api-e7b9e1ccec29)
+
 ### Sun 25 Nov 2018
 
 [nested ternaries are great - eric elliot](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
