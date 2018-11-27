@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### Tue 27 Nov 2018
 
+[CRUZ - clone of Hackernews made with vanilla JS](https://js-8hiuw3.stackblitz.io/)
+
+[Hackernews -> edit view](https://stackblitz.com/edit/js-8hiuw3)
+
 [book online - You dont know JS - Kyle Sympson](https://github.com/getify/You-Dont-Know-JS)
 
 [learn vanilla JS - resource links](https://github.com/snipcart/learn-vanilla-js)
