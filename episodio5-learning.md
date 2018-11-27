@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [book online - You dont know JS - Kyle Sympson](https://github.com/getify/You-Dont-Know-JS)
 
+[learn vanilla JS - resource links](https://github.com/snipcart/learn-vanilla-js)
+
 ### Mon 26 Nov 2018
 
 [app ideas - The secret to being a top developer is building things! Here’s a list of fun apps to build!](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
