@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 After learning about React, you might get interested into learning about how to add automated tests to your app: [testing react apps with jest](https://auth0.com/blog/testing-react-applications-with-jest/)
 
+[learn more about react router](https://reacttraining.com/react-router/)
+
 ### Tue 27 Nov 2018
 
 [CRUZ - clone of Hackernews made with vanilla JS](https://js-8hiuw3.stackblitz.io/)
