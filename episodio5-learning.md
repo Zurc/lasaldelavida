@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 28 Nov 2018
+
+[Create React App with an Express Backend](https://www.youtube.com/watch?v=8bNlffXEcC0)
+
 ### Tue 27 Nov 2018
 
 [CRUZ - clone of Hackernews made with vanilla JS](https://js-8hiuw3.stackblitz.io/)
