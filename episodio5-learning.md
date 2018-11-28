@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 [Create React App with an Express Backend](https://www.youtube.com/watch?v=8bNlffXEcC0)
 
-[react tut, building and securing - Auth0](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
+[building and securing React QA app - Auth0](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 
 ### Tue 27 Nov 2018
 
