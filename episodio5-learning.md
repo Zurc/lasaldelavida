@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [building and securing React QA app - Auth0](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 
+>  great tutorial!
+
 ### Tue 27 Nov 2018
 
 [CRUZ - clone of Hackernews made with vanilla JS](https://js-8hiuw3.stackblitz.io/)
