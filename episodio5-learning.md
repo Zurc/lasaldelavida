@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [Node.js API Authentication With JWT - Traversy Media](https://www.youtube.com/watch?v=7nafaH9SddU)
 
+[Protected routes and authentication with React Router](https://www.youtube.com/watch?v=ojYbcon588A)
+
+[Fasting vs. Eating Less: What's the Difference? (Science of Fasting)](https://www.youtube.com/watch?v=APZCfmgzoS0)
+
 ### Wed 28 Nov 2018
 
 [Create React App with an Express Backend](https://www.youtube.com/watch?v=8bNlffXEcC0)
