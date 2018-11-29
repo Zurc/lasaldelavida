@@ -14,6 +14,8 @@ After learning about React, you might get interested into learning about how to 
 
 [learn more about react router](https://reacttraining.com/react-router/)
 
+[build a react app with authentication - scotch.io](https://scotch.io/tutorials/build-a-react-app-with-user-authentication)
+
 ### Tue 27 Nov 2018
 
 [CRUZ - clone of Hackernews made with vanilla JS](https://js-8hiuw3.stackblitz.io/)
