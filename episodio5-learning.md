@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 29 Nov 2018
+
+[Node.js API Authentication With JWT - Traversy Media](https://www.youtube.com/watch?v=7nafaH9SddU)
+
 ### Wed 28 Nov 2018
 
 [Create React App with an Express Backend](https://www.youtube.com/watch?v=8bNlffXEcC0)
