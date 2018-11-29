@@ -8,7 +8,7 @@ Cosas que voy aprendiendo...
 
 [building and securing React QA app - Auth0](https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/)
 
->  great tutorial!
+>  great tutorial! [here their github](https://github.com/auth0-blog/react-tutorial)
 
 After learning about React, you might get interested into learning about how to add automated tests to your app: [testing react apps with jest](https://auth0.com/blog/testing-react-applications-with-jest/)
 
