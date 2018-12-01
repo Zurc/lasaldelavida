@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Sat 1 Dec 2018
+
+[create react app template - perform common tasks (Eric Simons)](https://github.com/stackblitz/create-react-app-template)
+
 ### Fri 30 Nov 2018
 
 [NodeJS: How to consume REST apis from nodejs](https://www.youtube.com/watch?v=ilvmStvrEW0)
