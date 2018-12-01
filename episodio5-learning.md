@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 ['look forward to hear from you' alternatives](https://www.grammarly.com/blog/i-look-forward-to-hearing-from-you/)
 
+[money-sheep book (ideas for books business)](http://money-sheep.com)
+
 ### Fri 30 Nov 2018
 
 [NodeJS: How to consume REST apis from nodejs](https://www.youtube.com/watch?v=ilvmStvrEW0)
