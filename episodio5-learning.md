@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [NodeJS: How to consume REST apis from nodejs](https://www.youtube.com/watch?v=ilvmStvrEW0)
 
+[custom angular and react seeds on stackblitz](https://medium.com/@beeman/custom-angular-react-seeds-on-stackblitz-1996d502d177)
+
 ### Thu 29 Nov 2018
 
 [Node.js API Authentication With JWT - Traversy Media](https://www.youtube.com/watch?v=7nafaH9SddU)
