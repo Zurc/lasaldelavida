@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [(react) promises and error boundaries for data loading - codeburst](https://codeburst.io/using-promises-and-error-boundaries-for-data-loading-within-your-react-redux-app-219f8d3a6d26)
 
+[Processing errors with fetch api](https://gist.github.com/odewahn/5a5eeb23279eed6a80d7798fdb47fe91)
+
 ### Sat 1 Dec 2018
 
 [create react app template - perform common tasks (Eric Simons)](https://github.com/stackblitz/create-react-app-template)
