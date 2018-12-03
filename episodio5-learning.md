@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [Processing errors with fetch api](https://gist.github.com/odewahn/5a5eeb23279eed6a80d7798fdb47fe91)
 
+[you might not need proptypes](https://itnext.io/https-medium-com-phil-kahrl-you-might-not-need-proptypes-in-react-2363a4b4179b)
+
 ### Sat 1 Dec 2018
 
 [create react app template - perform common tasks (Eric Simons)](https://github.com/stackblitz/create-react-app-template)
