@@ -6,7 +6,9 @@ Cosas que voy aprendiendo...
 
 [think like a programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 
-[dave ceddia - react (teaching beginners)](https://codesandbox.io/s/zr7r1jo5mp)
+[cruz (codesandbox) dave ceddia - react (teaching beginners)](https://codesandbox.io/s/zr7r1jo5mp)
+
+[cruz (stackblitz) dave ceddia - react (teaching beginners)](https://stackblitz.com/edit/cruz-react-room-light-and-temp)
 
 [visual guide to state in react](https://daveceddia.com/visual-guide-to-state-in-react/?utm_campaign=prec3)
 
