@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Wed 5 Dec 2018
+
+[think like a programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+
+[dave ceddia - react (teaching beginners)](https://codesandbox.io/s/zr7r1jo5mp)
+
 ### Mon 3 Dec 2018
 
 [(react) promises and error boundaries for data loading - codeburst](https://codeburst.io/using-promises-and-error-boundaries-for-data-loading-within-your-react-redux-app-219f8d3a6d26)
