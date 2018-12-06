@@ -14,7 +14,7 @@ Kyle Simpson [(getify)](https://github.com/getify) [and here](https://me.getify.
 
 [David Walsh](https://davidwalsh.name/)
 
-
+Richard Bovell [(javascriptissexy)](http://javascriptissexy.com)
 
 ### Wed 5 Dec 2018
 
