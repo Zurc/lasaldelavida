@@ -20,6 +20,8 @@ Richard Bovell [(javascriptissexy)](http://javascriptissexy.com)
 
 [33 JS devs you 'must' subscribe](https://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151)
 
+[JS experts](https://www.quora.com/Who-are-the-leading-experts-in-JavaScript)
+
 ### Wed 5 Dec 2018
 
 [think like a programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
