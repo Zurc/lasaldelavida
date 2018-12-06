@@ -12,6 +12,8 @@ Javascript Masters:
 
 Kyle Simpson [(getify)](https://github.com/getify) [and here](https://me.getify.com/) - [pluralsight](https://www.pluralsight.com/authors/kyle-simpson)
 
+[David Walsh](https://davidwalsh.name/)
+
 
 
 ### Wed 5 Dec 2018
