@@ -16,6 +16,8 @@ Kyle Simpson [(getify)](https://github.com/getify) [and here](https://me.getify.
 
 Richard Bovell [(javascriptissexy)](http://javascriptissexy.com)
 
+[top 10 JS gurus](https://www.sitepoint.com/top-10-jquery-gurus-hit-internet/)
+
 ### Wed 5 Dec 2018
 
 [think like a programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
