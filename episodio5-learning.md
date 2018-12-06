@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Thu 6 Dec 2018
+
+[9 things react beginners should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
+
 ### Wed 5 Dec 2018
 
 [think like a programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
