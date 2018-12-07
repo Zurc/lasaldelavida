@@ -4,9 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Fri 7 Dec 2018
 
-[CRUZ (david Ceddia) react subreddit data with axios](https://react-getting-subreddit-data-with-axios.stackblitz.io)
+[CRUZ (Dave Ceddia) react subreddit data with axios](https://react-getting-subreddit-data-with-axios.stackblitz.io)
 
-[CRUZ (david Ceddia) react subreddit data with axios --EDIT](https://stackblitz.com/edit/react-getting-subreddit-data-with-axios)
+[CRUZ (Dave Ceddia) react subreddit data with axios --EDIT](https://stackblitz.com/edit/react-getting-subreddit-data-with-axios)
 
 ### Thu 6 Dec 2018
 
