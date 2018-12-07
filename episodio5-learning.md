@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Fri 7 Dec 2018
 
+[curated list of styled components resources](https://github.com/styled-components/awesome-styled-components)
+
 [CRUZ (Dave Ceddia) react subreddit data with axios](https://react-getting-subreddit-data-with-axios.stackblitz.io)
 
 [CRUZ (Dave Ceddia) react subreddit data with axios --EDIT](https://stackblitz.com/edit/react-getting-subreddit-data-with-axios)
