@@ -4,9 +4,13 @@ Cosas que voy aprendiendo...
 
 ### Fri 7 Dec 2018
 
+[beginners guide to redux saga](https://react.christmas/2018/7)
+
 [CRUZ - react subreddit + styled-components](https://stackblitz.com/edit/react-getting-subreddit-data-with-axios?file=index.js)
 
 [CRUZ - react subreddit + styled-components refactored](https://stackblitz.com/edit/react-getting-subreddit-data-with-axios-refactored)
+
+>  pushed to surge.sh... [CRUZ - react subreddit...](http://yellow-neck.surge.sh/)
 
 [conditional rendering in react (crr)](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
 
