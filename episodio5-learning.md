@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - react subreddit deployed to surge](vast-line.surge.sh)
 
+[teaching: JS functions basics](https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99)
+
 ### Thu 6 Dec 2018
 
 [9 things react beginners should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
