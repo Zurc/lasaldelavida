@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - react subreddit + styled-components](https://stackblitz.com/edit/react-getting-subreddit-data-with-axios?file=index.js)
 
+[CRUZ - react subreddit + styled-components refactored](https://stackblitz.com/edit/react-getting-subreddit-data-with-axios-refactored)
+
 [conditional rendering in react (crr)](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
 
 [crr 2](https://www.robinwieruch.de/conditional-rendering-react/)
