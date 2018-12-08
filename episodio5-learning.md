@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Fri 7 Dec 2018
 
-[conditional rendering in react](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
+[conditional rendering in react (crr)](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
+
+[crr 2](https://www.robinwieruch.de/conditional-rendering-react/)
 
 [curated list of styled components resources](https://github.com/styled-components/awesome-styled-components)
 
