@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [codrops - twitter](https://twitter.com/codrops)
 
+[UX - design - psychology - Gestalt](https://hackernoon.com/design-psychology-gestalt-driven-ux-64ac01cd257a)
+
 ### Fri 7 Dec 2018
 
 [beginners guide to redux saga](https://react.christmas/2018/7)
