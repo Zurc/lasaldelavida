@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### Mon 10 Dec 2018
+
+[codrops - twitter](https://twitter.com/codrops)
+
 ### Fri 7 Dec 2018
 
 [beginners guide to redux saga](https://react.christmas/2018/7)
