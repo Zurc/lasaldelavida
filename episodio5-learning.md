@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### Tue 11 Dec 2018
 
+[CRUZ - codepen hackernews grid test](https://codepen.io/CruzWeb/pen/xmGOoZ?editors=1100)
+
 [species in pieces - css](http://species-in-pieces.com)
 
 [unheap - library of JS plugins](http://www.unheap.com/)
