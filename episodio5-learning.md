@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### Tue 11 Dec 2018
+
+[species in pieces - css](http://species-in-pieces.com)
+
+[unheap - library of JS plugins](http://www.unheap.com/)
+
 ### Mon 10 Dec 2018
 
 [codrops - twitter](https://twitter.com/codrops)
