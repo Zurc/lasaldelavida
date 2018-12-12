@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - codepen hackernews grid test](https://codepen.io/CruzWeb/pen/xmGOoZ?editors=1100)
 
+[recreating google images search layout - sitepoint](https://www.sitepoint.com/recreating-google-images-search-layout-css/)
+
 [species in pieces - css](http://species-in-pieces.com)
 
 [unheap - library of JS plugins](http://www.unheap.com/)
