@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [recreating google images search layout - sitepoint](https://www.sitepoint.com/recreating-google-images-search-layout-css/)
 
+[tympanus - thumbnail grid with expanding preview](https://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/)
+
 [species in pieces - css](http://species-in-pieces.com)
 
 [unheap - library of JS plugins](http://www.unheap.com/)
