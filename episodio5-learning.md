@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### Tue 11 Dec 2018
 
-[CRUZ - codepen hackernews grid test](https://codepen.io/CruzWeb/pen/xmGOoZ?editors=1100)
+[CRUZ - google images search layout for hackernews (stackblitz)](https://stackblitz.com/edit/react-pfss3y?file=cell.css)
+
+[CRUZ - google images search layout for hackernews (codepen)](https://codepen.io/CruzWeb/pen/xmGOoZ?editors=1100)
 
 [recreating google images search layout - sitepoint](https://www.sitepoint.com/recreating-google-images-search-layout-css/)
 
