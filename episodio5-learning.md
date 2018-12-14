@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [UI - card idea](https://dribbble.com/shots/1553875-Post-sections/attachments/237571)
 
+[flexbox - create modern card design layout](https://getflywheel.com/layout/flexbox-create-modern-card-design-layout/)
+
 ### Wed 12 Dec 2018
 
 [Flexbox vs? CSS Grid - Jen ](https://www.youtube.com/watch?v=hs3piaN4b5I)
