@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [sticky footer with flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
 
+[UI - card idea](https://dribbble.com/shots/1553875-Post-sections/attachments/237571)
+
 ### Wed 12 Dec 2018
 
 [Flexbox vs? CSS Grid - Jen ](https://www.youtube.com/watch?v=hs3piaN4b5I)
