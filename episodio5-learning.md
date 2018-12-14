@@ -2,11 +2,25 @@
 
 Cosas que voy aprendiendo...
 
+### 14 Dec 2018
+
+[CRUZ - new hackernews (stackblitz)](https://stackblitz.com/edit/react-expand-details-on-row-eme8pe)
+
+[sticky footer with flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
+
+### Wed 12 Dec 2018
+
+[Flexbox vs? CSS Grid - Jen ](https://www.youtube.com/watch?v=hs3piaN4b5I)
+
+[Real Digital Watercolor Painting in Photoshop - The Most SIMPLE Tutorial for Artists!](https://www.youtube.com/watch?v=MrGNiDdIR9o)
+
+[Best Watercolor Tips I Wish I Had Known Two Decades Ago](https://www.youtube.com/watch?v=PQKDjNhZitQ)
+
 ### Tue 11 Dec 2018
 
-[CRUZ - google images search layout for hackernews (stackblitz)](https://stackblitz.com/edit/react-pfss3y?file=cell.css)
+[CRUZ - new hackernews (stackblitz)](https://stackblitz.com/edit/react-pfss3y?file=cell.css)
 
-[CRUZ - google images search layout for hackernews (codepen)](https://codepen.io/CruzWeb/pen/xmGOoZ?editors=1100)
+[CRUZ - new hackernews (codepen)](https://codepen.io/CruzWeb/pen/xmGOoZ?editors=1100)
 
 [recreating google images search layout - sitepoint](https://www.sitepoint.com/recreating-google-images-search-layout-css/)
 
