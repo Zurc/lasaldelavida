@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 14 Dec 2018
 
+[surge and github pages deployment](https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089)
+
 [CRUZ - new hackernews (stackblitz)](https://stackblitz.com/edit/react-expand-details-on-row-eme8pe)
 
 [sticky footer with flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
