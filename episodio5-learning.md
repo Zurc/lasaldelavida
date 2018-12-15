@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - new hackernews (surge!)](http://hackernews-restyled.surge.sh/)
 
+[CRUZ - new hackernews (stackblitz) - cleaning index.js](https://stackblitz.com/edit/react-expand-details-on-row-5js5ux)
+
 [‬In what way is JS any more maintainable than CSS? How does writing CSS in JS make it any more maintainable?](https://gist.github.com/threepointone/731b0c47e78d8350ae4e105c1a83867d)
 
 ### 14 Dec 2018
