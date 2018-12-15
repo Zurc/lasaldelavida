@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [surge and github pages deployment](https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089)
 
+>  make sure you check the '.../build' is added to your path when deploying to surge!!!
+
 [CRUZ - new hackernews (stackblitz) III](https://stackblitz.com/edit/react-expand-details-on-row-jiug8n)
 
 [CRUZ - new hackernews (stackblitz) II](https://stackblitz.com/edit/react-expand-details-on-row-eme8pe)
