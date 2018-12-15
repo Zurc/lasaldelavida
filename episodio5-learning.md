@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Dec 2018
 
+[dave ceddia - modal in react](https://daveceddia.com/open-modal-in-react/)
+
 [CRUZ - new hackernews (surge!)](http://hackernews-restyled.surge.sh/)
 
 [CRUZ - new hackernews (stackblitz) - cleaning index.js](https://stackblitz.com/edit/react-expand-details-on-row-5js5ux)
