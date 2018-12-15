@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Dec 2018
 
+[Improve Your Buildings in Watercolour - Part One](https://www.youtube.com/watch?v=lLA1Cl52j2Y)
+
 [dave ceddia - modal in react](https://daveceddia.com/open-modal-in-react/)
 
 [CRUZ - new hackernews (surge!)](http://hackernews-restyled.surge.sh/)
