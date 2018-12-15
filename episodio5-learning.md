@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Improve Your Buildings in Watercolour - Part One](https://www.youtube.com/watch?v=lLA1Cl52j2Y)
 
+[Improve Your Buildings in Watercolour - Part Two](https://www.youtube.com/watch?v=NYG9d8JtQeE)
+
 [dave ceddia - modal in react](https://daveceddia.com/open-modal-in-react/)
 
 [CRUZ - new hackernews (surge!)](http://hackernews-restyled.surge.sh/)
