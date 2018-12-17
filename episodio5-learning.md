@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [how to write user stories](http://agifall.com/how-to-write-user-stories/)
 
+[writing complete user stories](http://tynerblain.com/blog/2009/07/06/writing-complete-user-stories/)
+
 ### 15 Dec 2018
 
 [Improve Your Buildings in Watercolour - Part One](https://www.youtube.com/watch?v=lLA1Cl52j2Y)
