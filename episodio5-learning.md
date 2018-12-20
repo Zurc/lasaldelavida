@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 19 Dec 2018
 
-[closebrackets cheatsheets thanks (links about express workflow, converting to mysql... etc)](https://closebrace.com/cheatsheetthanks)
+[closebrace Creating a Simple RESTful Web App with Node.js, Express, and MongoDB](https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb)
+
+[closebrace cheatsheets thanks (links about express workflow, converting to mysql... etc)](https://closebrace.com/cheatsheetthanks)
 
 [The Dead-Simple Step-By-Step Guide for Front-End Developers to Getting Up and Running With Node.JS, Express, and MongoDB](https://closebrace.com/tutorials/2017-03-02/the-dead-simple-step-by-step-guide-for-front-end-developers-to-getting-up-and-running-with-nodejs-express-and-mongodb)
 
