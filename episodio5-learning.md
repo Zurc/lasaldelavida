@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 19 Dec 2018
 
-[step by step FE devs guide to get up and running with nodejs](https://closebrace.com/tutorials/2017-03-02/the-dead-simple-step-by-step-guide-for-front-end-developers-to-getting-up-and-running-with-nodejs-express-and-mongodb)
+[The Dead-Simple Step-By-Step Guide for Front-End Developers to Getting Up and Running With Node.JS, Express, and MongoDB](https://closebrace.com/tutorials/2017-03-02/the-dead-simple-step-by-step-guide-for-front-end-developers-to-getting-up-and-running-with-nodejs-express-and-mongodb)
 
 ### 17 Dec 2018
 
