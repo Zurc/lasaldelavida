@@ -4,6 +4,15 @@ Cosas que voy aprendiendo...
 
 ### 21 Dec 2018
 
+git: remove node_modules in a repo [ref](https://stackoverflow.com/questions/50675829/remove-node-modules-from-git-in-vscode)
+
+```
+git rm -r --cached .
+git add .
+git commit -m "remove gitignore files"
+git push
+```
+
 git: after cloning something, remove remote...
 
 ```
