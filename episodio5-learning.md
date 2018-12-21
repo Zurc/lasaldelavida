@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 21 Dec 2018
 
+jest: npm script to chech any changes
+
+```
+"test" : "jest --watchAll"
+```
+
 git: remove node_modules in a repo [ref](https://stackoverflow.com/questions/50675829/remove-node-modules-from-git-in-vscode)
 
 ```
