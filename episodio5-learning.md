@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Traversy Media - YT playlist Node.js & Express From Scratch](https://www.youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
 
+[flexjobs video course - finding a remote job](https://www.flexjobs.com/finding-a-remote-job-video-course)
+
 ### 19 Dec 2018
 
 [closebrace Creating a Simple RESTful Web App with Node.js, Express, and MongoDB](https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb)
