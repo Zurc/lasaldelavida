@@ -4,6 +4,19 @@ Cosas que voy aprendiendo...
 
 ### 21 Dec 2018
 
+VSCode > extension: Prettier Now (by Remi Marsal)
+
+>  Format On Save
+>  
+>  Set editor.formatOnSave to true in settings to automatically format files on save.
+>  
+>  Or using Command Palette (CMD + Shift + P)
+>  
+>  ```
+>  CMD + Shift + P -> Format Document
+>  ```
+
+
 jest: npm script to chech any changes
 
 ```
