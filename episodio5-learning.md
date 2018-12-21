@@ -4,7 +4,29 @@ Cosas que voy aprendiendo...
 
 ### 21 Dec 2018
 
+git: after cloning something, remove remote...
+
+```
+git remote rm origin
+```
+
+and then create your repo and add your new remote origin
+
+or (quicker) fork the project and you'll have your remote...
+
+npm: Auditing package dependencies for security vulnerabilities
+
+```
+npm audit
+npm audit fix
+```
+
 [#1 Setup & Writing Our First Jest Test - JS Testing 101 with Jest](https://www.youtube.com/watch?v=4kNfeI37xu4&list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y)
+
+[#2 Multiple Test Cases - JS Testing 101 with Jest](https://www.youtube.com/watch?v=zkG_ClTJ9UM&list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y&index=2)
+
+[#3 Test Driven Development & Refactoring - JS Testing 101 with Jest](https://www.youtube.com/watch?v=6pYUzEduLyU&list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y&index=3)
+
 
 ### 20 Dec 2018
 
