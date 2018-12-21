@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Dec 2018
+
+[#1 Setup & Writing Our First Jest Test - JS Testing 101 with Jest](https://www.youtube.com/watch?v=4kNfeI37xu4&list=PLLnpHn493BHEB-YOl0APuQsrzlb3zbq3y)
+
 ### 20 Dec 2018
 
 [Traversy Media - YT playlist Node.js & Express From Scratch](https://www.youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
