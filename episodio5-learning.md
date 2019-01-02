@@ -2,7 +2,7 @@
 
 Cosas que voy aprendiendo...
 
-### 2 Jan 2018
+### 2 Jan 2019
 
 [Jest Crash Course - Unit Testing in JavaScript - Traversy media](https://www.youtube.com/watch?v=7r4xVDI2vho)
 
