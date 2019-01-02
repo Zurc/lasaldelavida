@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 2 Jan 2018
+
+[Jest Crash Course - Unit Testing in JavaScript - Traversy media](https://www.youtube.com/watch?v=7r4xVDI2vho)
+
 ### 21 Dec 2018
 
 VSCode > extension: Prettier Now (by Remi Marsal)
