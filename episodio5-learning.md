@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 3 Jan 2019
+
+estuve viendo [Ionic 3 Mobile Weather App Build](https://www.youtube.com/watch?v=qs2n_poLarc)
+
 ### 2 Jan 2019
 
 [Jest Crash Course - Unit Testing in JavaScript - Traversy media](https://www.youtube.com/watch?v=7r4xVDI2vho)
