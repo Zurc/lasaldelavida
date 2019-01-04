@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 4 Jan 2019
+
+[Intro - React Testing For Beginners - LevelUp Tuts](https://www.youtube.com/watch?v=esVwR4lGwQE&list=PLLnpHn493BHEqP3gD1pCJYhxX6v2gBZzj)
+
+>  started Pluralsight - testing react apps with Jest - Daniel Stern
+
 ### 3 Jan 2019
 
 estuve viendo [Ionic 3 Mobile Weather App Build](https://www.youtube.com/watch?v=qs2n_poLarc)
