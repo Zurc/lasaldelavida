@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 >  started Pluralsight - testing react apps with Jest - Daniel Stern
 
+(check his course on "Isomorphic react")
+
 ### 3 Jan 2019
 
 estuve viendo [Ionic 3 Mobile Weather App Build](https://www.youtube.com/watch?v=qs2n_poLarc)
