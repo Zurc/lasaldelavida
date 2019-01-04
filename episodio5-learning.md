@@ -7,8 +7,8 @@ Cosas que voy aprendiendo...
 [Intro - React Testing For Beginners - LevelUp Tuts](https://www.youtube.com/watch?v=esVwR4lGwQE&list=PLLnpHn493BHEqP3gD1pCJYhxX6v2gBZzj)
 
 >  started Pluralsight - testing react apps with Jest - Daniel Stern
-
-(check his course on "Isomorphic react")
+>  
+>  check his course on "Isomorphic react", it's recommended first, before the testing with jest
 
 ### 3 Jan 2019
 
