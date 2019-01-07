@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 7 Jan 2019
 
+[3 input elem props discovered while reading MDN](https://www.stefanjudis.com/blog/three-input-element-properties-that-i-discovered-while-reading-mdn/)
+
 [JavaScript Monthly Payment Loan Calculator Programming Tutorial](https://www.youtube.com/watch?v=vkBiEuZSq9s)
 
 [CRUZ - JS loan calculator - stackblitz edit](https://stackblitz.com/edit/js-monthly-payment-loan-calculator)
