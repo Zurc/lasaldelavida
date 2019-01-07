@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [JavaScript Monthly Payment Loan Calculator Programming Tutorial](https://www.youtube.com/watch?v=vkBiEuZSq9s)
 
+[CRUZ - JS loan calculator - stackblitz edit](https://stackblitz.com/edit/js-monthly-payment-loan-calculator)
+
 ### 4 Jan 2019
 
 [Intro - React Testing For Beginners - LevelUp Tuts](https://www.youtube.com/watch?v=esVwR4lGwQE&list=PLLnpHn493BHEqP3gD1pCJYhxX6v2gBZzj)
