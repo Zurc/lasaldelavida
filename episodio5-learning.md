@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 8 Jan 2019
+
+[why Angular doesn't work - 11 common mistakes](https://malcoded.com/posts/why-angular-not-works)
+
 ### 7 Jan 2019
 
 [3 input elem props discovered while reading MDN](https://www.stefanjudis.com/blog/three-input-element-properties-that-i-discovered-while-reading-mdn/)
