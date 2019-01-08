@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [why Angular doesn't work - 11 common mistakes](https://malcoded.com/posts/why-angular-not-works)
 
+[angular bad practices](https://codeburst.io/angular-bad-practices-eab0e594ce92)
+
 ### 7 Jan 2019
 
 [3 input elem props discovered while reading MDN](https://www.stefanjudis.com/blog/three-input-element-properties-that-i-discovered-while-reading-mdn/)
