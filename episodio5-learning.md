@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 >  
 >  Measure real progress. 'One side advantage of accurate estimations is that you improve your standing among your peers and the customer starts “believing” in you. This acts as a catalyst for boosting your self-esteem and works wonders on your confidence levels.'
 >
+>  Keep all informed: 'The less people know, the more they yell'
+>  
 >  
 
 ### 8 Jan 2019
