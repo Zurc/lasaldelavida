@@ -19,6 +19,8 @@ The key is to “always under commit but over deliver”'
 
 [css-tricks - CSS styling links like a boss](https://css-tricks.com/css-basics-styling-links-like-boss/)
 
+[Awesome CSS buttons](https://codepixelz.com/css/awesome-css-buttons/)
+
 ### 8 Jan 2019
 
 [why Angular doesn't work - 11 common mistakes](https://malcoded.com/posts/why-angular-not-works)
