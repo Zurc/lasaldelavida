@@ -12,7 +12,8 @@ Cosas que voy aprendiendo...
 >  
 >  Measure real progress. 'One side advantage of accurate estimations is that you improve your standing among your peers and the customer starts “believing” in you. This acts as a catalyst for boosting your self-esteem and works wonders on your confidence levels.'
 >
->  Keep all informed: 'The less people know, the more they yell'
+>  Keep all informed: 'The less people know, the more they yell'. 'By keeping others informed, you eliminate surprises and they are comfortable when they know your progress. They know when to help you out and you end up “earning their trust”.
+The key is to “always under commit but over deliver”'
 >  
 >  
 
