@@ -25,6 +25,8 @@ The key is to “always under commit but over deliver”'
 
 [MDN - Using CSS gradients](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients)
 
+[Starting an Angular App with Angular CLI in a couple of minutes](https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272)
+
 ### 8 Jan 2019
 
 [why Angular doesn't work - 11 common mistakes](https://malcoded.com/posts/why-angular-not-works)
