@@ -15,7 +15,7 @@ Cosas que voy aprendiendo...
 >  Keep all informed: 'The less people know, the more they yell'. 'By keeping others informed, you eliminate surprises and they are comfortable when they know your progress. They know when to help you out and you end up “earning their trust”.
 The key is to “always under commit but over deliver”'
 >  
->  
+>  'Age is a case of mind over matter. If you don’t mind, it doesn’t matter'
 
 ### 8 Jan 2019
 
