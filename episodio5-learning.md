@@ -2,6 +2,18 @@
 
 Cosas que voy aprendiendo...
 
+### 9 Jan 2019
+
+[How to learn to programming if you are over 50](https://medium.com/swlh/how-to-learn-programming-if-you-are-over-50-34a23f0f4870)
+
+>  'Question until you understand'. 'The power to question is the basis of all human progress'
+>  
+>  Get feedback, 'In the real world, requirements are as fluid as ink and constantly evolving (...) That is why frequent feedback is so important; from your peers, from your customers and even from your third-party vendors with whom your code is been integrated.'
+>  
+>  Measure real progress. 'One side advantage of accurate estimations is that you improve your standing among your peers and the customer starts “believing” in you. This acts as a catalyst for boosting your self-esteem and works wonders on your confidence levels.'
+>
+>  
+
 ### 8 Jan 2019
 
 [why Angular doesn't work - 11 common mistakes](https://malcoded.com/posts/why-angular-not-works)
