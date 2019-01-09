@@ -17,6 +17,8 @@ The key is to “always under commit but over deliver”'
 >  
 >  'Age is a case of mind over matter. If you don’t mind, it doesn’t matter'
 
+[css-tricks - CSS styling links like a boss](https://css-tricks.com/css-basics-styling-links-like-boss/)
+
 ### 8 Jan 2019
 
 [why Angular doesn't work - 11 common mistakes](https://malcoded.com/posts/why-angular-not-works)
