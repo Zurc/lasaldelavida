@@ -27,6 +27,8 @@ The key is to “always under commit but over deliver”'
 
 [Starting an Angular App with Angular CLI in a couple of minutes](https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272)
 
+[Webinar: latest Angular 2 Forms w/ Kara Erickson (LIVE)](https://youtu.be/E92KS_YCSf8?list=PLeUKuUUYwJtrW1X_1taA08SZtM8IQyehN)
+
 ### 8 Jan 2019
 
 [why Angular doesn't work - 11 common mistakes](https://malcoded.com/posts/why-angular-not-works)
