@@ -4,12 +4,15 @@ Cosas que voy aprendiendo...
 
 ### 10 Jan 2019
 
+[](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
+
 [Scrum: How to do twice as much in half the time | Jeff Sutherland | TEDxAix](https://www.youtube.com/watch?v=s4thQcgLCqk)
 
 >  Nonaka and Takeuchi: 3 different types of leadership. 1. Gantt chart, 2. Fuji Xerox (transitional strategy), 3. best manufacturing plants in the world
 >  
 >  self-organised, self-motivated teams. Management needs to let go and step back. They need to go out of the way, so the teams can figure it out what to do... 2001 agile manifesto
 
+**IDEA** apply agile/scrum methodologies to learning...
 
 [Code org youtube playlist](https://www.youtube.com/user/CodeOrg/playlists)
 
