@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Jan 2019
 
+[JS - remove elem from array](https://www.hostingadvice.com/how-to/javascript-remove-element-array/)
+
 [Using StackBlitz & Angular for Rapid App Prototyping - Eric Simons and Albert Pai](https://www.youtube.com/watch?v=EBzoTnX6LzU&t=689s)
 
 [The art of computer programming](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf)
