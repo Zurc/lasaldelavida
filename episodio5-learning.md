@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Jan 2019
 
+[Scrum: How to do twice as much in half the time | Jeff Sutherland | TEDxAix](https://www.youtube.com/watch?v=s4thQcgLCqk)
+
 [Code org youtube playlist](https://www.youtube.com/user/CodeOrg/playlists)
 
 ### 9 Jan 2019
