@@ -26,7 +26,9 @@ are equivalent
 
 **IDEA** apply agile/scrum methodologies to learning...
 
-[Code org youtube playlist](https://www.youtube.com/user/CodeOrg/playlists)
+[Code Org - youtube playlist](https://www.youtube.com/user/CodeOrg/playlists)
+
+[Code Org - teachers](https://studio.code.org/courses?view=teacher)
 
 ### 9 Jan 2019
 
