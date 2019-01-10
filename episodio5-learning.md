@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Jan 2019
+
+[Code org youtube playlist](https://www.youtube.com/user/CodeOrg/playlists)
+
 ### 9 Jan 2019
 
 [How to learn to programming if you are over 50](https://medium.com/swlh/how-to-learn-programming-if-you-are-over-50-34a23f0f4870)
