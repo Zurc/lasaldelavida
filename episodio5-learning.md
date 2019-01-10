@@ -4,7 +4,11 @@ Cosas que voy aprendiendo...
 
 ### 10 Jan 2019
 
-[](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
+[The art of computer programming](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf)
+
+[A self-learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
+[book - Common Lisp, a gentle introduction to symbolic computation](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
 
 [Scrum: How to do twice as much in half the time | Jeff Sutherland | TEDxAix](https://www.youtube.com/watch?v=s4thQcgLCqk)
 
