@@ -10,6 +10,14 @@ Cosas que voy aprendiendo...
 
 [book - Common Lisp, a gentle introduction to symbolic computation](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
 
+>  From the point of view of the data: The numbers 2
+and 3 flow into the function, and the number 5 flows out. From the point of
+view of the function: The function ‘‘+’’ received the numbers 2 and 3 as
+inputs, and it produced 5 as its result. From the programmer’s point of view:
+We called (or invoked) the function ‘‘+’’ on the inputs 2 and 3, and the
+function returned 5. These different ways of talking about functions and data
+are equivalent
+
 [Scrum: How to do twice as much in half the time | Jeff Sutherland | TEDxAix](https://www.youtube.com/watch?v=s4thQcgLCqk)
 
 >  Nonaka and Takeuchi: 3 different types of leadership. 1. Gantt chart, 2. Fuji Xerox (transitional strategy), 3. best manufacturing plants in the world
