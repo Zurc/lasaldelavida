@@ -26,6 +26,8 @@ are equivalent
 
 **IDEA** apply agile/scrum methodologies to learning...
 
+[Google Ventures - Sprint](http://www.gv.com/sprint/)
+
 [Code Org - youtube playlist](https://www.youtube.com/user/CodeOrg/playlists)
 
 [Code Org - teachers](https://studio.code.org/courses?view=teacher)
