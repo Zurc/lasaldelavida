@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Jan 2019
 
+[love2dev JS remove from array](https://love2dev.com/blog/javascript-remove-from-array/)
+
 [JS - remove elem from array](https://www.hostingadvice.com/how-to/javascript-remove-element-array/)
 
 [Using StackBlitz & Angular for Rapid App Prototyping - Eric Simons and Albert Pai](https://www.youtube.com/watch?v=EBzoTnX6LzU&t=689s)
