@@ -4,7 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 11 Jan 2019
 
-Interesting [Codecourse.com](https://codecourse.com/library/all?free=true)
+>  Interesting: 
+>  
+>    [Codecourse.com](https://codecourse.com/library/all?free=true)
+>  
+>    [LearnCode.academy youtube channel](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+
 
 eg. [HTML5 input types](https://codecourse.com/courses/html5-input-types)
 
