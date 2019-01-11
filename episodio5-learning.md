@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Git & GitHub: Pull requests - Codecourse youtube](https://www.youtube.com/watch?v=FQsBmnZvBdc)
 
+[Github help - about pull requests](https://help.github.com/articles/about-pull-requests/)
+
 [What are microservices?](https://smartbear.com/learn/api-design/what-are-microservices/)
 
 [microservices tutorial with example](https://www.edureka.co/blog/microservices-tutorial-with-example)
