@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [microservices tutorial with example](https://www.edureka.co/blog/microservices-tutorial-with-example)
 
+[microservices architecture example and diagram](https://www.devteam.space/blog/microservice-architecture-examples-and-diagram/)
+
 ### 10 Jan 2019
 
 [love2dev JS remove from array](https://love2dev.com/blog/javascript-remove-from-array/)
