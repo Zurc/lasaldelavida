@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Jan 2019
 
+[Git & GitHub: Pull requests - Codecourse youtube](https://www.youtube.com/watch?v=FQsBmnZvBdc)
+
 [What are microservices?](https://smartbear.com/learn/api-design/what-are-microservices/)
 
 [microservices tutorial with example](https://www.edureka.co/blog/microservices-tutorial-with-example)
