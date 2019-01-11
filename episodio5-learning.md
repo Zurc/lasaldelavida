@@ -12,6 +12,8 @@ eg. [HTML5 input types](https://codecourse.com/courses/html5-input-types)
 
 [Github help - about pull requests](https://help.github.com/articles/about-pull-requests/)
 
+[LearnCode Academy - GITHUB PULL REQUEST, Branching, Merging & Team Workflow](https://www.youtube.com/watch?v=oFYyTZwMyAg)
+
 [What are microservices?](https://smartbear.com/learn/api-design/what-are-microservices/)
 
 [microservices tutorial with example](https://www.edureka.co/blog/microservices-tutorial-with-example)
