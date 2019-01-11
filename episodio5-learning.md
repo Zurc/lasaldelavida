@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 Interesting [Codecourse.com](https://codecourse.com/library/all?free=true)
 
+eg. [HTML5 input types](https://codecourse.com/courses/html5-input-types)
+
 [Git & GitHub: Pull requests - Codecourse youtube](https://www.youtube.com/watch?v=FQsBmnZvBdc)
 
 [Github help - about pull requests](https://help.github.com/articles/about-pull-requests/)
