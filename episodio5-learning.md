@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 12 Jan 2019
+
+[working w/ models in angular](https://nehalist.io/working-with-models-in-angular/)
+
 ### 11 Jan 2019
 
 >  Interesting: 
