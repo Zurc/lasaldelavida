@@ -10,6 +10,8 @@ Fonts inspiration
 
 [top 5 UI fonts...](https://medium.muz.li/top-5-ui-fonts-for-website-mobile-apps-d78829e58f7e)
 
+[elegantthemes - best web fonts](https://www.elegantthemes.com/blog/resources/best-web-fonts)
+
 [Here](https://angular.io/guide/template-syntax) we can read about the difference btwn HTML and DOM
 
 ### 12 Jan 2019
