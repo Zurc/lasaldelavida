@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Jan 2019
+
+[Here](https://angular.io/guide/template-syntax) we can read about the difference btwn HTML and DOM
+
 ### 12 Jan 2019
 
 [working w/ models in angular](https://nehalist.io/working-with-models-in-angular/)
