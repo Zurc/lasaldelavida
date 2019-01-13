@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 13 Jan 2019
 
+Fonts inspiration
+
+[typewolf - best google fonts](https://www.typewolf.com/google-fonts)
+
 [Here](https://angular.io/guide/template-syntax) we can read about the difference btwn HTML and DOM
 
 ### 12 Jan 2019
