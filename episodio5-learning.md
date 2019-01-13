@@ -8,6 +8,8 @@ Fonts inspiration
 
 [typewolf - best google fonts](https://www.typewolf.com/google-fonts)
 
+[top 5 UI fonts...](https://medium.muz.li/top-5-ui-fonts-for-website-mobile-apps-d78829e58f7e)
+
 [Here](https://angular.io/guide/template-syntax) we can read about the difference btwn HTML and DOM
 
 ### 12 Jan 2019
