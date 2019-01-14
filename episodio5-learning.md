@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 13 Jan 2019
 
+[alligator - angular environment variables](https://alligator.io/angular/environment-variables/)
+
 [CRUZ - stamp duty land tax calculator (stackblitz edit)](https://stackblitz.com/edit/angular-hkguav)
 
 [CRUZ - stamp duty land tax calculator (surge)](http://sdlt-calculator.surge.sh/)
