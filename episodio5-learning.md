@@ -14,6 +14,8 @@ Fonts inspiration
 
 [Here](https://angular.io/guide/template-syntax) we can read about the difference btwn HTML and DOM
 
+[how to build an Angular app w/ angular CLI in a couple of minutes](https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272)
+
 ### 12 Jan 2019
 
 [working w/ models in angular](https://nehalist.io/working-with-models-in-angular/)
