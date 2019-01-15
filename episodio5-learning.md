@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [codesandbox - example of react-collect and material-ui](https://codesandbox.io/s/lxy1mz200l)
 
+[React state management patterns](https://itnext.io/react-state-management-patterns-908325dbb8f3)
+
 ### 13 Jan 2019
 
 [alligator - angular environment variables](https://alligator.io/angular/environment-variables/)
