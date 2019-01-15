@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [programming pples KISS, YAGNI, DRY...](https://www.itexico.com/blog/software-development-kiss-yagni-dry-3-principles-to-simplify-your-life)
 
+[CSS-Tricks - react state from the ground up](https://css-tricks.com/react-state-from-the-ground-up/)
+
 ### 13 Jan 2019
 
 [alligator - angular environment variables](https://alligator.io/angular/environment-variables/)
