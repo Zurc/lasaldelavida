@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [React state management patterns](https://itnext.io/react-state-management-patterns-908325dbb8f3)
 
+[programming pples KISS, YAGNI, DRY...](https://www.itexico.com/blog/software-development-kiss-yagni-dry-3-principles-to-simplify-your-life)
+
 ### 13 Jan 2019
 
 [alligator - angular environment variables](https://alligator.io/angular/environment-variables/)
