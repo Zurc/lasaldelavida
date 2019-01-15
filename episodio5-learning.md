@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [CSS-Tricks - react state from the ground up](https://css-tricks.com/react-state-from-the-ground-up/)
 
+[interview questions about why you want to change jobs](https://www.thebalancecareers.com/interview-questions-about-why-you-want-to-change-jobs-2061154)
+
 ### 13 Jan 2019
 
 [alligator - angular environment variables](https://alligator.io/angular/environment-variables/)
