@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [interview questions about why you want to change jobs](https://www.thebalancecareers.com/interview-questions-about-why-you-want-to-change-jobs-2061154)
 
+[things to consider when looking new job](http://mentalfloss.com/article/71617/8-things-consider-when-looking-new-job)
+
 ### 13 Jan 2019
 
 [alligator - angular environment variables](https://alligator.io/angular/environment-variables/)
