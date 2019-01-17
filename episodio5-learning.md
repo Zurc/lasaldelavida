@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 17 Jan 2019
 
+[lengstorf - works at gatsby](https://lengstorf.com/)
+
 [egghead - slide deck with mdx (markdown and react)](https://egghead.io/lessons/react-build-a-slide-deck-with-mdx-deck-using-markdown-react)
 
 [egghead - MDX blog starter project](egghead.io creator MDX Blog Starter Project)
