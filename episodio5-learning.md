@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [egghead - slide deck with mdx (markdown and react)](https://egghead.io/lessons/react-build-a-slide-deck-with-mdx-deck-using-markdown-react)
 
+[egghead - MDX blog starter project](egghead.io creator MDX Blog Starter Project)
+
 A bit of 3D...
 
 [treehouse - beginners guide to three.js](https://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
