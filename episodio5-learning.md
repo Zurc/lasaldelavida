@@ -10,6 +10,8 @@ A bit of 3D...
 
 [awwwards - three.js sites](https://www.awwwards.com/websites/three-js/)
 
+[getting started with three.js](https://aerotwist.com/tutorials/getting-started-with-three-js/)
+
 ### 14 Jan 2109
 
 [a different way to manage state in react - react-collect](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482)
