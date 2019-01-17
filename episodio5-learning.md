@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 17 Jan 2019
 
+[egghead - slide deck with mdx (markdown and react)](https://egghead.io/lessons/react-build-a-slide-deck-with-mdx-deck-using-markdown-react)
+
 A bit of 3D...
 
 [treehouse - beginners guide to three.js](https://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
