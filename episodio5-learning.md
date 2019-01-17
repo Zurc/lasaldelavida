@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Jan 2019
+
+A bit of 3D...
+
+[treehouse - beginners guide to three.js](https://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
+
 ### 14 Jan 2109
 
 [a different way to manage state in react - react-collect](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482)
