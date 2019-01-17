@@ -12,6 +12,8 @@ A bit of 3D...
 
 [getting started with three.js](https://aerotwist.com/tutorials/getting-started-with-three-js/)
 
+[Three.js Tutorial - Essential Three.js - youtube](https://www.youtube.com/watch?v=O18Dq-QcfEE)
+
 ### 14 Jan 2109
 
 [a different way to manage state in react - react-collect](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482)
