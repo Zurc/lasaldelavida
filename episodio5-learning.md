@@ -22,9 +22,9 @@ A bit of 3D...
 
 ### 14 Jan 2109
 
-[a different way to manage state in react - react-collect](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482)
+[a different way to manage state in react - react-recollect](https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482)
 
-[codesandbox - example of react-collect and material-ui](https://codesandbox.io/s/lxy1mz200l)
+[codesandbox - example of react-recollect and material-ui](https://codesandbox.io/s/lxy1mz200l)
 
 [React state management patterns](https://itnext.io/react-state-management-patterns-908325dbb8f3)
 
