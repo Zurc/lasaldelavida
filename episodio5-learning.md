@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Jan 2019
+
+[affinity designer - Draw a Penrose impossible triangle](https://www.youtube.com/watch?v=Zkc25s9sWDY)
+
 ### 17 Jan 2019
 
 [lengstorf - works at gatsby](https://lengstorf.com/)
