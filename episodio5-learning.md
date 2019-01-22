@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [unleash 3D rendering with WebGL and Microsoft Edge](https://channel9.msdn.com/Events/WebPlatformSummit/2015/Unleash-3D-rendering-with-WebGL-and-Microsoft-Edge)
 
+[freecodecamp - When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
+
 [arrow functions vs function declaration expresssions - stackoverflow](https://stackoverflow.com/questions/34361379/arrow-function-vs-function-declaration-expressions-are-they-equivalent-exch)
 
 [when to use arrow f(x)s flowchart - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/fig1.png)
