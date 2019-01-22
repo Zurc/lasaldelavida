@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Jan 2019
 
+[set theory for arrays in es6](https://medium.com/@alvaro.saburido/set-theory-for-arrays-in-es6-eb2f20a61848)
+
 [teaching - HTML](https://html.com/)
 
 [CRUZ - understand CSS triangles](https://codepen.io/CruzWeb/pen/GzRwJY)
