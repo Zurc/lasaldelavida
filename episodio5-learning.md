@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Jan 2019
 
+[unleash 3D rendering with WebGL and Microsoft Edge](https://channel9.msdn.com/Events/WebPlatformSummit/2015/Unleash-3D-rendering-with-WebGL-and-Microsoft-Edge)
+
 [when to use arrow f(x)s flowchart - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/fig1.png)
 
 [sitepoint - es6 arrow functions](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
