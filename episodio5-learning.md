@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [when to use arrow f(x)s flowchart - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/fig1.png)
 
+[sitepoint - es6 arrow functions](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
+
 [set theory for arrays in es6](https://medium.com/@alvaro.saburido/set-theory-for-arrays-in-es6-eb2f20a61848)
 
 [teaching - HTML](https://html.com/)
