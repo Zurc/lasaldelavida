@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [unleash 3D rendering with WebGL and Microsoft Edge](https://channel9.msdn.com/Events/WebPlatformSummit/2015/Unleash-3D-rendering-with-WebGL-and-Microsoft-Edge)
 
+[arrow functions vs function declaration expresssions - stackoverflow](https://stackoverflow.com/questions/34361379/arrow-function-vs-function-declaration-expressions-are-they-equivalent-exch)
+
 [when to use arrow f(x)s flowchart - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/fig1.png)
 
 [sitepoint - es6 arrow functions](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
