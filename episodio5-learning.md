@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Jan 2019
+
+[HTML - CSS - JS - JQuery... cheatsheets](https://htmlcheatsheet.com/)
+
+[CSS interview questions 2](https://www.youtube.com/watch?v=feueV0nz7Tk)
+
+[CSS interview questions 1](https://www.youtube.com/watch?v=ZohZS6xLYE4)
+
 ### 21 Jan 2019
 
 [affinity designer - Draw a Penrose impossible triangle](https://www.youtube.com/watch?v=Zkc25s9sWDY)
