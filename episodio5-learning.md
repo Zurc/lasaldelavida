@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Jan 2019
 
+[teaching - HTML](https://html.com/)
+
 [CRUZ - understand CSS triangles](https://codepen.io/CruzWeb/pen/GzRwJY)
 
 [HTML - CSS - JS - JQuery... cheatsheets](https://htmlcheatsheet.com/)
