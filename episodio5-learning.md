@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Jan 2019
 
+[when to use arrow f(x)s flowchart - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/fig1.png)
+
 [set theory for arrays in es6](https://medium.com/@alvaro.saburido/set-theory-for-arrays-in-es6-eb2f20a61848)
 
 [teaching - HTML](https://html.com/)
