@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Jan 2019
 
+[JS charts and data visualization libraries 2018](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
+
 [cytoscape](http://js.cytoscape.org/)
 
 [sigma.js](http://sigmajs.org/)
