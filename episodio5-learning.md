@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Jan 2019
 
+[tech graph](https://nielchah.com/blog/a-graph-of-tech/)
+
 [building your bots brain with nodeJS and spacy](https://medium.com/@joaogabriellima/building-your-bots-brain-with-node-js-and-spacy-1f77ff8dcdba)
 
 [JS charts and data visualization libraries 2018](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
