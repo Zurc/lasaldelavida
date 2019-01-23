@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Jan 2019
+
+[how to remobe duplicates in es6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
+
 ### 22 Jan 2019
 
 para leer [OOP concepts for a 6 year old](https://medium.freecodecamp.org/object-oriented-programming-concepts-21bb035f7260)
