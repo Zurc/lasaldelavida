@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Jan 2019
 
+[developers Google - API client library JS](https://developers.google.com/api-client-library/javascript/start/start-js)
+
 [github - research papers to understand knowledge graph](https://github.com/bmzhao/knowledge-graph-papers)
 
 [how to remobe duplicates in es6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
