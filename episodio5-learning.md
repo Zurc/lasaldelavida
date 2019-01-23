@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Jan 2019
 
+[github - knowledge graph analysis programming exercises](https://github.com/SmartDataAnalytics/Knowledge-Graph-Analysis-Programming-Exercises)
+
 [ReactJS - build dynamic JSON based form](https://codeburst.io/reactjs-a-quick-tutorial-to-build-dynamic-json-based-form-a4768b3151c0)
 
 [beginners guide to googles knowledge graph](https://neilpatel.com/blog/the-beginners-guide-to-the-googles-knowledge-graph/)
