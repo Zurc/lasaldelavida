@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Jan 2019
 
+[beginners guide to googles knowledge graph](https://neilpatel.com/blog/the-beginners-guide-to-the-googles-knowledge-graph/)
+
 [developers Google - API client library JS](https://developers.google.com/api-client-library/javascript/start/start-js)
 
 [github - research papers to understand knowledge graph](https://github.com/bmzhao/knowledge-graph-papers)
