@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Jan 2019
 
+[JSON server with reactJS](https://dev.to/rodeghiero_/json-server-with-reactjs-3chd)
+
 este tenía problemas errores al correrlo pero la idea está buena [github - circular knowledge graph](https://github.com/anishmprasad/circular-knowledge-graph)
 
 [mixedemotions (they have knowledge graph, emotion and sentiment analysis, entity extraction and linking...)](http://mixedemotions.insight-centre.org/modules)
