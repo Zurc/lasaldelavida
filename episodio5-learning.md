@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Jan 2019
 
+para leer [OOP concepts for a 6 year old](https://medium.freecodecamp.org/object-oriented-programming-concepts-21bb035f7260)
+
 [unleash 3D rendering with WebGL and Microsoft Edge](https://channel9.msdn.com/Events/WebPlatformSummit/2015/Unleash-3D-rendering-with-WebGL-and-Microsoft-Edge)
 
 [freecodecamp - When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
