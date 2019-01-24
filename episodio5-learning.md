@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 24 Jan 2019
 
+**HTML**
+
+>  [goskills - HTML interview questions and answers](https://www.goskills.com/Development/Articles/HTML-interview-questions-answers)
+
 [orbital relationships in D3 force graphs](https://www.bounteous.com/insights/2013/10/18/orbital-relationships-in-d3-js-force-graphs/?ns=I)
 
 [medium - interactive force directed graphs with d3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811)
