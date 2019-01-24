@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 24 Jan 2019
 
-[jamstack.org](https://jamstack.org/)
+[jamstack.org (**J**avascript **A**PI's **M**arkdown)](https://jamstack.org/)
 
 **HTML**
 
