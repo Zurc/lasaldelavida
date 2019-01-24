@@ -9,6 +9,8 @@ Cosas que voy aprendiendo...
 >  [goskills - HTML interview questions and answers](https://www.goskills.com/Development/Articles/HTML-interview-questions-answers)
 >  
 >  [guru99 - top 50 HTML interview questions](https://career.guru99.com/top-50-html-interview-questions/)
+>  
+>  [javatpoint - HTML interview questions](https://www.javatpoint.com/html-interview-questions)
 
 [orbital relationships in D3 force graphs](https://www.bounteous.com/insights/2013/10/18/orbital-relationships-in-d3-js-force-graphs/?ns=I)
 
