@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Jan 2019
 
+[medium - interactive force directed graphs with d3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811)
+
 [github - D3 force](https://github.com/d3/d3-force/blob/master/README.md#forceSimulation)
 
 [M bostock - D3 force directed graph](https://beta.observablehq.com/@mbostock/d3-force-directed-graph)
