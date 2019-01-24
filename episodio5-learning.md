@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Jan 2019
 
+[M bostock - D3 force directed graph](https://beta.observablehq.com/@mbostock/d3-force-directed-graph)
+
 [D3 in depth](https://d3indepth.com/)
 
 ### 23 Jan 2019
