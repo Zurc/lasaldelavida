@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Jan 2019
+
+[D3 in depth](https://d3indepth.com/)
+
 ### 23 Jan 2019
 
 [tech graph](https://nielchah.com/blog/a-graph-of-tech/)
