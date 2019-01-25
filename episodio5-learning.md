@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Jan 2019
 
+[free API's collection](https://github.com/toddmotto/public-apis/blob/master/README.md)
+
 [typescript online playground](http://www.typescriptlang.org/play/)
 
 [2ality (Dr. Axel Rauschmayer) - type notation typescript](http://2ality.com/2018/04/type-notation-typescript.html)
