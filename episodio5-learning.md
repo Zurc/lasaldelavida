@@ -4,6 +4,13 @@ Cosas que voy aprendiendo...
 
 ### 25 Jan 2019
 
+>  WP API's for testing... 
+>  
+>  Any WordPress site basically -> just add /wp-json after home url.
+>  
+>  example: https://nacin.com/wp-json/wp/v2/posts
+
+
 [free API's collection](https://github.com/toddmotto/public-apis/blob/master/README.md)
 
 [typescript online playground](http://www.typescriptlang.org/play/)
