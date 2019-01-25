@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Jan 2019
 
+[2ality (Dr. Axel Rauschmayer) - type notation typescript](http://2ality.com/2018/04/type-notation-typescript.html)
+
 [typescript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
 [React Static - A progressive static-site framework for React @ OgdenJS](https://www.youtube.com/watch?v=OqbJ5swVpDQ)
