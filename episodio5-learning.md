@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Jan 2019
 
+[React static - A progressive static-site framework for React](React Static - A progressive static-site framework for React @ OgdenJS)
+
 [coffeecraftcode](https://coffeecraftcode.com/)
 
 >  resources, communities:
