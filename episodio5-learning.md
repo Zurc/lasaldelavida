@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Jan 2019
 
+[typescript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+
 [React Static - A progressive static-site framework for React @ OgdenJS](https://www.youtube.com/watch?v=OqbJ5swVpDQ)
 
 [coffeecraftcode](https://coffeecraftcode.com/)
