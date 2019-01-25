@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [2ality (Dr. Axel Rauschmayer) - type notation typescript](http://2ality.com/2018/04/type-notation-typescript.html)
 
+[exploring es6 - book (Dr. Axel Rauschmayer)](http://exploringjs.com/es6/)
+
 [typescript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
 [React Static - A progressive static-site framework for React @ OgdenJS](https://www.youtube.com/watch?v=OqbJ5swVpDQ)
