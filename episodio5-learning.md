@@ -4,6 +4,20 @@ Cosas que voy aprendiendo...
 
 ### 25 Jan 2019
 
+[coffeecraftcode](https://coffeecraftcode.com/)
+
+>  resources, communities:
+>  
+>  [codenewbie](http://www.codenewbie.org/)
+>  
+>  [100 days of code](https://github.com/Kallaway/100-days-of-code) // individual challenge
+>  
+>  [codingartist](http://codingartist.io/) // CSS images challenges
+>  
+>  [](https://tropicalchancer.github.io/projectus/) // put motivated people with similar goals together in an environment that gives them the opportunity to level-up in a way they couldn’t otherwise
+>  
+>  [advance beginner challenge](https://www.advancedbeginnerchallenge.com/) // 
+
 [(Teaching) Skillshare - filters: free classes](https://www.skillshare.com/search?query=HTML&enrollmentType=free)
 
 ### 24 Jan 2019
