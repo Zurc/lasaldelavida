@@ -10,8 +10,9 @@ Cosas que voy aprendiendo...
 >  
 >  example: https://nacin.com/wp-json/wp/v2/posts
 
-
 [free API's collection](https://github.com/toddmotto/public-apis/blob/master/README.md)
+
+[rapid API (more API's)](https://rapidapi.com)
 
 [typescript online playground](http://www.typescriptlang.org/play/)
 
