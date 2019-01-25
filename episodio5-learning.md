@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Jan 2019
 
+[List of CMS's for JAM stack sites](https://headlesscms.org/)
+
 >  WP API's for testing... 
 >  
 >  Any WordPress site basically -> just add /wp-json after home url.
