@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Jan 2019
+
+[(Teaching) Skillshare - filters: free classes](https://www.skillshare.com/search?query=HTML&enrollmentType=free)
+
 ### 24 Jan 2019
 
 [jamstack.org (**J**avascript **A**PI's **M**arkdown)](https://jamstack.org/)
