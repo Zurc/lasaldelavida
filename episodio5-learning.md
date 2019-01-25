@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Jan 2019
 
+[typescript online playground](http://www.typescriptlang.org/play/)
+
 [2ality (Dr. Axel Rauschmayer) - type notation typescript](http://2ality.com/2018/04/type-notation-typescript.html)
 
 [typescript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
