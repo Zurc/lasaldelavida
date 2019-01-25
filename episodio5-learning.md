@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [typescript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
+[react docs - typescript](https://reactjs.org/docs/static-type-checking.html#typescript)
+
 [React Static - A progressive static-site framework for React @ OgdenJS](https://www.youtube.com/watch?v=OqbJ5swVpDQ)
 
 [coffeecraftcode](https://coffeecraftcode.com/)
