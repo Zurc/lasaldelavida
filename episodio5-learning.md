@@ -8,7 +8,7 @@ Interesting - check similar [coderust](https://www.educative.io/collection/56425
 
 [coderust example: binary search algorithm](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
 
-my approach before checking theirs...
+my approach before checking their solution
 
 ```
 const array = [1, 8, 23, 34, 74];
