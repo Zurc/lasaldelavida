@@ -15,7 +15,7 @@ const array = [1, 8, 23, 34, 74];
 
 let binary_search = function(a, key) {
     let result = a.filter( item => item === key)
-
+    // filter method returns an array, that's why we need the the inside value on the next line...
     return a.indexOf(result[0]) ;
 }
 
