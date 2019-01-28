@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Jan 2019
 
+Interesting - check similar [coderust](https://www.educative.io/collection/5642554087309312/5679846214598656)
+
 [Web Development Tutorial for Beginners (#1) - How to build webpages with HTML, CSS, Javascript](https://www.youtube.com/watch?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc&v=3JluqTojuME)
 
 [How the Internet Works for Developers - Pt 1 - Overview & Frontend](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
