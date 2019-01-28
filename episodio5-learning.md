@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 28 Jan 2019
+
+[how to lose an IT job in 10 min](https://hackernoon.com/how-to-lose-an-it-job-in-10-minutes-3d63213c8370)
+
 ### 25 Jan 2019
 
 [List of CMS's for JAM stack sites](https://headlesscms.org/)
