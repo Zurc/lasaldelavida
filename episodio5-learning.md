@@ -6,6 +6,23 @@ Cosas que voy aprendiendo...
 
 Interesting - check similar [coderust](https://www.educative.io/collection/5642554087309312/5679846214598656)
 
+[coderust example: binary search algorithm](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
+
+my approach before checking theirs...
+
+```
+const array = [1, 8, 23, 34, 74];
+
+let binary_search = function(a, key) {
+    let result = a.filter( item => item === key)
+
+    return a.indexOf(result[0]) ;
+}
+
+console.log(binary_search(array, 23))
+console.log(binary_search(array, 3))
+```
+
 [Web Development Tutorial for Beginners (#1) - How to build webpages with HTML, CSS, Javascript](https://www.youtube.com/watch?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc&v=3JluqTojuME)
 
 [How the Internet Works for Developers - Pt 1 - Overview & Frontend](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
