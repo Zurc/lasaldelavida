@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 28 Jan 2019
 
+[How the Internet Works for Developers - Pt 1 - Overview & Frontend](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
+
+[How browsers work internally - Tali Garsiel - Front-Trends 2012](https://vimeo.com/44182484)
+
 [teaching: Web Demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)
 
 [how to lose an IT job in 10 min](https://hackernoon.com/how-to-lose-an-it-job-in-10-minutes-3d63213c8370)
