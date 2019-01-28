@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Jan 2019
 
+[JS in plain english: Same app in React and Vue](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
+
 Interesting - check similar [coderust](https://www.educative.io/collection/5642554087309312/5679846214598656)
 
 [coderust example: binary search algorithm](https://www.educative.io/collection/page/5642554087309312/5679846214598656/240002)
