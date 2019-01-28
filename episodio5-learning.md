@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Jan 2019
 
+[teaching: Web Demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)
+
 [how to lose an IT job in 10 min](https://hackernoon.com/how-to-lose-an-it-job-in-10-minutes-3d63213c8370)
 
 ### 25 Jan 2019
