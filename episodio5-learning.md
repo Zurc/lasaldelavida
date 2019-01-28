@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [How the Internet Works for Developers - Pt 1 - Overview & Frontend](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
 
+[How the Internet Works for Developers - Pt 2 - Servers & Scaling](https://www.youtube.com/watch?v=FTAPjr7vgxE)
+
 [How browsers work internally - Tali Garsiel - Front-Trends 2012](https://vimeo.com/44182484)
 
 [teaching: Web Demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)
