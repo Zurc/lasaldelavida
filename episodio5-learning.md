@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Jan 2019
 
+[Academind - Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+
 [coderust free alternatives or similar](https://github.com/kevinfiol/coderust-free)
 
 ### 28 Jan 2019
