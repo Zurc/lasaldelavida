@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [UX design - Adobe XD Vs Sketch Vs Invision](https://uxdesign.cc/will-adobe-xd-kill-sketch-and-invision-7fc4e562fc1a)
 
+[complete CSS flexbox tut](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
+
 ### 29 Jan 2019
 
 [Academind - Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
