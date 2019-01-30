@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 30 Jan 2019
+
+[Angular + Virtual DOM](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
+
 ### 29 Jan 2019
 
 [Academind - Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
