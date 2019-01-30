@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Angular + Virtual DOM](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
 
+[Hobby - drawing and animating in CSS](https://medium.com/@kylewetton/how-i-stumbled-across-a-niche-hobby-i-never-knew-existed-drawing-and-animating-in-css-f351721f8aba)
+
 ### 29 Jan 2019
 
 [Academind - Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
