@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [complete CSS flexbox tut](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
 
+[30 questions to ask before joining a startup](https://angel.co/blog/30-questions-to-ask-before-joining-a-startup)
+
 ### 29 Jan 2019
 
 [Academind - Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
