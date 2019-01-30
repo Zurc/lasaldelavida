@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 30 Jan 2019
 
+[CRUZ - CSS variables and JS](https://codepen.io/CruzWeb/pen/pGNxao)
+
 [Angular + Virtual DOM](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
 
 [Hobby - drawing and animating in CSS](https://medium.com/@kylewetton/how-i-stumbled-across-a-niche-hobby-i-never-knew-existed-drawing-and-animating-in-css-f351721f8aba)
