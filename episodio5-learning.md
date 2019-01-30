@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [UX design - Animation guide in UX √√√](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 
+[UX design - Adobe XD Vs Sketch Vs Invision](https://uxdesign.cc/will-adobe-xd-kill-sketch-and-invision-7fc4e562fc1a)
+
 ### 29 Jan 2019
 
 [Academind - Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
