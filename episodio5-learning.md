@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [Hobby - drawing and animating in CSS](https://medium.com/@kylewetton/how-i-stumbled-across-a-niche-hobby-i-never-knew-existed-drawing-and-animating-in-css-f351721f8aba)
 
+[UX design - Animation guide in UX √√√](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+
 ### 29 Jan 2019
 
 [Academind - Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
