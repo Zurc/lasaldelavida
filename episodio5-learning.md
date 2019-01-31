@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [alligator - vuepress intro](https://alligator.io/vuejs/vuepress-introduction/)
 
+[13 headless CMS's to put in your radar](https://www.cmswire.com/web-cms/13-headless-cmss-to-put-on-your-radar/)
+
 ### 30 Jan 2019
 
 [Vuepress](https://vuepress.vuejs.org/)
