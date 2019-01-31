@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 31 Jan 2019
+
+[alligator - vuepress intro](https://alligator.io/vuejs/vuepress-introduction/)
+
 ### 30 Jan 2019
 
 [Vuepress](https://vuepress.vuejs.org/)
