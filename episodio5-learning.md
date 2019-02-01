@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 1 Feb 2019
+
+[Primereact - UI framework for react](https://www.primefaces.org/primereact/#/)
+
 ### 31 Jan 2019
 
 [alligator - vuepress intro](https://alligator.io/vuejs/vuepress-introduction/)
