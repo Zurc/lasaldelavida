@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [Mason - frontend as a service](https://www.trymason.com/)
 
+[frontastic - frontend API (CMS/e-commerce) as a service](https://www.frontastic.cloud/)
+
 ### 31 Jan 2019
 
 [alligator - vuepress intro](https://alligator.io/vuejs/vuepress-introduction/)
