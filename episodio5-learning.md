@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [frontastic - frontend API (CMS/e-commerce) as a service](https://www.frontastic.cloud/)
 
+[micro frontends](https://micro-frontends.org/)
+
 ### 31 Jan 2019
 
 [alligator - vuepress intro](https://alligator.io/vuejs/vuepress-introduction/)
