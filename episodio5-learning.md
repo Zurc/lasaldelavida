@@ -10,6 +10,8 @@ following the above... [CRUZ formsAndInputs react class](https://stackblitz.com/
 
 [LevelUp tuts - React For Everyone #15 - Using Forms](https://www.youtube.com/watch?v=1eNIYif69_0)
 
+>  use of ES6, refs, shortcut for setting obj, concat inside this.setState
+
 ### 1 Feb 2019
 
 [Primereact - UI framework for react](https://www.primefaces.org/primereact/#/)
