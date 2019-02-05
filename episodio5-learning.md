@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 5 Feb 2019
 
+[useful JS array and object methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
+
 [CRUZ - react signup signin UI](https://stackblitz.com/edit/react-signup-signin-ui)
 
 [metalsmith - static site generator](https://metalsmith.io/)
