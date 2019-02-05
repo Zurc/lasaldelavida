@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 5 Feb 2019
+
+[metalsmith - static site generator](https://metalsmith.io/)
+
 ### 4 Feb 2019
 
 [reacttraining - react-router](https://reacttraining.com/react-router/web/guides/basic-components)
