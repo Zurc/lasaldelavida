@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [reactide - the first dedicated IDE for React web application development](http://reactide.io/)
 
+[osx apps](https://alexcican.com/post/osx-apps/)
+
 ### 5 Feb 2019
 
 [react starter kit](https://github.com/kriasoft/react-starter-kit)
