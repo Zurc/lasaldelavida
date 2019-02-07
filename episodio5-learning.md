@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 7 Feb 2019
+
+[simplified advanced search](https://uxdesign.cc/death-to-complexity-how-we-simplified-advanced-search-a9ab2940acf0)
+
 ### 5 Feb 2019
 
 [react starter kit](https://github.com/kriasoft/react-starter-kit)
