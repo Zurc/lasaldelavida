@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [simplified advanced search](https://uxdesign.cc/death-to-complexity-how-we-simplified-advanced-search-a9ab2940acf0)
 
+[reactide - the first dedicated IDE for React web application development](http://reactide.io/)
+
 ### 5 Feb 2019
 
 [react starter kit](https://github.com/kriasoft/react-starter-kit)
