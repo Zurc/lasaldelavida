@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [activity log (template included)](https://www.mindtools.com/pages/article/newHTE_03.htm)
 
+[Agile Scrum Development Process and How UI/UX Design Fit In](https://www.youtube.com/watch?v=yc3J2TGreBo)
+
 ### 7 Feb 2019
 
 [simplified advanced search](https://uxdesign.cc/death-to-complexity-how-we-simplified-advanced-search-a9ab2940acf0)
