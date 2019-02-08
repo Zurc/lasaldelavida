@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Feb 2019
 
+[Adobe XD tips and tricks](https://helpx.adobe.com/xd/help/tips-and-tricks.html)
+
 [Vue mastery youtube channel](https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A)
 
 [xs resources UI kits](https://speckyboy.com/free-adobe-xd-ui-kits/)
