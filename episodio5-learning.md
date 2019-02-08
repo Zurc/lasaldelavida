@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Feb 2019
 
+[scrum - sprint retrospectives to improve](https://blogs.adobe.com/agile/tag/scrum-master/)
+
 [Adobe XD tips and tricks](https://helpx.adobe.com/xd/help/tips-and-tricks.html)
 
 [Vue mastery youtube channel](https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A)
@@ -12,7 +14,7 @@ Cosas que voy aprendiendo...
 
 [xd resources - bootstrap 4](https://xdresources.co/resources/bootstrap-4-ui)
 
-[stages of a user story using Rally](http://www.techndata.com/stages-of-a-user-story-in-the-rally-and-its-meaning/)
+[agile - stages of a user story using Rally](http://www.techndata.com/stages-of-a-user-story-in-the-rally-and-its-meaning/)
 
 [prototyping with adobe XD and angular material](https://angularfirst.com/prototyping-with-adobe-xd-and-angular-material/)
 
