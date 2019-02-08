@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### 8 Feb 2019
+
+[prototyping with adobe XD and angular material](https://angularfirst.com/prototyping-with-adobe-xd-and-angular-material/)
+
+[build a real world web app with angular 6 A to Z ultimate guide 2018](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
+
+
+
 ### 7 Feb 2019
 
 [simplified advanced search](https://uxdesign.cc/death-to-complexity-how-we-simplified-advanced-search-a9ab2940acf0)
