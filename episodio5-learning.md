@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [coursetro - using adobe XD to design web app based on Bulma CSS](https://coursetro.com/posts/code/69/Using-Adobe-XD-to-Design-a-Web-App-based-on-Bulma-CSS)
 
+[activity log (template included)](https://www.mindtools.com/pages/article/newHTE_03.htm)
+
 ### 7 Feb 2019
 
 [simplified advanced search](https://uxdesign.cc/death-to-complexity-how-we-simplified-advanced-search-a9ab2940acf0)
