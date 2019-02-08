@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Feb 2019
 
+[Vue mastery youtube channel](https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A)
+
 [xs resources UI kits](https://speckyboy.com/free-adobe-xd-ui-kits/)
 
 [xd resources - bootstrap 4](https://xdresources.co/resources/bootstrap-4-ui)
