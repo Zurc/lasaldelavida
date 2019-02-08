@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Feb 2019
 
+[stages of a user story using Rally](http://www.techndata.com/stages-of-a-user-story-in-the-rally-and-its-meaning/)
+
 [prototyping with adobe XD and angular material](https://angularfirst.com/prototyping-with-adobe-xd-and-angular-material/)
 
 [build a real world web app with angular 6 A to Z ultimate guide 2018](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
