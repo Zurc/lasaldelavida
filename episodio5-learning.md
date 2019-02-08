@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Feb 2019
 
+[xd resources - bootstrap 4](https://xdresources.co/resources/bootstrap-4-ui)
+
 [stages of a user story using Rally](http://www.techndata.com/stages-of-a-user-story-in-the-rally-and-its-meaning/)
 
 [prototyping with adobe XD and angular material](https://angularfirst.com/prototyping-with-adobe-xd-and-angular-material/)
