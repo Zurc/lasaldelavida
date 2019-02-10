@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Feb 2019
+
+[sitepoint - prototyping with Adobe XD](https://www.sitepoint.com/prototyping-with-adobe-xd/)
+
 ### 8 Feb 2019
 
 [design systems repo](https://designsystemsrepo.com/design-systems/)
