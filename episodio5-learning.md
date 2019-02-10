@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [35 Best Free Adobe XD UI Kit for APP and Web Design](https://www.mockplus.com/blog/post/adobe-xd-ui-kit)
 
+[angular + Microsoft Stack (Visual Studio, ASP.NET, Core and Azure)](https://angularfirst.com/)
+
 ### 8 Feb 2019
 
 [design systems repo](https://designsystemsrepo.com/design-systems/)
