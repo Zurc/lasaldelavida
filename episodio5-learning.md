@@ -7,6 +7,9 @@ Cosas que voy aprendiendo...
 >  Pluralsight - Adobe XD
 >  
 >  [UX design - creating wireframes](https://www.pluralsight.com/courses/ux-design-creating-wireframes)
+>  
+>  [XD CC fundamentals](https://www.pluralsight.com/courses/experience-design-cc-fundamentals) // outdated?
+
 
 [sitepoint - prototyping with Adobe XD](https://www.sitepoint.com/prototyping-with-adobe-xd/)
 
