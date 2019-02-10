@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Feb 2019
 
+[design systems repo](https://designsystemsrepo.com/design-systems/)
+
 >  [Adobe XD - how to build a single source of truth (pattern library)](https://theblog.adobe.com/how-to-build-a-single-source-of-truth-with-adobe-xd/)
 >  
 >  Essentially, a pattern library is a collection of design elements that are reused across a website or app, from basic navigation to more complex items like carousels, social media components, and so on. The pattern library not only holds all of these patterns, but it defines what they look like and how they act.
