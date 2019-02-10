@@ -8,8 +8,9 @@ Cosas que voy aprendiendo...
 >  
 >  [UX design - creating wireframes](https://www.pluralsight.com/courses/ux-design-creating-wireframes)
 >  
->  [XD CC fundamentals](https://www.pluralsight.com/courses/experience-design-cc-fundamentals) // outdated?
-
+>  [XD CC fundamentals](https://www.pluralsight.com/courses/experience-design-cc-fundamentals) // 2016 outdated?
+>  
+>  [Adobe XD CC fundamentals](https://www.pluralsight.com/courses/adobe-xd-cc-fundamentals)  // 2018
 
 [sitepoint - prototyping with Adobe XD](https://www.sitepoint.com/prototyping-with-adobe-xd/)
 
