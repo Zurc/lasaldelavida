@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 10 Feb 2019
 
+>  Pluralsight - Adobe XD
+>  
+>  [UX design - creating wireframes](https://www.pluralsight.com/courses/ux-design-creating-wireframes)
+
 [sitepoint - prototyping with Adobe XD](https://www.sitepoint.com/prototyping-with-adobe-xd/)
 
 [35 Best Free Adobe XD UI Kit for APP and Web Design](https://www.mockplus.com/blog/post/adobe-xd-ui-kit)
