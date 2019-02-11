@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 11 Feb 2019
+
+[invision app - design sprint 2.0](https://www.invisionapp.com/inside-design/design-sprint-2/)
+
 ### 10 Feb 2019
 
 >  Pluralsight - Adobe XD
