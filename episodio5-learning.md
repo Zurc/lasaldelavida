@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [invision app - design sprint 2.0](https://www.invisionapp.com/inside-design/design-sprint-2/)
 
+[design sprint day by day](https://www.design-sprint.com/en/design-sprint-day-by-day/)
+
 ### 10 Feb 2019
 
 >  Pluralsight - Adobe XD
