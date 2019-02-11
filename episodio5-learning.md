@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Feb 2019
 
+>  The most common reasons that consumers report *giving up on an app* are because __it hasn’t met their expectations, it’s confusing to use or it hasn’t demonstrated any value.__
+
 [invision app - design sprint 2.0](https://www.invisionapp.com/inside-design/design-sprint-2/)
 
 [design sprint day by day](https://www.design-sprint.com/en/design-sprint-day-by-day/)
