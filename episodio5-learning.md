@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [design sprint day by day](https://www.design-sprint.com/en/design-sprint-day-by-day/)
 
+[GV sprint](https://www.gv.com/sprint/)
+
 ### 10 Feb 2019
 
 >  Pluralsight - Adobe XD
