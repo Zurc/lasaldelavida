@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Angular 2 architecture (Slideshare)](https://www.slideshare.net/EyalV/angular-2-architecture)
 
+[ng4 tut](https://www.slideshare.net/EdurekaIN/angular-4-tutorial-whats-new-in-angular-4-angular-training-edureka)
+
 ### 11 Feb 2019
 
 >  The most common reasons that consumers report *giving up on an app* are because __it hasn’t met their expectations, it’s confusing to use or it hasn’t demonstrated any value.__
