@@ -10,6 +10,10 @@ Cosas que voy aprendiendo...
 
 [ng6 registration login example](https://stackblitz.com/edit/angular-6-registration-login-example-9kkh7c?) // interesting architecture
 
+[mdbootstrap - angular - bootstrap 4 - material](https://mdbootstrap.com/docs/angular/forms/basic/)
+
+[jasonmore - ng7 reactive forms validation example](http://jasonwatmore.com/post/2018/11/07/angular-7-reactive-forms-validation-example)
+
 ### 11 Feb 2019
 
 >  The most common reasons that consumers report *giving up on an app* are because __it hasn’t met their expectations, it’s confusing to use or it hasn’t demonstrated any value.__
