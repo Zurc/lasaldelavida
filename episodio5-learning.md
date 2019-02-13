@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Feb 2019
+
+[Angular 2 architecture (Slideshare)](https://www.slideshare.net/EyalV/angular-2-architecture)
+
 ### 11 Feb 2019
 
 >  The most common reasons that consumers report *giving up on an app* are because __it hasn’t met their expectations, it’s confusing to use or it hasn’t demonstrated any value.__
