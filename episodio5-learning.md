@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [ng4 tut](https://www.slideshare.net/EdurekaIN/angular-4-tutorial-whats-new-in-angular-4-angular-training-edureka)
 
+[ng6 registration login example](https://stackblitz.com/edit/angular-6-registration-login-example-9kkh7c?) // interesting architecture
+
 ### 11 Feb 2019
 
 >  The most common reasons that consumers report *giving up on an app* are because __it hasn’t met their expectations, it’s confusing to use or it hasn’t demonstrated any value.__
