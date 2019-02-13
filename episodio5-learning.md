@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [jasonmore - ng7 reactive forms validation example](http://jasonwatmore.com/post/2018/11/07/angular-7-reactive-forms-validation-example)
 
+[ng7 forms](https://appdividend.com/2018/10/24/angular-7-forms-tutorial-example/)
+
 ### 11 Feb 2019
 
 >  The most common reasons that consumers report *giving up on an app* are because __it hasn’t met their expectations, it’s confusing to use or it hasn’t demonstrated any value.__
