@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 14 Feb 2019
+
+[UX design - storyboards, user epics, user stories, user resesarch](http://www.verse-co.com/journal/2017/7/6/ux-design-storyboards-user-epics-user-stories-user-research)
+
 ### 13 Feb 2019
 
 [Angular 2 architecture (Slideshare)](https://www.slideshare.net/EyalV/angular-2-architecture)
