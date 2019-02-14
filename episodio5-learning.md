@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [uxplanet - storyboarding in UX design](https://uxplanet.org/storyboarding-in-ux-design-b9d2e18e5fab)
 
+[10 tips writing good user stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
+
 ### 13 Feb 2019
 
 [Angular 2 architecture (Slideshare)](https://www.slideshare.net/EyalV/angular-2-architecture)
