@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [why software dev use Mac](https://www.quora.com/Why-do-so-many-software-developers-use-Mac-even-though-Windows-has-much-advanced-technology-and-better-features)
 
+[when to use interface and model in angular](https://stackoverflow.com/questions/37652801/when-to-use-interface-and-model-in-typescript-angular2)
+
 ### 14 Feb 2019
 
 [UX design - storyboards, user epics, user stories, user resesarch](http://www.verse-co.com/journal/2017/7/6/ux-design-storyboards-user-epics-user-stories-user-research)
