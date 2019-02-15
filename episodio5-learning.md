@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [tod motto - angular classes vs interfaces](https://toddmotto.com/classes-vs-interfaces-in-typescript)
 
+[academind - angular image upload made easy](https://www.academind.com/learn/angular/snippets/angular-image-upload-made-easy/)
+
 ### 14 Feb 2019
 
 [UX design - storyboards, user epics, user stories, user resesarch](http://www.verse-co.com/journal/2017/7/6/ux-design-storyboards-user-epics-user-stories-user-research)
