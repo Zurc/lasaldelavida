@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [academind - angular image upload made easy](https://www.academind.com/learn/angular/snippets/angular-image-upload-made-easy/)
 
+[priority guides: a content first alternative to wireframes](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes)
+
 ### 14 Feb 2019
 
 [UX design - storyboards, user epics, user stories, user resesarch](http://www.verse-co.com/journal/2017/7/6/ux-design-storyboards-user-epics-user-stories-user-research)
