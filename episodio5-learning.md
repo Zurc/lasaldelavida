@@ -14,6 +14,12 @@ Cosas que voy aprendiendo...
 
 [priority guides: a content first alternative to wireframes](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes)
 
+>  angular cli
+>  
+>  [angular CLI cheatsheet](https://baswanders.com/angular-cli-cheatsheet-an-overview-of-the-most-used-commands/)
+>  
+>  [alligator - angular CLI reference](https://alligator.io/angular/angular-cli-reference/)
+
 ### 14 Feb 2019
 
 [UX design - storyboards, user epics, user stories, user resesarch](http://www.verse-co.com/journal/2017/7/6/ux-design-storyboards-user-epics-user-stories-user-research)
