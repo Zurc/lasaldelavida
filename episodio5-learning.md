@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Feb 2019
+
+[why software dev use Mac](https://www.quora.com/Why-do-so-many-software-developers-use-Mac-even-though-Windows-has-much-advanced-technology-and-better-features)
+
 ### 14 Feb 2019
 
 [UX design - storyboards, user epics, user stories, user resesarch](http://www.verse-co.com/journal/2017/7/6/ux-design-storyboards-user-epics-user-stories-user-research)
