@@ -2,7 +2,23 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Feb 2019
+
+[ng7 search and edit demo](https://github.com/mraible/ng-demo)
+
 ### 15 Feb 2019
+
+>  UI/UX Inspiration - Ideas
+>  
+>  https://www.mockplus.com/blog/post/design-inspiration-sites
+>  
+>  https://blog.prototypr.io/10-best-prototyping-tools-for-ui-ux-designers-in-2018-6591ea1e2e71
+>  
+>  https://www.mockplus.com/blog/post/best-app-design-2018   // interaction des - animations
+>  
+>  https://www.tronebrandenergy.com/blog/10-examples-good-user-experience-ux
+>  
+>  https://uxplanet.org/12-mobile-ux-design-trends-for-2018-5b4ce7e8445f
 
 [why software dev use Mac](https://www.quora.com/Why-do-so-many-software-developers-use-Mac-even-though-Windows-has-much-advanced-technology-and-better-features)
 
