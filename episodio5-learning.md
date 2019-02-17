@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Feb 2019
+
+[UX design trends](https://trends.uxdesign.cc/) // interesting views
+
 ### 16 Feb 2019
 
 [ng7 search and edit demo](https://github.com/mraible/ng-demo)
