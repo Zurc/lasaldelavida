@@ -7,6 +7,8 @@ Cosas que voy aprendiendo...
 [UX design trends](https://trends.uxdesign.cc/) // interesting views
 [12 mobile UX des trends](https://uxplanet.org/12-mobile-ux-design-trends-for-2018-5b4ce7e8445f)
 
+ng7-search 
+
 ### 16 Feb 2019
 
 [ng7 search and edit demo](https://github.com/mraible/ng-demo)
@@ -54,6 +56,8 @@ Cosas que voy aprendiendo...
 [Angular 2 architecture (Slideshare)](https://www.slideshare.net/EyalV/angular-2-architecture)
 
 [ng4 tut](https://www.slideshare.net/EdurekaIN/angular-4-tutorial-whats-new-in-angular-4-angular-training-edureka)
+
+[ng4 tut](https://www.slideshare.net/rojaware/angular-4-introduction-tutorial) // good explanations
 
 [ng6 registration login example](https://stackblitz.com/edit/angular-6-registration-login-example-9kkh7c?) // interesting architecture
 
