@@ -5,6 +5,7 @@ Cosas que voy aprendiendo...
 ### 17 Feb 2019
 
 [UX design trends](https://trends.uxdesign.cc/) // interesting views
+[12 mobile UX des trends](https://uxplanet.org/12-mobile-ux-design-trends-for-2018-5b4ce7e8445f)
 
 ### 16 Feb 2019
 
