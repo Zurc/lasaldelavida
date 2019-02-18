@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Feb 2019
 
+[css-tricks - conferences](https://conferences.css-tricks.com/)
+
 [state of JS](https://stateofjs.com/)
 
 ### 17 Feb 2019
