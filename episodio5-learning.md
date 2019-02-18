@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Feb 2019
 
+[best practices for onboarding](https://uxplanet.org/best-practices-for-onboarding-92f3a9f0b21a)
+
 [5 methods for increasing app engagement user retention](https://clearbridgemobile.com/5-methods-for-increasing-app-engagement-user-retention/)
 
 [jqwidgets -> angular](https://www.jqwidgets.com/angular)  // ideas
