@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [state of JS](https://stateofjs.com/)
 
+[insightly - user adoption best practices](https://www.insightly.com/blog/2018/09/user-adoption-5-crm-best-practices-for-insightly/)
+
 ### 17 Feb 2019
 
 [UX design trends](https://trends.uxdesign.cc/) // interesting views
