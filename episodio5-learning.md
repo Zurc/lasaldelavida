@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Feb 2019
 
+[jqwidgets -> angular](https://www.jqwidgets.com/angular)  // ideas
+
 [ng structure for multi user webapp](https://stackoverflow.com/questions/47659795/angular-4-structure-for-multi-user-webapp)
 
 [creating a FE for your user profile store](https://dzone.com/articles/creating-a-front-end-for-your-user-profile-store-w)
