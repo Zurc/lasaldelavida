@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Feb 2019
 
+[BOOK - information architecture for the WWW](http://yunus.hacettepe.edu.tr/~tonta/courses/fall2010/bby607/IAWWW.pdf)
+
 [best practices for onboarding](https://uxplanet.org/best-practices-for-onboarding-92f3a9f0b21a)
 
 [5 methods for increasing app engagement user retention](https://clearbridgemobile.com/5-methods-for-increasing-app-engagement-user-retention/)
