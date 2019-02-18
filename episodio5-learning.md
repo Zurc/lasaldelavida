@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Feb 2019
+
+[state of JS](https://stateofjs.com/)
+
 ### 17 Feb 2019
 
 [UX design trends](https://trends.uxdesign.cc/) // interesting views
