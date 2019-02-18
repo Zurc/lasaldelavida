@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Feb 2019
 
+[ng flex layout flexbox and grid layout](https://blog.angularindepth.com/angular-flex-layout-flexbox-and-grid-layout-for-angular-component-6e7c24457b63)
+
 [authorization based on role and entity states](https://medium.com/@eliasmsedano/angular-4-how-to-check-authorization-based-on-role-and-entity-states-cf0282280961)
 
 [css-tricks - conferences](https://conferences.css-tricks.com/)
