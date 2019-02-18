@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Feb 2019
 
+[5 methods for increasing app engagement user retention](https://clearbridgemobile.com/5-methods-for-increasing-app-engagement-user-retention/)
+
 [jqwidgets -> angular](https://www.jqwidgets.com/angular)  // ideas
 
 [ng structure for multi user webapp](https://stackoverflow.com/questions/47659795/angular-4-structure-for-multi-user-webapp)
