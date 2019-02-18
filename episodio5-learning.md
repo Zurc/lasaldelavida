@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Feb 2019
 
+[uxplanet - how to create information architecture for web design](https://uxplanet.org/how-to-create-information-architecture-for-web-design-86ee9dc4be1)
+
 [how to user testing your app](https://savvyapps.com/blog/how-to-user-testing-your-app)
 
 [BOOK - information architecture for the WWW](http://yunus.hacettepe.edu.tr/~tonta/courses/fall2010/bby607/IAWWW.pdf)
