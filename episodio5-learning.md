@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Feb 2019
+
+[dzone - angular libraries and microservices](https://dzone.com/articles/angular-libraries-and-microservices-1)
+
 ### 18 Feb 2019
 
 [scrumhub - axosoft](https://www.scrumhub.com/)
