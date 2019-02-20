@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 [templatemonster - wireframe kits photoshop](https://www.templatemonster.com/blog/free-wireframing-kits-photoshop-mocking-up-interfaces/)
 
-[wireframe tool comparison](https://zapier.com/blog/best-wireframe-tools/)
+[wireframe tool comparison](https://zapier.com/blog/best-wireframe-tools/)    // good in depth comparison
 
 
 ### 19 Feb 2019
