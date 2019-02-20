@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 20 Feb 2019
 
+[best tools video conferencing](https://blog.hubstaff.com/best-tools-video-conferencing/)
+
 [templatemonster - wireframe kits photoshop](https://www.templatemonster.com/blog/free-wireframing-kits-photoshop-mocking-up-interfaces/)
 
 [wireframe tool comparison](https://zapier.com/blog/best-wireframe-tools/)    // good in depth comparison
