@@ -4,7 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 20 Feb 2019
 
-[resources: photoshop - wireframe kits](https://www.templatemonster.com/blog/free-wireframing-kits-photoshop-mocking-up-interfaces/)
+[templatemonster - wireframe kits photoshop](https://www.templatemonster.com/blog/free-wireframing-kits-photoshop-mocking-up-interfaces/)
+
+[wireframe tool comparison](https://zapier.com/blog/best-wireframe-tools/)
+
 
 ### 19 Feb 2019
 
