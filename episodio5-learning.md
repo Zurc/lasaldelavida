@@ -8,8 +8,8 @@ Cosas que voy aprendiendo...
 >  
 >  [reddit - angular testing with jasmine](https://www.reddit.com/r/webdev/comments/8jizxi/best_way_to_learn_angular_testing_with_jasmine/)
 >  
->  [scotch.io - testing ng jasmine karma](https://scotch.io/tutorials/testing-angular-with-jasmine-and-karma-part-1)
->  
+>  [scotch.io - testing ng jasmine karma](https://scotch.io/tutorials/testing-angular-with-jasmine-and-karma-part-1) √√√
+>   
 >  [medium - ng unit testing jasmine karma](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 
 ### 20 Feb 2019
