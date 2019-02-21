@@ -4,9 +4,13 @@ Cosas que voy aprendiendo...
 
 ### 20 Feb 2019
 
-[best tools video conferencing](https://blog.hubstaff.com/best-tools-video-conferencing/)
-
-[remote work tools](https://skillcrush.com/2016/10/24/remote-work-tools/)    // 2016... check newer options
+>  REMOTE
+>  
+>  [team tools for remote work](https://highfive.com/blog/team-tools-for-remote-work)
+>  
+>  [best tools video conferencing](https://blog.hubstaff.com/best-tools-video-conferencing/)
+>  
+>  [remote work tools](https://skillcrush.com/2016/10/24/remote-work-tools/)    // 2016... check newer options
 
 [templatemonster - wireframe kits photoshop](https://www.templatemonster.com/blog/free-wireframing-kits-photoshop-mocking-up-interfaces/)
 
