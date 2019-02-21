@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Feb 2019
 
+[VSCode extentions for dev](https://scotch.io/bar-talk/22-best-visual-studio-code-extensions-for-web-development)
+
 >  Angular testing - jasmine, karma
 >  
 >  [reddit - angular testing with jasmine](https://www.reddit.com/r/webdev/comments/8jizxi/best_way_to_learn_angular_testing_with_jasmine/)
