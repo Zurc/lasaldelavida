@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Feb 2019
+
+>  Angular testing - jasmine, karma
+>  
+>  [reddit - angular testing with jasmine](https://www.reddit.com/r/webdev/comments/8jizxi/best_way_to_learn_angular_testing_with_jasmine/)
+>  
+>  [scotch.io](https://scotch.io/tutorials/testing-angular-with-jasmine-and-karma-part-1)  
+
 ### 20 Feb 2019
 
 >  REMOTE
