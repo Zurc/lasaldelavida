@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 >   
 >  [medium - ng unit testing jasmine karma](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 
+[debugging JS in chrome and VS Code](https://scotch.io/tutorials/debugging-javascript-in-google-chrome-and-visual-studio-code)
+
 ### 20 Feb 2019
 
 >  REMOTE
