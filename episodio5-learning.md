@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Feb 2019
 
+interesting [collaboration books with penflip](https://www.penflip.com/discover)
+
 [collaboration, design review...](https://www.mockplus.com/blog/post/sketch-collaboration)
 
 [VSCode extentions for dev](https://scotch.io/bar-talk/22-best-visual-studio-code-extensions-for-web-development)
