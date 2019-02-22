@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Feb 2019
 
+[The Next Generation of Creativity | Adobe Max 2018 Keynote](https://www.youtube.com/watch?v=KzMMbTNKc5k)
+
 [Adobe XD guide](https://www.xdguru.com/adobe-xd-guide) // good documentation
 
 [medium - adobe XD plugins and open source](https://medium.com/adobetech/adobe-xd-plugins-and-open-source-4293977594a9)
