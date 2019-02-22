@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Feb 2019
+
+[Adobe XD guide](https://www.xdguru.com/adobe-xd-guide) // good documentation
+
 ### 21 Feb 2019
 
 interesting [collaboration books with penflip](https://www.penflip.com/discover)
