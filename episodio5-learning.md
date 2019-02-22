@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Adobe XD guide](https://www.xdguru.com/adobe-xd-guide) // good documentation
 
+[medium - adobe XD plugins and open source](https://medium.com/adobetech/adobe-xd-plugins-and-open-source-4293977594a9)
+
 ### 21 Feb 2019
 
 interesting [collaboration books with penflip](https://www.penflip.com/discover)
