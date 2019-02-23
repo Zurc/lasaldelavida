@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 23 Feb 2019
 
-Interesante [Advanced environment design (digital art)](https://gumroad.com/l/uYtoK)
+>  Interesante [Advanced environment design (digital art)](https://gumroad.com/l/uYtoK)
+>  
+>  [Raphael Lacoste](https://gumroad.com/raphaellacoste)
 
 ### 22 Feb 2019
 
