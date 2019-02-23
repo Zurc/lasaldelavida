@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Feb 2019
+
+Interesante [Advanced environment design (digital art)](https://gumroad.com/l/uYtoK)
+
 ### 22 Feb 2019
 
 [The Next Generation of Creativity | Adobe Max 2018 Keynote](https://www.youtube.com/watch?v=KzMMbTNKc5k)
