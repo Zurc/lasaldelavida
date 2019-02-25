@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Feb 2019
 
+[101 awesome tools for web designers and developers](https://www.beewits.com/101-awesome-tools-for-web-designers-and-developers/)
+
 [uxmastery - how to conduct a content audit](https://uxmastery.com/how-to-conduct-a-content-audit/)
 
 [usability.gov - content inventory](https://www.usability.gov/how-to-and-tools/methods/content-inventory.html)
