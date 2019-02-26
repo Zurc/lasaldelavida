@@ -8,7 +8,7 @@ Cosas que voy aprendiendo...
 >  
 >  [JS debuggin tools](https://raygun.com/javascript-debugging-tools)
 >  
->  
+>  [scotch.io - debugging JS with chrome dev tool breakpoints](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)
 >  
 >  
 >  
