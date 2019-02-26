@@ -2,6 +2,20 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Feb 2019
+
+>  Debugging tools
+>  
+>  [JS debuggin tools](https://raygun.com/javascript-debugging-tools)
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+
 ### 25 Feb 2019
 
 [uxmastery - how to conduct a content audit](https://uxmastery.com/how-to-conduct-a-content-audit/)
