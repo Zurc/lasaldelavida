@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 >  
 >  [scotch.io - debugging JS with chrome dev tool breakpoints](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)
 >  
->  
+>  [telerik - improve your debugging skills with chrome devtools](https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools)
 >  
 >  
 >  
