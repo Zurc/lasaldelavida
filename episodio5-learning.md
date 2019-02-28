@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Feb 2019
 
+[11 angular component libraries ...](https://blog.bitsrc.io/11-angular-component-libraries-you-should-know-in-2018-e9f9c9d544ff)
+
 [angular resources](https://angular.io/resources)
 
 [reddit - what i learned when i switched from bootstrap to angular material](https://www.reddit.com/r/Angular2/comments/7ehjby/what_i_learned_when_i_switched_to_angular/)
