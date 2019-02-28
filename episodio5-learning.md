@@ -2,15 +2,19 @@
 
 Cosas que voy aprendiendo...
 
-### 27 Feb 2019
+### 28 Feb 2019
 
-[cory rylan - angular debugging tips and tricks](https://coryrylan.com/blog/angular-debugging-tips-and-tricks)
+angular virtual DOM? [intro to ng VDOM...](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
 
-[augury](https://augury.rangle.io/pages/guides/index.html)
-
-[angularfirebase - methods for debugging an angular app](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application/)
-
-[angularindepth - everything you need to know about debugging angular applications](https://blog.angularindepth.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)
+>  ANGULAR DEBUGGGING
+>  
+>  [cory rylan - angular debugging tips and tricks](https://coryrylan.com/blog/angular-debugging-tips-and-tricks)
+>  
+>  [augury](https://augury.rangle.io/pages/guides/index.html)
+>  
+>  [angularfirebase - methods for debugging an angular app](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application/)
+>  
+>  [angularindepth - everything you need to know about debugging angular applications](https://blog.angularindepth.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)
 
 ### 26 Feb 2019
 
