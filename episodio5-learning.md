@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 27 Feb 2019
 
+[augury](https://augury.rangle.io/pages/guides/index.html)
+
 [angularfirebase - methods for debugging an angular app](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application/)
 
 [angularindepth - everything you need to know about debugging angular applications](https://blog.angularindepth.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)
