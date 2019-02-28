@@ -22,9 +22,7 @@ Cosas que voy aprendiendo...
 >  
 >  [telerik - improve your debugging skills with chrome devtools](https://www.telerik.com/blogs/improve-your-debugging-skills-with-chrome-devtools)
 >  
->  
->  
->  
+>  [scotch.io - debugging JS in google chrome and visual studio code](https://scotch.io/tutorials/debugging-javascript-in-google-chrome-and-visual-studio-code)
 
 ### 25 Feb 2019
 
