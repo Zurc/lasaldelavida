@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Feb 2019
 
+[the good parts of Bootstrap 4 you are missing in your angular material projects](https://www.amadousall.com/the-good-parts-of-bootstrap-4-you-are-missing-in-your-angular-material-projects/)
+
 [7 Angular Tools That You Should Consider](https://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/)
 
 angular virtual DOM? [intro to ng VDOM...](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
