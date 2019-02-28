@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 27 Feb 2019
 
+[cory rylan - angular debugging tips and tricks](https://coryrylan.com/blog/angular-debugging-tips-and-tricks)
+
 [augury](https://augury.rangle.io/pages/guides/index.html)
 
 [angularfirebase - methods for debugging an angular app](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application/)
