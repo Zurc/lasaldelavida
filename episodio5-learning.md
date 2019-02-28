@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Feb 2019
+
+[angularfirebase - methods for debugging an angular app](https://angularfirebase.com/lessons/methods-for-debugging-an-angular-application/)
+
 ### 26 Feb 2019
 
 >  Debugging tools
