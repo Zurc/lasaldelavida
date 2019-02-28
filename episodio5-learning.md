@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Feb 2019
 
+[angular resources](https://angular.io/resources)
+
 [reddit - what i learned when i switched from bootstrap to angular material](https://www.reddit.com/r/Angular2/comments/7ehjby/what_i_learned_when_i_switched_to_angular/)
 
 [clarity design system for figma](https://medium.com/@sergey_81667/clarity-design-system-for-figma-9778e11cf30f)
