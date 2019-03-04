@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Mar 2019
 
+[35 angular interview questions and answers 2019](https://www.devteam.space/wp-content/uploads/2018/12/DevTeam.Space_35-Angular-Interview-Questions-and-Answers-for-2019.pdf)
+
 [angular 6/7 http client](https://www.techiediaries.com/angular-httpclient/)
 
 ### 28 Feb 2019
