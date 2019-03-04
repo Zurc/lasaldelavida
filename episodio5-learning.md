@@ -11,6 +11,8 @@ Cosas que voy aprendiendo...
 >  [semaphoreci - testing components in angular 2 with jasmine](https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine)
 >  
 >  [running tests with the CLI](https://github.com/angular/angular-cli/wiki/test)
+>  
+>  [e2e test](https://github.com/angular/angular-cli/wiki/e2e)
 
 [angular 2 rxjs common pitfalls](https://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
 
