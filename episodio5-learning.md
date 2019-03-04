@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 4 Mar 2019
+
+[angular 6/7 http client](https://www.techiediaries.com/angular-httpclient/)
+
 ### 28 Feb 2019
 
 [11 angular component libraries ...](https://blog.bitsrc.io/11-angular-component-libraries-you-should-know-in-2018-e9f9c9d544ff)
