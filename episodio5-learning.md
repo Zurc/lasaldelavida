@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 4 Mar 2019
 
+>  Angular testing... check this links
+>  
+>  [Official documentation](https://angular.io/docs/ts/latest/guide/testing.html)
+
 [angular 2 rxjs common pitfalls](https://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
 
 [35 angular interview questions and answers 2019](https://www.devteam.space/wp-content/uploads/2018/12/DevTeam.Space_35-Angular-Interview-Questions-and-Answers-for-2019.pdf)
