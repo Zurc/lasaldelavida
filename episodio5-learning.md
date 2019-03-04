@@ -7,6 +7,8 @@ Cosas que voy aprendiendo...
 >  Angular testing... check this links
 >  
 >  [Official documentation](https://angular.io/docs/ts/latest/guide/testing.html)
+>  
+>  [semaphoreci - testing components in angular 2 with jasmine](https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine)
 
 [angular 2 rxjs common pitfalls](https://blog.angular-university.io/angular-2-rxjs-common-pitfalls/)
 
