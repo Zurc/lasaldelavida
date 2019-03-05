@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 5 Mar 2019
+
+[angular errors: 'ng' is not recognised'](https://programmingwithmosh.com/angular/common-angular-errors/)
+
 ### 4 Mar 2019
 
 >  Angular testing... check this links
