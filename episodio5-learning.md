@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 5 Mar 2019
 
+[easy way to deploy an ng5 app to azure web app using vsts pipelines](https://itnext.io/easy-way-to-deploy-a-angular-5-application-to-azure-web-app-using-vsts-pipelines-4a288b9deae1)
+
 [angular errors: 'ng' is not recognised'](https://programmingwithmosh.com/angular/common-angular-errors/)
 
 ### 4 Mar 2019
