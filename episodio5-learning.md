@@ -4,7 +4,13 @@ Cosas que voy aprendiendo...
 
 ### 6 Mar 2019
 
-[loiane - hot to add bootstrap to an angular CLI project](https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/)
+>  [loiane - hot to add bootstrap to an angular CLI project](https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/)
+>  
+>  2 ways to import styles from Bootstrap that was installed trough npm:
+>  
+>  1-configure angular.json   |  2-import into your styles file
+>  
+>  "...I personally prefer to import all my styles in src/style.(s)css since it’s been declared in angular.json already."
 
 ### 5 Mar 2019
 
