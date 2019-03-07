@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 6 Mar 2019
 
+[talkingdotnet - add bootstrap 4 to ng 6 app](https://www.talkingdotnet.com/add-bootstrap-4-to-angular-6-application/)
+
 >  [loiane - hot to add bootstrap to an angular CLI project](https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/)
 >  
 >  2 ways to import styles from Bootstrap that was installed trough npm:
