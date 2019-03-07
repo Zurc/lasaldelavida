@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 6 Mar 2019
 
+[scotch.io - 3 useful typescript tips for angular](https://scotch.io/tutorials/3-useful-typescript-tips-for-angular)
+
 [tutsplus - testing comps in ng using jasmine (part2) services](https://code.tutsplus.com/tutorials/testing-components-in-angular-using-jasmine-part-2-services--cms-28933)
 
 [semaphoreci - testing services in angular 2](https://semaphoreci.com/community/tutorials/testing-services-in-angular-2)
