@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 6 Mar 2019
+
+[loiane - hot to add bootstrap to an angular CLI project](https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/)
+
 ### 5 Mar 2019
 
 [easy way to deploy an ng5 app to azure web app using vsts pipelines](https://itnext.io/easy-way-to-deploy-a-angular-5-application-to-azure-web-app-using-vsts-pipelines-4a288b9deae1)
