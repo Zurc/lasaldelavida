@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Mar 2019
 
+another test course... [pluralsight - play by play fundamentals of ng testing](https://app.pluralsight.com/library/courses/play-by-play-fundamentals-of-angular-testing/table-of-contents)
+
 [building full stack app using ng CLI and Nx](https://blog.nrwl.io/building-full-stack-applications-using-angular-cli-and-nx-5eff205248f1)  // really interesting
 
 [codecraft.tv - ng unit testing](https://codecraft.tv/courses/angular/unit-testing/overview/)
