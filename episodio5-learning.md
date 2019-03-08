@@ -2,7 +2,11 @@
 
 Cosas que voy aprendiendo...
 
-### 6 Mar 2019
+### 8 Mar 2019
+
+[codecraft.tv - ng unit testing](https://codecraft.tv/courses/angular/unit-testing/overview/)
+
+### 7 Mar 2019
 
 [scotch.io - 3 useful typescript tips for angular](https://scotch.io/tutorials/3-useful-typescript-tips-for-angular)
 
