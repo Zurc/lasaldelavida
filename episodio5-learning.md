@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 9 Mar 2019
+
+FORUM related...
+
+[github - discourse (open source)](https://github.com/discourse/discourse)
+
 ### 8 Mar 2019
 
 another test course... [pluralsight - play by play fundamentals of ng testing](https://app.pluralsight.com/library/courses/play-by-play-fundamentals-of-angular-testing/table-of-contents)
