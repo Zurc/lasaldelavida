@@ -6,7 +6,9 @@ Cosas que voy aprendiendo...
 
 FORUM related...
 
-[github - discourse (open source)](https://github.com/discourse/discourse)
+[discourse (open source) - Ruby on Rails, Ember, Postgres, Redis](https://github.com/discourse/discourse)
+
+[telescopeapp org - meteor, react](http://www.telescopeapp.org/)
 
 ### 8 Mar 2019
 
