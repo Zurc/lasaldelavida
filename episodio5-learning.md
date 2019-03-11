@@ -4,13 +4,19 @@ Cosas que voy aprendiendo...
 
 ### 9 Mar 2019
 
-FORUM related...
+Mean books
 
-[discourse (open source) - Ruby on Rails, Ember, Postgres, Redis](https://github.com/discourse/discourse)
+https://www.manning.com/books/getting-mean-with-mongo-express-angular-and-node
 
-[telescopeapp org - meteor, react](http://www.telescopeapp.org/)
+https://www.packtpub.com/web-development/mean-web-development
 
-[spectrum chat](https://spectrum.chat/)
+>  FORUM related...
+>  
+>  [discourse (open source) - Ruby on Rails, Ember, Postgres, Redis](https://github.com/discourse/discourse)
+>  
+>  [telescopeapp org - meteor, react](http://www.telescopeapp.org/)
+>  
+>  [spectrum chat](https://spectrum.chat/)
 
 ### 8 Mar 2019
 
