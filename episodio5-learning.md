@@ -19,6 +19,8 @@ https://www.packtpub.com/web-development/mean-web-development
 >  [spectrum chat](https://spectrum.chat/)
 >  
 >  [vue forum](https://madewithvuejs.com/vue-forum)
+>  
+>  [medium - a forum engine using node and vue](https://medium.com/@meshileya/a-forum-engine-using-nodejs-and-vuejs-10b5939ebf2e)
 
 
 ### 8 Mar 2019
