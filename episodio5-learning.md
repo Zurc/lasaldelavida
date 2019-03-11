@@ -17,6 +17,9 @@ https://www.packtpub.com/web-development/mean-web-development
 >  [telescopeapp org - meteor, react](http://www.telescopeapp.org/)
 >  
 >  [spectrum chat](https://spectrum.chat/)
+>  
+>  [vue forum](https://madewithvuejs.com/vue-forum)
+
 
 ### 8 Mar 2019
 
