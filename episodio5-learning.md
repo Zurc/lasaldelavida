@@ -10,6 +10,8 @@ FORUM related...
 
 [telescopeapp org - meteor, react](http://www.telescopeapp.org/)
 
+[spectrum chat](https://spectrum.chat/)
+
 ### 8 Mar 2019
 
 another test course... [pluralsight - play by play fundamentals of ng testing](https://app.pluralsight.com/library/courses/play-by-play-fundamentals-of-angular-testing/table-of-contents)
