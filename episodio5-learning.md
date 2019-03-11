@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 9 Mar 2019
 
+[medium - simplified angular unit testing](https://medium.com/@meshileya/simplified-angular-unit-testing-caffe0fccf31)
+
 Mean books
 
 https://www.manning.com/books/getting-mean-with-mongo-express-angular-and-node
