@@ -4,7 +4,11 @@ Cosas que voy aprendiendo...
 
 ### 12 Mar 2019
 
-[building a redux app with ng 2](https://app.pluralsight.com/guides/building-a-redux-application-with-angular-2-part-1)
+>  FE architecture
+>  
+>  [building a redux app with ng 2](https://app.pluralsight.com/guides/building-a-redux-application-with-angular-2-part-1)
+>  
+>  [mvvm mvc - unidirectional](https://michaelridland.com/xamarin/mvvm-mvc-is-dead-is-unidirectional-a-mvvm-mvc-killer/)
 
 example: [wireframes, annotations, navigation](https://www.slideshare.net/vipul80/wireframes-do-today)
 
