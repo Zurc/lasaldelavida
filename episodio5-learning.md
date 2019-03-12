@@ -9,6 +9,8 @@ Cosas que voy aprendiendo...
 >  [building a redux app with ng 2](https://app.pluralsight.com/guides/building-a-redux-application-with-angular-2-part-1)
 >  
 >  [mvvm mvc - unidirectional](https://michaelridland.com/xamarin/mvvm-mvc-is-dead-is-unidirectional-a-mvvm-mvc-killer/)
+>  
+>  [angular ngrx frontend](https://github.com/avatsaev/angular-ngrx-socket-frontend/blob/master/README.md)
 
 example: [wireframes, annotations, navigation](https://www.slideshare.net/vipul80/wireframes-do-today)
 
