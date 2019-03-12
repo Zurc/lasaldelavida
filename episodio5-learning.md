@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 12 Mar 2019
 
+example: [wireframes, annotations, navigation](https://www.slideshare.net/vipul80/wireframes-do-today)
+
 Definition of Done or Ready, good examples !! [DOD vs. DOR](https://blog.taiga.io/definition-of-ready-definition-of-done-the-difference.html)
 
 to read [UX - how do you know when design is done](https://medium.com/@andreas.johansson.dev/ux-process-how-do-you-know-when-your-design-is-done-a-simple-14-point-checklist-21b747e82954)
