@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 12 Mar 2019
 
+[narrative, storytelling (for user stories)](https://www.inc.com/carmine-gallo/jeff-bezos-bans-powerpoint-in-meetings-his-replacement-is-brilliant.html)
+
 [balsamiq blog - Using Wireframes with Agile User Stories](https://balsamiq.com/learn/resources/articles/userstories/)
 
 ### 11 Mar 2019
