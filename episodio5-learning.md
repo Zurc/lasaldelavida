@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 12 Mar 2019
 
+[building a redux app with ng 2](https://app.pluralsight.com/guides/building-a-redux-application-with-angular-2-part-1)
+
 example: [wireframes, annotations, navigation](https://www.slideshare.net/vipul80/wireframes-do-today)
 
 Definition of Done or Ready, good examples !! [DOD vs. DOR](https://blog.taiga.io/definition-of-ready-definition-of-done-the-difference.html)
