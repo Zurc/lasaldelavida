@@ -2,7 +2,7 @@
 
 Cosas que voy aprendiendo...
 
-### 9 Mar 2019
+### 11 Mar 2019
 
 [medium - simplified angular unit testing](https://medium.com/@meshileya/simplified-angular-unit-testing-caffe0fccf31)
 
