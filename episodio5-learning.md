@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 12 Mar 2019
 
+[ng6 custom modal (and service)](http://jasonwatmore.com/post/2018/05/25/angular-6-custom-modal-window-dialog-box)
+
 >  FE architecture
 >  
 >  [building a redux app with ng 2](https://app.pluralsight.com/guides/building-a-redux-application-with-angular-2-part-1)
