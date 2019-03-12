@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 12 Mar 2019
 
+to read [UX - how do you know when design is done](https://medium.com/@andreas.johansson.dev/ux-process-how-do-you-know-when-your-design-is-done-a-simple-14-point-checklist-21b747e82954)
+
 [narrative, storytelling (for user stories)](https://www.inc.com/carmine-gallo/jeff-bezos-bans-powerpoint-in-meetings-his-replacement-is-brilliant.html)
 
 [balsamiq blog - Using Wireframes with Agile User Stories](https://balsamiq.com/learn/resources/articles/userstories/)
