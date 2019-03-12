@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 >  
 >  [mvvm mvc - unidirectional](https://michaelridland.com/xamarin/mvvm-mvc-is-dead-is-unidirectional-a-mvvm-mvc-killer/)
 >  
->  [angular ngrx frontend](https://github.com/avatsaev/angular-ngrx-socket-frontend/blob/master/README.md)
+>  [angular ngrx sockets frontend](https://github.com/avatsaev/angular-ngrx-socket-frontend/blob/master/README.md)
 
 example: [wireframes, annotations, navigation](https://www.slideshare.net/vipul80/wireframes-do-today)
 
