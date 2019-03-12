@@ -11,6 +11,8 @@ Cosas que voy aprendiendo...
 >  [mvvm mvc - unidirectional](https://michaelridland.com/xamarin/mvvm-mvc-is-dead-is-unidirectional-a-mvvm-mvc-killer/)
 >  
 >  [angular, ngrx, socket.io frontend](https://github.com/avatsaev/angular-ngrx-socket-frontend/blob/master/README.md)
+>  
+>  [react app architecture](https://medium.com/@Xourse/reactjs-app-architecture-7a33d7ae9834)
 
 example: [wireframes, annotations, navigation](https://www.slideshare.net/vipul80/wireframes-do-today)
 
