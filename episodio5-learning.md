@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 13 Mar 2019
 
-[angular 7 + bootstrap 4 (ng-bootstrap/ngx-bootstrap/jquery)](https://www.techiediaries.com/angular-bootstrap-ui/)
+[techdiaries - angular 7 + bootstrap 4 (ng-bootstrap/ngx-bootstrap/jquery)](https://www.techiediaries.com/angular-bootstrap-ui/) // seems to have interesting tuts on ng7
 
 ### 12 Mar 2019
 
