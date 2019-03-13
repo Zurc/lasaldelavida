@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Mar 2019
+
+[angular 7 + bootstrap 4 (ng-bootstrap/ngx-bootstrap/jquery)](https://www.techiediaries.com/angular-bootstrap-ui/)
+
 ### 12 Mar 2019
 
 [ng6 custom modal (and service)](http://jasonwatmore.com/post/2018/05/25/angular-6-custom-modal-window-dialog-box)
