@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 14 Mar 2019
 
+[angular delete confirmation - redux](https://brianflove.com/2017/07/17/angular-delete-confirmation/)
+
 started jasmine test [pluralsight - play by play fundamentals fo angular testing](https://app.pluralsight.com/library/courses/play-by-play-fundamentals-of-angular-testing/discussion)
 
 [their github](https://github.com/duncanhunter/pluralsight-angular-testing-play-by-play) // need update of versions...
