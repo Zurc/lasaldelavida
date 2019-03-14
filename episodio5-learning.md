@@ -8,6 +8,8 @@ started jasmine test [pluralsight - play by play fundamentals fo angular testing
 
 [their github](https://github.com/duncanhunter/pluralsight-angular-testing-play-by-play) // need update of versions...
 
+[using json server to create a restful server](https://itnext.io/using-json-server-to-create-a-restful-server-in-5-seconds-78b85ccf832b)
+
 ### 13 Mar 2019
 
 [techdiaries - angular 7 + bootstrap 4 (ng-bootstrap/ngx-bootstrap/jquery)](https://www.techiediaries.com/angular-bootstrap-ui/) // seems to have interesting tuts on ng7
