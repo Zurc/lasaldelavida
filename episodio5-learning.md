@@ -6,9 +6,11 @@ Cosas que voy aprendiendo...
 
 [angular delete confirmation - redux](https://brianflove.com/2017/07/17/angular-delete-confirmation/)
 
-started jasmine test [pluralsight - play by play fundamentals fo angular testing](https://app.pluralsight.com/library/courses/play-by-play-fundamentals-of-angular-testing/discussion)
-
-[their github](https://github.com/duncanhunter/pluralsight-angular-testing-play-by-play) // need update of versions...
+>  started jasmine test [pluralsight - play by play fundamentals fo angular testing](https://app.pluralsight.com/library/courses/play-by-play-fundamentals-of-angular-testing/discussion)
+>  
+>  [their github](https://github.com/duncanhunter/pluralsight-angular-testing-play-by-play) // need update of versions...
+>  
+>  at the end used nvm v7... and installed globally json-server
 
 [using json server to create a restful server](https://itnext.io/using-json-server-to-create-a-restful-server-in-5-seconds-78b85ccf832b)
 
