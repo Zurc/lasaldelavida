@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Mar 2019
 
+[toBeTruthy vs toBe(true)](https://vincenttunru.com/toBeTruthy-vs-toBe-true/)
+
 [an overview of JS testing in 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
 
 [25 game changing JS tools](https://www.creativebloq.com/features/25-game-changing-javascript-tools)
