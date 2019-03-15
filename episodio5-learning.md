@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Mar 2019
 
+[stackoverflow - unit testing click event in angular](https://stackoverflow.com/questions/40093013/unit-testing-click-event-in-angular)
+
 [testing custom events on angular](https://www.vincecampanale.com/blog/2018/03/22/testing-custom-events-angular/)
 
 [A JS black belt - jasmine tests expect throw](https://ajsblackbelt.wordpress.com/2014/05/18/jasmine-tests-expect-tothrow/)
