@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [an overview of JS testing in 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
 
+[25 game changing JS tools](https://www.creativebloq.com/features/25-game-changing-javascript-tools)
+
 ### 14 Mar 2019
 
 [angular delete confirmation - redux](https://brianflove.com/2017/07/17/angular-delete-confirmation/)
