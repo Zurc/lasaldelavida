@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Mar 2019
 
+[oreilly - JS Testing with Jasmine by Evan Hahn](https://www.oreilly.com/library/view/javascript-testing-with/9781449356729/ch04.html)
+
 [toBeTruthy vs toBe(true)](https://vincenttunru.com/toBeTruthy-vs-toBe-true/)
 
 [an overview of JS testing in 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
