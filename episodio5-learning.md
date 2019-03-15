@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Mar 2019
+
+[an overview of JS testing in 2019](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a)
+
 ### 14 Mar 2019
 
 [angular delete confirmation - redux](https://brianflove.com/2017/07/17/angular-delete-confirmation/)
