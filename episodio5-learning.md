@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Mar 2019
 
+[A JS black belt - jasmine tests expect throw](https://ajsblackbelt.wordpress.com/2014/05/18/jasmine-tests-expect-tothrow/)
+
 [dave ceddia - jasmine 2 spy cheat sheet](https://daveceddia.com/jasmine-2-spy-cheat-sheet/)
 
 [oreilly - JS Testing with Jasmine by Evan Hahn](https://www.oreilly.com/library/view/javascript-testing-with/9781449356729/ch04.html)
