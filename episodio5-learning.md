@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [alligator.io - testing async fakeasync](https://alligator.io/angular/testing-async-fakeasync/)
 
+[How to Become a Pianist in Ten Lessons](https://www.youtube.com/watch?v=drO86DNI348&list=RDdrO86DNI348&start_radio=1&t=851)
+
 ### 15 Mar 2019
 
 [stackoverflow - unit testing click event in angular](https://stackoverflow.com/questions/40093013/unit-testing-click-event-in-angular)
