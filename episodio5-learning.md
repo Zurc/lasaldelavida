@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Mar 2019
+
+[alligator.io - testing async fakeasync](https://alligator.io/angular/testing-async-fakeasync/)
+
 ### 15 Mar 2019
 
 [stackoverflow - unit testing click event in angular](https://stackoverflow.com/questions/40093013/unit-testing-click-event-in-angular)
