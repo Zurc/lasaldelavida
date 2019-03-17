@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Mar 2019
+
+[song book Yamaha](https://europe.yamaha.com/files/download/other_assets/4/866764/E363songbook_En.pdf)
+
 ### 16 Mar 2019
 
 [alligator.io - testing async fakeasync](https://alligator.io/angular/testing-async-fakeasync/)
