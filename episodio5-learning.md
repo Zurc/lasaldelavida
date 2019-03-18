@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Mar 2019
+
+[how to setup discourse on azure](https://meta.discourse.org/t/how-to-setup-discourse-on-azure/89550)
+
 ### 17 Mar 2019
 
 [photoshop manipulation blog](http://pstmanipulation.blogspot.com/)
