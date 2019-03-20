@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 20 Mar 2019
 
+[optimizando customer journey mejorar ventas](https://blog.seogea.pro/optimizando-customer-journey-mejorar-ventas/)
+
 [automatic debit payments protection](https://www.consumerfinance.gov/about-us/blog/you-have-protections-when-it-comes-to-automatic-debit-payments-from-your-account/)
 
 ### 18 Mar 2019
