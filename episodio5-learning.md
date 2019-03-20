@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 20 Mar 2019
+
+[automatic debit payments protection](https://www.consumerfinance.gov/about-us/blog/you-have-protections-when-it-comes-to-automatic-debit-payments-from-your-account/)
+
 ### 18 Mar 2019
 
 [how to setup discourse on azure](https://meta.discourse.org/t/how-to-setup-discourse-on-azure/89550)
