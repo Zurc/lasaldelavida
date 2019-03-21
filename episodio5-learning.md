@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Mar 2019
 
+[css tricks - CSS modules](https://css-tricks.com/css-modules-part-1-need/)
+
 [indesign - creative resume design](https://helpx.adobe.com/indesign/how-to/creative-resume-design.html)
 
 ### 20 Mar 2019
