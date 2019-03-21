@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Mar 2019
+
+[indesign - creative resume design](https://helpx.adobe.com/indesign/how-to/creative-resume-design.html)
+
 ### 20 Mar 2019
 
 [optimizando customer journey mejorar ventas](https://blog.seogea.pro/optimizando-customer-journey-mejorar-ventas/)
