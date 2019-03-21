@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Mar 2019
 
+[sitepoint - avoid SASS extend](https://www.sitepoint.com/avoid-sass-extend/)
+
 [css tricks - CSS modules](https://css-tricks.com/css-modules-part-1-need/)
 
 [indesign - creative resume design](https://helpx.adobe.com/indesign/how-to/creative-resume-design.html)
