@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Mar 2019
 
+[Traversy media - Vanilla JS youtube playlist](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+
 [CRUZ - example of Accordion made on vanilla JS](https://stackblitz.com/edit/js-g6m75p?file=index.js)
 
 [CRUZ - example of filterable search list with vanilla JS](https://stackblitz.com/edit/js-4dxazd?file=index.js)
