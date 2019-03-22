@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [learn-vanilla-js github repo](https://github.com/snipcart/learn-vanilla-js)
 
+[learn vanilla javascript](https://designmodo.com/learn-vanilla-javascript/)
+
 >  [treehouse show episode](jQuery Plugins | Progress Bars | HTTP API Design | The Treehouse Show Episode 96)
 >  
 >  [http API design](https://github.com/interagent/http-api-design) // [book](https://geemus.gitbooks.io/http-api-design/content/en/)
