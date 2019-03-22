@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [learn vanilla javascript](https://designmodo.com/learn-vanilla-javascript/)
 
+[freecodecamp - is vanilla JS worth learning?](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
+
 >  [treehouse show episode](jQuery Plugins | Progress Bars | HTTP API Design | The Treehouse Show Episode 96)
 >  
 >  [http API design](https://github.com/interagent/http-api-design) // [book](https://geemus.gitbooks.io/http-api-design/content/en/)
