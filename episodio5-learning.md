@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Mar 2019
 
+[gist for Learn vanilla JS in about 10 minutes](https://gist.github.com/cferdinandi/32b0aebaab862a7a3a2580769349d8fe)
+
 [learn-vanilla-js github repo](https://github.com/snipcart/learn-vanilla-js)
 
 [learn vanilla javascript](https://designmodo.com/learn-vanilla-javascript/)
