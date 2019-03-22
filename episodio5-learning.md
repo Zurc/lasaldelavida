@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 22 Mar 2019
 
+>  [treehouse show episode](jQuery Plugins | Progress Bars | HTTP API Design | The Treehouse Show Episode 96)
+>  
+>  [http API design](https://github.com/interagent/http-api-design) // [book](https://geemus.gitbooks.io/http-api-design/content/en/)
+
 [personal business tax changes 2019](https://www.crunch.co.uk/knowledge/tax/personal-business-tax-changes-new-tax-year/)
 
 ### 21 Mar 2019
