@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Mar 2019
+
+[personal business tax changes 2019](https://www.crunch.co.uk/knowledge/tax/personal-business-tax-changes-new-tax-year/)
+
 ### 21 Mar 2019
 
 [sitepoint - avoid SASS extend](https://www.sitepoint.com/avoid-sass-extend/)
