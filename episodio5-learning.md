@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Mar 2019
 
+[CRUZ - example of Accordion made on vanilla JS](https://stackblitz.com/edit/js-g6m75p?file=index.js)
+
 [CRUZ - example of filterable search list with vanilla JS](https://stackblitz.com/edit/js-4dxazd?file=index.js)
 
 [dev-notes - attach click event to many elementes in JS](https://dev-notes.eu/2017/09/attach-click-event-to-many-elements-in-javascript/)
