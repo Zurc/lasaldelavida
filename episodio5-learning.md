@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Mar 2019
 
+[dev-notes - attach click event to many elementes in JS](https://dev-notes.eu/2017/09/attach-click-event-to-many-elements-in-javascript/)
+
 [gist for Learn vanilla JS in about 10 minutes](https://gist.github.com/cferdinandi/32b0aebaab862a7a3a2580769349d8fe)
 
 [learn-vanilla-js github repo](https://github.com/snipcart/learn-vanilla-js)
