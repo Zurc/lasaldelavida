@@ -14,7 +14,7 @@ Cosas que voy aprendiendo...
 
 ES6 promises - handle asynchronisity
 
-
+[udemy (max) - creando y resolviendo promises](udemy.com/es6-bootcamp-next-generation-javascript)
 
 ### 22 Mar 2019
 
