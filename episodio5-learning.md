@@ -4,7 +4,17 @@ Cosas que voy aprendiendo...
 
 ### 23 Mar 2019
 
+>  Estudiar, entender, retener, recordar (propósito, enseñar, relacionar, visualizar, aplicar lo aprendido)
+>  
+>  [aprende a retener y recordar lo que lees](https://www.ticbeat.com/cyborgcultura/aprende-a-retener-y-recordar-lo-que-lees/)
+>  
+>  [10 técnicas de estudio para retener y recordar eficazmente](http://psicologiacuriosa.com/2015/02/06/10-increibles-tecnicas-de-estudio-para-retener-y-recordar-eficazmente/)
+
 [ES6 compatibility table](https://kangax.github.io/compat-table/es6/)
+
+ES6 promises - handle asynchronisity
+
+
 
 ### 22 Mar 2019
 
