@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Mar 2019
+
+[ES6 compatibility table](https://kangax.github.io/compat-table/es6/)
+
 ### 22 Mar 2019
 
 [Traversy media - Vanilla JS youtube playlist](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
