@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Mar 2019
+
+Learning about ES6 extension of built-in objects [udemy - max - es6](https://www.udemy.com/es6-bootcamp-next-generation-javascript)
+
 ### 23 Mar 2019
 
 >  Estudiar, entender, retener, recordar (propósito, enseñar, relacionar, visualizar, aplicar lo aprendido)
