@@ -8,6 +8,8 @@ Learning about ES6: Sets and WeakSets [udemy - max - es6](https://www.udemy.com/
 
 [CRUZ - ES6 Set object and methods](https://jsbin.com/gicofuy/2/edit)
 
+[CRUZ - ES6 WeakSet object and methods](https://jsbin.com/huzerey/2/edit)
+
 ### 26 Mar 2019
 
 >  programming languages frameworks design patterns and paradigms
