@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 26 Mar 2019
 
+>  programming languages frameworks design patterns and paradigms
+>  
+>  [wikipedia - comparison of programming paradigms](https://en.m.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+>  
+>  [sourcemaking - design patterns](https://sourcemaking.com/design_patterns)
+
 Learning about ES6 extension of built-in objects [udemy - max - es6](https://www.udemy.com/es6-bootcamp-next-generation-javascript)
 
 ### 23 Mar 2019
