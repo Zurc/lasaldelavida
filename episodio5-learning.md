@@ -22,6 +22,8 @@ Learning about ES6 extension of built-in objects: all and race, Maps, WeakMaps [
 
 [CRUZ - ES6 Map object and methods](https://jsbin.com/tumetin/3/edit)
 
+[CRUZ - ES6 WeakMap object](https://jsbin.com/seselet/3/edit)
+
 ### 23 Mar 2019
 
 >  Estudiar, entender, retener, recordar (propósito, enseñar, relacionar, visualizar, aplicar lo aprendido)
