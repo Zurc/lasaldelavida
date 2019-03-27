@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 Learning about ES6: Sets and WeakSets [udemy - max - es6](https://www.udemy.com/es6-bootcamp-next-generation-javascript)
 
+
+
 ### 26 Mar 2019
 
 >  programming languages frameworks design patterns and paradigms
@@ -16,7 +18,9 @@ Learning about ES6: Sets and WeakSets [udemy - max - es6](https://www.udemy.com/
 
 Learning about ES6 extension of built-in objects: all and race, Maps, WeakMaps [udemy - max - es6](https://www.udemy.com/es6-bootcamp-next-generation-javascript)
 
+[CRUZ - ES6 built-in methods all and race](https://jsbin.com/yayafux/3/edit)
 
+[CRUZ - ES6 Map object and methods](https://jsbin.com/tumetin/3/edit)
 
 ### 23 Mar 2019
 
