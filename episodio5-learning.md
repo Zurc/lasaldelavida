@@ -14,6 +14,8 @@ Learning about ES6: Sets and WeakSets [udemy - max - es6](https://www.udemy.com/
 
 [CRUZ - ES6 creating objects with Reflect.construct()](https://jsbin.com/tuloca/4/edit)
 
+[MDN - ES6 Reflect.apply()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/apply)
+
 [scotch.io - better node with es6](https://scotch.io/tutorials/better-node-with-es6-pt-i)
 
 ### 26 Mar 2019
