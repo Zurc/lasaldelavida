@@ -4,6 +4,14 @@ Cosas que voy aprendiendo...
 
 ### 27 Mar 2019
 
+>  ES6 local Project Setup:
+>  
+>  [JavaScript Package Manager for a All-in-one workflow](http://jspm.io/)
+>  
+>  [Using ES6 with Babel and SystemJS](http://www.barbarianmeetscoding.com/blog/2016/02/21/start-using-es6-es2015-in-your-project-with-babel-and-gulp/)
+>  
+>  [Using Webpack](http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/)
+
 [MDN - ES6 reflect](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect)
 
 Learning about ES6: Sets and WeakSets [udemy - max - es6](https://www.udemy.com/es6-bootcamp-next-generation-javascript)
