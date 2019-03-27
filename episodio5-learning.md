@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 27 Mar 2019
 
+[MDN - ES6 reflect](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect)
+
 Learning about ES6: Sets and WeakSets [udemy - max - es6](https://www.udemy.com/es6-bootcamp-next-generation-javascript)
 
 [CRUZ - ES6 Set object and methods](https://jsbin.com/gicofuy/2/edit)
