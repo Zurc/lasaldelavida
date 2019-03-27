@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 Learning about ES6: Sets and WeakSets [udemy - max - es6](https://www.udemy.com/es6-bootcamp-next-generation-javascript)
 
-
+[CRUZ - ES6 Set object and methods](https://jsbin.com/gicofuy/2/edit)
 
 ### 26 Mar 2019
 
