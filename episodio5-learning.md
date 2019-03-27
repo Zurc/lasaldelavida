@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Mar 2019
+
+Learning about ES6: Sets and WeakSets [udemy - max - es6](https://www.udemy.com/es6-bootcamp-next-generation-javascript)
+
 ### 26 Mar 2019
 
 >  programming languages frameworks design patterns and paradigms
@@ -10,7 +14,9 @@ Cosas que voy aprendiendo...
 >  
 >  [sourcemaking - design patterns](https://sourcemaking.com/design_patterns)
 
-Learning about ES6 extension of built-in objects [udemy - max - es6](https://www.udemy.com/es6-bootcamp-next-generation-javascript)
+Learning about ES6 extension of built-in objects: all and race, Maps, WeakMaps [udemy - max - es6](https://www.udemy.com/es6-bootcamp-next-generation-javascript)
+
+
 
 ### 23 Mar 2019
 
@@ -22,7 +28,9 @@ Learning about ES6 extension of built-in objects [udemy - max - es6](https://www
 
 [ES6 compatibility table](https://kangax.github.io/compat-table/es6/)
 
-ES6 promises - handle asynchronisity
+ES6 promises - handle asynchronicity
+
+[CRUZ - promises jsbin](https://jsbin.com/cuqebug/4/edit)
 
 [udemy (max) - creando y resolviendo promises](udemy.com/es6-bootcamp-next-generation-javascript)
 
