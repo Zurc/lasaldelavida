@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Mar 2019
 
+[uxdesign - 100 days of motion design](https://uxdesign.cc/100-days-of-motion-design-463526af852f)    // motivation - inspiration
+
 [UX - el master UX school desde dentro](https://medium.com/@mauritorra/el-m%C3%A1ster-ux-de-kschool-desde-dentro-2c009687e3f3)  √√√
 
 [Figma templates](https://www.figma.com/templates/)
