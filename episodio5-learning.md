@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 28 Mar 2019
 
-[UX - el master UX school desde dentro](https://medium.com/@mauritorra/el-m%C3%A1ster-ux-de-kschool-desde-dentro-2c009687e3f3)
+[UX - el master UX school desde dentro](https://medium.com/@mauritorra/el-m%C3%A1ster-ux-de-kschool-desde-dentro-2c009687e3f3)  √√√
 
 [Figma templates](https://www.figma.com/templates/)
 
