@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Mar 2019
 
+[academind - RxJS Tutorial] (https://academind.com/learn/javascript/understanding-rxjs/)
+
 Angular - property binding: [DOM property]="..." <- what angular looks for (inside the quotation marks) is typescript code. If I write 'something' it will look for a property 'something' on the component class. If you want to pass a string, then you need to wrap it in single quotation marks like this
 
 ```
