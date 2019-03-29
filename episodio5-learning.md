@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### 29 Mar 2019
+
+Angular - property binding: [DOM property]="..." <- what angular looks for (inside the quotation marks) is typescript code. If I write 'something' it will look for a property 'something' on the component class. If you want to pass a string, then you need to wrap it in single quotation marks like this
+
+```
+[DOM property]="'something'"
+```
+
 ### 28 Mar 2019
 
 [uxdesign - 100 days of motion design](https://uxdesign.cc/100-days-of-motion-design-463526af852f)    // motivation - inspiration
