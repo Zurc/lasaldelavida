@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Learn Node + Express from Scratch (for free!)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
+[academind - Creating a REST API with Node + Express (+ MongoDB)](https://academind.com/learn/node-js/building-a-restful-api-with/)
+
 [academind - RxJS Tutorial](https://academind.com/learn/javascript/understanding-rxjs/)
 
 [academind - Reference vs Primitive Types in JS](https://academind.com/learn/javascript/reference-vs-primitive-values/)
