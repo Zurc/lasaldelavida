@@ -10,6 +10,8 @@ Angular - property binding: [DOM property]="..." <- what angular looks for (insi
 [DOM property]="'something'"
 ```
 
+[1st steps w/ ng7 CLI and ng Material](https://medium.com/@ismapro/first-steps-with-angular-7-with-angular-cli-and-angular-material-d69f55d8ac51)
+
 ### 28 Mar 2019
 
 [uxdesign - 100 days of motion design](https://uxdesign.cc/100-days-of-motion-design-463526af852f)    // motivation - inspiration
