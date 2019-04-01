@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [MongoDB Docs](https://www.mongodb.com/)
 
+[MongoDB Atlas Docs](https://www.mongodb.com/cloud/atlas)
+
 [add directory to mac path](https://www.architectryan.com/2012/10/02/add-to-the-path-on-mac-os-x-mountain-lion/)
 
 [how do I ensure mongo binaries are in my path](https://stackoverflow.com/questions/28267773/how-do-i-ensure-that-mongo-binaries-are-in-my-path-in-my-shell-rc-bashrc)
