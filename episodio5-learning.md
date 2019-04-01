@@ -8,6 +8,21 @@ Cosas que voy aprendiendo...
 
 [how do I ensure mongo binaries are in my path](https://stackoverflow.com/questions/28267773/how-do-i-ensure-that-mongo-binaries-are-in-my-path-in-my-shell-rc-bashrc)
 
+MONGODB - CLOUD (atlas)
+
+created a new cluster (AWS), connected my express app
+
+check it's working: connect mongodb shell (hombrew install), files installed on
+
+```
+/usr/local/Cellar/mongodb-community-shell/4.0.8/
+```
+copie files to mongodb/bin to connect
+
+show collections
+
+db.posts.find()  // it's there, so it's working fine
+
 ### 31 Mar 2019
 
 [museums and the web](https://mw2015.museumsandtheweb.com/best-of-the-web-nominees/)
