@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 1 Apr 2019
+
+[add directory to mac path](https://www.architectryan.com/2012/10/02/add-to-the-path-on-mac-os-x-mountain-lion/)
+
 ### 31 Mar 2019
 
 [museums and the web](https://mw2015.museumsandtheweb.com/best-of-the-web-nominees/)
