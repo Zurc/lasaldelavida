@@ -49,6 +49,12 @@ Angular - property binding: [DOM property]="..." <- what angular looks for (insi
 [DOM property]="'something'"
 ```
 
+The shortcut is to remove square brackets and pass the text directly
+
+```
+DomProperty="something"
+```
+
 [1st steps w/ ng7 CLI and ng Material](https://medium.com/@ismapro/first-steps-with-angular-7-with-angular-cli-and-angular-material-d69f55d8ac51)
 
 ### 28 Mar 2019
