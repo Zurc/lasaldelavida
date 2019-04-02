@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Multer Docs](https://github.com/expressjs/multer)
 
+[Tutorial on Angular Image Upload](https://academind.com/learn/angular/snippets/angular-image-upload-made-easy)
+
 ### 1 Apr 2019
 
 [Mongoose Docs](http://mongoosejs.com/docs/guide.html)
