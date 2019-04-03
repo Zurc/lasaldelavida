@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 3 Apr 2019
+
+[React for the visual learner (chapter 1)](https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-1-what-is-this-all-about-a0d28cfd33c6)
+
 ### 2 Apr 2019
 
 [Multer Docs](https://github.com/expressjs/multer)
