@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [3 keys landing job love](https://hired.com/blog/candidates/3-keys-landing-job-love)
 
+[19 phone interview tips - get hired](https://hired.com/blog/candidates/19-phone-interview-tips-get-hired)
+
 ### 3 Apr 2019
 
 [React for the visual learner (chapter 1)](https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-1-what-is-this-all-about-a0d28cfd33c6)
