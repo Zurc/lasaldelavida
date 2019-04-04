@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [illustrated dev](https://illustrated.dev/fruit-comparison) √√√
 
+[maggie mappletons twitter](https://twitter.com/mappletons)
+
 [3 keys landing job love](https://hired.com/blog/candidates/3-keys-landing-job-love)
 
 [19 phone interview tips - get hired](https://hired.com/blog/candidates/19-phone-interview-tips-get-hired)
