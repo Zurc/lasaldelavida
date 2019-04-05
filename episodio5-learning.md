@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 5 Apr 2019
+
+[top 10 energy terms](https://www.switchcraft.co.uk/energy-comparison-sites-decoded-top-10-energy-terms-you-need-to-know/)
+
 ### 4 Apr 2019
 
 [illustrated dev](https://illustrated.dev/fruit-comparison) √√√
