@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 5 Apr 2019
 
+[youtube playlist - angular weather app](https://www.youtube.com/watch?v=0YSFRBN1OVI&list=PLONAys1AYOAmZ27U0eAerFlHkUXLa5cii)
+
 [weather app refs](https://www.vovoclip.com/academind/JJ15JJ9058AS18PP941115.html)
 
 [top 10 energy terms](https://www.switchcraft.co.uk/energy-comparison-sites-decoded-top-10-energy-terms-you-need-to-know/)
