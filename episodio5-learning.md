@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [top 10 energy terms](https://www.switchcraft.co.uk/energy-comparison-sites-decoded-top-10-energy-terms-you-need-to-know/)
 
+[youtube - stackblitz angular demo](https://www.youtube.com/watch?v=GV0fBEJn2TA)
+
 ### 4 Apr 2019
 
 [illustrated dev](https://illustrated.dev/fruit-comparison) √√√
