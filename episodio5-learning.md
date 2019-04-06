@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 6 Apr 2019
+
+[smart homes - openhab (open source)](https://www.openhab.org/)
+
 ### 5 Apr 2019
 
 [CRUZ - Weather app (angular 7, material, openweathermap API)](https://stackblitz.com/edit/angular-tqxgfg)
