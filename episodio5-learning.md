@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 5 Apr 2019
 
+[CRUZ - Weather app (angular 7, material, openweathermap API)](https://stackblitz.com/edit/angular-tqxgfg)
+
 [youtube playlist - angular weather app](https://www.youtube.com/watch?v=0YSFRBN1OVI&list=PLONAys1AYOAmZ27U0eAerFlHkUXLa5cii)
 
 [weather app refs](https://www.vovoclip.com/academind/JJ15JJ9058AS18PP941115.html)
