@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 7 Apr 2019
 
+[smashing magazine - forms category](https://www.smashingmagazine.com/category/forms)
+
 [CRUZ - deployed weather-app to github pages](https://zurc.github.io/weather-app)
 
 [CRUZ - deployed weather-app to stackblitz](https://github-hmfo4j.stackblitz.io)
