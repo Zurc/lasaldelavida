@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 7 Apr 2019
 
+[CRUZ - deployed weather-app to github pages](https://zurc.github.io/weather-app)
+
 [deploy angular CLI to github pages or stackblitz](https://blog.mimacom.com/angular-cli-github-pages-stackblitz/) √√√
 
 ### 6 Apr 2019
