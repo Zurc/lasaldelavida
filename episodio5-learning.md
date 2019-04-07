@@ -20,6 +20,8 @@ Cosas que voy aprendiendo...
 
 [Traversy Media - GitHub Pages Deploy & Domain](https://www.youtube.com/watch?v=SKXkC4SqtRk)
 
+[HTML5 templates - responsive](https://html5up.net/)
+
 ### 6 Apr 2019
 
 [smart homes - openhab (open source)](https://www.openhab.org/)
