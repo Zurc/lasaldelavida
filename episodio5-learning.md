@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 7 Apr 2019
 
-[deploy angular github pages](https://www.techiediaries.com/deploy-angular-github-pages/)
+[deploy angular CLI to github pages or stackblitz](https://blog.mimacom.com/angular-cli-github-pages-stackblitz/) √√√
 
 ### 6 Apr 2019
 
