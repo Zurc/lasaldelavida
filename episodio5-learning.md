@@ -18,6 +18,8 @@ Cosas que voy aprendiendo...
 
 [How to Create & Host a Portfolio with Github pages! #grindreelwhat](https://www.youtube.com/watch?v=u-RLu_8kwA0)
 
+[Traversy Media - GitHub Pages Deploy & Domain](https://www.youtube.com/watch?v=SKXkC4SqtRk)
+
 ### 6 Apr 2019
 
 [smart homes - openhab (open source)](https://www.openhab.org/)
