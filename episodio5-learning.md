@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [CRUZ - deployed weather-app to github pages](https://zurc.github.io/weather-app)
 
+[CRUZ - deployed weather-app to stackblitz](https://github-hmfo4j.stackblitz.io)
+
+[CRUZ - to edit on stackblitz](https://stackblitz.com/edit/github-hmfo4j)
+
 [deploy angular CLI to github pages or stackblitz](https://blog.mimacom.com/angular-cli-github-pages-stackblitz/) √√√
 
 ### 6 Apr 2019
