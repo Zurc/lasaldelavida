@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 7 Apr 2019
+
+[deploy angular github pages](https://www.techiediaries.com/deploy-angular-github-pages/)
+
 ### 6 Apr 2019
 
 [smart homes - openhab (open source)](https://www.openhab.org/)
