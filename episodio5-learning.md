@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [smashing magazine - forms category](https://www.smashingmagazine.com/category/forms)
 
+[smashing magazine - extensive guide on web form usability](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/)
+
 [CRUZ - deployed weather-app to github pages](https://zurc.github.io/weather-app)
 
 [CRUZ - deployed weather-app to stackblitz](https://github-hmfo4j.stackblitz.io)
