@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [deploy angular CLI to github pages or stackblitz](https://blog.mimacom.com/angular-cli-github-pages-stackblitz/) √√√
 
+[How to Create & Host a Portfolio with Github pages! #grindreelwhat](https://www.youtube.com/watch?v=u-RLu_8kwA0)
+
 ### 6 Apr 2019
 
 [smart homes - openhab (open source)](https://www.openhab.org/)
