@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [codeforgeek - render html file express](https://codeforgeek.com/2019/03/render-html-file-expressjs/)
 
+[scotch.io use ejs to template your node app](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
+
 ### 7 Apr 2019
 
 [smashing magazine - forms category](https://www.smashingmagazine.com/category/forms)
