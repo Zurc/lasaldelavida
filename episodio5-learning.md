@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [scotch.io use ejs to template your node app](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
 
+[adding nodemailer email contact form node-express app](https://tylerkrys.ca/blog/adding-nodemailer-email-contact-form-node-express-app)
+
 ### 7 Apr 2019
 
 [smashing magazine - forms category](https://www.smashingmagazine.com/category/forms)
