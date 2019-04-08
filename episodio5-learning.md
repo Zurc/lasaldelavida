@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 8 Apr 2019
+
+[codeforgeek - render html file express](https://codeforgeek.com/2019/03/render-html-file-expressjs/)
+
 ### 7 Apr 2019
 
 [smashing magazine - forms category](https://www.smashingmagazine.com/category/forms)
