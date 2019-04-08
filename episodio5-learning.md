@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Apr 2019
 
+[Discussion on Pagination & Mongoose](https://stackoverflow.com/questions/5539955/how-to-paginate-with-mongoose-in-node-js)
+
 [codeforgeek - render html file express](https://codeforgeek.com/2019/03/render-html-file-expressjs/)
 
 [scotch.io use ejs to template your node app](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
