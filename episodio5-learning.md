@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Apr 2019
 
+[MDN - Web API AnalyserNode (interface to process Audio frecuencies)](https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode)
+
 [Analyser Bars Animation HTML5 Audio API JavaScript Tutorial](https://www.youtube.com/watch?v=IBHpSkGZtNM)
 
 [vimeo - ctrlpaint](https://vimeo.com/ctrlpaint)
