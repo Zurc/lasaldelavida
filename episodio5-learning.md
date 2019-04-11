@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Apr 2019
 
+[Augmented Reality with JS a case study](https://medium.freecodecamp.org/augmented-reality-with-javascript-a-case-study-c9cffaadcf07)
+
 [app ideas to level up coding skills](https://medium.freecodecamp.org/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672)
 
 [master webVR with a weed of experiments](https://glitch.com/culture/master-webvr-with-a-week-of-experiments/)
