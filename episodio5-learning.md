@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [app ideas to level up coding skills](https://medium.freecodecamp.org/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672)
 
+[master webVR with a weed of experiments](https://glitch.com/culture/master-webvr-with-a-week-of-experiments/)
+
 ### 10 Apr 2019
 
 [MDN - Web API AnalyserNode (interface to process Audio frecuencies)](https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode)
