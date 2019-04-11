@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 11 Apr 2019
+
+[app ideas to level up coding skills](https://medium.freecodecamp.org/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672)
+
 ### 10 Apr 2019
 
 [MDN - Web API AnalyserNode (interface to process Audio frecuencies)](https://developer.mozilla.org/en-US/docs/Web/API/AnalyserNode)
