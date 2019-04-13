@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 13 Apr 2019
 
+[teaching material: angular website - HTML Template to Angular Component](https://www.youtube.com/watch?v=LYmJOdCuXrs)
+
 [Vectary - free browser-based 3D modeling Tool](https://www.youtube.com/watch?v=bedVCq5Y-Jo)
 
 ### 11 Apr 2019
