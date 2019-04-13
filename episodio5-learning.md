@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Apr 2019
+
+[Vectary - free browser-based 3D modeling Tool](https://www.youtube.com/watch?v=bedVCq5Y-Jo)
+
 ### 11 Apr 2019
 
 [Augmented Reality with JS a case study](https://medium.freecodecamp.org/augmented-reality-with-javascript-a-case-study-c9cffaadcf07)
