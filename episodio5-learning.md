@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Apr 2019
 
+[discover the power of closures in JS](https://medium.freecodecamp.org/discover-the-power-of-closures-in-javascript-5c472a7765d7)
+
 [benefits of being VAT registered](https://www.simpleformations.com/blog/the-4-big-benefits-of-being-vat-registered.html)
 
 ### 13 Apr 2019
