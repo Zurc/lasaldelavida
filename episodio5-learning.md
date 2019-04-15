@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Apr 2019
+
+[memoization - improve recursive solution for fibojnacci sequence problem](https://medium.com/@nothingisfunny/memoization-improving-recursive-solution-for-fibonacci-sequence-problem-c02dab7a74e5)
+
 ### 15 Apr 2019
 
 [Custom maps to react using mapbox](https://blog.cloudboost.io/adding-custom-maps-to-react-app-using-mapbox-bb978845e7ad)
