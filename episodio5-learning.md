@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [fibonacci sequence JS interview ?: iterative and recursive solutions](https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053)
 
+[fibonacci sequence algorithm in JS](https://medium.com/developers-writing/fibonacci-sequence-algorithm-in-javascript-b253dc7e320e)
+
 [Addy Osmani - essential JS Design Patterns (BOOK)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 [discover the power of closures in JS](https://medium.freecodecamp.org/discover-the-power-of-closures-in-javascript-5c472a7765d7)
