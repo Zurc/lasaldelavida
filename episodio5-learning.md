@@ -2,7 +2,13 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Apr 2019
+
+[benefits of being VAT registered](https://www.simpleformations.com/blog/the-4-big-benefits-of-being-vat-registered.html)
+
 ### 13 Apr 2019
+
+[follow this link to check if bug was fixed (angular-devkit > node-sass > node-gyp)](https://github.com/angular/angular-cli/issues/14138)
 
 [Academind - Google Maps & Angular | ANGULAR SNIPPETS](https://www.youtube.com/watch?v=lApggVS0icc)
 
