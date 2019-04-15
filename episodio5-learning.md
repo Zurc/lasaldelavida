@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [memoization - improve recursive solution for fibojnacci sequence problem](https://medium.com/@nothingisfunny/memoization-improving-recursive-solution-for-fibonacci-sequence-problem-c02dab7a74e5)
 
+[how to succed in a FE interview](https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823)
+
 ### 15 Apr 2019
 
 [Custom maps to react using mapbox](https://blog.cloudboost.io/adding-custom-maps-to-react-app-using-mapbox-bb978845e7ad)
