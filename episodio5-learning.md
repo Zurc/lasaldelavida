@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Apr 2019
 
+[Custom maps to react using mapbox](https://blog.cloudboost.io/adding-custom-maps-to-react-app-using-mapbox-bb978845e7ad)
+
 [fibonacci sequence JS interview ?: iterative and recursive solutions](https://medium.com/quick-code/fibonacci-sequence-javascript-interview-question-iterative-and-recursive-solutions-6a0346d24053)
 
 [Addy Osmani - essential JS Design Patterns (BOOK)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
