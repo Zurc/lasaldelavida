@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [JS expose global variables methods modules...](http://www.matthiassommer.it/programming/web/javascript/expose-global-variables-methods-modules-javascript/)
 
+[understanding JS constructors](https://css-tricks.com/understanding-javascript-constructors/)
+
 ### 16 Apr 2019
 
 [memoization - improve recursive solution for fibojnacci sequence problem](https://medium.com/@nothingisfunny/memoization-improving-recursive-solution-for-fibonacci-sequence-problem-c02dab7a74e5)
