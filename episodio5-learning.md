@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Apr 2019
+
+[MDN - JS obj prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+
 ### 17 Apr 2019
 
 [JS expose global variables methods modules...](http://www.matthiassommer.it/programming/web/javascript/expose-global-variables-methods-modules-javascript/)
