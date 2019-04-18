@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 18 Apr 2019
 
-[MDN - JS obj prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+[MDN - JS Obj: obj prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+
+[MDN - JS guide: Details of the Obj model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)
 
 ### 17 Apr 2019
 
