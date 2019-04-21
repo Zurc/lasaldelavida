@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Apr 2019
+
+[Client side JS](https://saratoga-weather.org/JavaScriptClientGuideJS13.pdf)
+
 ### 18 Apr 2019
 
 [MDN - JS Obj: obj prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
