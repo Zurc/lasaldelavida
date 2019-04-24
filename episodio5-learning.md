@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Apr 2019
 
+[ng6 crud example](https://www.javaguides.net/2019/02/angular-6-crud-app-example.html)
+
 [angular folder structure](https://medium.com/@motcowley/angular-folder-structure-d1809be95542)
 
 [choosing a highly scalabel folder structure in angular](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7)
