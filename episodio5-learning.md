@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Apr 2019
 
+[html color picker](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/color
+
 [ng6 crud example](https://www.javaguides.net/2019/02/angular-6-crud-app-example.html)
 
 [angular folder structure](https://medium.com/@motcowley/angular-folder-structure-d1809be95542)
