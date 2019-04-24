@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Apr 2019
 
+[choosing a highly scalabel folder structure in angular](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7)
+
 [flexbox](https://internetingishard.com/html-and-css/flexbox/)
 
 ### 22 Apr 2019
