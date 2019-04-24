@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Apr 2019
+
+[flexbox](https://internetingishard.com/html-and-css/flexbox/)
+
 ### 22 Apr 2019
 
 [Client side JS](https://saratoga-weather.org/JavaScriptClientGuideJS13.pdf)
