@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Apr 2019
 
+[advanced caching with rxjs](https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html)
+
 [angular.io - structural directives (nt-template, ng-container, ng-content...)](https://angular.io/guide/structural-directives)
 
 [ng-template ng-container ngtemplateoutlet](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
