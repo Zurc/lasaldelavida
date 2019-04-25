@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Apr 2019
+
+[ng-template ng-container ngtemplateoutlet](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
+
 ### 24 Apr 2019
 
 [html color picker](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/color
