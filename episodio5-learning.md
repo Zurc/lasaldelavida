@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Apr 2019
 
+[angular.io - structural directives (nt-template, ng-container, ng-content...)](https://angular.io/guide/structural-directives)
+
 [ng-template ng-container ngtemplateoutlet](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
 
 ### 24 Apr 2019
