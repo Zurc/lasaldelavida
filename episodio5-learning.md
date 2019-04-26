@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Apr 2019
+
+[angular router route parameters activatedroute ...](https://www.techiediaries.com/angular-router-route-parameters/)
+
 ### 25 Apr 2019
 
 [advanced caching with rxjs](https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html)
