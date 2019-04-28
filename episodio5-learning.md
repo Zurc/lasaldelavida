@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 28 Apr 2019
+
+[Open Layers (webpack)](https://github.com/openlayers/ol-webpack)
+
 ### 26 Apr 2019
 
 [angular router route parameters activatedroute ...](https://www.techiediaries.com/angular-router-route-parameters/)
