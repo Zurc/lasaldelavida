@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [invoice template microsoft](https://templates.office.com/en-us/Service-invoice-with-tax-calculations-TM16400625)
 
+[MDN - useful string methods (and some exercises)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
+
 ### 28 Apr 2019
 
 [open layer](https://openlayersbook.github.io/ch04-interacting-with-raster-data-source/example-03.html)
