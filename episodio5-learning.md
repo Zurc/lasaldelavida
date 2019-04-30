@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [MDN - useful string methods (and some exercises)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
 
+[JSinfo - keys values entries](https://javascript.info/keys-values-entries)
+
 ### 28 Apr 2019
 
 [open layer](https://openlayersbook.github.io/ch04-interacting-with-raster-data-source/example-03.html)
