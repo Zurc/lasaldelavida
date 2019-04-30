@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 30 Apr 2019
 
+[refresh current rout in angular](https://blog.angularindepth.com/refresh-current-route-in-angular-512a19d58f6e)
+
 [Dr. Axel Rauschmayer - JS time values](http://2ality.com/2014/02/time-values.html)
 
 [the definitive guide to datetime manipulation](https://www.toptal.com/software/definitive-guide-to-datetime-manipulation)
