@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 30 Apr 2019
+
+[JS time values](http://2ality.com/2014/02/time-values.html)
+
 ### 28 Apr 2019
 
 [open layer](https://openlayersbook.github.io/ch04-interacting-with-raster-data-source/example-03.html)
