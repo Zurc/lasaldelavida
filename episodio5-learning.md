@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 30 Apr 2019
 
-[JS time values](http://2ality.com/2014/02/time-values.html)
+[Dr. Axel Rauschmayer - JS time values](http://2ality.com/2014/02/time-values.html)
 
 ### 28 Apr 2019
 
