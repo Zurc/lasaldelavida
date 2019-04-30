@@ -14,7 +14,9 @@ Cosas que voy aprendiendo...
 
 [MDN - useful string methods (and some exercises)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
 
-[JSinfo - keys values entries](https://javascript.info/keys-values-entries)
+>  [javascript.info](https://javascript.info/)
+>  
+>  [eg. keys values entries](https://javascript.info/keys-values-entries)
 
 ### 28 Apr 2019
 
