@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Dr. Axel Rauschmayer - JS time values](http://2ality.com/2014/02/time-values.html)
 
+[the definitive guide to datetime manipulation](https://www.toptal.com/software/definitive-guide-to-datetime-manipulation)
+
 ### 28 Apr 2019
 
 [open layer](https://openlayersbook.github.io/ch04-interacting-with-raster-data-source/example-03.html)
