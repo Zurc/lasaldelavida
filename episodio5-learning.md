@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [the definitive guide to datetime manipulation](https://www.toptal.com/software/definitive-guide-to-datetime-manipulation)
 
+[invoice template microsoft](https://templates.office.com/en-us/Service-invoice-with-tax-calculations-TM16400625)
+
 ### 28 Apr 2019
 
 [open layer](https://openlayersbook.github.io/ch04-interacting-with-raster-data-source/example-03.html)
