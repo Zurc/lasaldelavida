@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 1 May 2019
 
+[ng2+ communicating btwn components with observable subject](http://jasonwatmore.com/post/2016/12/01/angular-2-communicating-between-components-with-observable-subject)
+
 [ng2 and observables data sharing in a multi-view app](https://www.lucidchart.com/techblog/2016/11/08/angular-2-and-observables-data-sharing-in-a-multi-view-application/)
 
 [6 simple examples which will make you love observables (rxjs 5)](https://x-team.com/blog/rxjs-observables/)
