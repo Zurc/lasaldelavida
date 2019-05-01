@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [generate random string chars in JS](https://stackoverflow.com/questions/1349404/generate-random-string-characters-in-javascript) // is worth to read the comments
 
+[atlassian CRUCIBLE - Collaborative code review](https://www.atlassian.com/software/crucible)
+
 ### 30 Apr 2019
 
 [refresh current rout in angular](https://blog.angularindepth.com/refresh-current-route-in-angular-512a19d58f6e)
