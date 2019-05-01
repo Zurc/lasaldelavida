@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 1 May 2019
+
+[generate random string chars in JS](https://stackoverflow.com/questions/1349404/generate-random-string-characters-in-javascript) // is worth to read the comments
+
 ### 30 Apr 2019
 
 [refresh current rout in angular](https://blog.angularindepth.com/refresh-current-route-in-angular-512a19d58f6e)
