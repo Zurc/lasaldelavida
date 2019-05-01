@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 1 May 2019
 
+[rxjs observables (5)](https://x-team.com/blog/rxjs-observables/)
+
 [generate random string chars in JS](https://stackoverflow.com/questions/1349404/generate-random-string-characters-in-javascript) // is worth to read the comments
 
 ### 30 Apr 2019
