@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 >  
 >  [angularindepth - everything you need to know about change detection in angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
 
+[Charles Laveso - realistic drawing](https://www.youtube.com/watch?v=1VehlZRJLCo&list=PLc3nkjX2uGqaSpG5a8bQpNLBKvgwuV4pW)
+
 ### 1 May 2019
 
 [ng2+ communicating btwn components with observable subject](http://jasonwatmore.com/post/2016/12/01/angular-2-communicating-between-components-with-observable-subject)
