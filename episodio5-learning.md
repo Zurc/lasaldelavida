@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 2 May 2019
+
+>  Change detection, immutability, performance...
+>  
+>  [angularindepth - everything you need to know about change detection in angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
+
 ### 1 May 2019
 
 [ng2+ communicating btwn components with observable subject](http://jasonwatmore.com/post/2016/12/01/angular-2-communicating-between-components-with-observable-subject)
