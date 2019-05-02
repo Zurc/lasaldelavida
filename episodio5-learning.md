@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [Charles Laveso - realistic drawing](https://www.youtube.com/watch?v=1VehlZRJLCo&list=PLc3nkjX2uGqaSpG5a8bQpNLBKvgwuV4pW)
 
+[charlesdesenhosrealistas](https://charlesdesenhosrealistas.com.br/en/course/)
+
 ### 1 May 2019
 
 [ng2+ communicating btwn components with observable subject](http://jasonwatmore.com/post/2016/12/01/angular-2-communicating-between-components-with-observable-subject)
