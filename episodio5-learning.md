@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 >  Change detection, immutability, performance...
 >  
->  [angularindepth - A gentle introduction into change detection in Angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
+>  [angularindepth - A gentle introduction into change detection in Angular](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)
 >  
 >  [angularindepth - everything you need to know about change detection in angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
 
