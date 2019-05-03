@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 3 May 2019
+
+[angularindepth - 5 articles to make you an angular change detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
+
 ### 2 May 2019
 
 >  Change detection, immutability, performance...
