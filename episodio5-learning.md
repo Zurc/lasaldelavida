@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [angularindepth - level up your reverse engineering skills](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630)
 
+[angularindepth](https://blog.angularindepth.com/) - page worth look 
+
 ### 2 May 2019
 
 >  Change detection, immutability, performance...
