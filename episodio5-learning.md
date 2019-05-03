@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [ng lazy loading for dummies](https://codeburst.io/how-to-implement-lazy-loading-in-angular-bb2a670b34d)
 
+[angularindepth - level up your reverse engineering skills](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630)
+
 ### 2 May 2019
 
 >  Change detection, immutability, performance...
