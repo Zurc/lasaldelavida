@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angularindepth - 5 articles to make you an angular change detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
 
+[ng lazy loading for dummies](https://codeburst.io/how-to-implement-lazy-loading-in-angular-bb2a670b34d)
+
 ### 2 May 2019
 
 >  Change detection, immutability, performance...
