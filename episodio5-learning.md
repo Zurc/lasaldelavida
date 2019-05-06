@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [These ARE the Angular tips you are looking for | John Papa](https://www.youtube.com/watch?v=2ZFgcTOcnUg)
 
+[guitar - When You Say Nothing At All Guitar Tutorial - Ronan Keating Guitar Lesson 🎸 |Tabs + No Capo|](https://www.youtube.com/watch?v=jNTah4UFF_Q)
+
 ### 3 May 2019
 
 [angularindepth - 5 articles to make you an angular change detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
