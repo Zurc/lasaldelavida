@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 6 May 2019
+
+[jason watmore - ng6 communicating btwn comps with observable subject](https://jasonwatmore.com/post/2018/06/25/angular-6-communicating-between-components-with-observable-subject)
+
 ### 3 May 2019
 
 [angularindepth - 5 articles to make you an angular change detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
