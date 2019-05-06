@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [guitar - When You Say Nothing At All Guitar Tutorial - Ronan Keating Guitar Lesson 🎸 |Tabs + No Capo|](https://www.youtube.com/watch?v=jNTah4UFF_Q)
 
+[guitar - When you say nothing at all - B.S.O. Nothing Hill EASY CHORDS Demo Cover Lyrics and Chords guitar](https://www.youtube.com/watch?v=Szb-mp3_m3I)
+
 ### 3 May 2019
 
 [angularindepth - 5 articles to make you an angular change detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
