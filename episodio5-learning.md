@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [ngrx.io](https://ngrx.io/)
 
+[ngrx data and json server mock services](https://medium.com/@coco.boudard/ngrx-data-and-json-server-mock-services-f4d9d76aa654)
+
 ### 6 May 2019
 
 [jason watmore - ng6 communicating btwn comps with observable subject](https://jasonwatmore.com/post/2018/06/25/angular-6-communicating-between-components-with-observable-subject)
