@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [ngrx data lab](https://github.com/johnpapa/ngrx-data-lab/blob/master/README.md)
 
+[ngrx.io](https://ngrx.io/)
+
 ### 6 May 2019
 
 [jason watmore - ng6 communicating btwn comps with observable subject](https://jasonwatmore.com/post/2018/06/25/angular-6-communicating-between-components-with-observable-subject)
