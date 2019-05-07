@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 7 May 2019
+
+[john papa - angular ngrx data](https://github.com/johnpapa/angular-ngrx-data)
+
 ### 6 May 2019
 
 [jason watmore - ng6 communicating btwn comps with observable subject](https://jasonwatmore.com/post/2018/06/25/angular-6-communicating-between-components-with-observable-subject)
