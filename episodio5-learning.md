@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [ng tips and tricks for css structure](https://medium.com/@kmathy/angular-tips-and-tricks-for-css-structure-cb73fa50f0e8)
 
+[alligator.io - view encapsulation](https://alligator.io/angular/viewencapsulation/)
+
 ### 6 May 2019
 
 [jason watmore - ng6 communicating btwn comps with observable subject](https://jasonwatmore.com/post/2018/06/25/angular-6-communicating-between-components-with-observable-subject)
