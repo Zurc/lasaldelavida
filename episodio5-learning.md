@@ -18,6 +18,8 @@ Cosas que voy aprendiendo...
 
 [alligator.io - view encapsulation](https://alligator.io/angular/viewencapsulation/)
 
+[horizontal scrolling bars](https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6)
+
 ### 6 May 2019
 
 [jason watmore - ng6 communicating btwn comps with observable subject](https://jasonwatmore.com/post/2018/06/25/angular-6-communicating-between-components-with-observable-subject)
