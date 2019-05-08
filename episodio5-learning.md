@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 >  
 >  "Component depends only on the parent = Component can be controlled from the outside = Component is reusable"
 
+[ng2 training book - ChangeDetectionStrategy.OnPush](https://angular-2-training-book.rangle.io/handout/change-detection/change_detection_strategy_onpush.html)
+
 
 ### 7 May 2019
 
