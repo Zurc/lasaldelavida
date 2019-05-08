@@ -10,6 +10,7 @@ Cosas que voy aprendiendo...
 
 [ng2 training book - ChangeDetectionStrategy.OnPush](https://angular-2-training-book.rangle.io/handout/change-detection/change_detection_strategy_onpush.html)
 
+[cory rylan - CSS encapsulation with ng components](https://coryrylan.com/blog/css-encapsulation-with-angular-components)
 
 ### 7 May 2019
 
