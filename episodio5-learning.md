@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [cory rylan - CSS encapsulation with ng components](https://coryrylan.com/blog/css-encapsulation-with-angular-components)
 
+[pluralsight - CSS encapsulation in Angular](https://www.pluralsight.com/guides/css-encapsulation-in-angular)
+
 Interesting to check [Web Component Essentials (Cory Rylan book)](https://leanpub.com/web-component-essentials)
 
 ### 7 May 2019
