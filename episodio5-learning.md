@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 Interesting to check [Web Component Essentials (Cory Rylan book)](https://leanpub.com/web-component-essentials)
 
+Interesting [Pluralsight guides](https://www.pluralsight.com/guides)
+
 ### 7 May 2019
 
 [john papa - angular ngrx data](https://github.com/johnpapa/angular-ngrx-data)
