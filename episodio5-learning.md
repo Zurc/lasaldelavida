@@ -26,6 +26,8 @@ Interesting [Pluralsight guides](https://www.pluralsight.com/guides)
 
 [angular univ - ng-template ng-container ngtemplateoutlet](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/) TRY the examples on stackblitz!!
 
+[angularindepth - use ng-template](https://blog.angularindepth.com/use-ng-template-c72852c37fba)
+
 ### 7 May 2019
 
 [john papa - angular ngrx data](https://github.com/johnpapa/angular-ngrx-data)
