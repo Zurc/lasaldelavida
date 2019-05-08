@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 8 May 2019
+
+[ng patterns - how to write seriously reusable components](https://itnext.io/angular-patterns-2-how-to-write-seriously-reusable-components-96be16568abc)
+
 ### 7 May 2019
 
 [john papa - angular ngrx data](https://github.com/johnpapa/angular-ngrx-data)
