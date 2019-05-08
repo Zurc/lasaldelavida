@@ -22,6 +22,8 @@ Interesting [Pluralsight guides](https://www.pluralsight.com/guides)
 
 [angular best practices](https://codeburst.io/angular-best-practices-4bed7ae1d0b7)
 
+[native browser touch drag using overflow scroll](https://medium.com/creative-technology-concepts-code/native-browser-touch-drag-using-overflow-scroll-492dc92ac737)
+
 ### 7 May 2019
 
 [john papa - angular ngrx data](https://github.com/johnpapa/angular-ngrx-data)
