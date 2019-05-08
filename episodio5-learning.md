@@ -20,6 +20,8 @@ Interesting [Pluralsight guides](https://www.pluralsight.com/guides)
 
 [The state of CSS in angular](https://blog.angular.io/the-state-of-css-in-angular-4a52d4bd2700)
 
+[angular best practices](https://codeburst.io/angular-best-practices-4bed7ae1d0b7)
+
 ### 7 May 2019
 
 [john papa - angular ngrx data](https://github.com/johnpapa/angular-ngrx-data)
