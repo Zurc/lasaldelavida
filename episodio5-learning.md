@@ -24,7 +24,7 @@ Interesting [Pluralsight guides](https://www.pluralsight.com/guides)
 
 [native browser touch drag using overflow scroll](https://medium.com/creative-technology-concepts-code/native-browser-touch-drag-using-overflow-scroll-492dc92ac737)
 
-[angular univ - ng-template ng-container ngtemplateoutlet](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
+[angular univ - ng-template ng-container ngtemplateoutlet](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/) TRY the examples on stackblitz!!
 
 ### 7 May 2019
 
