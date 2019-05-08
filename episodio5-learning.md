@@ -18,6 +18,8 @@ Interesting to check [Web Component Essentials (Cory Rylan book)](https://leanpu
 
 Interesting [Pluralsight guides](https://www.pluralsight.com/guides)
 
+[The state of CSS in angular](https://blog.angular.io/the-state-of-css-in-angular-4a52d4bd2700)
+
 ### 7 May 2019
 
 [john papa - angular ngrx data](https://github.com/johnpapa/angular-ngrx-data)
