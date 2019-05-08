@@ -4,7 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 8 May 2019
 
-[ng patterns - how to write seriously reusable components](https://itnext.io/angular-patterns-2-how-to-write-seriously-reusable-components-96be16568abc)
+>  [ng patterns - how to write seriously reusable components](https://itnext.io/angular-patterns-2-how-to-write-seriously-reusable-components-96be16568abc)
+>  
+>  "Component depends only on the parent = Component can be controlled from the outside = Component is reusable"
+
 
 ### 7 May 2019
 
