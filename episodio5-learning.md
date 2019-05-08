@@ -30,6 +30,8 @@ Interesting [Pluralsight guides](https://www.pluralsight.com/guides)
 
 [angularindepth - intro advanced angular component patterns](https://blog.angularindepth.com/introducing-advanced-angular-component-patterns-13e102e6bbfc) SERIES... 
 
+[create advanced components in angular](https://netbasal.com/create-advanced-components-in-angular-e0655df5dde6)
+
 ### 7 May 2019
 
 [john papa - angular ngrx data](https://github.com/johnpapa/angular-ngrx-data)
