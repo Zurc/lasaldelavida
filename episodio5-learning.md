@@ -28,6 +28,8 @@ Interesting [Pluralsight guides](https://www.pluralsight.com/guides)
 
 [angularindepth - use ng-template](https://blog.angularindepth.com/use-ng-template-c72852c37fba)
 
+[angularindepth - intro advanced angular component patterns](https://blog.angularindepth.com/introducing-advanced-angular-component-patterns-13e102e6bbfc)
+
 ### 7 May 2019
 
 [john papa - angular ngrx data](https://github.com/johnpapa/angular-ngrx-data)
