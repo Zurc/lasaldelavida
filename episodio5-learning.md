@@ -18,6 +18,8 @@ Cosas que voy aprendiendo...
 >  
 >  [angular.io - (guide) implementing custom async validator](https://angular.io/guide/form-validation#implementing-custom-async-validator)
 
+[angular.io - HttpUrlEncodingCodec](https://angular.io/api/common/http/HttpUrlEncodingCodec)
+
 ### 8 May 2019
 
 >  [ng patterns - how to write seriously reusable components](https://itnext.io/angular-patterns-2-how-to-write-seriously-reusable-components-96be16568abc)
