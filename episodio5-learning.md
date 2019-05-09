@@ -22,6 +22,8 @@ Cosas que voy aprendiendo...
 
 [ng http requests use square brackets in http params as parameter key name](https://www.moritz-benzenhoefer.com/2018/01/angular-http-requests-use-square-brackets-in-httpparams-as-parameter-key-name/)
 
+[stop using unsafe characters in URLs](https://perishablepress.com/stop-using-unsafe-characters-in-urls/)
+
 ### 8 May 2019
 
 >  [ng patterns - how to write seriously reusable components](https://itnext.io/angular-patterns-2-how-to-write-seriously-reusable-components-96be16568abc)
