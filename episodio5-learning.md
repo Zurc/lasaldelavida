@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 9 May 2019
 
->  Angular validators
+>  Angular (async) validators
 >  
 >  [alligator.io - async validators](https://alligator.io/angular/async-validators/)
 >  
@@ -14,7 +14,7 @@ Cosas que voy aprendiendo...
 >  
 >  [codecraft - basic custom validators](https://codecraft.tv/courses/angular/advanced-topics/basic-custom-validators/)
 >  
->  
+>  [angular.io - AsyncValidator](https://angular.io/api/forms/AsyncValidator)
 
 ### 8 May 2019
 
