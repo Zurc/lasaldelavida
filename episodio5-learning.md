@@ -15,6 +15,8 @@ Cosas que voy aprendiendo...
 >  [codecraft - basic custom validators](https://codecraft.tv/courses/angular/advanced-topics/basic-custom-validators/)
 >  
 >  [angular.io - AsyncValidator](https://angular.io/api/forms/AsyncValidator)
+>  
+>  [angular.io - (guide) implementing custom async validator](https://angular.io/guide/form-validation#implementing-custom-async-validator)
 
 ### 8 May 2019
 
