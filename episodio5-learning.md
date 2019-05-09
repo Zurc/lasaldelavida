@@ -20,6 +20,8 @@ Cosas que voy aprendiendo...
 
 [angular.io - HttpUrlEncodingCodec](https://angular.io/api/common/http/HttpUrlEncodingCodec)
 
+[ng http requests use square brackets in http params as parameter key name](https://www.moritz-benzenhoefer.com/2018/01/angular-http-requests-use-square-brackets-in-httpparams-as-parameter-key-name/)
+
 ### 8 May 2019
 
 >  [ng patterns - how to write seriously reusable components](https://itnext.io/angular-patterns-2-how-to-write-seriously-reusable-components-96be16568abc)
