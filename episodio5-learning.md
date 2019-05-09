@@ -2,6 +2,20 @@
 
 Cosas que voy aprendiendo...
 
+### 9 May 2019
+
+>  Angular validators
+>  
+>  [alligator.io - async validators](https://alligator.io/angular/async-validators/)
+>  
+>  [stackblitz - Angular 6 Reactive Form Async Validator](https://stackblitz.com/edit/angular-reactive-forms-async-validator)
+>  
+>  
+>  
+>  
+>  
+>  
+
 ### 8 May 2019
 
 >  [ng patterns - how to write seriously reusable components](https://itnext.io/angular-patterns-2-how-to-write-seriously-reusable-components-96be16568abc)
