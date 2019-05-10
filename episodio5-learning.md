@@ -16,6 +16,12 @@ Cosas que voy aprendiendo...
 
 [stackoverflow - error message when a user enters/about to enter more characters than maxlengh on text fields](https://stackoverflow.com/questions/36719982/error-message-when-a-user-enters-more-characters-than-max-length-on-text-area)
 
+>  button alignment (UX)
+>  
+>  [stackexchange](https://ux.stackexchange.com/questions/3340/while-designing-web-forms-should-the-buttons-be-left-aligned-or-right-aligned)
+>  
+>  [uxmovement - where to align form btns on different layouts](https://uxmovement.com/forms/where-to-align-form-buttons-on-different-layouts/)
+
 ### 9 May 2019
 
 >  Angular (async) validators
