@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 
 [smashing magazine - designing efficient web forms](https://www.smashingmagazine.com/2017/06/designing-efficient-web-forms/)
 
-[inline validatino in forms designing the experience](https://medium.com/wdstack/inline-validation-in-forms-designing-the-experience-123fb34088ce)
+[inline validation in forms designing the experience](https://medium.com/wdstack/inline-validation-in-forms-designing-the-experience-123fb34088ce)
 
 [uxplanet - designing more efficient forms assistance and validation](https://uxplanet.org/designing-more-efficient-forms-assistance-and-validation-f26a5241199d)
 
