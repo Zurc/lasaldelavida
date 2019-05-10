@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [inline validatino in forms designing the experience](https://medium.com/wdstack/inline-validation-in-forms-designing-the-experience-123fb34088ce)
 
+[uxplanet - designing more efficient forms assistance and validation](https://uxplanet.org/designing-more-efficient-forms-assistance-and-validation-f26a5241199d)
+
 ### 9 May 2019
 
 >  Angular (async) validators
