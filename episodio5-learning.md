@@ -18,7 +18,7 @@ Cosas que voy aprendiendo...
 
 >  button alignment (UX)
 >  
->  [stackexchange](https://ux.stackexchange.com/questions/3340/while-designing-web-forms-should-the-buttons-be-left-aligned-or-right-aligned)
+>  [stackexchange - web forms button alignment](https://ux.stackexchange.com/questions/3340/while-designing-web-forms-should-the-buttons-be-left-aligned-or-right-aligned)
 >  
 >  [uxmovement - where to align form btns on different layouts](https://uxmovement.com/forms/where-to-align-form-buttons-on-different-layouts/)
 
