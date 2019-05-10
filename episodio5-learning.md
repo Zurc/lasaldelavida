@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [DOM living standard](https://dom.spec.whatwg.org/)
 
+[smashing magazine - designing efficient web forms](https://www.smashingmagazine.com/2017/06/designing-efficient-web-forms/)
+
 ### 9 May 2019
 
 >  Angular (async) validators
