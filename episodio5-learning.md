@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 May 2019
+
+[discovering the shadow DOM](https://blog.logrocket.com/discovering-the-shadow-dom-e541d74aefb3)
+
 ### 9 May 2019
 
 >  Angular (async) validators
