@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [uxplanet - designing more efficient forms assistance and validation](https://uxplanet.org/designing-more-efficient-forms-assistance-and-validation-f26a5241199d)
 
+[stackoverflow - error message when a user enters/about to enter more characters than maxlengh on text fields](https://stackoverflow.com/questions/36719982/error-message-when-a-user-enters-more-characters-than-max-length-on-text-area)
+
 ### 9 May 2019
 
 >  Angular (async) validators
