@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 May 2019
+
+CSS: wrap text with no spaces >> word-break: break-word;
+
 ### 10 May 2019
 
 [discovering the shadow DOM](https://blog.logrocket.com/discovering-the-shadow-dom-e541d74aefb3)
