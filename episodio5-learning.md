@@ -8,6 +8,8 @@ CSS: wrap text with no spaces >> word-break: break-word;
 
 [ng2+ dynamic styles](https://juristr.com/blog/2016/01/learning-ng2-dynamic-styles/)
 
+[ng6 - directive click outside](https://stackoverflow.com/questions/50531212/directive-click-outside-angular-6)
+
 ### 10 May 2019
 
 [discovering the shadow DOM](https://blog.logrocket.com/discovering-the-shadow-dom-e541d74aefb3)
