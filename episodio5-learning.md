@@ -10,6 +10,8 @@ CSS: wrap text with no spaces >> word-break: break-word;
 
 [ng6 - directive click outside](https://stackoverflow.com/questions/50531212/directive-click-outside-angular-6)
 
+[css-tricks - gotchas on getting SVG into production](https://css-tricks.com/gotchas-on-getting-svg-into-production/)
+
 ### 10 May 2019
 
 [discovering the shadow DOM](https://blog.logrocket.com/discovering-the-shadow-dom-e541d74aefb3)
