@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 CSS: wrap text with no spaces >> word-break: break-word;
 
+[ng2+ dynamic styles](https://juristr.com/blog/2016/01/learning-ng2-dynamic-styles/)
+
 ### 10 May 2019
 
 [discovering the shadow DOM](https://blog.logrocket.com/discovering-the-shadow-dom-e541d74aefb3)
