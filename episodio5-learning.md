@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 14 May 2019
+
+Basics of Java: Controllers, REST API's, pass params, body... generics
+
+[how browser rendering works behing the scenes](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10?source=placement_card_footer_grid---------1-41)
+
 ### 13 May 2019
 
 CSS: wrap text with no spaces >> word-break: break-word;
