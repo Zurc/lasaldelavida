@@ -10,6 +10,12 @@ Basics of Java: Controllers, REST API's, pass params, body... generics
 
 [stackoverflow - should I use two comps for edit and create form in angular](https://stackoverflow.com/questions/43699166/should-i-use-two-components-for-edit-and-create-form-in-angular)
 
+>  CSS Grid
+>  
+>  [css-tricks - complete guide grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+>  
+>  [grid by example](https://gridbyexample.com/)
+
 [mensaje de fatima](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_sp.html)
 
 ### 13 May 2019
