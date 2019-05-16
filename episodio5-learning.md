@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 [regex pattern - learn, create, validate](https://regexr.com/)
 
-[strip whitespace from string](https://css-tricks.com/snippets/javascript/strip-whitespace-from-string/)
+[css-tricks - strip whitespace from string](https://css-tricks.com/snippets/javascript/strip-whitespace-from-string/)
 
 [MDN - CSS overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
 
