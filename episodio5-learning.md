@@ -8,7 +8,7 @@ Cosas que voy aprendiendo...
 
 [strip whitespace from string](https://css-tricks.com/snippets/javascript/strip-whitespace-from-string/)
 
-
+[MDN - CSS overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
 
 ### 14 May 2019
 
