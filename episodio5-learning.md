@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 16 May 2019
+
+[regex pattern validator](https://regexr.com/)
+
 ### 14 May 2019
 
 Basics of Java: Controllers, REST API's, pass params, body... generics
