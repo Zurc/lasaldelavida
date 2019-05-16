@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 16 May 2019
 
-[regex pattern validator](https://regexr.com/)
+[regex pattern - learn, create, validate](https://regexr.com/)
 
 ### 14 May 2019
 
