@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [regex pattern - learn, create, validate](https://regexr.com/)
 
+[strip whitespace from string](https://css-tricks.com/snippets/javascript/strip-whitespace-from-string/)
+
+
+
 ### 14 May 2019
 
 Basics of Java: Controllers, REST API's, pass params, body... generics
