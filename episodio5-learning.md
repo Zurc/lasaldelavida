@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [MDN - CSS overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
 
+[MDN - basics concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+
 ### 14 May 2019
 
 Basics of Java: Controllers, REST API's, pass params, body... generics
