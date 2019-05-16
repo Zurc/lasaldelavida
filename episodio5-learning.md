@@ -10,7 +10,9 @@ Cosas que voy aprendiendo...
 
 [MDN - CSS overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
 
-[MDN - basics concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+>  [MDN - basics concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+>  
+>  One dimensional layout model (flexbox deals with layout in one dimension at a time — either as a row or as a column)
 
 ### 14 May 2019
 
