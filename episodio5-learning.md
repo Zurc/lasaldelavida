@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 17 May 2019
+
+[is angular dying vs react?](https://medium.com/@PurpleGreenLemon/is-angular-dying-because-of-react-a8e885f09421)
+
+>  Learn to be a developer that is well versed in programming paradigm and don’t get too hung up or attached to any one thing. Dig deep into architecture structures, designing and developing components, understanding how data flows through the application and state management, among other things.
+
 ### 16 May 2019
 
 [regex pattern - learn, create, validate](https://regexr.com/)
