@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 >  
 >  [alligator.io - custom form control](https://alligator.io/angular/custom-form-control/)
 >  
->  [implementing control value accessor in angular](https://medium.com/@majdasab/implementing-control-value-accessor-in-angular-1b89f2f84ebf)
+>  [implementing control value accessor in angular](https://medium.com/@majdasab/implementing-control-value-accessor-in-angular-1b89f2f84ebf) +++
 >  
 >  [linkup custom control to ngcontrol ngmodel](https://almerosteyn.com/2016/04/linkup-custom-control-to-ngcontrol-ngmodel)
 
