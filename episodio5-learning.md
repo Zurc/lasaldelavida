@@ -12,7 +12,7 @@ Cosas que voy aprendiendo...
 >  
 >  [implementing control value accessor in angular](https://medium.com/@majdasab/implementing-control-value-accessor-in-angular-1b89f2f84ebf)
 >  
->  []()
+>  [linkup custom control to ngcontrol ngmodel](https://almerosteyn.com/2016/04/linkup-custom-control-to-ngcontrol-ngmodel)
 
 ### 17 May 2019
 
