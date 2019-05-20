@@ -2,6 +2,18 @@
 
 Cosas que voy aprendiendo...
 
+### 20 May 2019
+
+>  Custom components in Angular = CONTROL VALUE ACCESSOR
+>  
+>  [angularindepth - never be confused when implementing controlvalueaccessor in angular forms](https://blog.angularindepth.com/never-again-be-confused-when-implementing-controlvalueaccessor-in-angular-forms-93b9eee9ee83)
+>  
+>  [alligator.io - custom form control](https://alligator.io/angular/custom-form-control/)
+>  
+>  []()
+>  
+>  []()
+
 ### 17 May 2019
 
 [is angular dying vs react?](https://medium.com/@PurpleGreenLemon/is-angular-dying-because-of-react-a8e885f09421)
