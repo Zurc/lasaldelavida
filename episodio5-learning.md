@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 >  
 >  [linkup custom control to ngcontrol ngmodel](https://almerosteyn.com/2016/04/linkup-custom-control-to-ngcontrol-ngmodel)
 
+[amgularindepth - what is forwardRef in ng and why we need it](https://blog.angularindepth.com/what-is-forwardref-in-angular-and-why-we-need-it-6ecefb417d48)
+
 ### 17 May 2019
 
 [is angular dying vs react?](https://medium.com/@PurpleGreenLemon/is-angular-dying-because-of-react-a8e885f09421)
