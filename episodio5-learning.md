@@ -19,8 +19,6 @@ Cosas que voy aprendiendo...
 >  [alligator.io - custom form control](https://alligator.io/angular/custom-form-control/)
 >  
 >  [implementing control value accessor in angular](https://medium.com/@majdasab/implementing-control-value-accessor-in-angular-1b89f2f84ebf) +++
->  
->  [linkup custom control to ngcontrol ngmodel](https://almerosteyn.com/2016/04/linkup-custom-control-to-ngcontrol-ngmodel)
 
 [amgularindepth - what is forwardRef in ng and why we need it](https://blog.angularindepth.com/what-is-forwardref-in-angular-and-why-we-need-it-6ecefb417d48)
 
