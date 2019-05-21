@@ -7,6 +7,8 @@ Cosas que voy aprendiendo...
 >  from [implementing control value accessor in angular](https://medium.com/@majdasab/implementing-control-value-accessor-in-angular-1b89f2f84ebf)
 >  
 >  To access the validations provided to the element by default, simply bind the ngModel to a template reference (give the reference any name you wish)
+>  
+>  To access these validation, simply output the JS-Object and stringify it using the json pipeline operator
 
 ### 20 May 2019
 
