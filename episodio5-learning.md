@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 May 2019
 
+[brandon roberts (angular team) medium](https://medium.com/@brandontroberts)
+
 [greg magolan (angular team) - code splitting and lazy-loading with bazel](https://medium.com/@gregmagolan/code-splitting-and-lazy-loading-with-bazel-9b11ac4de20b)
 
 >  from [implementing control value accessor in angular](https://medium.com/@majdasab/implementing-control-value-accessor-in-angular-1b89f2f84ebf)
