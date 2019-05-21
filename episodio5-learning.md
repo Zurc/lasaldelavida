@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 >  
 >  To access these validation, simply output the JS-Object and stringify it using the json pipeline operator
 
+same author: [majd asab](https://medium.com/@majdasab) it has posts about angular and java spring
+
 ### 20 May 2019
 
 >  Custom components in Angular = CONTROL VALUE ACCESSOR
