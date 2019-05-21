@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 May 2019
 
+[the ultimate guide to flexbox learning through examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
+
 [brandon roberts (angular team) medium](https://medium.com/@brandontroberts)
 
 [greg magolan (angular team) - code splitting and lazy-loading with bazel](https://medium.com/@gregmagolan/code-splitting-and-lazy-loading-with-bazel-9b11ac4de20b)
