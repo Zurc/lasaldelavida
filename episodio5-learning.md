@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 22 May 2019
+
+[sitepoint - rxjs functions with examples](https://www.sitepoint.com/rxjs-functions-with-examples/)
+
 ### 21 May 2019
 
 [the ultimate guide to flexbox learning through examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
