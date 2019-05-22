@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [talkingdotnet - upgrade ng6 to ng7 visual studio 2017](https://www.talkingdotnet.com/upgrade-angular-6-app-angular-7-visual-studio-2017/)
 
+[diff btwn ng 2 to 8, breakdown new features and changes](https://medium.com/@lifenshades/difference-among-angular-8-7-6-5-4-3-2-breakdown-new-features-and-changes-811fb5f8e6f0)
+
 ### 21 May 2019
 
 [the ultimate guide to flexbox learning through examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
