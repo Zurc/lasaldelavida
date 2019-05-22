@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [update.angular.io](https://update.angular.io/)
 
+[talkingdotnet - upgrade ng6 to ng7 visual studio 2017](https://www.talkingdotnet.com/upgrade-angular-6-app-angular-7-visual-studio-2017/)
+
 ### 21 May 2019
 
 [the ultimate guide to flexbox learning through examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
