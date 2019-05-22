@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [sitepoint - rxjs functions with examples](https://www.sitepoint.com/rxjs-functions-with-examples/)
 
+[stackoverflow - migrating from ng6 to ng7](https://stackoverflow.com/questions/52936664/migrating-from-angular-6-to-angular-7)
+
+[update.angular.io](https://update.angular.io/)
+
 ### 21 May 2019
 
 [the ultimate guide to flexbox learning through examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
