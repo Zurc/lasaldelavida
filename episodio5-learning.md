@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 May 2019
+
+[css-tricks - table-layout property](https://css-tricks.com/almanac/properties/t/table-layout/)
+
 ### 22 May 2019
 
 [sitepoint - rxjs functions with examples](https://www.sitepoint.com/rxjs-functions-with-examples/)
