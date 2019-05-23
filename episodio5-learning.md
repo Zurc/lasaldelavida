@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 23 May 2019
 
-[css-tricks - table-layout property](https://css-tricks.com/almanac/properties/t/table-layout/)
+[css-tricks - understanding table-layout property](https://css-tricks.com/almanac/properties/t/table-layout/)
 
 ### 22 May 2019
 
