@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [angular fundamentals reactive forms](https://malcoded.com/posts/angular-fundamentals-reactive-forms/) +++
 
+[ng2 nested reactive forms](https://medium.com/sparkles-blog/angular2-building-nested-reactive-forms-7978ecd145e4)
+
 ### 23 May 2019
 
 [css-tricks - understanding table-layout property](https://css-tricks.com/almanac/properties/t/table-layout/)
