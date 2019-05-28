@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [ng2 nested reactive forms](https://medium.com/sparkles-blog/angular2-building-nested-reactive-forms-7978ecd145e4)
 
+[realtime table angular](https://pusher.com/tutorials/realtime-table-angular)
+
 ### 23 May 2019
 
 [css-tricks - understanding table-layout property](https://css-tricks.com/almanac/properties/t/table-layout/)
