@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [thinkster - building real world ng2 apps formbuilder](https://thinkster.io/tutorials/building-real-world-angular-2-apps/formbuilder)
 
+[angular fundamentals reactive forms](https://malcoded.com/posts/angular-fundamentals-reactive-forms/) +++
+
 ### 23 May 2019
 
 [css-tricks - understanding table-layout property](https://css-tricks.com/almanac/properties/t/table-layout/)
