@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 29 May 2019
+
+>  Angular reactive forms. If you want to delete a value from a control, dont delete only the value, but reset that control
+
 ### 28 May 2019
 
 [thinkster - building real world ng2 apps formbuilder](https://thinkster.io/tutorials/building-real-world-angular-2-apps/formbuilder)
