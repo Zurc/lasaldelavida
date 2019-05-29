@@ -8,6 +8,9 @@ Cosas que voy aprendiendo...
 
 [angular uni - ng-template ng-container ngtemplateoutlet](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
 
+>  ngSwitch can't be on a <ng-template> element, only on real elements like <div> or alternatively you can use <ng-container> instead of real elements [stackoverflow link](https://stackoverflow.com/questions/50019941/angular-5-ngswitch-ngswitchcase-not-to-be-on-real-element-of-html)
+
+
 ### 28 May 2019
 
 [thinkster - building real world ng2 apps formbuilder](https://thinkster.io/tutorials/building-real-world-angular-2-apps/formbuilder)
