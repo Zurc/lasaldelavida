@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 30 May 2019
 
-[ng template ref dynamic scoping custom templates](https://blog.mgechev.com/2017/10/01/angular-template-ref-dynamic-scoping-custom-templates/)
+[Minko Gechev's blog - ng template ref dynamic scoping custom templates](https://blog.mgechev.com/2017/10/01/angular-template-ref-dynamic-scoping-custom-templates/)
 
 [js multiselect fancy dropdown](https://www.syncfusion.com/javascript-ui-controls/js-multiselect-dropdown)
 
