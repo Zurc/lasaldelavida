@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 30 May 2019
 
-[Minko Gechev's blog - ng template ref dynamic scoping custom templates](https://blog.mgechev.com/2017/10/01/angular-template-ref-dynamic-scoping-custom-templates/)
+>  [Minko Gechev's blog - ng template ref dynamic scoping custom templates](https://blog.mgechev.com/2017/10/01/angular-template-ref-dynamic-scoping-custom-templates/) +++
+>  
+>  Passing a custom templateRef as input, instead of using the markup which is between the opening and closing ng-template tags.
 
 [js multiselect fancy dropdown](https://www.syncfusion.com/javascript-ui-controls/js-multiselect-dropdown)
 
