@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 30 May 2019
+
+>  stylish - chrome extension that allows to change styles of any website
+
 ### 29 May 2019
 
 >  Angular reactive forms. If you want to delete a value from a control, dont delete only the value, but reset that control
