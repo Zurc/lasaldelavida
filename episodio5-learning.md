@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 30 May 2019
 
+[alligator - ng-container element](https://alligator.io/angular/ng-container-element/)
+
 >  stylish - chrome extension that allows to change styles of any website
 
 ### 29 May 2019
