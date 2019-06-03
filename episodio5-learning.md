@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [Salaries and dividends](https://www.youtube.com/watch?v=KWaHCbcHXhE)
 
+[Directors Salary 2017-18 - London Accountants](https://www.youtube.com/watch?v=ofJEE0wmcdw)
+
 ### 31 May 2019
 
 >  Angular - Debugging
