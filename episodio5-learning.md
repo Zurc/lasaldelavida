@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [Directors Salary 2017-18 - London Accountants](https://www.youtube.com/watch?v=ofJEE0wmcdw)
 
+[gov uk - software compatible with makint tax digital for vat](https://www.gov.uk/guidance/find-software-thats-compatible-with-making-tax-digital-for-vat)
+
 ### 31 May 2019
 
 >  Angular - Debugging
