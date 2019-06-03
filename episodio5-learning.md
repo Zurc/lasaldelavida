@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [gov uk - software compatible with makint tax digital for vat](https://www.gov.uk/guidance/find-software-thats-compatible-with-making-tax-digital-for-vat)
 
+[Making Tax Digital VAT 2019](https://www.youtube.com/watch?v=nuaJE2FDkn4)
+
 ### 31 May 2019
 
 >  Angular - Debugging
