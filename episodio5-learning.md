@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [gov uk - company filing software](https://www.gov.uk/company-filing-software)
 
+[Salaries and dividends](https://www.youtube.com/watch?v=KWaHCbcHXhE)
+
 ### 31 May 2019
 
 >  Angular - Debugging
