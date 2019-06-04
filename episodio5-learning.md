@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 4 Jun 2019
+
+[gov uk - understanding VAT](https://www.gov.uk/topic/business-tax/vat)
+
 ### 3 Jun 2019
 
 [gov uk - company filing software](https://www.gov.uk/company-filing-software)
