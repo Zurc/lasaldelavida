@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [gov uk - understanding VAT](https://www.gov.uk/topic/business-tax/vat)
 
+[uxworld - how to write good error messages](https://uxdworld.com/2018/05/30/how-to-write-good-error-messages/)
+
 ### 3 Jun 2019
 
 [gov uk - company filing software](https://www.gov.uk/company-filing-software)
