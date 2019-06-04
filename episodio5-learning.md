@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [uxworld - how to write good error messages](https://uxdworld.com/2018/05/30/how-to-write-good-error-messages/)
 
+[uxplanet - how to write a perfect error message](https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36)
+
 ### 3 Jun 2019
 
 [gov uk - company filing software](https://www.gov.uk/company-filing-software)
