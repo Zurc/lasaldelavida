@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [form design best practices](https://www.ventureharbour.com/form-design-best-practices/)
 
+[nngroup - form design placeholders](https://www.nngroup.com/articles/form-design-placeholders/)
+
 ### 3 Jun 2019
 
 [gov uk - company filing software](https://www.gov.uk/company-filing-software)
