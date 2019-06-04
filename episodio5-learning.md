@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [nngroup - form design placeholders](https://www.nngroup.com/articles/form-design-placeholders/)
 
+[smashing magazine - ux contact forms essentials conversions](https://www.smashingmagazine.com/2018/03/ux-contact-forms-essentials-conversions/)
+
 ### 3 Jun 2019
 
 [gov uk - company filing software](https://www.gov.uk/company-filing-software)
