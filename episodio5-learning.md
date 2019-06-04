@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [uxplanet - how to write a perfect error message](https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36)
 
+[uxdesign - creating error messages best practice in ux design](https://uxdesign.cc/creating-error-messages-best-practice-in-ux-design-cda3be0f5e16)
+
 ### 3 Jun 2019
 
 [gov uk - company filing software](https://www.gov.uk/company-filing-software)
