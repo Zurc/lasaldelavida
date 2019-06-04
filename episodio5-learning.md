@@ -18,6 +18,8 @@ Cosas que voy aprendiendo...
 
 [smashing magazine - ux contact forms essentials conversions](https://www.smashingmagazine.com/2018/03/ux-contact-forms-essentials-conversions/)
 
+[uxplanet - 10 rules for efficient form design](https://uxplanet.org/10-rules-for-efficient-form-design-e13dc1fb0e03)
+
 ### 3 Jun 2019
 
 [gov uk - company filing software](https://www.gov.uk/company-filing-software)
