@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [uxdesign - creating error messages best practice in ux design](https://uxdesign.cc/creating-error-messages-best-practice-in-ux-design-cda3be0f5e16)
 
+[form design best practices](https://www.ventureharbour.com/form-design-best-practices/)
+
 ### 3 Jun 2019
 
 [gov uk - company filing software](https://www.gov.uk/company-filing-software)
