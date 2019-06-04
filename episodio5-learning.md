@@ -20,6 +20,10 @@ Cosas que voy aprendiendo...
 
 [uxplanet - 10 rules for efficient form design](https://uxplanet.org/10-rules-for-efficient-form-design-e13dc1fb0e03)
 
+[ng5 ngswitch ngswitchcase not to be on real element of html](https://stackoverflow.com/questions/50019941/angular-5-ngswitch-ngswitchcase-not-to-be-on-real-element-of-html)
+
+>  ngSwitch can't be on a `<ng-template>` element, only on real elements like `<div>` or alternatively you can use `<ng-container>` instead of real elements
+
 ### 3 Jun 2019
 
 [gov uk - company filing software](https://www.gov.uk/company-filing-software)
