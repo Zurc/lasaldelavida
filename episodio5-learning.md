@@ -24,7 +24,9 @@ Cosas que voy aprendiendo...
 
 >  ngSwitch can't be on a `<ng-template>` element, only on real elements like `<div>` or alternatively you can use `<ng-container>` instead of real elements
 
-[pipe symbol in typescript](https://stackoverflow.com/questions/38628115/what-does-the-pipe-mean-in-typescript)
+[pipe symbol in typescript - union type](https://stackoverflow.com/questions/38628115/what-does-the-pipe-mean-in-typescript)
+
+>  A union type describes a value that can be one of several types.
 
 ### 3 Jun 2019
 
