@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 5 Jun 2019
 
+[simplifying viewchild contentchild angular](https://jaxenter.com/simplifying-viewchild-contentchild-angular-142894.html)
+
 [angular.io - component interaction](https://angular.io/guide/component-interaction)
 
 [communicate between components using dependency injection](https://blog.angularindepth.com/communicate-between-components-using-dependency-injection-d7280567faa7)
