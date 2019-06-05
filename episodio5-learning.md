@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 5 Jun 2019
 
+[sjaromg data between angular components four methods](https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/)
+
 [simplifying viewchild contentchild angular](https://jaxenter.com/simplifying-viewchild-contentchild-angular-142894.html)
 
 [angular.io - component interaction](https://angular.io/guide/component-interaction)
