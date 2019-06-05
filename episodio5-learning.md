@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 5 Jun 2019
+
+[communicate between components using dependency injection](https://blog.angularindepth.com/communicate-between-components-using-dependency-injection-d7280567faa7)
+
+>  You can inject any ancestor of a component into your component’s constructor and directly reference the ancestor component’s methods/members.
+
 ### 4 Jun 2019
 
 [gov uk - understanding VAT](https://www.gov.uk/topic/business-tax/vat)
