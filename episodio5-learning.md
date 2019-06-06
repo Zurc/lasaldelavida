@@ -16,7 +16,7 @@ JS - iterable and iterators, looping...
 >  
 >  [MDN - for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 >  
->  
+>  [MDN - object.entries()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)
 
 ### 5 Jun 2019
 
