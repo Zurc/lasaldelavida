@@ -6,6 +6,18 @@ Cosas que voy aprendiendo...
 
 >  angular ViewChild: “The Child Element which is located inside the component template”
 
+>  JS - iterable and iterators, looping...
+>  
+>  [Dr. Axel Rauschmayer - exploringjs](https://exploringjs.com/es6/ch_iteration.html)
+>  
+>  [master the art of looping in JS tricks](https://www.freecodecamp.org/news/master-the-art-of-looping-in-javascript-with-these-incredible-tricks-a5da1aa1d6c5/)
+>  
+>  
+>  
+>  
+>  
+>  
+
 ### 5 Jun 2019
 
 [sjaromg data between angular components four methods](https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/)
