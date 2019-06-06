@@ -14,7 +14,7 @@ JS - iterable and iterators, looping...
 >  
 >  [iterating through JS objects 5 techniques and performance tests](https://medium.com/backticks-tildes/iterating-through-javascript-objects-5-techniques-and-performance-tests-42b4a222a92b)
 >  
->  
+>  [MDN - for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 >  
 >  
 
