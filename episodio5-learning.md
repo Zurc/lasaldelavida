@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 6 Jun 2019
+
+>  angular ViewChild: “The Child Element which is located inside the component template”
+
 ### 5 Jun 2019
 
 [sjaromg data between angular components four methods](https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/)
