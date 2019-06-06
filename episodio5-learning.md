@@ -12,7 +12,7 @@ Cosas que voy aprendiendo...
 >  
 >  [master the art of looping in JS tricks](https://www.freecodecamp.org/news/master-the-art-of-looping-in-javascript-with-these-incredible-tricks-a5da1aa1d6c5/)
 >  
->  
+>  [iterating through JS objects 5 techniques and performance tests](https://medium.com/backticks-tildes/iterating-through-javascript-objects-5-techniques-and-performance-tests-42b4a222a92b)
 >  
 >  
 >  
