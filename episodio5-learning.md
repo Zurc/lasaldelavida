@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [freefrontend - CSS radio buttons](https://freefrontend.com/css-radio-buttons/)
 
+[codepen - nice radio button styles](https://codepen.io/JN0iZzze/pen/RoZmGo)
+
 >  angular ViewChild: “The Child Element which is located inside the component template”
 
 JS - iterable and iterators, looping...
