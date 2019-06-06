@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 6 Jun 2019
 
+[VAT record keeping - HMRC](https://www.youtube.com/watch?v=29jMtgYbOIo)
+
 [freefrontend - CSS radio buttons](https://freefrontend.com/css-radio-buttons/)
 
 [codepen - nice radio button styles](https://codepen.io/JN0iZzze/pen/RoZmGo)
