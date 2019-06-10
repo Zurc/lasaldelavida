@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Jun 2019
+
+[understanding output and eventemitter in angular](https://www.infragistics.com/community/blogs/b/infragistics/posts/understanding-output-and-eventemitter-in-angular)
+
 ### 6 Jun 2019
 
 [VAT record keeping - HMRC](https://www.youtube.com/watch?v=29jMtgYbOIo)
