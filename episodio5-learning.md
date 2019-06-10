@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [understanding output and eventemitter in angular](https://www.infragistics.com/community/blogs/b/infragistics/posts/understanding-output-and-eventemitter-in-angular)
 
+[hackernoon - what you should know about es6 maps](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
+
 ### 6 Jun 2019
 
 [VAT record keeping - HMRC](https://www.youtube.com/watch?v=29jMtgYbOIo)
