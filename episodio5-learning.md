@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [transform arrays with reduce](https://labnotes.panderalabs.com/transform-arrays-with-reduce-ec38553e3c96)
 
+[stop array.forEach and start using filter, map, some, reduce functions](https://medium.com/front-end-weekly/stop-array-foreach-and-start-using-filter-map-some-reduce-functions-298b4dabfa09)
+
 ### 10 Jun 2019
 
 [understanding output and eventemitter in angular](https://www.infragistics.com/community/blogs/b/infragistics/posts/understanding-output-and-eventemitter-in-angular)
