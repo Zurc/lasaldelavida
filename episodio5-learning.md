@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [how to use array methods in js itaration methods](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods)
 
+[demistifying es6 iterables and iterators](https://www.freecodecamp.org/news/demystifying-es6-iterables-iterators-4bdd0b084082/)
+
 ### 10 Jun 2019
 
 [understanding output and eventemitter in angular](https://www.infragistics.com/community/blogs/b/infragistics/posts/understanding-output-and-eventemitter-in-angular)
