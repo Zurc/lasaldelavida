@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [looping through js objects](https://zellwk.com/blog/looping-through-js-objects/)
 
+[how to use array methods in js itaration methods](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods)
+
 ### 10 Jun 2019
 
 [understanding output and eventemitter in angular](https://www.infragistics.com/community/blogs/b/infragistics/posts/understanding-output-and-eventemitter-in-angular)
