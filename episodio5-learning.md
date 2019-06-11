@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [what you should know about es6 maps](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
 
+[looping through js objects](https://zellwk.com/blog/looping-through-js-objects/)
+
 ### 10 Jun 2019
 
 [understanding output and eventemitter in angular](https://www.infragistics.com/community/blogs/b/infragistics/posts/understanding-output-and-eventemitter-in-angular)
