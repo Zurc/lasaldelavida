@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 11 Jun 2019
+
+[transform arrays with reduce](https://labnotes.panderalabs.com/transform-arrays-with-reduce-ec38553e3c96)
+
 ### 10 Jun 2019
 
 [understanding output and eventemitter in angular](https://www.infragistics.com/community/blogs/b/infragistics/posts/understanding-output-and-eventemitter-in-angular)
