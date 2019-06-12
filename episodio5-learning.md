@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 12 Jun 2019
+
+[codeburst - angular dynamic forms ng switch approach](https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c6)
+
 ### 11 Jun 2019
 
 [transform arrays with reduce](https://labnotes.panderalabs.com/transform-arrays-with-reduce-ec38553e3c96)
