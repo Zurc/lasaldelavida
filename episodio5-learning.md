@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 12 Jun 2019
 
+[ben nadel - using dynamic template driven forms in angular 7](https://www.bennadel.com/blog/3578-using-dynamic-template-driven-forms-in-angular-7-2-7.htm)
+
 [codeburst - angular dynamic forms ng switch approach](https://codeburst.io/angular-dynamic-forms-ng-switch-approach-4f267c01d2c6)
 
 ### 11 Jun 2019
