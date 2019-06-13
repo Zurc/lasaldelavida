@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Jun 2019
+
+[angular in depth - everything you need to know about the expresssionChangeAfterItHasBeenChecked error](https://blog.angularindepth.com/everything-you-need-to-know-about-the-expressionchangedafterithasbeencheckederror-error-e3fd9ce7dbb4)
+
 ### 12 Jun 2019
 
 [6 gorgeous and free mapping tools](https://nationaleventpros.com/6-gorgeous-and-free-mapping-tools/)
