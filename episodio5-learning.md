@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Jun 2019
+
+[dev.to - 10 articles web dev should read this weekend](https://dev.to/javinpaul/10-articles-web-developers-should-read-this-weekend-ka0)
+
 ### 13 Jun 2019
 
 [angular in depth - everything you need to know about the expresssionChangeAfterItHasBeenChecked error](https://blog.angularindepth.com/everything-you-need-to-know-about-the-expressionchangedafterithasbeencheckederror-error-e3fd9ce7dbb4)
