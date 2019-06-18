@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [angularindepth - unleash the power of forms with angular reactive forms](https://blog.angularindepth.com/unleash-the-power-of-forms-with-angulars-reactive-forms-d6be5918f408)
 
+[angularindepth - learn to combine rxjs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
+
 ### 15 Jun 2019
 
 [dev.to - 10 articles web dev should read this weekend](https://dev.to/javinpaul/10-articles-web-developers-should-read-this-weekend-ka0)
