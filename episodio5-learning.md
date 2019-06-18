@@ -18,6 +18,8 @@ Cosas que voy aprendiendo...
 
 [angular effective component patterns](https://itnext.io/angular-effective-component-patterns-f5f7f08e2072)
 
+[reactive forms in angular](https://atom-morgan.github.io/reactive-forms-in-angular/)
+
 ### 15 Jun 2019
 
 [dev.to - 10 articles web dev should read this weekend](https://dev.to/javinpaul/10-articles-web-developers-should-read-this-weekend-ka0)
