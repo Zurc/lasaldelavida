@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Jun 2019
+
+[real world angular reactive forms](https://blog.grossman.io/real-world-angular-reactive-forms/)
+
 ### 15 Jun 2019
 
 [dev.to - 10 articles web dev should read this weekend](https://dev.to/javinpaul/10-articles-web-developers-should-read-this-weekend-ka0)
