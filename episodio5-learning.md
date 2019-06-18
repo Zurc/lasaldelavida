@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angular how to implement conditional custom validation](https://medium.com/front-end-weekly/angular-how-to-implement-conditional-custom-validation-1ec14b0feb45)
 
+[angular validators with conditional validation in reactive forms](https://www.codementor.io/jimohhadi/angular-validators-with-conditional-validation-in-reactive-forms-pj5z7gsq5)
+
 [real world angular reactive forms](https://blog.grossman.io/real-world-angular-reactive-forms/) +++
 
 [hackernoon - js performance test for vs. forEach vs. map/reduce/filter/find](https://hackernoon.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)
