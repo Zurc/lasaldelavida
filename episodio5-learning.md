@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 18 Jun 2019
 
-[real world angular reactive forms](https://blog.grossman.io/real-world-angular-reactive-forms/)
+[real world angular reactive forms](https://blog.grossman.io/real-world-angular-reactive-forms/) +++
 
 [hackernoon - js performance test for vs. forEach vs. map/reduce/filter/find](https://hackernoon.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)
 
