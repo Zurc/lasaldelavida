@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [angularindepth - learn to combine rxjs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
 
+[angular effective component patterns](https://itnext.io/angular-effective-component-patterns-f5f7f08e2072)
+
 ### 15 Jun 2019
 
 [dev.to - 10 articles web dev should read this weekend](https://dev.to/javinpaul/10-articles-web-developers-should-read-this-weekend-ka0)
