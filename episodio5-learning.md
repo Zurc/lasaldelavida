@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Jun 2019
+
+[auth0 - real world angular series](https://auth0.com/blog/real-world-angular-series-part-1/)
+
 ### 18 Jun 2019
 
 [angular how to implement conditional custom validation](https://medium.com/front-end-weekly/angular-how-to-implement-conditional-custom-validation-1ec14b0feb45)
