@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [validations for template driven forms in angular 4](https://blog.knoldus.com/validations-for-template-driven-forms-in-angular-4/)
 
+[template driven angular validations](https://medium.com/@jonbonraki/template-driven-angular-validations-57d291467f2b)
+
 ### 18 Jun 2019
 
 [angular how to implement conditional custom validation](https://medium.com/front-end-weekly/angular-how-to-implement-conditional-custom-validation-1ec14b0feb45)
