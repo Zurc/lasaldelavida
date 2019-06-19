@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [auth0 - real world angular series](https://auth0.com/blog/real-world-angular-series-part-1/)
 
+[ng2 template driven form validators](https://juristr.com/blog/2016/11/ng2-template-driven-form-validators/)
+
 ### 18 Jun 2019
 
 [angular how to implement conditional custom validation](https://medium.com/front-end-weekly/angular-how-to-implement-conditional-custom-validation-1ec14b0feb45)
