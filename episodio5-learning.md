@@ -14,7 +14,7 @@ Cosas que voy aprendiendo...
 
 [3 ways to dynamically alter your form validation in angular](https://netbasal.com/three-ways-to-dynamically-alter-your-form-validation-in-angular-e5fd15f1e946)
 
-[CRUZ - JS loop string\[\] check if values are obj properties in objects\[\]](https://jsbin.com/cuxociy/edit?js,console)
+[CRUZ - JS loop string\[\] check if values are obj properties in objects\[\] (jsbin)](https://jsbin.com/cuxociy/edit?js,console)
 
 ### 18 Jun 2019
 
