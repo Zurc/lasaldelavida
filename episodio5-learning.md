@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Jun 2019
 
+[codeburst - declarative vs imperative programming](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)
+
 [sitepoint - rxjs functions with examples](https://www.sitepoint.com/rxjs-functions-with-examples/)
 
 >  an **Observable** is nothing more than an **array that populates over time.**
