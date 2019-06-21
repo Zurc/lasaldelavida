@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Jun 2019
+
+[sitepoint - rxjs functions with examples](https://www.sitepoint.com/rxjs-functions-with-examples/)
+
+>  an **Observable** is nothing more than an **array that populates over time.**
+
 ### 19 Jun 2019
 
 [auth0 - real world angular series](https://auth0.com/blog/real-world-angular-series-part-1/)
