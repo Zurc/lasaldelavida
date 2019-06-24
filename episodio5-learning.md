@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 24 Jun 2019
 
+>  [ from angularindepth - rxjs interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
+>  
+>  **Sequence composition** is a technique that enables you to create complex queries across multiple data sources by combing relevant streams into one.
+
 [stackoverflow - how to avoid multiple nested subscriptions using rxjs operators](https://stackoverflow.com/questions/55416011/how-can-i-avoid-multiple-nested-subscriptions-using-rxjs-operators) 
 
 [angular 2+ unsubscribe observables](https://brianflove.com/2016/12/11/anguar-2-unsubscribe-observables/)
