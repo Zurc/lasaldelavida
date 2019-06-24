@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Jun 2019
 
+[strongbrew - rxjs best practices in angular](https://blog.strongbrew.io/rxjs-best-practices-in-angular/)
+
 [codecraft - reactive programming with rxjs (observables and rxjs)](https://codecraft.tv/courses/angular/reactive-programming-with-rxjs/observables-and-rxjs/)
 
 [angular university - what are streams](💥 Understanding RxJs - What are Streams?
