@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Jun 2019
+
+[how to show radio input listing in angular 6/7](https://www.freakyjolly.com/how-to-show-radio-input-listing-in-angular-6/)
+
 ### 21 Jun 2019
 
 [codeburst - declarative vs imperative programming](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)
