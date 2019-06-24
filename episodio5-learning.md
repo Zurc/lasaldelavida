@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 24 Jun 2019
 
+>  [3 common mistakes i see people use in rx ant observable pattern](https://medium.com/@paynoattn/3-common-mistakes-i-see-people-use-in-rx-and-the-observable-pattern-ba55fee3d031)
+>  
+>  Observables do not like being inside Observables.
+
 >  [ from angularindepth - rxjs interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
 >  
 >  **Sequence composition** is a technique that enables you to create complex queries across multiple data sources by combing relevant streams into one.
