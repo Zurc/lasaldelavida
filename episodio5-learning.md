@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 24 Jun 2019
 
-[stackoverflow - how to avoid multiple nested subscriptions using rxjs operators](https://stackoverflow.com/questions/55416011/how-can-i-avoid-multiple-nested-subscriptions-using-rxjs-operators)
+[stackoverflow - how to avoid multiple nested subscriptions using rxjs operators](https://stackoverflow.com/questions/55416011/how-can-i-avoid-multiple-nested-subscriptions-using-rxjs-operators) 
 
 [angular 2+ unsubscribe observables](https://brianflove.com/2016/12/11/anguar-2-unsubscribe-observables/)
 
