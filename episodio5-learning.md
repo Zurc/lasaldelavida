@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Jun 2019
 
+[codecraft - reactive programming with rxjs (observables and rxjs)](https://codecraft.tv/courses/angular/reactive-programming-with-rxjs/observables-and-rxjs/)
+
 [angular university - what are streams](💥 Understanding RxJs - What are Streams?
 )
 
