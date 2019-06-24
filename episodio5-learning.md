@@ -4,6 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 24 Jun 2019
 
+[angular university - what are streams](💥 Understanding RxJs - What are Streams?
+)
+
 >  [3 common mistakes i see people use in rx ant observable pattern](https://medium.com/@paynoattn/3-common-mistakes-i-see-people-use-in-rx-and-the-observable-pattern-ba55fee3d031)
 >  
 >  Observables do not like being inside Observables.
