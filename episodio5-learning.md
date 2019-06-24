@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 
 >  an **Observable** is nothing more than an **array that populates over time.**
 >  
->  At heart, reactive programming is nothing more than using Observables as the building blocks of your programs.
+>  At heart, reactive programming is nothing more than using Observables as the building blocks of your programs. 
 
 ### 19 Jun 2019
 
