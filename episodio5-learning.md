@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Jun 2019
 
+[stackoverflow - how to avoid multiple nested subscriptions using rxjs operators](https://stackoverflow.com/questions/55416011/how-can-i-avoid-multiple-nested-subscriptions-using-rxjs-operators)
+
 [angular 2+ unsubscribe observables](https://brianflove.com/2016/12/11/anguar-2-unsubscribe-observables/)
 
 [how to show radio input listing in angular 6/7](https://www.freakyjolly.com/how-to-show-radio-input-listing-in-angular-6/)
