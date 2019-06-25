@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Jun 2019
 
+[angularindepth - reading the rxjs 6 sources map and pipe](https://blog.angularindepth.com/reading-the-rxjs-6-sources-map-and-pipe-94d51fec71c2)
+
 [chrome dev tools - conditional breakpoints](https://blittle.github.io/chrome-dev-tools/sources/conditional-breakpoints.html)
 
 ### 24 Jun 2019
