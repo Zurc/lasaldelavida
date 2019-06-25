@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Jun 2019
 
+[angularindepth - configuring typescript compiler](https://blog.angularindepth.com/configuring-typescript-compiler-a84ed8f87e3)
+
 [typescript documentation - compiler options](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
 
 [which version of ecmascript should I use in the typescript configuration](https://www.meziantou.net/which-version-of-ecmascript-should-i-use-in-the-typescript-configuration.htm)
