@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Jun 2019
+
+[chrome dev tools - conditional breakpoints](https://blittle.github.io/chrome-dev-tools/sources/conditional-breakpoints.html)
+
 ### 24 Jun 2019
 
 [strongbrew - rxjs best practices in angular](https://blog.strongbrew.io/rxjs-best-practices-in-angular/)
