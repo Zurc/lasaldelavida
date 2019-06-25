@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Jun 2019
 
+[which version of ecmascript should I use in the typescript configuration](https://www.meziantou.net/which-version-of-ecmascript-should-i-use-in-the-typescript-configuration.htm)
+
 [angularindepth - reading the rxjs 6 sources map and pipe](https://blog.angularindepth.com/reading-the-rxjs-6-sources-map-and-pipe-94d51fec71c2)
 
 [chrome dev tools - conditional breakpoints](https://blittle.github.io/chrome-dev-tools/sources/conditional-breakpoints.html)
