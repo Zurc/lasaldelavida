@@ -8,6 +8,10 @@ Cosas que voy aprendiendo...
 
 [best practices for a clean and performant angular app](https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/)  +++
 
+>  use localeCompare to sort... interesting
+>  
+>  [mdn - localeCompare](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare)
+
 ### 25 Jun 2019
 
 [angularindepth - configuring typescript compiler](https://blog.angularindepth.com/configuring-typescript-compiler-a84ed8f87e3)
