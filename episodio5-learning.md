@@ -11,6 +11,8 @@ Cosas que voy aprendiendo...
 >  use localeCompare to sort... interesting
 >  
 >  [mdn - localeCompare](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare)
+>  
+>  [mdn - array sort](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 
 ### 25 Jun 2019
 
