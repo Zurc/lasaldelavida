@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [typescript - enums](https://www.typescriptlang.org/docs/handbook/enums.html)
 
+[best practices for a clean and performant angular app](https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/)
+
 ### 25 Jun 2019
 
 [angularindepth - configuring typescript compiler](https://blog.angularindepth.com/configuring-typescript-compiler-a84ed8f87e3)
