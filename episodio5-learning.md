@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 [typescript - enums](https://www.typescriptlang.org/docs/handbook/enums.html)
 
-[best practices for a clean and performant angular app](https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/)
+[best practices for a clean and performant angular app](https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/)  +++
 
 ### 25 Jun 2019
 
