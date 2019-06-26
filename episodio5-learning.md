@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Jun 2019
+
+[typescript - enums](https://www.typescriptlang.org/docs/handbook/enums.html)
+
 ### 25 Jun 2019
 
 [angularindepth - configuring typescript compiler](https://blog.angularindepth.com/configuring-typescript-compiler-a84ed8f87e3)
