@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angularfirebase - sharing data between angular components for methods](https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/#Unrelated-Components-Sharing-Data-with-a-Service)
 
+[angularindepth - the 'new' (2017) angular httpclient API](https://blog.angularindepth.com/the-new-angular-httpclient-api-9e5c85fe3361)
+
 ### 26 Jun 2019
 
 [typescript - enums](https://www.typescriptlang.org/docs/handbook/enums.html)
