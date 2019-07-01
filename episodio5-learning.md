@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 01 Jul 2019
+
+[angularfirebase - sharing data between angular components for methods](https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/#Unrelated-Components-Sharing-Data-with-a-Service)
+
 ### 26 Jun 2019
 
 [typescript - enums](https://www.typescriptlang.org/docs/handbook/enums.html)
