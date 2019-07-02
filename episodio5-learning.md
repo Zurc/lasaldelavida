@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 02 Jul 2019
+
+>  "a directive is nothing more than an html attr that angular provides [youtube - angular tuts for beginners](https://www.youtube.com/watch?v=Y6OP-lPJxgs)
+
 ### 01 Jul 2019
 
 [angularindepth - all you need to know about ivy the new angular engine](https://blog.angularindepth.com/all-you-need-to-know-about-ivy-the-new-angular-engine-9cde471f42cf)
