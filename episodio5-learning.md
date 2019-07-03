@@ -5,15 +5,15 @@ Cosas que voy aprendiendo...
 ### 03 Jul 2019
 
 >  RELOAD ROUTE ON PARAMS CHANGE
->  
->  ```
->  constructor(private router: Router) {
+
+```
+constructor(private router: Router) {
 
       // force route reload whenever params change;
       this.router.routeReuseStrategy.shouldReuseRoute = () => false;
 
     }
->  ```
+```
 
 
 [angular university - rxjs error handling](https://blog.angular-university.io/rxjs-error-handling/)
