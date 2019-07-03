@@ -4,6 +4,18 @@ Cosas que voy aprendiendo...
 
 ### 03 Jul 2019
 
+>  RELOAD ROUTE ON PARAMS CHANGE
+>  
+>  ```
+>  constructor(private router: Router) {
+
+      // force route reload whenever params change;
+      this.router.routeReuseStrategy.shouldReuseRoute = () => false;
+
+    }
+>  ```
+
+
 [angular university - rxjs error handling](https://blog.angular-university.io/rxjs-error-handling/)
 
 [angularindepth - the best way to unsubscribe rxjs observable in the angular app](https://blog.angularindepth.com/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0) +++
