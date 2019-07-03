@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 03 Jul 2019
 
+[stackoverflow - push observable of array (ng4)](https://stackoverflow.com/questions/47424966/how-to-push-to-observable-of-array-in-angular-4-rxjs)
+
 >  RELOAD ROUTE ON PARAMS CHANGE
 
 ```
