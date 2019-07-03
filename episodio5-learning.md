@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 03 Jul 2019
+
+[angular university - rxjs error handling](https://blog.angular-university.io/rxjs-error-handling/)
+
 ### 02 Jul 2019
 
 >  "a directive is nothing more than an html attr that angular provides [youtube - angular tuts for beginners](https://www.youtube.com/watch?v=Y6OP-lPJxgs)
