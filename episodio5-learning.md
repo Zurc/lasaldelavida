@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 04 Jul 2019
+
+[scotch - how to deal with different form controls in angular 2](https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2)
+
 ### 03 Jul 2019
 
 [stackoverflow - push observable of array (ng4)](https://stackoverflow.com/questions/47424966/how-to-push-to-observable-of-array-in-angular-4-rxjs)
