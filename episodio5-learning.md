@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 09 Jul 2019
 
+JS animation:
+
 https://animejs.com/
 
 https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59
