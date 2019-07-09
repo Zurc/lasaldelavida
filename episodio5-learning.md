@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 09 Jul 2019
 
+[Linux for Ethical Hackers (Kali Linux Tutorial)](https://www.youtube.com/watch?v=lZAoFs75_cs&feature=push-sd&attr_tag=Em90saGL9X9x8lNs%3A6)
+
 >  angular validation - custom validators
 >  
 >  remember: when creating validation function, return true in case of errors. eg. code below
