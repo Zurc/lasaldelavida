@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 09 Jul 2019
 
+[bennadel - using dynamic template driven forms in angular 7](https://www.bennadel.com/blog/3578-using-dynamic-template-driven-forms-in-angular-7-2-7.htm)
+
 angular - sort array of objects (coming from server) by object property
 
 ```
