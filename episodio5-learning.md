@@ -4,6 +4,16 @@ Cosas que voy aprendiendo...
 
 ### 09 Jul 2019
 
+angular - sort array of objects (coming from server) by object property
+
+```
+ map(results => {
+                    // sort results by [object].name
+                    return results.sort((r1, r2) => r1.name.localeCompare(r2.name));
+                })
+```
+
+
 JS animation:
 
 https://animejs.com/
