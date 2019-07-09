@@ -121,6 +121,8 @@ constructor(private router: Router) {
 
 [CRUZ - stackblitz (subscription)](https://stackblitz.com/edit/angular-observables-subscribe)
 
+[CRUZ - stackblitz (multiple subscriptions)](https://angular-observables-multiple-subscriptions.stackblitz.io)
+
 ### 02 Jul 2019
 
 >  "a directive is nothing more than an html attr that angular provides [youtube - angular tuts for beginners](https://www.youtube.com/watch?v=Y6OP-lPJxgs)
