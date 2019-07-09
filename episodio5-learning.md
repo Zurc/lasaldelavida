@@ -4,6 +4,69 @@ Cosas que voy aprendiendo...
 
 ### 09 Jul 2019
 
+>  angular validation - custom validators
+>  
+>  remember: when creating validation function, return true in case of errors. eg. code below
+
+```
+import { Directive, Input } from '@angular/core';
+import { NG_VALIDATORS, AbstractControl, ValidationErrors, Validator } from '@angular/forms';
+
+@Directive({
+    selector: '[appNotIncluded]',
+    providers: [
+        {
+        provide: NG_VALIDATORS,
+        useExisting: NotIncludedValidator,
+        multi: true
+        }
+    ]
+    })
+    export class NotIncludedValidator implements Validator {
+
+    // list to compare our value against
+    @Input() list: any[];
+    // optional value
+    @Input() allowValue?: any;
+
+    /**
+     * Validatation logic: compare if value c is included in a list
+     * @param c The value of the control
+     */
+    validate(c: AbstractControl): ValidationErrors | null {
+        // if value c equals allowValue there will be no validation errors
+        if (c.value === this.allowValue) {
+            return null;
+        }
+        // if list includes our value send an error
+        if (this.list.includes(c.value)) {
+            return { alreadyExists: true };
+        } else {
+            return null;
+        }
+    }
+}
+```
+>  then you use 'appNotIncluded' directive on the html as follows...
+
+```
+ <gvf-text 
+     class="heading-textbox"
+     [(ngModel)]="filterName"
+     #fn
+     name="filterName"
+     appNotIncluded
+     [list]="filterNames"
+     [allowValue]="selectedFilter?.name"
+     maxlength="10"
+     [validationMessages]="{
+         maxlength: 'Too long... up to 10 characters',
+         alreadyExists: 'This name already exists'
+     }">{{ filterName }}</gvf-text>
+```
+
+>  ...on this example gvf is a custom angular component. we are passing 'filterNames' (an array of names) as list input and 'selectedFilter?.name' (selected name from dropdown) as allowValue input. That 2 inputs are used on the custom directive
+
 [bennadel - using dynamic template driven forms in angular 7](https://www.bennadel.com/blog/3578-using-dynamic-template-driven-forms-in-angular-7-2-7.htm)
 
 angular - sort array of objects (coming from server) by object property
