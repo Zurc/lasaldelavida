@@ -2,6 +2,16 @@
 
 Cosas que voy aprendiendo...
 
+### 09 Jul 2019
+
+https://animejs.com/
+
+https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59
+
+https://textillate.js.org/
+
+https://gedd.ski/post/character-animation/
+
 ### 08 Jul 2019
 
 [when to unsubscribe in angular](https://netbasal.com/when-to-unsubscribe-in-angular-d61c6b21bad3)
