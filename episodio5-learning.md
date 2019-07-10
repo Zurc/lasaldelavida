@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Jul 2019
 
+[stackoverflow - commit a file partially in tortoise](https://stackoverflow.com/questions/314132/is-there-some-way-to-commit-a-file-partially-in-tortoisesvn)
+
 [stackoverflow - display text word by word (jquery)](https://stackoverflow.com/questions/29170311/how-do-you-display-text-word-by-word-for-text-that-is-received-via-ajax)
 
 ### 09 Jul 2019
