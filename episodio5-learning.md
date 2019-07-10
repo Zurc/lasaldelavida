@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 10 Jul 2019
 
+[stackoverflow - router navigate to same page](https://stackoverflow.com/questions/41678356/router-navigate-does-not-call-ngoninit-when-same-page) solution has another link...
+
+
+
 [stackoverflow - commit a file partially in tortoise](https://stackoverflow.com/questions/314132/is-there-some-way-to-commit-a-file-partially-in-tortoisesvn)
 
 [stackoverflow - display text word by word (jquery)](https://stackoverflow.com/questions/29170311/how-do-you-display-text-word-by-word-for-text-that-is-received-via-ajax)
