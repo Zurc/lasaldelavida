@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Jul 2019
+
+[stackoverflow - display text word by word (jquery)](https://stackoverflow.com/questions/29170311/how-do-you-display-text-word-by-word-for-text-that-is-received-via-ajax)
+
 ### 09 Jul 2019
 
 [Linux for Ethical Hackers (Kali Linux Tutorial)](https://www.youtube.com/watch?v=lZAoFs75_cs&feature=push-sd&attr_tag=Em90saGL9X9x8lNs%3A6)
