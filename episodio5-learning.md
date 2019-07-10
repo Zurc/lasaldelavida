@@ -4,9 +4,15 @@ Cosas que voy aprendiendo...
 
 ### 10 Jul 2019
 
-[stackoverflow - router navigate to same page](https://stackoverflow.com/questions/41678356/router-navigate-does-not-call-ngoninit-when-same-page) solution has another link...
-
-[using RouteReuseStrategy](https://stackoverflow.com/questions/39533291/angular2-router-2-0-0-not-reloading-components-when-same-url-loaded-with-differe/39533351#39533351)
+>  [stackoverflow - router navigate to same page](https://stackoverflow.com/questions/41678356/router-navigate-does-not-call-ngoninit-when-same-page) solution has another link...
+>  
+>  [using RouteReuseStrategy](https://stackoverflow.com/questions/39533291/angular2-router-2-0-0-not-reloading-components-when-same-url-loaded-with-differe/39533351#39533351)
+>  
+>  what it worked for me... in the constructor
+>  
+>  ```
+>  this.router.routeReuseStrategy.shouldReuseRoute = () => false;
+>  ```
 
 
 [stackoverflow - commit a file partially in tortoise](https://stackoverflow.com/questions/314132/is-there-some-way-to-commit-a-file-partially-in-tortoisesvn)
