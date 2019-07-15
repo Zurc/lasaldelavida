@@ -8,6 +8,7 @@ Cosas que voy aprendiendo...
 >  
 >  The !! ensures the resulting type is a boolean (true or false).
 
+[codecraft - ngStyle and ngClass](https://ng2.codecraft.tv/built-in-directives/ngstyle-and-ngclass/)
 
 ### 10 Jul 2019
 
