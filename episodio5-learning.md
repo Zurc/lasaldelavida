@@ -16,7 +16,7 @@ Cosas que voy aprendiendo...
 
 [2 handy and advanced SASS features and their limitations](https://krasimirtsonev.com/blog/article/Two-handy-and-advanced-SASS-features-and-their-limitations)
 
-[angular-university.io - angular 2 smart components vs presentation components whats the difference when to use each and why](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
+[angular-university.io - angular 2 smart components vs presentation components whats the difference when to use each and why](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/) check architecture series!
 
 ### 10 Jul 2019
 
