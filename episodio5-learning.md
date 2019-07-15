@@ -18,6 +18,8 @@ Cosas que voy aprendiendo...
 
 [angular-university.io - angular 2 smart components vs presentation components whats the difference when to use each and why](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/) check architecture series!
 
+[scotch.io - ng 2+ classes with ngclass and ngstyle](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle)
+
 ### 10 Jul 2019
 
 >  [stackoverflow - router navigate to same page](https://stackoverflow.com/questions/41678356/router-navigate-does-not-call-ngoninit-when-same-page) solution has another link...
