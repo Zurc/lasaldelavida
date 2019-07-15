@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [2 handy and advanced SASS features and their limitations](https://krasimirtsonev.com/blog/article/Two-handy-and-advanced-SASS-features-and-their-limitations)
 
+[angular-university.io - angular 2 smart components vs presentation components whats the difference when to use each and why](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
+
 ### 10 Jul 2019
 
 >  [stackoverflow - router navigate to same page](https://stackoverflow.com/questions/41678356/router-navigate-does-not-call-ngoninit-when-same-page) solution has another link...
