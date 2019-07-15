@@ -2,6 +2,13 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Jul 2019
+
+>  [stackoverflow - what does the double exclamation operator mean](https://stackoverflow.com/questions/7452720/what-does-the-double-exclamation-operator-mean)
+>  
+>  The !! ensures the resulting type is a boolean (true or false).
+
+
 ### 10 Jul 2019
 
 >  [stackoverflow - router navigate to same page](https://stackoverflow.com/questions/41678356/router-navigate-does-not-call-ngoninit-when-same-page) solution has another link...
