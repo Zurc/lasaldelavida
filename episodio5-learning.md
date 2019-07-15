@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [engageinteractive - top 10 SCSS mixins](https://engageinteractive.co.uk/blog/top-10-scss-mixins)
 
+[2 handy and advanced SASS features and their limitations](https://krasimirtsonev.com/blog/article/Two-handy-and-advanced-SASS-features-and-their-limitations)
+
 ### 10 Jul 2019
 
 >  [stackoverflow - router navigate to same page](https://stackoverflow.com/questions/41678356/router-navigate-does-not-call-ngoninit-when-same-page) solution has another link...
