@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [codecraft - ngStyle and ngClass](https://ng2.codecraft.tv/built-in-directives/ngstyle-and-ngclass/)
 
+[love2dev - CSS calc() method](https://love2dev.com/blog/css-calc/)
+
 ### 10 Jul 2019
 
 >  [stackoverflow - router navigate to same page](https://stackoverflow.com/questions/41678356/router-navigate-does-not-call-ngoninit-when-same-page) solution has another link...
