@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Jul 2019
 
+[ng - rxjs detecting memory leaks](https://itnext.io/angular-rxjs-detecting-memory-leaks-bdd312a070a0)
+
 [Dan Abramov update regarding presentational and container components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
 >  STRUCTURE UTILITY CLASS IN ANGULAR
