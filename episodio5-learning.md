@@ -12,7 +12,7 @@ Cosas que voy aprendiendo...
 >  
 >  [ref: stackoverflow](https://stackoverflow.com/questions/32790311/how-to-structure-utility-class)
 
-internationalization using ngx-translate
+internationalization using [ngx-translate](http://www.ngx-translate.com/)
 
 [CRUZ - stackblitz](https://stackblitz.com/edit/github-psmuzs)
 
