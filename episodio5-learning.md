@@ -12,6 +12,10 @@ Cosas que voy aprendiendo...
 >  
 >  [ref: stackoverflow](https://stackoverflow.com/questions/32790311/how-to-structure-utility-class)
 
+internationalization using ngx-translate
+
+[CRUZ - stackblitz](https://stackblitz.com/edit/github-psmuzs)
+
 ### 15 Jul 2019
 
 >  [stackoverflow - what does the double exclamation operator mean](https://stackoverflow.com/questions/7452720/what-does-the-double-exclamation-operator-mean)
