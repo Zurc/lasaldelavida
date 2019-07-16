@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Jul 2019
 
+[stackoverflow - how to detect rxjs related memory leaks in angular](https://stackoverflow.com/questions/54658614/how-to-detect-rxjs-related-memory-leaks-in-angular-apps)
+
 [angular performance checklist](https://github.com/mgechev/angular-performance-checklist)
 
 [ng - rxjs detecting memory leaks](https://itnext.io/angular-rxjs-detecting-memory-leaks-bdd312a070a0)
