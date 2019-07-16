@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Jul 2019
 
+finished reading [angularindepth - the best way to unsubscribe rxjs observable in angular apps](https://blog.angularindepth.com/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0)
+
 **Angular - use a transparent layer to disable elements functionality**
 
 [CRUZ - stackblitz](https://stackblitz.com/edit/angular-disabled-transparent-layer)
