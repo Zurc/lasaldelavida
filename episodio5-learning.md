@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 16 Jul 2019
 
+**Angular - use a transparent layer to disable elements functionality**
+
+[CRUZ - stackblitz](https://stackblitz.com/edit/angular-disabled-transparent-layer)
+
 [stackoverflow - how to detect rxjs related memory leaks in angular](https://stackoverflow.com/questions/54658614/how-to-detect-rxjs-related-memory-leaks-in-angular-apps)
 
 [angular performance checklist](https://github.com/mgechev/angular-performance-checklist)
