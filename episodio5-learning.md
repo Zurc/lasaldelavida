@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Jul 2019
+
+[Dan Abramov update regarding presentational and container components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+
 ### 15 Jul 2019
 
 >  [stackoverflow - what does the double exclamation operator mean](https://stackoverflow.com/questions/7452720/what-does-the-double-exclamation-operator-mean)
