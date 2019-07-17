@@ -2,6 +2,27 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Jul 2019
+
+Remove obj from obj[] by obj.prop
+
+```
+let array = [
+  {id: 1, name:'coco'},
+  {id: 2, name:'cacho'}, 
+  {id: 3, name:'late'},
+]
+
+function removeByName(array, name) {
+  const newArr = array.filter(el => el.name !== name);
+  return newArr;
+}
+
+console.log(array);
+removeByName(array, 'coco');
+
+```
+
 ### 16 Jul 2019
 
 finished reading [angularindepth - the best way to unsubscribe rxjs observable in angular apps](https://blog.angularindepth.com/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0)
