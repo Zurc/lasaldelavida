@@ -22,6 +22,8 @@ removeByName(array, 'coco');
 
 ```
 
+[stackoverflow - remove obj from arr if property value match](https://stackoverflow.com/questions/50766232/remove-object-from-array-if-property-value-match)
+
 ### 16 Jul 2019
 
 finished reading [angularindepth - the best way to unsubscribe rxjs observable in angular apps](https://blog.angularindepth.com/the-best-way-to-unsubscribe-rxjs-observable-in-the-angular-applications-d8f9aa42f6a0)
