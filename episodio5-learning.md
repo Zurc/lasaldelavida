@@ -14,8 +14,7 @@ let array = [
 ]
 
 function removeByName(array, name) {
-  const newArr = array.filter(el => el.name !== name);
-  return newArr;
+  return array.filter(el => el.name !== name);
 }
 
 console.log(array);
