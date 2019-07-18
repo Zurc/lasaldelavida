@@ -14,6 +14,11 @@ Cosas que voy aprendiendo...
 
 [stackoverflow - angular form dirty (PROPER) check](https://stackoverflow.com/questions/50405358/angular-5-form-dirty-check)
 
+```
+// convenience getter for easy access to form fields
+    get f() { return this.registerForm.controls; }
+```
+
 ### 17 Jul 2019
 
 Remove obj from obj[] by obj.prop
