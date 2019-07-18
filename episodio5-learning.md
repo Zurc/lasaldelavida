@@ -8,7 +8,7 @@ Cosas que voy aprendiendo...
 >  
 >  [angular univ - intro ng2 forms api (tpl vs reactive)](https://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/)
 >  
->  [stackchief - ng form examples tpl vs reactive](https://www.stackchief.com/tutorials/Angular%20Form%20Examples:%20Template%20Driven%20vs%20Reactive%20Forms)
+>  [stackchief - ng form examples tpl vs reactive](https://www.stackchief.com/tutorials/Angular%20Form%20Examples:%20Template%20Driven%20vs%20Reactive%20Forms) buena explicación
 
 
 ### 17 Jul 2019
