@@ -2,6 +2,13 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Jul 2019
+
+>  ANGULAR FORMS API
+>  
+>  [angular univ - intro ng2 forms api (tpl vs reactive)](https://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/)
+
+
 ### 17 Jul 2019
 
 Remove obj from obj[] by obj.prop
