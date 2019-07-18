@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 >  
 >  [code.tutsplus - angular form validators (reactive and template) with Angular Material](https://code.tutsplus.com/tutorials/angular-form-validation-with-reactive-and-template-driven-forms--cms-32131)
 
+[stackoverflow - angular form dirty (PROPER) check](https://stackoverflow.com/questions/50405358/angular-5-form-dirty-check)
+
 ### 17 Jul 2019
 
 Remove obj from obj[] by obj.prop
