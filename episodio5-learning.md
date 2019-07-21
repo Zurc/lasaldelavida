@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Jul 2019
 
+[aciprensa - papa formacion solida](https://www.aciprensa.com/noticias/el-papa-alienta-formacion-solida-para-contener-abandonos-en-la-vida-consagrada-43293)
+
 [medium - OOP the trillion dollar disaster](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7)
 
 [blog anguar - prototyping with ng](https://blog.angular.io/prototyping-with-angular-a83fbf0533ef)
