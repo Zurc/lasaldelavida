@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Jul 2019
+
+[medium - better developer by building things - fun](https://medium.com/better-programming/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
+
 ### 18 Jul 2019
 
 >  ANGULAR FORMS API
