@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Jul 2019
 
+[blog anguar - prototyping with ng](https://blog.angular.io/prototyping-with-angular-a83fbf0533ef)
+
 [medium - better developer by building things - fun](https://medium.com/better-programming/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
 ### 18 Jul 2019
