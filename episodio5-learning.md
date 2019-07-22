@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Jul 2019
+
+[expertcodeblog - typescript how to compare two dates](https://expertcodeblog.wordpress.com/2018/03/12/typescript-how-to-compare-two-dates/)
+
 ### 21 Jul 2019
 
 [aciprensa - sobre la devoción al divino niño](https://www.aciprensa.com/noticias/cosas-que-no-sabias-sobre-la-devocion-al-divino-nino-38322)
