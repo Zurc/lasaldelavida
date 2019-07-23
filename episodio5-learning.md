@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [lucidchart - programming flowchart template](https://www.lucidchart.com/pages/templates/flowchart/programming-flowchart-template)
 
+[program flowchart definition](https://www.edrawsoft.com/flowchart/program-flowchart-definition.php) +++
+
 ### 22 Jul 2019
 
 [expertcodeblog - typescript how to compare two dates](https://expertcodeblog.wordpress.com/2018/03/12/typescript-how-to-compare-two-dates/)
