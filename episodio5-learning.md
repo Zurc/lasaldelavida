@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Jul 2019
+
+[guide to decision mapping](https://creately.com/blog/diagrams/guide-to-decision-mapping/)
+
 ### 22 Jul 2019
 
 [expertcodeblog - typescript how to compare two dates](https://expertcodeblog.wordpress.com/2018/03/12/typescript-how-to-compare-two-dates/)
