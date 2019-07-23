@@ -20,6 +20,8 @@ Cosas que voy aprendiendo...
 
 [flowchart guide / tut](https://creately.com/blog/diagrams/flowchart-guide-flowchart-tutorial/)
 
+interesting... [component inheritance in angular](https://blog.bitsrc.io/component-inheritance-in-angular-acd1215d5dd8)
+
 ### 22 Jul 2019
 
 [expertcodeblog - typescript how to compare two dates](https://expertcodeblog.wordpress.com/2018/03/12/typescript-how-to-compare-two-dates/)
