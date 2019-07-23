@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [medium - decision trees a way to visualize a decision](https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb)
 
+[geeks4geeks - decision tree](https://www.geeksforgeeks.org/decision-tree/)
+
 ### 22 Jul 2019
 
 [expertcodeblog - typescript how to compare two dates](https://expertcodeblog.wordpress.com/2018/03/12/typescript-how-to-compare-two-dates/)
