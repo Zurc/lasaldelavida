@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [guide to decision mapping](https://creately.com/blog/diagrams/guide-to-decision-mapping/)
 
+[medium - decision trees a way to visualize a decision](https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb)
+
 ### 22 Jul 2019
 
 [expertcodeblog - typescript how to compare two dates](https://expertcodeblog.wordpress.com/2018/03/12/typescript-how-to-compare-two-dates/)
