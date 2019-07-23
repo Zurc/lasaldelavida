@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [program flowchart definition](https://www.edrawsoft.com/flowchart/program-flowchart-definition.php) +++
 
+[programming methodologies flowchart elements](https://www.tutorialspoint.com/programming_methodologies/programming_methodologies_flowchart_elements)
+
 ### 22 Jul 2019
 
 [expertcodeblog - typescript how to compare two dates](https://expertcodeblog.wordpress.com/2018/03/12/typescript-how-to-compare-two-dates/)
