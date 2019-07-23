@@ -18,6 +18,8 @@ Cosas que voy aprendiendo...
 
 [programming methodologies flowchart elements](https://www.tutorialspoint.com/programming_methodologies/programming_methodologies_flowchart_elements)
 
+[flowchart guide / tut](https://creately.com/blog/diagrams/flowchart-guide-flowchart-tutorial/)
+
 ### 22 Jul 2019
 
 [expertcodeblog - typescript how to compare two dates](https://expertcodeblog.wordpress.com/2018/03/12/typescript-how-to-compare-two-dates/)
