@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [lucidchart - flowchart symbols meaning explained](https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained)
 
+[lucidchart - programming flowchart template](https://www.lucidchart.com/pages/templates/flowchart/programming-flowchart-template)
+
 ### 22 Jul 2019
 
 [expertcodeblog - typescript how to compare two dates](https://expertcodeblog.wordpress.com/2018/03/12/typescript-how-to-compare-two-dates/)
