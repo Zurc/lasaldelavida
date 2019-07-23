@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [geeks4geeks - decision tree](https://www.geeksforgeeks.org/decision-tree/)
 
+[lucidchart - flowchart symbols meaning explained](https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained)
+
 ### 22 Jul 2019
 
 [expertcodeblog - typescript how to compare two dates](https://expertcodeblog.wordpress.com/2018/03/12/typescript-how-to-compare-two-dates/)
