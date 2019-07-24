@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Jul 2019
+
+[JS UI controls - multiselect dropdown](https://www.syncfusion.com/javascript-ui-controls/js-multiselect-dropdown) interesting to make an angular component of it
+
 ### 23 Jul 2019
 
 [guide to decision mapping](https://creately.com/blog/diagrams/guide-to-decision-mapping/)
