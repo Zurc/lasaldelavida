@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [JS UI controls - multiselect dropdown](https://www.syncfusion.com/javascript-ui-controls/js-multiselect-dropdown) interesting to make an angular component of it
 
+[understanding viewchildren contentchildren and querylist in angular](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
+
 ### 23 Jul 2019
 
 [guide to decision mapping](https://creately.com/blog/diagrams/guide-to-decision-mapping/)
