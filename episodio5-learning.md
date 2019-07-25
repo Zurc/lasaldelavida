@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [must read book list for programmers](https://dzone.com/articles/must-read-book-list-for-programmers)
 
+[lucidchart - 5 angular directives you can use in your proyect](https://www.lucidchart.com/techblog/2017/12/20/5-angular-directives-you-can-use-in-your-project/)
+
 ### 24 Jul 2019
 
 [JS UI controls - multiselect dropdown](https://www.syncfusion.com/javascript-ui-controls/js-multiselect-dropdown) interesting to make an angular component of it
