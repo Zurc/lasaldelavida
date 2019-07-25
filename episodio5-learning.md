@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Jul 2019
+
+[must read book list for programmers](https://dzone.com/articles/must-read-book-list-for-programmers)
+
 ### 24 Jul 2019
 
 [JS UI controls - multiselect dropdown](https://www.syncfusion.com/javascript-ui-controls/js-multiselect-dropdown) interesting to make an angular component of it
