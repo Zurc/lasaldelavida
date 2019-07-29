@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Jul 2019
 
+[eventEmitter vs Subject cross component communication](https://medium.com/@manivel45/event-emitter-vs-subject-cross-component-communication-8934376605e1)
+
 [alligator - reactive forms valuechanges](https://alligator.io/angular/reactive-forms-valuechanges/)
 
 ### 25 Jul 2019
