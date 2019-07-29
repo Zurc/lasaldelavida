@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 29 Jul 2019
+
+[alligator - reactive forms valuechanges](https://alligator.io/angular/reactive-forms-valuechanges/)
+
 ### 25 Jul 2019
 
 [must read book list for programmers](https://dzone.com/articles/must-read-book-list-for-programmers)
