@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 31 Jul 2019
 
+[View Markdown Files with Quick Look Free on Mac - youtube](https://www.youtube.com/watch?v=T3FCpTjWsJ0)
+
 [quicklook plugin to look markdown files from finder](http://files8.blogspot.com/2010/06/quicklook-plug-ins.html)
 
 ### 29 Jul 2019
