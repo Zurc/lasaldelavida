@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 31 Jul 2019
+
+[quicklook plugin to look markdown files from finder](http://files8.blogspot.com/2010/06/quicklook-plug-ins.html)
+
 ### 29 Jul 2019
 
 [eventEmitter vs Subject cross component communication](https://medium.com/@manivel45/event-emitter-vs-subject-cross-component-communication-8934376605e1)
