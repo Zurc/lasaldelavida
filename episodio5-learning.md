@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 1 Aug 2019
+
+[angular console app for the CLI](https://angularconsole.com)
+
 ### 31 Jul 2019
 
 [View Markdown Files with Quick Look Free on Mac - youtube](https://www.youtube.com/watch?v=T3FCpTjWsJ0)
