@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 3 Aug 2019
+
+[From $0 to $600K per month Selling Tea at 22 Years Old | Gretta Van Riel](https://www.youtube.com/watch?v=CEPLOwajPaE)
+
 ### 1 Aug 2019
 
 [angular console app for the CLI](https://angularconsole.com)
