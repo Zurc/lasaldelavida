@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 5 Aug 2019
 
+[proko on blaise](https://www.proko.com/aaron-blaise-drawing-demo/)
+
 [How to Paint in PROCREATE - Painting a Portrait from Start to Finish](https://www.youtube.com/watch?v=BAa4RDIGOiQ)
 
 [Illustration Master Course - Ep. 4: LANDSCAPES & ENVIRONMENTS](https://www.youtube.com/watch?v=AKXkTDSvb1k)
