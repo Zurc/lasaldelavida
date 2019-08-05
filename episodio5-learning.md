@@ -2,6 +2,27 @@
 
 Cosas que voy aprendiendo...
 
+### 5 Aug 2019
+
+[Illustration Master Course - Ep. 4: LANDSCAPES & ENVIRONMENTS](https://www.youtube.com/watch?v=AKXkTDSvb1k)
+
+[Adopting Art Parents to Develop Your Style - Draftsmen S1E05](https://www.youtube.com/watch?v=vxJOjvsj3j0)
+
+[How to Paint Skin Tutorial](https://www.youtube.com/watch?v=9l3uyUlu3dc)
+
+>  [Ross Draws - Illustration Master Course - Ep. 1: How to do Art for a Living!](https://www.youtube.com/watch?v=fBonbFJhDPw)
+>  
+>  find artist you admire, research on them
+>  
+>  turn studies into personal work
+>  
+>  interaction: fisical, virtual, conventions...
+>  
+>  find your voice, main interests (old masters techniques, influences, designs, colors...) have an open mind, taste changes
+>  
+>  make your portfolio
+
+
 ### 3 Aug 2019
 
 [From $0 to $600K per month Selling Tea at 22 Years Old | Gretta Van Riel](https://www.youtube.com/watch?v=CEPLOwajPaE)
