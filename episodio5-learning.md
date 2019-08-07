@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [forbes - 30 days of money](https://www.forbes.com/sites/maggiemcgrath/2016/03/01/your-month-of-money-a-30-day-crash-course-to-saving-spending-wisely-paying-down-debt-and-more)
 
+[twitter - 30daysofmoney](https://twitter.com/search?src=typd&q=%2330daysofmoney)
+
 ### 5 Aug 2019
 
 [proko on blaise](https://www.proko.com/aaron-blaise-drawing-demo/)
