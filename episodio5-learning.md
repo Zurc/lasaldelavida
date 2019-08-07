@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [twitter - 30daysofmoney](https://twitter.com/search?src=typd&q=%2330daysofmoney)
 
+[10 Legit Ways To Make Money And Passive Income Online - How To Make Money Online](https://www.youtube.com/watch?v=EAj0ZsYcHkQ)
+
 ### 5 Aug 2019
 
 [proko on blaise](https://www.proko.com/aaron-blaise-drawing-demo/)
