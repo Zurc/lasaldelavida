@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 8 Aug 2019
+
+[angular custom code generator in action](https://medium.com/@suneetbansal/angular-custom-code-generator-in-action-2b1128207823)
+
 ### 7 Aug 2019
 
 [forbes - 30 days of money](https://www.forbes.com/sites/maggiemcgrath/2016/03/01/your-month-of-money-a-30-day-crash-course-to-saving-spending-wisely-paying-down-debt-and-more)
