@@ -10,6 +10,10 @@ Cosas que voy aprendiendo...
 
 [watercolor tips](https://www.youtube.com/watch?v=mbJAcf1lK2g)
 
+[The Portrait Institute John Singer Sargent's Lady Agnew 1](https://www.youtube.com/watch?v=POVAbTjiAt4)
+
+[The Portrait Institute John Singer Sargent's Lady Agnew 2](https://www.youtube.com/watch?v=PvTlJfrsbsk)
+
 ### 7 Aug 2019
 
 [forbes - 30 days of money](https://www.forbes.com/sites/maggiemcgrath/2016/03/01/your-month-of-money-a-30-day-crash-course-to-saving-spending-wisely-paying-down-debt-and-more)
