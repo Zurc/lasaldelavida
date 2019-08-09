@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 9 Aug 2019
+
+[How I Make Money as an Artist](https://www.youtube.com/watch?v=yFBCXLF2ZxM)
+
 ### 8 Aug 2019
 
 [angular custom code generator in action](https://medium.com/@suneetbansal/angular-custom-code-generator-in-action-2b1128207823)
