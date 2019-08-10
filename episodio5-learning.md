@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Aug 2019
+
+[beneficios ajo](http://www.igpajomorado.es/blog/ajo-morado-dia-mundial-salud)
+
 ### 9 Aug 2019
 
 [How I Make Money as an Artist](https://www.youtube.com/watch?v=yFBCXLF2ZxM)
