@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Aug 2019
 
+[v6.angular.io - service workers](https://v6.angular.io/guide/service-worker-intro)
+
 [howtogeek - how can i tell what is listening on a tcpip port in windows](https://www.howtogeek.com/howto/28609/how-can-i-tell-what-is-listening-on-a-tcpip-port-in-windows/)
 
 ### 10 Aug 2019
