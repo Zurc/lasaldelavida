@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 19 Aug 2019
 
+[CRUZ - angular messaging prototype (edit)](https://stackblitz.com/edit/angular-messaging-test)
+
 [codingblast - chat app angular socket io](https://codingblast.com/chat-application-angular-socket-io/)
 
 [day 5 how to build your own team chat in 5 days - angular filters and directives](https://fdietz.github.io/2015/04/17/day-5-how-to-build-your-own-team-chat-in-five-days-angular-filters-and-directives.html)
