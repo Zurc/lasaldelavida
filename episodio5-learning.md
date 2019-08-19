@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [smashingmagazine - news app with angular and material design](https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/)
 
+[how to develop a chat app like whatsapp](https://medium.com/swlh/how-to-develop-a-chat-app-like-whatsapp-e695257320f4)
+
 ### 15 Aug 2019
 
 [enums in JS](https://www.sohamkamani.com/blog/2017/08/21/enums-in-javascript/)
