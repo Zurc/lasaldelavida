@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [how to develop a chat app like whatsapp](https://medium.com/swlh/how-to-develop-a-chat-app-like-whatsapp-e695257320f4)
 
+[nativescript - create a realtime chat interface with firebase and angular](https://www.nativescript.org/blog/create-a-realtime-chat-interface-with-firebase-and-angular)
+
 ### 15 Aug 2019
 
 [enums in JS](https://www.sohamkamani.com/blog/2017/08/21/enums-in-javascript/)
