@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [codingblast - chat app angular socket io](https://codingblast.com/chat-application-angular-socket-io/)
 
+[day 5 how to build your own team chat in 5 days - angular filters and directives](https://fdietz.github.io/2015/04/17/day-5-how-to-build-your-own-team-chat-in-five-days-angular-filters-and-directives.html)
+
 ### 15 Aug 2019
 
 [enums in JS](https://www.sohamkamani.com/blog/2017/08/21/enums-in-javascript/)
