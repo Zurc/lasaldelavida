@@ -20,6 +20,8 @@ Cosas que voy aprendiendo...
 
 [deepstream - open server](https://deepstream.io/)
 
+[angular - groupBy](http://www.jiodev.com/angular/groupBy)
+
 ### 15 Aug 2019
 
 [enums in JS](https://www.sohamkamani.com/blog/2017/08/21/enums-in-javascript/)
