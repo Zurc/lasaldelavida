@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [nativescript - create a realtime chat interface with firebase and angular](https://www.nativescript.org/blog/create-a-realtime-chat-interface-with-firebase-and-angular)
 
+[deepstream - open server](https://deepstream.io/)
+
 ### 15 Aug 2019
 
 [enums in JS](https://www.sohamkamani.com/blog/2017/08/21/enums-in-javascript/)
