@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 20 Aug 2019
 
+[toptal - angular 5 tut](https://www.toptal.com/angular/angular-5-tutorial) interesting...
+
 >  angular template references: clean after submit
 >  
 >  ```
