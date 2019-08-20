@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 20 Aug 2019
 
+[github ng-book2](https://github.com/ng-book)
+
+[stackblitz - ngbook2 chat app](https://stackblitz.com/edit/github-edvnqc)
+
 [Luis Aviles - medium - realtime app with typescript integrating web sockets node angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 
 [Luis Aviles - chat app repo github](https://github.com/luixaviles/socket-io-typescript-chat)
