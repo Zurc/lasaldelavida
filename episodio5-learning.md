@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [toptal - angular 5 tut](https://www.toptal.com/angular/angular-5-tutorial) interesting...
 
+[toptal - angular 6 + firebase tut (diary)](https://www.toptal.com/angular/angular-6-tutorial-new-features-power)
+
 [angular ngFor](https://malcoded.com/posts/angular-ngfor/)
 
 >  angular template references: clean after submit
