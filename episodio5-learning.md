@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [toptal - angular 5 tut](https://www.toptal.com/angular/angular-5-tutorial) interesting...
 
+[angular ngFor](https://malcoded.com/posts/angular-ngfor/)
+
 >  angular template references: clean after submit
 >  
 >  ```
