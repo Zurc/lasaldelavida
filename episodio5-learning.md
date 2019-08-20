@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 20 Aug 2019
 
+[awesome VUE](https://github.com/fdietz/awesome-vue)
+
 [toptal - angular 5 tut](https://www.toptal.com/angular/angular-5-tutorial) interesting...
 
 [angular ngFor](https://malcoded.com/posts/angular-ngfor/)
