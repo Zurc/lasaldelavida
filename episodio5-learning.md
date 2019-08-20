@@ -2,6 +2,19 @@
 
 Cosas que voy aprendiendo...
 
+### 20 Aug 2019
+
+>  angular template references: clean after submit
+>  
+>  ```
+>  <textarea type="text"
+           class="form-control"
+           placeholder="Press Enter to send message"
+           #message
+           (keyup.enter)="onEnter(message.value);message.value=''">
+   </textarea>
+>  ```
+
 ### 19 Aug 2019
 
 [CRUZ - designer.gravit.io - messaging-app-mockup](https://designer.gravit.io)
