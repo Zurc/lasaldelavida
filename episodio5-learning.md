@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 20 Aug 2019
 
-[medium - realtime app with typescript integrating web sockets node angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
+[Luis Aviles - medium - realtime app with typescript integrating web sockets node angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
+
+[Luis Aviles - chat app repo github](https://github.com/luixaviles/socket-io-typescript-chat)
 
 [awesome VUE](https://github.com/fdietz/awesome-vue)
 
