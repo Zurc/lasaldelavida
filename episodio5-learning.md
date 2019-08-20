@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [stackblitz - ngbook2 chat app](https://stackblitz.com/edit/github-edvnqc)
 
+[SebastianM (github) - ng2 firebase chat](https://github.com/SebastianM/angular2-firebase-chat)
+
 [Luis Aviles - medium - realtime app with typescript integrating web sockets node angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 
 [Luis Aviles - chat app repo github](https://github.com/luixaviles/socket-io-typescript-chat)
