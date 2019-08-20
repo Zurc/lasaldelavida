@@ -16,6 +16,12 @@ Cosas que voy aprendiendo...
 
 [angular ngFor](https://malcoded.com/posts/angular-ngfor/)
 
+>  angular: how to add img using ngStyle
+>  
+>  ```
+>  <div [ngStyle]="{'background-image': 'url(' + photo + ')'}"></div>
+>  ```
+
 >  angular template references: clean after submit
 >  
 >  ```
