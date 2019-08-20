@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 20 Aug 2019
 
+[medium - realtime app with typescript integrating web sockets node angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
+
 [awesome VUE](https://github.com/fdietz/awesome-vue)
 
 [toptal - angular 5 tut](https://www.toptal.com/angular/angular-5-tutorial) interesting...
