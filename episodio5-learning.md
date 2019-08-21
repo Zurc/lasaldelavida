@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Aug 2019
 
+[thinkster - building real world ng2 apps - ngClass](https://thinkster.io/tutorials/building-real-world-angular-2-apps/ngclass)
+
 [angular university - angular debugging](https://blog.angular-university.io/angular-debugging/)    +++
 
 ### 20 Aug 2019
