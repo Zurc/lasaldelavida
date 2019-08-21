@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Aug 2019
+
+[angular university - angular debugging](https://blog.angular-university.io/angular-debugging/)    +++
+
 ### 20 Aug 2019
 
 [start angular - BS Admin dashboard (ng8 + bs4)](https://github.com/start-angular)
