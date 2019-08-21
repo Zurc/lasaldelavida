@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [angular university - angular debugging](https://blog.angular-university.io/angular-debugging/)    +++
 
+[Create Real time Chat Application Using Angular, Node.JS and Socket.IO](https://www.youtube.com/watch?v=vpQDkEgO-kA)
+
 ### 20 Aug 2019
 
 [start angular - BS Admin dashboard (ng8 + bs4)](https://github.com/start-angular)
