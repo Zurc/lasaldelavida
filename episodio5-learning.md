@@ -8,7 +8,9 @@ Cosas que voy aprendiendo...
 
 [angular university - angular debugging](https://blog.angular-university.io/angular-debugging/)    +++
 
-[Create Real time Chat Application Using Angular, Node.JS and Socket.IO](https://www.youtube.com/watch?v=vpQDkEgO-kA)
+[Azhar Husain - Create Real time Chat Application Using Angular, Node.JS and Socket.IO](https://www.youtube.com/watch?v=vpQDkEgO-kA)
+
+[zurc github fork azhar - realtimechatapp](https://github.com/Zurc/realtimechatapp)
 
 ### 20 Aug 2019
 
