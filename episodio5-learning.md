@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Aug 2019
 
+[CRUZ - stackblitz angular 6 routing and children](https://stackblitz.com/edit/angular6-bootstrap4-dropdown-ouvdzo)
+
 [CSS tricks - complete guide Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### 21 Aug 2019
