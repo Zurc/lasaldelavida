@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [CSS tricks - complete guide Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+[CSS tricks - a guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 ### 21 Aug 2019
 
 [thinkster - building real world ng2 apps - ngClass](https://thinkster.io/tutorials/building-real-world-angular-2-apps/ngclass)
