@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Aug 2019
+
+[CSS Animations in 2019 | Beginner To Pro Tutorial](https://www.youtube.com/watch?v=48Gr8vJk_t0)
+
 ### 22 Aug 2019
 
 [CRUZ - stackblitz angular 6 routing and children](https://stackblitz.com/edit/angular6-bootstrap4-dropdown-ouvdzo)
