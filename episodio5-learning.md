@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Aug 2019
 
+[Top CSS Effects | April 2019](https://www.youtube.com/watch?v=0R4_qWPLyuY)
+
 [CSS Animations in 2019 | Beginner To Pro Tutorial](https://www.youtube.com/watch?v=48Gr8vJk_t0)
 
 ### 22 Aug 2019
