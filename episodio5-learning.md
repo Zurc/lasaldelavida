@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 27 Aug 2019
 
+[ng5 chat app (slack/discord clone)](https://github.com/Zurc/angular-5-chat-app)
+
 [MDN - CSS Flex Box Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 
 check SVELTE https://svelte.dev/
