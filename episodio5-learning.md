@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 27 Aug 2019
 
+check SVELTE https://svelte.dev/
+
 Check jupyter notebook and  gists...
 
 [rxjs - working with subjects](https://medium.com/swift2go/rxswift-part-2-working-with-subjects-34e35a058a2c)
