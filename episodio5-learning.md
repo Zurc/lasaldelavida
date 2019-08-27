@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Aug 2019
+
+Check jupyter notebook and  gists...
+
+[rxjs - working with subjects](https://medium.com/swift2go/rxswift-part-2-working-with-subjects-34e35a058a2c)
+
 ### 25 Aug 2019
 
 [Top CSS Effects | April 2019](https://www.youtube.com/watch?v=0R4_qWPLyuY)
