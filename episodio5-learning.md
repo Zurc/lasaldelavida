@@ -2,7 +2,9 @@
 
 Cosas que voy aprendiendo...
 
-### 29 Aug 2019
+### 28 Aug 2019
+
+[slack groups for developers](https://techbeacon.com/app-dev-testing/46-slack-groups-developers)
 
 UI ideas: [osuskinner interfaces](https://osuskinner.com/interface)
 
