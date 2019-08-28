@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 29 Aug 2019
+
+UI ideas: [osuskinner interfaces](https://osuskinner.com/interface)
+
 ### 27 Aug 2019
 
 [ng5 chat app (slack/discord clone)](https://github.com/Zurc/angular-5-chat-app)
