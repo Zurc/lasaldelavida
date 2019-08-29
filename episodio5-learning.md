@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Aug 2019
 
+[MDN - Array.prototype.every](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
+
 [Simplified JS jargon - facade](http://jargon.js.org/_glossary/FACADE_PATTERN.md)
 
 [angular academy - angular architecture best practices](https://angular-academy.com/angular-architecture-best-practices/) +++
