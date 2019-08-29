@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [CSS - custom scrollbar](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_custom_scrollbar2)
 
+[Fireship.io](https://fireship.io/) mirar esto, parece interesante
+
 [sapper - the svelte framework](https://sapper.svelte.dev/)
 
 [svelte - rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
