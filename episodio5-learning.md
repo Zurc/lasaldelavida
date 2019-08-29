@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [svelte - rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
 
+[how observable runs](https://observablehq.com/@observablehq/how-observable-runs)
+
 [codeburst - imperative vs declarative JS](https://codeburst.io/imperative-vs-declarative-javascript-8b5e45a602dd)
 
 [MDN - Array.prototype.every()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
