@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Aug 2019
 
+[CRUZ gist - centralize API connections](https://gist.github.com/Zurc/11450ae83649f950ea764cf348e2a1cd)
+
 [sapper - the svelte framework](https://sapper.svelte.dev/)
 
 [svelte - rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
