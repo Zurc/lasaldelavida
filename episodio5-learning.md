@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 29 Aug 2019
+
+[angular academy - angular architecture best practices](https://angular-academy.com/angular-architecture-best-practices/) +++
+
 ### 28 Aug 2019
 
 [slack groups for developers](https://techbeacon.com/app-dev-testing/46-slack-groups-developers)
