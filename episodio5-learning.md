@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Aug 2019
 
+[CRUZ - angular messaging prototype](https://stackblitz.com/edit/angular-messaging-prototype1)
+
 [CRUZ gist - centralize API connections](https://gist.github.com/Zurc/11450ae83649f950ea764cf348e2a1cd)
 
 [CSS - custom scrollbar](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_custom_scrollbar2)
