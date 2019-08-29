@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ gist - centralize API connections](https://gist.github.com/Zurc/11450ae83649f950ea764cf348e2a1cd)
 
+[CSS - custom scrollbar](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_custom_scrollbar2)
+
 [sapper - the svelte framework](https://sapper.svelte.dev/)
 
 [svelte - rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
