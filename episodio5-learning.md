@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Aug 2019
 
+[Simplified JS jargon - facade](http://jargon.js.org/_glossary/FACADE_PATTERN.md)
+
 [angular academy - angular architecture best practices](https://angular-academy.com/angular-architecture-best-practices/) +++
 
 ### 28 Aug 2019
