@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Aug 2019
 
+[svelte - rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
+
 [codeburst - imperative vs declarative JS](https://codeburst.io/imperative-vs-declarative-javascript-8b5e45a602dd)
 
 [MDN - Array.prototype.every()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
