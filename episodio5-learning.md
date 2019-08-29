@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Aug 2019
 
+[angularfire - initialize config outside app.module](https://github.com/angular/angularfire2/issues/1095)
+
 [CRUZ - angular messaging prototype](https://stackblitz.com/edit/angular-messaging-prototype1)
 
 [CRUZ gist - centralize API connections](https://gist.github.com/Zurc/11450ae83649f950ea764cf348e2a1cd)
