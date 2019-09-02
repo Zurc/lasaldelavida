@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 2 Sep 2019
 
+>  chrome dev tools - if dockside as sidebar, you can open console with Esc
+
 [firebase alternatives](https://www.slant.co/topics/5809/~alternatives-to-firebase) to investigate...
 
 [angular in depth - never again be confused when implementing ControlValueAccessor in Angular Forms](https://blog.angularindepth.com/never-again-be-confused-when-implementing-controlvalueaccessor-in-angular-forms-93b9eee9ee83)
