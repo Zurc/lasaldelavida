@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 2 Sep 2019
 
+[CARDIFF MEETUP JS](https://www.meetup.com/Cardiff-JS/) me hice miembro hoy, se juntan una vez por mes
+
 >  chrome dev tools - if dockside as sidebar, you can open console with Esc
 
 [firebase alternatives](https://www.slant.co/topics/5809/~alternatives-to-firebase) to investigate...
