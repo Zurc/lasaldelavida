@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 2 Sep 2019
+
+[firebase alternatives](https://www.slant.co/topics/5809/~alternatives-to-firebase) to investigate...
+
 ### 29 Aug 2019
 
 [angularfire - initialize config outside app.module](https://github.com/angular/angularfire2/issues/1095)
