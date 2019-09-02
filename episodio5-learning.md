@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [firebase alternatives](https://www.slant.co/topics/5809/~alternatives-to-firebase) to investigate...
 
+[angular in depth - never again be confused when implementing ControlValueAccessor in Angular Forms](https://blog.angularindepth.com/never-again-be-confused-when-implementing-controlvalueaccessor-in-angular-forms-93b9eee9ee83)
+
 ### 29 Aug 2019
 
 [angularfire - initialize config outside app.module](https://github.com/angular/angularfire2/issues/1095)
