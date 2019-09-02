@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 2 Sep 2019
 
+>  GITHUB issues... help.github
+>  
+>  [error > permission denied publickey](https://help.github.com/en/articles/error-permission-denied-publickey)
+>  
+>  solution: usar (clone) HTTP en vez de SSH
+
 [CARDIFF MEETUP JS](https://www.meetup.com/Cardiff-JS/) me hice miembro hoy, se juntan una vez por mes
 
 >  chrome dev tools - if dockside as sidebar, you can open console with Esc
