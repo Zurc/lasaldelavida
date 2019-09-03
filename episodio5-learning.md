@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [github fortawesome - fontawesome common types](https://github.com/FortAwesome/Font-Awesome/blob/master/js-packages/%40fortawesome/fontawesome-common-types/index.d.ts)
 
+[FortAwesome (github) - upgrading font awesome](https://github.com/FortAwesome/Font-Awesome/blob/master/UPGRADING.md#50x-to-510)
+
 [SCSS - extend](https://sass-lang.com/documentation/at-rules/extend)
 
 [simple form with flexbox](https://zellwk.com/blog/simple-form-with-flexbox/)
