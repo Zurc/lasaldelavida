@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 3 Sep 2019
 
+[github fortawesome - fontawesome common types](https://github.com/FortAwesome/Font-Awesome/blob/master/js-packages/%40fortawesome/fontawesome-common-types/index.d.ts)
+
 [SCSS - extend](https://sass-lang.com/documentation/at-rules/extend)
 
 [simple form with flexbox](https://zellwk.com/blog/simple-form-with-flexbox/)
