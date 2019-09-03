@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [FortAwesome (github) - upgrading font awesome](https://github.com/FortAwesome/Font-Awesome/blob/master/UPGRADING.md#50x-to-510)
 
+[npm fortawesome angular](https://www.npmjs.com/package/@fortawesome/angular-fontawesome)
+
 [SCSS - extend](https://sass-lang.com/documentation/at-rules/extend)
 
 [simple form with flexbox](https://zellwk.com/blog/simple-form-with-flexbox/)
