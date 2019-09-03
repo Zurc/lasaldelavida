@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [SCSS - extend](https://sass-lang.com/documentation/at-rules/extend)
 
+[simple form with flexbox](https://zellwk.com/blog/simple-form-with-flexbox/)
+
 ### 2 Sep 2019
 
 [gridbyexample.com](https://gridbyexample.com/)
