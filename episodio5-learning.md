@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [simple form with flexbox](https://zellwk.com/blog/simple-form-with-flexbox/)
 
+[align form elem with flexbox](https://www.quackit.com/css/flexbox/tutorial/align_form_elements_with_flexbox.cfm)
+
 ### 2 Sep 2019
 
 [gridbyexample.com](https://gridbyexample.com/)
