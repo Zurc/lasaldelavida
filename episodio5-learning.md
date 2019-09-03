@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 3 Sep 2019
+
+[SCSS - extend](https://sass-lang.com/documentation/at-rules/extend)
+
 ### 2 Sep 2019
 
 [gridbyexample.com](https://gridbyexample.com/)
