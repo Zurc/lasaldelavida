@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 3 Sep 2019
 
+[malcoded - ng fundamentals modules](https://malcoded.com/posts/angular-fundamentals-modules/)
+
 [uibreakfast 145 - the business of mobile apps w/ Sean Casto](https://uibreakfast.com/145-the-business-of-mobile-apps-with-sean-casto/)
 
 [custom input using ControlValueAccessor (using inner ngModel and ngModelChange)](https://stackoverflow.com/questions/49749480/using-inner-ngmodel-for-a-generic-control/49749903#49749903) it has a stackblitz demo too! :)
