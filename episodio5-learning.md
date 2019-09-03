@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 3 Sep 2019
 
+[custom input using ControlValueAccessor (using inner ngModel and ngModelChange)](https://stackoverflow.com/questions/49749480/using-inner-ngmodel-for-a-generic-control/49749903#49749903)
+
 >  [stackoverflow - hot to disable ngbtooltip if tooltip template is empty in angular2+](https://stackoverflow.com/questions/44704226/how-to-disable-ngbtooltip-if-tooltip-template-is-empty-in-angular2)
 
 [github fortawesome - fontawesome common types](https://github.com/FortAwesome/Font-Awesome/blob/master/js-packages/%40fortawesome/fontawesome-common-types/index.d.ts)
