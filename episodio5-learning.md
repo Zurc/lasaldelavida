@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 3 Sep 2019
 
+>  [stackoverflow - hot to disable ngbtooltip if tooltip template is empty in angular2+](https://stackoverflow.com/questions/44704226/how-to-disable-ngbtooltip-if-tooltip-template-is-empty-in-angular2)
+
 [github fortawesome - fontawesome common types](https://github.com/FortAwesome/Font-Awesome/blob/master/js-packages/%40fortawesome/fontawesome-common-types/index.d.ts)
 
 [FortAwesome (github) - upgrading font awesome](https://github.com/FortAwesome/Font-Awesome/blob/master/UPGRADING.md#50x-to-510)
