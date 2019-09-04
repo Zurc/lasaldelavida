@@ -2,6 +2,35 @@
 
 Cosas que voy aprendiendo...
 
+### 4 Sep 2019
+
+Angular - Inside a Control on keyup if Enter + crtlKey (on this case) add line space (instead of sending a message)
+
+ts
+
+```
+public handleKeyup($event: KeyboardEvent): void {
+    if ($event.keyCode === 13) {
+      if ($event.ctrlKey) {
+        this.message.nativeElement.value = this.message.nativeElement.value + '\n';
+      } else {
+        this.send();
+      }
+    }
+  }
+```
+
+html
+
+```
+  <textarea
+    #message
+    class="MessageForm__input"
+    (keyup)="handleKeyup($event)"
+    (input)="resize()" 
+  ></textarea>
+```
+
 ### 3 Sep 2019
 
 [malcoded - ng fundamentals modules](https://malcoded.com/posts/angular-fundamentals-modules/)
