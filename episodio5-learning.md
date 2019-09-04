@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Sep 2019
 
+[stackoverflow - access nativeelement for custom ng component](https://stackoverflow.com/questions/45071679/unable-to-capture-nativeelement-for-custom-angular-components)
+
 Angular - Inside a Control on keyup if Enter + crtlKey (on this case) add line space (instead of sending a message)
 
 ts
