@@ -14,6 +14,8 @@ customize JIRA?
 
 [telerik - 6 snippets to keep in your chrome devtools](https://www.telerik.com/blogs/6-snippets-to-keep-in-your-chrome-devtools)
 
+[devtools snippets](https://bgrins.github.io/devtools-snippets/)
+
 ### 4 Sep 2019
 
 [stackoverflow - access nativeelement for custom ng component](https://stackoverflow.com/questions/45071679/unable-to-capture-nativeelement-for-custom-angular-components)
