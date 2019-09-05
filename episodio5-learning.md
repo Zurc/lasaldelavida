@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 5 Sep 2019
+
+[CRUZ - messaging page mockup](https://designer.gravit.io/?d=gOJQxT4ft)
+
 ### 4 Sep 2019
 
 [stackoverflow - access nativeelement for custom ng component](https://stackoverflow.com/questions/45071679/unable-to-capture-nativeelement-for-custom-angular-components)
