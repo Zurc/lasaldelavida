@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - messaging page mockup](https://designer.gravit.io/?d=gOJQxT4ft)
 
+[openstyles stylus](https://github.com/openstyles/stylus) investigate this... customizing the web
+
 customize JIRA?
 
 [community.atlassian - add own CSS](https://community.atlassian.com/t5/Jira-questions/Customize-Jira-with-my-own-css/qaq-p/546361)
