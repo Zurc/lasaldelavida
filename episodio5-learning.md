@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [CRUZ - messaging page mockup](https://designer.gravit.io/?d=gOJQxT4ft)
 
+customize JIRA?
+
+[community.atlassian - add own CSS](https://community.atlassian.com/t5/Jira-questions/Customize-Jira-with-my-own-css/qaq-p/546361)
+
 ### 4 Sep 2019
 
 [stackoverflow - access nativeelement for custom ng component](https://stackoverflow.com/questions/45071679/unable-to-capture-nativeelement-for-custom-angular-components)
