@@ -12,6 +12,8 @@ customize JIRA?
 
 [community.atlassian - add own CSS](https://community.atlassian.com/t5/Jira-questions/Customize-Jira-with-my-own-css/qaq-p/546361)
 
+[telerik - 6 snippets to keep in your chrome devtools](https://www.telerik.com/blogs/6-snippets-to-keep-in-your-chrome-devtools)
+
 ### 4 Sep 2019
 
 [stackoverflow - access nativeelement for custom ng component](https://stackoverflow.com/questions/45071679/unable-to-capture-nativeelement-for-custom-angular-components)
