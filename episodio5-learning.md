@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 7 Sep 2019
 
+[The Weird Parts of JavaScript](https://www.youtube.com/watch?v=nn2fPWcCrKA&feature=push-fr&attr_tag=6-kliQ0l2ZG9pGDY%3A6)
+
 [5 JavaScript Books I Regret Not Reading as a Code Newbie](https://www.youtube.com/watch?v=nn2fPWcCrKA&feature=push-fr&attr_tag=6-kliQ0l2ZG9pGDY%3A6)
 
 ### 5 Sep 2019
