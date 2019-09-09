@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 [ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss)
 
-
+[ITCSS - practical bits](https://speakerdeck.com/dafed/managing-css-projects-with-itcss#49)
 
 ### 7 Sep 2019
 
