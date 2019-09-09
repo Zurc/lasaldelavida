@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 9 Sep 2019
 
+[css architecture 1](https://zellwk.com/blog/css-architecture-1/)
+
 [CSS current color](https://ritchiejacobs.be/dont-forget-about-currentcolor)
 
 [CRUZ stackblitz - ng using BEM methodology](https://stackblitz.com/edit/angular-using-bem-methodology)
