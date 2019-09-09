@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 8 Sep 2019
+
+[ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss)
+
+
+
 ### 7 Sep 2019
 
 >  "we believe that people with passion can change the world for the better" Steve Jobs
