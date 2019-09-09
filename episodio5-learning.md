@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 9 Sep 2019
 
+[CSS current color](https://ritchiejacobs.be/dont-forget-about-currentcolor)
+
 [CRUZ stackblitz - ng using BEM methodology](https://stackblitz.com/edit/angular-using-bem-methodology)
 
 [CRUZ stackblitz - change CSS to SCSS](https://stackblitz.com/edit/angular-change-css-to-scss)
