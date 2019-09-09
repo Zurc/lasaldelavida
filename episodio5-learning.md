@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [ITCSS - practical bits](https://speakerdeck.com/dafed/managing-css-projects-with-itcss#49)
 
+[Hugo Giraudel - SASS guidelin.es](https://sass-guidelin.es/)
+
 ### 7 Sep 2019
 
 >  "we believe that people with passion can change the world for the better" Steve Jobs
