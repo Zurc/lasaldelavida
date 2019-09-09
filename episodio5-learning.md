@@ -2,7 +2,9 @@
 
 Cosas que voy aprendiendo...
 
-### 8 Sep 2019
+### 9 Sep 2019
+
+[rxjs ng - conditionally executing work](https://blog.strongbrew.io/rxjs-patterns-conditionally-executing-work/)
 
 [RCSS.io - Reasonable System for CSS Stylesheet Structure](https://rscss.io)
 
