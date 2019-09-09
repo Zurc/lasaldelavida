@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 9 Sep 2019
 
+[CRUZ stackblitz - change CSS to SCSS](https://stackblitz.com/edit/angular-change-css-to-scss)
+
 [codyhouse - dark light switch CSS JS](https://codyhouse.co/blog/post/dark-light-switch-css-javascript)
 
 [rxjs ng - conditionally executing work](https://blog.strongbrew.io/rxjs-patterns-conditionally-executing-work/)
