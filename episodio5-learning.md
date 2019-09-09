@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 9 Sep 2019
 
+[codyhouse - dark light switch CSS JS](https://codyhouse.co/blog/post/dark-light-switch-css-javascript)
+
 [rxjs ng - conditionally executing work](https://blog.strongbrew.io/rxjs-patterns-conditionally-executing-work/)
 
 [RCSS.io - Reasonable System for CSS Stylesheet Structure](https://rscss.io)
