@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Sep 2019
 
+[medium - create an event bus in JS](https://medium.com/@soffritti.pierfrancesco/create-a-simple-event-bus-in-javascript-8aa0370b3969)
+
 [coursehunter (russian)](https://coursehunter.net/course/rxjs-6-na-praktike-s-besplatnoy-elektronnoy-knigoy)
 
 [webcatolicodejavier - sagrario imán](http://webcatolicodejavier.org/sagrarioiman.html)
