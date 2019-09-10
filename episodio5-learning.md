@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Sep 2019
 
+[codingheroes.io - resources](http://codingheroes.io/resources/)
+
 [intro vida devota](http://www.geocities.ws/misa_tridentina08/introduccion_v_devota.pdf) leía capítulos 1,2 y 3
 
 [CSS animation effects - wipe page loader](https://www.youtube.com/watch?v=Y7vPD2yMS5c)
