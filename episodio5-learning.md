@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Sep 2019
 
+[CSS GRID](https://gedd.ski/post/shiny-new-grid-tools/)
+
 [lodash docs](https://lodash.com/docs/)
 
 [medium - create an event bus in JS](https://medium.com/@soffritti.pierfrancesco/create-a-simple-event-bus-in-javascript-8aa0370b3969)
