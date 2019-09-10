@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Sep 2019
 
+[flexbox inspector](https://gedd.ski/post/flexbox-inspector/)
+
 [CSS GRID](https://gedd.ski/post/shiny-new-grid-tools/)
 
 [lodash docs](https://lodash.com/docs/)
