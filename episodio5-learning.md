@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Sep 2019
 
+[CSS animation effects - wipe page loader](https://www.youtube.com/watch?v=Y7vPD2yMS5c)
+
 [CSS grid tut](https://www.quackit.com/css/grid/tutorial/inspect_a_grid.cfm)
 
 [flexbox inspector](https://gedd.ski/post/flexbox-inspector/)
