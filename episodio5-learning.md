@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Sep 2019
 
+[coursehunter (russian)](https://coursehunter.net/course/rxjs-6-na-praktike-s-besplatnoy-elektronnoy-knigoy)
+
 [webcatolicodejavier - sagrario imán](http://webcatolicodejavier.org/sagrarioiman.html)
 
 ### 9 Sep 2019
