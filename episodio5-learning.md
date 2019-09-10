@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Sep 2019
 
+[CSS grid tut](https://www.quackit.com/css/grid/tutorial/inspect_a_grid.cfm)
+
 [flexbox inspector](https://gedd.ski/post/flexbox-inspector/)
 
 [CSS GRID](https://gedd.ski/post/shiny-new-grid-tools/)
