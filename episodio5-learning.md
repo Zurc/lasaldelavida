@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Sep 2019
 
+[service workers github md](https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9)
+
 >  Angular issues: HttpClient do not detect header params
 >  
 >  [HttpClient do not detect header params](https://github.com/angular/angular/issues/20554)
