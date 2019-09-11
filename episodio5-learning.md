@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 11 Sep 2019
+
+[tools - firefox flexbosx inspector](https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/)
+
 ### 10 Sep 2019
 
 [codingheroes.io - resources](http://codingheroes.io/resources/)
