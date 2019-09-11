@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 11 Sep 2019
 
+>  Angular issues: HttpClient do not detect header params
+>  
+>  [HttpClient do not detect header params](https://github.com/angular/angular/issues/20554)
+
 >  Angular Errors
 >  
 >  Argument of type 'string | null' is not assignable to parameter of type 'string'. Type 'null' is not assignable to type 'string'
