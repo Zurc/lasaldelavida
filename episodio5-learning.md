@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Sep 2019
 
+[alligator.io - service workers in angular](https://alligator.io/angular/service-workers/)
+
 See your browser service workers
 
 ```
