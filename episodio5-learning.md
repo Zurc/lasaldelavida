@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Sep 2019
 
+[rxjs error handling with forkjoin](https://medium.com/better-programming/rxjs-error-handling-with-forkjoin-3d4027df70fc)
+
 [angularindepth - rxjs recipes forkjoin with progress of completion](https://blog.angularindepth.com/rxjs-recipes-forkjoin-with-the-progress-of-completion-for-bulk-network-requests-in-angular-5d585a77cce1)
 
 [tools - firefox flexbosx inspector](https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/)
