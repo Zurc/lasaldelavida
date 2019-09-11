@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 11 Sep 2019
 
+>  Angular Errors
+>  
+>  Argument of type 'string | null' is not assignable to parameter of type 'string'. Type 'null' is not assignable to type 'string'
+>  
+>  solution: if you know it will never be null, then add ! (exlamation point) at the end
+
 [rxjs error handling with forkjoin](https://medium.com/better-programming/rxjs-error-handling-with-forkjoin-3d4027df70fc)
 
 [angularindepth - rxjs recipes forkjoin with progress of completion](https://blog.angularindepth.com/rxjs-recipes-forkjoin-with-the-progress-of-completion-for-bulk-network-requests-in-angular-5d585a77cce1)
