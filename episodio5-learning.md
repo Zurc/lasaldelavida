@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Sep 2019
 
+[angular university - angular service workers](https://blog.angular-university.io/angular-service-worker/)
+
 [burocratik (outdated browser messages on my console)](https://burocratik.com/) agency - good UX on their page
 
 [alligator.io - service workers in angular](https://alligator.io/angular/service-workers/)
