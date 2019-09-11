@@ -8,7 +8,9 @@ Cosas que voy aprendiendo...
 >  
 >  Argument of type 'string | null' is not assignable to parameter of type 'string'. Type 'null' is not assignable to type 'string'
 >  
->  solution: if you know it will never be null, then add ! (exlamation point) at the end
+>  solution: if you know it will never be null, then add ! (exlamation point) at the end or check
+>  
+>  ref: [stackoverflow](https://stackoverflow.com/questions/46915002/argument-of-type-string-null-is-not-assignable-to-parameter-of-type-string)
 
 [rxjs error handling with forkjoin](https://medium.com/better-programming/rxjs-error-handling-with-forkjoin-3d4027df70fc)
 
