@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Sep 2019
 
+[angularindepth - rxjs recipes forkjoin with progress of completion](https://blog.angularindepth.com/rxjs-recipes-forkjoin-with-the-progress-of-completion-for-bulk-network-requests-in-angular-5d585a77cce1)
+
 [tools - firefox flexbosx inspector](https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/)
 
 [flexbox inspector (zombies)](https://gedd.ski/post/flexbox-inspector/)
