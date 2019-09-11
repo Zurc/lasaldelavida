@@ -34,7 +34,9 @@ chrome://serviceworker-internals/
 
 [rxjs error handling with forkjoin](https://medium.com/better-programming/rxjs-error-handling-with-forkjoin-3d4027df70fc)
 
-[angularindepth - rxjs recipes forkjoin with progress of completion](https://blog.angularindepth.com/rxjs-recipes-forkjoin-with-the-progress-of-completion-for-bulk-network-requests-in-angular-5d585a77cce1)
+[angular in depth - rxjs recipes forkjoin with progress of completion](https://blog.angularindepth.com/rxjs-recipes-forkjoin-with-the-progress-of-completion-for-bulk-network-requests-in-angular-5d585a77cce1)
+
+[angular in depth - mastering rxjs operators and functions that can bite you when you don't expect](https://blog.angularindepth.com/mastering-rxjs-operators-and-functions-that-can-bite-you-when-you-dont-expect-cb2047cf5d4c)
 
 [tools - firefox flexbosx inspector](https://hacks.mozilla.org/2019/01/designing-the-flexbox-inspector/)
 
