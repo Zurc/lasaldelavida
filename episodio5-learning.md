@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 12 Sep 2019
+
+Svelte 
+
+[Design course youtube](https://www.youtube.com/watch?v=BZzBtzl6aq4)
+
 ### 11 Sep 2019
 
 [developers google - promises](https://developers.google.com/web/fundamentals/primers/promises)
