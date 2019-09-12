@@ -8,6 +8,8 @@ Svelte
 
 [Design course youtube](https://www.youtube.com/watch?v=BZzBtzl6aq4)
 
+[svero - svelte routing](https://github.com/kazzkiq/svero)
+
 ### 11 Sep 2019
 
 [developers google - promises](https://developers.google.com/web/fundamentals/primers/promises)
