@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Sep 2019
 
+[freecodecamp news](https://freecodecamp.org/news)
+
 [Netflix UI Engineering Youtube's channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
 
 ### 12 Sep 2019
