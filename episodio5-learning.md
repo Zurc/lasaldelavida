@@ -4,8 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 16 Sep 2019
 
-[Quincy Larson - How to encrypt your lije in less than an hour](https://medium.com/free-code-camp/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3
-)
+[CSS flexbox fundamentals visual guide](https://medium.com/swlh/css-flexbox-fundamentals-visual-guide-1c467f480dac)
+
+[Quincy Larson - How to encrypt your lije in less than an hour](https://medium.com/free-code-camp/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3)
 
 [freecodecamp news](https://freecodecamp.org/news)
 
