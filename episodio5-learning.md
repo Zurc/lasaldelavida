@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Sep 2019
+
+[Netflix UI Engineering Youtube's channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
+
 ### 12 Sep 2019
 
 Svelte 
