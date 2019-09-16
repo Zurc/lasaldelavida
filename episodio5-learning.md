@@ -4,6 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 16 Sep 2019
 
+[Quincy Larson - How to encrypt your lije in less than an hour](https://medium.com/free-code-camp/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3
+)
+
 [freecodecamp news](https://freecodecamp.org/news)
 
 [Netflix UI Engineering Youtube's channel](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
