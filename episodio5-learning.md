@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 17 Sep 2019
 
+[krit - when to build a no code mvp](https://krit.com/when-to-build-a-no-code-mvp)
+
 [nocode.tech - app builders](https://www.nocode.tech/category/app-builders)
 
 [usefyi - maker-report](https://usefyi.com/maker-report/)
