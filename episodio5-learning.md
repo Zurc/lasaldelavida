@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 17 Sep 2019
 
+[scotch.io - responseive equal height with angular directive](https://scotch.io/tutorials/responsive-equal-height-with-angular-directive)
+
 [Scott Davies - bandcamp (music)](https://scottdavies.bandcamp.com/)
 
 [explaining sql and not sql to grandma](https://medium.com/swlh/explaining-sql-and-nosql-to-grandma-9d7a69378be8)
