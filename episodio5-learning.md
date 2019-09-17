@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 17 Sep 2019
 
+[usefyi - maker-report](https://usefyi.com/maker-report/)
+
 [producthunt - my journey to building a no code prototype](https://www.producthunt.com/stories/my-journey-to-building-a-no-code-prototype)
 
 [flinto.com - prototyping tools](https://www.flinto.com/)
