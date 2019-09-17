@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 17 Sep 2019
 
+[an equal height grid using flexbox](https://clearleft.com/posts/an-equal-height-grid-using-flexbox)
+
 [scotch.io - responseive equal height with angular directive](https://scotch.io/tutorials/responsive-equal-height-with-angular-directive)
 
 [Scott Davies - bandcamp (music)](https://scottdavies.bandcamp.com/)
