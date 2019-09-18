@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Sep 2019
 
+[Program with Erik - 6 HOT WEB DEVELOPMENT TIPS](https://www.youtube.com/watch?v=HdyF5XLNrfI)
+
 [CRUZ - grid basic concepts (codepen)](https://codepen.io/CruzWeb/pen/JjPmvzm)
 
 [instructables.com - DIY weather station wifi sensor station](https://www.instructables.com/id/DIY-Weather-Station-WiFi-Sensor-Station/)
