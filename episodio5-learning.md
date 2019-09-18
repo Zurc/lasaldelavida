@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Sep 2019
 
+[CRUZ - grid basic concepts (codepen)](https://codepen.io/CruzWeb/pen/JjPmvzm)
+
 [instructables.com - DIY weather station wifi sensor station](https://www.instructables.com/id/DIY-Weather-Station-WiFi-Sensor-Station/)
 
 ### 17 Sep 2019
