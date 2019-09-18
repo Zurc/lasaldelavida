@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Sep 2019
+
+[instructables.com - DIY weather station wifi sensor station](https://www.instructables.com/id/DIY-Weather-Station-WiFi-Sensor-Station/)
+
 ### 17 Sep 2019
 
 [no code low code app development](https://www.bettyblocks.com/no-code-low-code-application-development)
