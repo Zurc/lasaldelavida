@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Sep 2019
+
+[gridbyexample.com](https://gridbyexample.com/examples/)
+
 ### 18 Sep 2019
 
 [Program with Erik - 6 HOT WEB DEVELOPMENT TIPS](https://www.youtube.com/watch?v=HdyF5XLNrfI)
