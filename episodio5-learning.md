@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [codevolution - (youtube) Angular Component Interaction - 10 - ngOnChanges](https://www.youtube.com/watch?v=ZZYo-YkixTA)
 
+[medium - ngoonchanges only changes when the input change comes from a template binding like component](https://medium.com/@isaacplmann/ngonchanges-only-runs-when-the-input-change-comes-from-a-template-binding-like-component-8797b759ba0b)
+
 [MDN Clipboard Interface - paste event](https://developer.mozilla.org/en-US/docs/Web/API/Element/paste_event)
 
 [MDN RegExp prototype test](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test)
