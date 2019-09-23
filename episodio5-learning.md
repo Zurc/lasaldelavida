@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Sep 2019
+
+[MDN RegExp prototype test](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test)
+
 ### 19 Sep 2019
 
 [gridbyexample.com](https://gridbyexample.com/examples/)
