@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 23 Sep 2019
 
+>  Chrome - reload page from console
+>  
+>  ```
+>  location.reload()
+>  ```
+
 >  [keep your promises in typescript using async await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
 >  
 >  ```
