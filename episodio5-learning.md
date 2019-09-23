@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Sep 2019
 
+[Top 10 RxJs Operators in Angular [Angular Series]](https://www.youtube.com/watch?v=5TnWFaI49aw)
+
 >  Chrome - reload page from console
 >  
 >  ```
