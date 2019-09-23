@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 23 Sep 2019
 
+>  [keep your promises in typescript using async await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
+>  
+>  ```
+>  const wait = (ms) => new Promise(res => setTimeout(res, ms));
+>  ```
+
 [angular.io - OnChanges life cycle hook](https://angular.io/api/core/OnChanges)
 
 [codevolution - (youtube) Angular Component Interaction - 10 - ngOnChanges](https://www.youtube.com/watch?v=ZZYo-YkixTA)
