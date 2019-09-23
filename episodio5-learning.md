@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Sep 2019
 
+[angular.io - OnChanges life cycle hook](https://angular.io/api/core/OnChanges)
+
 [MDN Clipboard Interface - paste event](https://developer.mozilla.org/en-US/docs/Web/API/Element/paste_event)
 
 [MDN RegExp prototype test](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test)
