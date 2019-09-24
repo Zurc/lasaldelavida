@@ -11,6 +11,8 @@ Cosas que voy aprendiendo...
 [code](https://github.com/DeborahK/Angular-DD)
 
 >  product-category (lookup table) to display category name instead of id
+>  
+>  for that it has been created a productsWithCategory$ stream, combined products and product categories AND the product model has changed to include a category string (to avoid changing products$ stream on the interface)
 
 [medium - faking the backend in angular apps](https://medium.com/@coderonfleek/faking-the-backend-in-angular-apps-a10c1b8823c)
 
