@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Sep 2019
+
+...cont Data Composition (from yesterday)
+
+[slides](http:/bit.ly/deborahk-ngconf2019)
+
+[code](https://github.com/DeborahK/Angular-DD)
+
 ### 23 Sep 2019
 
 [Data Composition with RxJS | Deborah Kurata](https://www.youtube.com/watch?v=Z76QlSpYcck)
