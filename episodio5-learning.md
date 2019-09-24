@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Sep 2019
 
+[ng-conf 2019 !!! - youtube playlist](https://www.youtube.com/watch?v=O0xx5SvjmnU&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
+
 ...cont Data Composition (from yesterday) √√√√√
 
 [slides](http:/bit.ly/deborahk-ngconf2019)
