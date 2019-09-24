@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [ng-conf 2019 !!! - youtube playlist](https://www.youtube.com/watch?v=O0xx5SvjmnU&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
 
+[angular 8 and the Future - ngConf 2019 roundup](https://juristr.com/blog/2019/05/Angular-8-and-the-Future-NGConf-2019-Roundup/#scaling-up-or-what-is-project-angular-photon)
+
 ...cont Data Composition (from yesterday) √√√√√
 
 [slides](http:/bit.ly/deborahk-ngconf2019)
