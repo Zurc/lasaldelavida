@@ -4,11 +4,13 @@ Cosas que voy aprendiendo...
 
 ### 24 Sep 2019
 
-...cont Data Composition (from yesterday)
+...cont Data Composition (from yesterday) √√√√√
 
 [slides](http:/bit.ly/deborahk-ngconf2019)
 
 [code](https://github.com/DeborahK/Angular-DD)
+
+>  product-category (lookup table) to display category name instead of id
 
 [medium - faking the backend in angular apps](https://medium.com/@coderonfleek/faking-the-backend-in-angular-apps-a10c1b8823c)
 
