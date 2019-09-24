@@ -13,6 +13,11 @@ Cosas que voy aprendiendo...
 >  product-category (lookup table) to display category name instead of id
 >  
 >  for that it has been created a productsWithCategory$ stream, combined products and product categories AND the product model has changed to include a category string (to avoid changing products$ stream on the interface)
+>  
+>  Caching: the old way was to cach into an array on our service and then share it... but that way we lost our stream!
+>  
+>  instead use shareReplay() - it shares an Observable with all subscribers
+
 
 [medium - faking the backend in angular apps](https://medium.com/@coderonfleek/faking-the-backend-in-angular-apps-a10c1b8823c)
 
