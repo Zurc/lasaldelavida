@@ -29,6 +29,8 @@ Cosas que voy aprendiendo...
 
 [github - angular in memory web api](https://github.com/angular/in-memory-web-api)
 
+[rxks for angular devs](https://malcoded.com/posts/rxjs-for-angular-devs/)
+
 ### 23 Sep 2019
 
 [Data Composition with RxJS | Deborah Kurata](https://www.youtube.com/watch?v=Z76QlSpYcck)
