@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [code](https://github.com/DeborahK/Angular-DD)
 
+[medium - faking the backend in angular apps](https://medium.com/@coderonfleek/faking-the-backend-in-angular-apps-a10c1b8823c)
+
 ### 23 Sep 2019
 
 [Data Composition with RxJS | Deborah Kurata](https://www.youtube.com/watch?v=Z76QlSpYcck)
