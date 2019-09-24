@@ -12,7 +12,7 @@ Cosas que voy aprendiendo...
 
 [medium - faking the backend in angular apps](https://medium.com/@coderonfleek/faking-the-backend-in-angular-apps-a10c1b8823c)
 
-[techdiaries - angular InMemory web API](https://www.techiediaries.com/angular-inmemory-web-api/)
+[techdiaries - angular-in-memory-web-api](https://www.techiediaries.com/angular-inmemory-web-api/)
 
 ### 23 Sep 2019
 
