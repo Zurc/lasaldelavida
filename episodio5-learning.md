@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [oreilly - frontend architecture](https://www.oreilly.com/library/view/frontend-architecture-for/9781491926772/ch01.html)
 
+[telerik - planning front end JS app](https://www.telerik.com/blogs/planning-front-end-javascript-application)
+
 ### 24 Sep 2019
 
 [ng-conf 2019 !!! - youtube playlist](https://www.youtube.com/watch?v=O0xx5SvjmnU&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
