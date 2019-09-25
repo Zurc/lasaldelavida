@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Sep 2019
+
+[interaction design - 7 UX deliverables for UX designers](https://www.interaction-design.org/literature/article/7-ux-deliverables-what-will-i-be-making-as-a-ux-designer)
+
 ### 24 Sep 2019
 
 [ng-conf 2019 !!! - youtube playlist](https://www.youtube.com/watch?v=O0xx5SvjmnU&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
