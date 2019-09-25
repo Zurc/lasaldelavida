@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [interaction design - design thinking](https://www.interaction-design.org/literature/topics/design-thinking)
 
+[oreilly - frontend architecture](https://www.oreilly.com/library/view/frontend-architecture-for/9781491926772/ch01.html)
+
 ### 24 Sep 2019
 
 [ng-conf 2019 !!! - youtube playlist](https://www.youtube.com/watch?v=O0xx5SvjmnU&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
