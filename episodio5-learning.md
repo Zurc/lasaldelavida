@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [telerik - planning front end JS app](https://www.telerik.com/blogs/planning-front-end-javascript-application)
 
+[developer.ibm - create backend for frontend app architecture](https://developer.ibm.com/patterns/create-backend-for-frontend-application-architecture/)
+
 ### 24 Sep 2019
 
 [ng-conf 2019 !!! - youtube playlist](https://www.youtube.com/watch?v=O0xx5SvjmnU&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
