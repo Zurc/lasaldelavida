@@ -14,6 +14,8 @@ angular-in-memory-web-api
 
 [faking a backend server in angular](https://medium.com/@nishu0505/faking-a-back-end-server-in-angular-960ff33275ba)
 
+[medium - creating a dynamic crud service in angular](https://medium.com/@jeffgilliland/creating-a-dynamic-crud-service-in-angular-992229c9be56)
+
 --------------------------
 
 [freecodecamp - learn data structures from a google engineer](https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/)
