@@ -20,6 +20,8 @@ angular-in-memory-web-api
 
 [freecodecamp - CRUD operations in angular](https://www.freecodecamp.org/news/crud-operations-in-angular-536e1c03a715/)
 
+[angular 6 CRUD example](https://www.devglan.com/angular/angular-6-example)
+
 --------------------------
 
 [freecodecamp - learn data structures from a google engineer](https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/)
