@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 26 Sep 2019
 
+----- Angular - CRUD -----
+
+[codeburst - CRUD with angular](https://codeburst.io/crud-with-angular-5d8f39805c49)
+
+--------------------------
+
 [freecodecamp - learn data structures from a google engineer](https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/)
 
 [freecodecamp - how to constantly learn without burning out](https://www.freecodecamp.org/news/how-to-constantly-learn-without-burning-out/)
