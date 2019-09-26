@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 26 Sep 2019
 
+[medium - firestore with angular bit firebase](https://medium.com/datadriveninvestor/firestore-with-angular-but-firebase-c4050f1f6173)   <-- para leer
+
 ----- Angular - CRUD -----
 
 [codeburst - CRUD with angular](https://codeburst.io/crud-with-angular-5d8f39805c49)
