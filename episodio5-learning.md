@@ -14,7 +14,9 @@ angular-in-memory-web-api
 
 [faking a backend server in angular](https://medium.com/@nishu0505/faking-a-back-end-server-in-angular-960ff33275ba)
 
-[medium - creating a dynamic crud service in angular](https://medium.com/@jeffgilliland/creating-a-dynamic-crud-service-in-angular-992229c9be56)
+[medium - creating a dynamic crud service in angular](https://medium.com/@jeffgilliland/creating-a-dynamic-crud-service-in-angular-992229c9be56)   <-- abstrayendo y reusando CRUD para distintas APIs
+
+[angular 7 tutorial building CRUD web app](https://www.djamware.com/post/5bca67d780aca7466989441f/angular-7-tutorial-building-crud-web-application)
 
 --------------------------
 
