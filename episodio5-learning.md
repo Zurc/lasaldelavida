@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Sep 2019
+
+[tortoiseSVN - creating patch files](https://tortoisesvn.net/docs/release/TortoiseSVN_en/tsvn-dug-patch.html)
+
 ### 25 Sep 2019
 
 [interaction design - 7 UX deliverables for UX designers](https://www.interaction-design.org/literature/article/7-ux-deliverables-what-will-i-be-making-as-a-ux-designer)
