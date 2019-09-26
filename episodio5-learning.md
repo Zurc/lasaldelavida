@@ -8,6 +8,10 @@ Cosas que voy aprendiendo...
 
 [codeburst - CRUD with angular](https://codeburst.io/crud-with-angular-5d8f39805c49)
 
+angular-in-memory-web-api
+
+[faking a backend server in angular](https://medium.com/@nishu0505/faking-a-back-end-server-in-angular-960ff33275ba)
+
 --------------------------
 
 [freecodecamp - learn data structures from a google engineer](https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/)
