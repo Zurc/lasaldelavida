@@ -18,6 +18,8 @@ angular-in-memory-web-api
 
 [angular 7 tutorial building CRUD web app](https://www.djamware.com/post/5bca67d780aca7466989441f/angular-7-tutorial-building-crud-web-application)
 
+[freecodecamp - CRUD operations in angular](https://www.freecodecamp.org/news/crud-operations-in-angular-536e1c03a715/)
+
 --------------------------
 
 [freecodecamp - learn data structures from a google engineer](https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/)
