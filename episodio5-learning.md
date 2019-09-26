@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 26 Sep 2019
 
+[freecodecamp - how to constantly learn without burning out](https://www.freecodecamp.org/news/how-to-constantly-learn-without-burning-out/)
+
 [tortoiseSVN - creating patch files](https://tortoisesvn.net/docs/release/TortoiseSVN_en/tsvn-dug-patch.html)
 
 ### 25 Sep 2019
