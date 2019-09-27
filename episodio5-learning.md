@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Sep 2019
+
+[TraversyMedia - Angular crash course 2019 (youtube)](https://www.youtube.com/watch?v=Fdf5aTYRW0E)
+
 ### 26 Sep 2019
 
 [medium - firestore with angular bit firebase](https://medium.com/datadriveninvestor/firestore-with-angular-but-firebase-c4050f1f6173)   <-- para leer
