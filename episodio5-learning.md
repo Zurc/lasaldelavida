@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 30 Sep 2019
+
+[building a design driven workflow in storybook js with angular and sketch](https://andreaswissel.com/building-a-design-driven-workflow-in-storybook-js-with-angular-and-sketch-part-1)
+
 ### 27 Sep 2019
 
 [TraversyMedia - Angular crash course 2019 (youtube)](https://www.youtube.com/watch?v=Fdf5aTYRW0E)
