@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 30 Sep 2019
 
+[componentizing workflow](https://juristr.com/blog/2015/12/componentizing-workflow/)
+
 [building a design driven workflow in storybook js with angular and sketch](https://andreaswissel.com/building-a-design-driven-workflow-in-storybook-js-with-angular-and-sketch-part-1)
 
 ### 27 Sep 2019
