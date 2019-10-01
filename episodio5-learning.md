@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [MDN - CSS Grid - box alignment in Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Box_Alignment_in_CSS_Grid_Layout)
 
+[everyting you need to know about ngTemplate ngContent ngContainer and ngTemplateOutlet](https://www.freecodecamp.org/news/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691/)
+
 ### 30 Sep 2019
 
 [componentizing workflow](https://juristr.com/blog/2015/12/componentizing-workflow/)
