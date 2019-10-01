@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 1 Oct 2019
+
+[MDN - CSS Grid - box alignment in Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Box_Alignment_in_CSS_Grid_Layout)
+
 ### 30 Sep 2019
 
 [componentizing workflow](https://juristr.com/blog/2015/12/componentizing-workflow/)
