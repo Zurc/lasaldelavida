@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 2 Oct 2019
 
+[safinacenter blog - fisheries crimes](http://safinacenter.org/blog/page/19/)
+
 [dev.to - angular, managing key value constants in typescript](https://dev.to/angular/managing-key-value-constants-in-typescript-221g)
 
 Angular - (sub)menu current active style and routing
