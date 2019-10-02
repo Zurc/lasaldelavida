@@ -4,7 +4,13 @@ Cosas que voy aprendiendo...
 
 ### 2 Oct 2019
 
+[sound at the sea](http://safinacenter.org/2017/01/sound-and-the-sea/)
+
 [safinacenter blog - fisheries crimes](http://safinacenter.org/blog/page/19/)
+
+[safina blog - around page 65... fishing gear 101](http://safinacenter.org/blog/page/65/)
+
+[crackdown illegal fishing](http://safinacenter.org/2017/03/grekos-success-story-crackdown-illegal-fishing/)
 
 [dev.to - angular, managing key value constants in typescript](https://dev.to/angular/managing-key-value-constants-in-typescript-221g)
 
