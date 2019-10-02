@@ -50,6 +50,20 @@ this.subscriptions = [
     ];
 ```
 
+***2 way: Angular way***
+
+>  Use routerLinkActive and pass your active CSS class (on this class is '-current')
+
+```
+<ul class="items">
+    <li class="category-list-item" *ngFor="let category of categories">
+      <a class="link" routerLinkActive="-current" [routerLink]="[ category.id ]">{{ category.name }}</a>
+    </li>
+  </ul>
+```
+
+>  Nothing else needed on the class
+
 ### 1 Oct 2019
 
 [MDN - CSS Grid - box alignment in Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Box_Alignment_in_CSS_Grid_Layout)
