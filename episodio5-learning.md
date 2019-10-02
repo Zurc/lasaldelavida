@@ -2,6 +2,54 @@
 
 Cosas que voy aprendiendo...
 
+### 2 Oct 2019
+
+Angular - (sub)menu current active style and routing
+
+*** 1 way: crafted... ***
+
+>  the 'menu' component has a link to its children id... the html look like this
+
+```
+<ul class="items">
+    <li class="category-list-item" *ngFor="let category of categories">
+      <a class="link" [ngClass]="{ '-current': category.id === id }" [routerLink]="[ category.id ]">{{ category.name }}</a>
+    </li>
+  </ul>
+```
+
+>  on the class I have to subscribe to router event changes to read child id's... 
+
+```
+/**
+   * Subscribe to router events and update current group id if one was provided.
+   * @returns Subscription
+   */
+  private subscribeToRouterEvents(): Subscription {
+    return this.router.events.subscribe(event => {
+      if (event instanceof NavigationEnd) {
+        if (this.route.firstChild) {
+          if (!this.firstChildParams$) {
+            this.subscriptions.push(this.route.firstChild.params.subscribe(async params => {
+              this.id = params['id'];
+          }));
+          }
+        } else {
+          this.id = '';
+        }
+      }
+    });
+  }
+```
+
+> and call that method on my constructor
+
+```
+this.subscriptions = [
+      this.subscribeToRouterEvents(),
+    ];
+```
+
 ### 1 Oct 2019
 
 [MDN - CSS Grid - box alignment in Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Box_Alignment_in_CSS_Grid_Layout)
