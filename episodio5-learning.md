@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 Angular - (sub)menu current active style and routing
 
-*** 1 way: crafted... ***
+***1 way: crafted...***
 
 >  the 'menu' component has a link to its children id... the html look like this
 
