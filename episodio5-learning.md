@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 3 Oct 2019
 
+[CRUZ - angular select options + switch (stackblitz)](https://angular-sggmpx.stackblitz.io)
+
 [angular - ngswitch](https://lishman.io/angular-ngswitch)
 
 ### 2 Oct 2019
