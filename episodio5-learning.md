@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [angular - ngswitch](https://lishman.io/angular-ngswitch)
 
+[how to delete large folders in windows super fast](https://www.ghacks.net/2017/07/18/how-to-delete-large-folders-in-windows-super-fast/)
+
 ### 2 Oct 2019
 
 [sound at the sea](http://safinacenter.org/2017/01/sound-and-the-sea/)
