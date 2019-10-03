@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 3 Oct 2019
+
+[angular - ngswitch](https://lishman.io/angular-ngswitch)
+
 ### 2 Oct 2019
 
 [sound at the sea](http://safinacenter.org/2017/01/sound-and-the-sea/)
