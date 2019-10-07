@@ -5,6 +5,8 @@ Cosas que voy aprendiendo...
 
 ### 7 Oct 2019
 
+[telerik (kendo UI) - checkboxes tree view](https://demos.telerik.com/kendo-ui/treeview/checkboxes)
+
 [automated code formatting with prettier](https://www.codereadability.com/automated-code-formatting-with-prettier/)
 
 ### 3 Oct 2019
