@@ -2,6 +2,11 @@
 
 Cosas que voy aprendiendo...
 
+
+### 7 Oct 2019
+
+[automated code formatting with prettier](https://www.codereadability.com/automated-code-formatting-with-prettier/)
+
 ### 3 Oct 2019
 
 [CRUZ - angular select options + switch (stackblitz)](https://angular-sggmpx.stackblitz.io)
