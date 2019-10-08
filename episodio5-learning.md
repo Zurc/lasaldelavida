@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Oct 2019
 
+[angulartraining - tutorial custom form controls with angular](https://blog.angulartraining.com/tutorial-custom-form-controls-with-angular-22fc31c8c4cc)
+
 [alligator.io - custom form control](https://alligator.io/angular/custom-form-control/)
 
 [medium - implementing control value accessor in angular](https://medium.com/@majdasab/implementing-control-value-accessor-in-angular-1b89f2f84ebf)
