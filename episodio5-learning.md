@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Oct 2019
 
+[karmacomputing - angular 6 dynamically add rows reactive forms how to](https://blog.karmacomputing.co.uk/angular-6-dynamically-add-rows-reactive-forms-how-to/)
+
 [medium - how to set selected option dynamically in angular 6](https://medium.com/@kastepanyan24/how-to-set-selected-option-dynamically-in-angular-6-85c99958cca5)
 
 [angulartraining - tutorial custom form controls with angular](https://blog.angulartraining.com/tutorial-custom-form-controls-with-angular-22fc31c8c4cc)
