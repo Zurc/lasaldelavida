@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 8 Oct 2019
+
+[alligator.io - custom form control](https://alligator.io/angular/custom-form-control/)
+
 
 ### 7 Oct 2019
 
