@@ -17,6 +17,8 @@ Cosas que voy aprendiendo...
 >    .subscribe();
 > ```
 
+Output : [1, 2, 3, 4, 5, 6]
+
 ### 8 Oct 2019
 
 [karmacomputing - angular 6 dynamically add rows reactive forms how to](https://blog.karmacomputing.co.uk/angular-6-dynamically-add-rows-reactive-forms-how-to/)
