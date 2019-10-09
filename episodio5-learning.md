@@ -6,6 +6,19 @@ Cosas que voy aprendiendo...
 
 [stackoverflow - how to concat two observable arrays into a single array](https://stackoverflow.com/questions/44141569/how-to-concat-two-observable-arrays-into-a-single-array)
 
+>  ```
+>  const { Observable } = Rx;
+
+const s1$ = Observable.of([1, 2, 3]);
+const s2$ = Observable.of([4, 5, 6]);
+
+Observable
+  .forkJoin(s1$, s2$)
+  .map(([s1, s2]) => [...s1, ...s2])
+  .do(console.log)
+  .subscribe();
+> ```
+
 ### 8 Oct 2019
 
 [karmacomputing - angular 6 dynamically add rows reactive forms how to](https://blog.karmacomputing.co.uk/angular-6-dynamically-add-rows-reactive-forms-how-to/)
