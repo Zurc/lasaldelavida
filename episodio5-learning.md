@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 9 Oct 2019
+
+[stackoverflow - how to concat two observable arrays into a single array](https://stackoverflow.com/questions/44141569/how-to-concat-two-observable-arrays-into-a-single-array)
+
 ### 8 Oct 2019
 
 [karmacomputing - angular 6 dynamically add rows reactive forms how to](https://blog.karmacomputing.co.uk/angular-6-dynamically-add-rows-reactive-forms-how-to/)
