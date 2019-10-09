@@ -8,15 +8,13 @@ Cosas que voy aprendiendo...
 
 >  ```
 >  const { Observable } = Rx;
-
-const s1$ = Observable.of([1, 2, 3]);
-const s2$ = Observable.of([4, 5, 6]);
-
-Observable
-  .forkJoin(s1$, s2$)
-  .map(([s1, s2]) => [...s1, ...s2])
-  .do(console.log)
-  .subscribe();
+>  const s1$ = Observable.of([1, 2, 3]);
+>  const s2$ = Observable.of([4, 5, 6]);
+>  Observable
+>    .forkJoin(s1$, s2$)
+>    .map(([s1, s2]) => [...s1, ...s2])
+>    .do(console.log)
+>    .subscribe();
 > ```
 
 ### 8 Oct 2019
