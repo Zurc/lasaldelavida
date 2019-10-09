@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 9 Oct 2019
 
+[medium JS everyday - rxjs combinint streams zip operator](https://medium.com/javascript-everyday/rxjs-combining-streams-zip-operator-a60f3c0ba892)
+
 [rangle.io - thinking in nested streams with rxjs](https://rangle.io/blog/thinking-in-nested-streams-with-rxjs/)
 
 [stackoverflow - how to concat two observable arrays into a single array](https://stackoverflow.com/questions/44141569/how-to-concat-two-observable-arrays-into-a-single-array)
