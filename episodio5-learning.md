@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 14 Oct 2019
+
+[working with subversion in mac](https://docs.microsoft.com/en-us/visualstudio/mac/working-with-subversion?view=vsmac-2019)
+
 ### 9 Oct 2019
 
 [medium JS everyday - rxjs combinint streams zip operator](https://medium.com/javascript-everyday/rxjs-combining-streams-zip-operator-a60f3c0ba892)
