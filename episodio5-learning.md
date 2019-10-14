@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 14 Oct 2019
 
+[microsoft - set up subversion repository VS mac](https://docs.microsoft.com/en-us/visualstudio/mac/set-up-subversion-repository?view=vsmac-2019)
+
 [working with subversion in mac](https://docs.microsoft.com/en-us/visualstudio/mac/working-with-subversion?view=vsmac-2019)
 
 ### 9 Oct 2019
