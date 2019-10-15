@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Oct 2019
+
+[traducir... introction programmation JS](https://adrienjoly.developpez.com/tutoriel/introduction-programmation-javascript/)
+
 ### 14 Oct 2019
 
 [microsoft - set up subversion repository VS mac](https://docs.microsoft.com/en-us/visualstudio/mac/set-up-subversion-repository?view=vsmac-2019)
