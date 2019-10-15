@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 >  
 >  solution: to separate JS template literal (the view for that component) into it's own file
 
+[codigo interactivo - curso angular 7](https://www.youtube.com/watch?v=m8TqZngwdb4&list=PLZ6WzumExa5WVS0O-oByYH9YYoRrqG8oh&index=21) voy por el video 21
+
 ### 14 Oct 2019
 
 [microsoft - set up subversion repository VS mac](https://docs.microsoft.com/en-us/visualstudio/mac/set-up-subversion-repository?view=vsmac-2019)
