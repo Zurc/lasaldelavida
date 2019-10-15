@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [traducir... introction programmation JS](https://adrienjoly.developpez.com/tutoriel/introduction-programmation-javascript/)
 
+>  Angular error: “Expected operands to be a string or number type”
+>  
+>  solution: to separate JS template literal (the view for that component) into it's own file
+
 ### 14 Oct 2019
 
 [microsoft - set up subversion repository VS mac](https://docs.microsoft.com/en-us/visualstudio/mac/set-up-subversion-repository?view=vsmac-2019)
