@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Oct 2019
 
+[BOOK - Clean Architecture](https://pdfs.semanticscholar.org/4e0e/958168e6390a26493e2ba599f454de1dfdc2.pdf)
+
 [BOOK - Code complete 2nd edition (pdf)](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf)
 
 [code complete 2 checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
