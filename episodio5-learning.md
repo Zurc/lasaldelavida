@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 16 Oct 2019
 
-[freecodecamp - best practices for a clean and performant ng app](https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/)
+[freecodecamp - best practices for a clean and performant ng app](https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/) +++
 
 [angular in depth - increase performance of extremely deeply nested ng reactive form](https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db)
 
