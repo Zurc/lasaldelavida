@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 [Christian lydemann - refactoring angular apps, how to keep ng apps clean](https://christianlydemann.com/refactoring-angular-apps-how-to-keep-angular-apps-clean/) ++
 
-[BOOK - refactoring angular apps](https://www.oreilly.com/library/view/refactoring-angular-applications/9781491982471)
+[BOOK - refactoring angularJS apps](https://www.oreilly.com/library/view/refactoring-angular-applications/9781491982471)
 
 [BOOK - Clean Architecture](https://pdfs.semanticscholar.org/4e0e/958168e6390a26493e2ba599f454de1dfdc2.pdf)
 
