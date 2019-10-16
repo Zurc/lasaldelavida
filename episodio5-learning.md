@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Oct 2019
 
+[BOOK - Code complete 2nd edition (pdf)](http://aroma.vn/web/wp-content/uploads/2016/11/code-complete-2nd-edition-v413hav.pdf)
+
 [dzone - keyvalue pipe in angular 6.1](https://dzone.com/articles/keyvalue-pipe-in-angular-61)
 
 [angular.io - KeyValuePipe](https://angular.io/api/common/KeyValuePipe)
