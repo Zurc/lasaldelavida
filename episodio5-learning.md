@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Oct 2019
 
+[dzone - keyvalue pipe in angular 6.1](https://dzone.com/articles/keyvalue-pipe-in-angular-61)
+
 [angular.io - KeyValuePipe](https://angular.io/api/common/KeyValuePipe)
 
 [pietschsoft - JS basiscs how to create a dictionary with key/value pairs](https://pietschsoft.com/post/2015/09/05/javascript-basics-how-to-create-a-dictionary-with-keyvalue-pairs)
