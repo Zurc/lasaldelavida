@@ -32,6 +32,8 @@ Cosas que voy aprendiendo...
 
 [srtmarinesystems sharepoint com - documentation](https://srtmarinesystems.sharepoint.com/Home/Development/VMS100/Forms/AllItems.aspx)
 
+[sitepoint - angular 2 tut (todo, architecture... )](https://www.sitepoint.com/angular-2-tutorial/)
+
 ### 15 Oct 2019
 
 [traducir... introction programmation JS](https://adrienjoly.developpez.com/tutoriel/introduction-programmation-javascript/)
