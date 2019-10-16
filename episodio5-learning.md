@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Oct 2019
 
+[medium - dictionaries in angular](https://medium.com/@pashozator/dictionaries-in-angular-a43f79dea22a)
+
 [dustinhorne - implementing a dictionary in typescript](https://www.dustinhorne.com/post/2016/06/09/implementing-a-dictionary-in-typescript)
 
 [stackoverflow - angular how to use dictionaries](https://stackoverflow.com/questions/46767319/newbee-in-angular-how-to-use-dictionaries)
