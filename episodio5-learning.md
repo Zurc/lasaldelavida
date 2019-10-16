@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Oct 2019
+
+[srtmarinesystems sharepoint com - documentation](https://srtmarinesystems.sharepoint.com/Home/Development/VMS100/Forms/AllItems.aspx)
+
 ### 15 Oct 2019
 
 [traducir... introction programmation JS](https://adrienjoly.developpez.com/tutoriel/introduction-programmation-javascript/)
