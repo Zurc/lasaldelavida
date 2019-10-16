@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Oct 2019
 
+[stackoverflow - angular how to use dictionaries](https://stackoverflow.com/questions/46767319/newbee-in-angular-how-to-use-dictionaries)
+
 [MDN - typeError: 'x' is not iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/is_not_iterable)
 
 [srtmarinesystems sharepoint com - documentation](https://srtmarinesystems.sharepoint.com/Home/Development/VMS100/Forms/AllItems.aspx)
