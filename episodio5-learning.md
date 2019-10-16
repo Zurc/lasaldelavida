@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Oct 2019
 
+[pietschsoft - JS basiscs how to create a dictionary with key/value pairs](https://pietschsoft.com/post/2015/09/05/javascript-basics-how-to-create-a-dictionary-with-keyvalue-pairs)
+
 [medium - dictionaries in angular](https://medium.com/@pashozator/dictionaries-in-angular-a43f79dea22a)
 
 [dustinhorne - implementing a dictionary in typescript](https://www.dustinhorne.com/post/2016/06/09/implementing-a-dictionary-in-typescript)
