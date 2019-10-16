@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Oct 2019
 
+[dustinhorne - implementing a dictionary in typescript](https://www.dustinhorne.com/post/2016/06/09/implementing-a-dictionary-in-typescript)
+
 [stackoverflow - angular how to use dictionaries](https://stackoverflow.com/questions/46767319/newbee-in-angular-how-to-use-dictionaries)
 
 [MDN - typeError: 'x' is not iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/is_not_iterable)
