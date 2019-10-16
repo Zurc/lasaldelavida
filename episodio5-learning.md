@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [code complete 2 checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
+[BOOK - Code complete 2 (different one?)](http://jmvidal.cse.sc.edu/library/mcconnell04a.pdf)
+
 [dzone - keyvalue pipe in angular 6.1](https://dzone.com/articles/keyvalue-pipe-in-angular-61)
 
 [angular.io - KeyValuePipe](https://angular.io/api/common/KeyValuePipe)
