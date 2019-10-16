@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Oct 2019
 
+[MDN - typeError: 'x' is not iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/is_not_iterable)
+
 [srtmarinesystems sharepoint com - documentation](https://srtmarinesystems.sharepoint.com/Home/Development/VMS100/Forms/AllItems.aspx)
 
 ### 15 Oct 2019
