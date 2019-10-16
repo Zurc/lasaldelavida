@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Oct 2019
 
+[angular in depth - increase performance of extremely deeply nested ng reactive form](https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db)
+
 [Christian lydemann - refactoring angular apps, how to keep ng apps clean](https://christianlydemann.com/refactoring-angular-apps-how-to-keep-angular-apps-clean/) ++
 
 [BOOK - refactoring angularJS apps](https://www.oreilly.com/library/view/refactoring-angular-applications/9781491982471)
