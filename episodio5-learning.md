@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Oct 2019
+
+[stackoverflow - this might help for ng dynamic columns table](https://stackoverflow.com/questions/38810318/dynamically-loading-columns-and-data-in-to-table-in-angular-2)
+
 ### 16 Oct 2019
 
 [freecodecamp - best practices for a clean and performant ng app](https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/) +++
