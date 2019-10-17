@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 17 Oct 2019
 
+[quackit - CSS flexbox nested flex containers](https://www.quackit.com/css/flexbox/tutorial/nested_flex_containers.cfm)
+
 [CSS flexbox - 2 cols. when one hidden the other expands the full width/height](https://stackoverflow.com/questions/37039262/two-columns-and-when-one-is-hidden-the-other-expands-the-full-width)
 
 [stackoverflow - this might help for ng dynamic columns table](https://stackoverflow.com/questions/38810318/dynamically-loading-columns-and-data-in-to-table-in-angular-2)
