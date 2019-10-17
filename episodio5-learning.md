@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 17 Oct 2019
 
+[medium - ES^ map vs object what and when](https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373) +++
+
 [quackit - CSS flexbox nested flex containers](https://www.quackit.com/css/flexbox/tutorial/nested_flex_containers.cfm)
 
 [CSS flexbox - 2 cols. when one hidden the other expands the full width/height](https://stackoverflow.com/questions/37039262/two-columns-and-when-one-is-hidden-the-other-expands-the-full-width)
