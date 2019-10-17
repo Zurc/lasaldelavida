@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 17 Oct 2019
 
+[codecraft - angular ES6 typescript Map Set](https://codecraft.tv/courses/angular/es6-typescript/mapset/)
+
 [Ben Nadel - accessing parent and child route segment parameters](https://www.bennadel.com/blog/3343-accessing-parent-and-child-route-segment-parameters-in-angular-4-4-4.htm)
 
 [codeburst - array vs set vs map vs object real time use cases](https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b)
