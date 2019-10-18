@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [medium - avoid race conditions with rxjs switchmaps](https://medium.com/@milosbejda/avoiding-race-conditions-with-rxjs-switchmaps-310e14500dcc)
 
+[medium - handling angular forms race conditions with rxjs](https://medium.com/better-programming/handling-angular-forms-race-conditions-with-rxjs-b4e31bb73ba0)
+
 ### 17 Oct 2019
 
 [codecraft - angular ES6 typescript Map Set](https://codecraft.tv/courses/angular/es6-typescript/mapset/)
