@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Oct 2019
+
+[dev.to - 25 days of CSS animation teaching myself CSS through motion design](https://dev.to/acupoftee/25-days-of-css-animations-teaching-myself-css-through-motion-design-4l10)
+
 ### 18 Oct 2019
 
 [medium - avoid race conditions with rxjs switchmaps](https://medium.com/@milosbejda/avoiding-race-conditions-with-rxjs-switchmaps-310e14500dcc)
