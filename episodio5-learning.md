@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Oct 2019
 
+[dotCSS 2016 - Wenting Zhang - Make CSS your secret super drawing tool](https://www.youtube.com/watch?v=Y0_FMCji3iE)
+
 [CSS icon Space](https://cssicon.space)
 
 [hacks mozilla - faster layouts with CSS grid and subgrid](https://hacks.mozilla.org/2019/10/faster-layouts-with-css-grid-and-subgrid/)
