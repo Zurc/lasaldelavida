@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Oct 2019
 
+[Illustration with CSS by Lynn Fisher @ CSSDay.io 2015](https://www.youtube.com/watch?v=l7VUhEdM2aY)
+
 [a single div CSS](https://a.singlediv.com/)
 
 [dotCSS 2016 - Wenting Zhang - Make CSS your secret super drawing tool](https://www.youtube.com/watch?v=Y0_FMCji3iE)
