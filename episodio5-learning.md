@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Oct 2019
 
+[hacks mozilla - firefox 70, a bountiful release for all](https://hacks.mozilla.org/2019/10/firefox-70-a-bountiful-release-for-all/)
+
 [sitepoint - a beginners guide to pug](https://www.sitepoint.com/a-beginners-guide-to-pug/)
 
 [codeburst - getting started with pug tempalte engine](https://codeburst.io/getting-started-with-pug-template-engine-e49cfa291e33)
