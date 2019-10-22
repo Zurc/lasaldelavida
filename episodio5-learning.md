@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Oct 2019
 
+[codeburst - getting started with pug tempalte engine](https://codeburst.io/getting-started-with-pug-template-engine-e49cfa291e33)
+
 [creativebloq - CSS animation examples](https://www.creativebloq.com/inspiration/css-animation-examples)
 
 [webdesign tutsplus - pure CSS animation inspiration on codepen](https://webdesign.tutsplus.com/articles/pure-css-animation-inspiration-on-codepen--cms-30875)
