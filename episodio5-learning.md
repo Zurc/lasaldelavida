@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Oct 2019
 
+[creativebloq - CSS animation examples](https://www.creativebloq.com/inspiration/css-animation-examples)
+
 [webdesign tutsplus - pure CSS animation inspiration on codepen](https://webdesign.tutsplus.com/articles/pure-css-animation-inspiration-on-codepen--cms-30875)
 
 ### 21 Oct 2019
