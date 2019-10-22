@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [webdesign tutsplus - pure CSS animation inspiration on codepen](https://webdesign.tutsplus.com/articles/pure-css-animation-inspiration-on-codepen--cms-30875)
 
+[CSS tierra girando (youtube)](https://www.youtube.com/watch?v=u4n3fgUzJcQ)
+
 ### 21 Oct 2019
 
 [dev.to - 25 days of CSS animation teaching myself CSS through motion design](https://dev.to/acupoftee/25-days-of-css-animations-teaching-myself-css-through-motion-design-4l10)
