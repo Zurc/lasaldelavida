@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Oct 2019
 
+[angular in depth - about dynamic components in angular](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
+
 [angular in depth - tiny angular pipe to make any function memoizable](https://blog.angularindepth.com/tiny-angular-pipe-to-make-any-function-memoizable-f6c8fa917f2f)
 
 >  Angular - mapping data (example)
