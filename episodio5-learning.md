@@ -26,7 +26,22 @@ public get(id: string): Observable<Vessel> {
     );
   }
 ```
-
+>  
+>  here each property return a new mapping method to what is needed on the UI. A simple mapping...
+>  
+```
+private mapToRadar(vessel: any): VesselRadar {
+    return {
+      status: vessel.status,
+      id: vessel.id,
+      lastSeen: new Date(+vessel.RTM),
+      hasLocation: this.hasLocation(vessel),
+      latitude: this.getLatitude(vessel),
+      longitude: this.getLongitude(vessel),
+      vesselClass: vessel.vesselClass,
+    };
+  }
+```
 
 ### 22 Oct 2019
 
