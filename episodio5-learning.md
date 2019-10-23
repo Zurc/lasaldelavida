@@ -8,8 +8,8 @@ Cosas que voy aprendiendo...
 >
 >  On complex data coming from an http.get you can map it to different desired outcomes (interfaces)
 >  
-> ```
->  public get(id: string): Observable<Vessel> {
+```
+public get(id: string): Observable<Vessel> {
     return this.http.get<any>(this.appConfig.apiRootUrl + 'vesselmanagement/vessel/' + id).pipe(
       map((vesselEntry: any) => {
         return {
@@ -25,7 +25,8 @@ Cosas que voy aprendiendo...
       })
     );
   }
->  ```
+```
+
 
 ### 22 Oct 2019
 
