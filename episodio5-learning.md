@@ -42,6 +42,45 @@ private mapToRadar(vessel: any): VesselRadar {
     };
   }
 ```
+>  
+>  A more complex mapping...
+>  
+```
+private mapToRegistration(vesselEntry: any): Registration | null {
+    if (
+      vesselEntry.registration &&
+      vesselEntry.status &&
+      vesselEntry.status !== 'KNOWN_NOT_IDENTIFIER' &&
+      vesselEntry.status !== 'UNKNOWN' &&
+      vesselEntry.id
+    ) {
+      let engines: number[] = [];
+      if (vesselEntry.registration.engine_power) {
+        engines = vesselEntry.registration.engine_power.split(',');
+      }
+      return {
+        id: vesselEntry.id,
+        type: this.getVesselType(vesselEntry),
+        engines: engines,
+        name: this.getVesselName(vesselEntry),
+        draught: vesselEntry.registration.vessel_draught,
+        identifierId: vesselEntry.registration.srt_identifier_id,
+        licence: vesselEntry.registration.licence,
+        licence_grant_date: vesselEntry.registration.licence_grant_date,
+        licence_period_days: vesselEntry.registration.licence_period_days,
+
+        dimensions: new VesselDimensions(
+          vesselEntry.registration.gps_bow,
+          vesselEntry.registration.gps_stern,
+          vesselEntry.registration.gps_port,
+          vesselEntry.registration.gps_starboard
+        ),
+      };
+    } else {
+      return null;
+    }
+  }
+```
 
 ### 22 Oct 2019
 
