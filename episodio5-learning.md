@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Oct 2019
 
+[angular in depth - tiny angular pipe to make any function memoizable](https://blog.angularindepth.com/tiny-angular-pipe-to-make-any-function-memoizable-f6c8fa917f2f)
+
 >  Angular - mapping data (example)
 >
 >  On complex data coming from an http.get you can map it to different desired outcomes (interfaces)
