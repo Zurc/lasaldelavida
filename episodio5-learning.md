@@ -2,6 +2,31 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Oct 2019
+
+>  Angular - mapping data (example)
+>
+>  On complex data coming from an http.get you can map it to different desired outcomes (interfaces)
+>  
+> ```
+>  public get(id: string): Observable<Vessel> {
+    return this.http.get<any>(this.appConfig.apiRootUrl + 'vesselmanagement/vessel/' + id).pipe(
+      map((vesselEntry: any) => {
+        return {
+          installation: this.mapToInstallation(vesselEntry),
+          owners: this.mapToOwners(vesselEntry),
+          details: this.mapToVesselDetails(vesselEntry),
+          registration: this.mapToRegistration(vesselEntry),
+          isLost: this.getIsLost(vesselEntry),
+          id: id,
+          daysInMonitoringZone: vesselEntry.daysInMonitoringZones,
+          radar: this.mapToRadar(vesselEntry),
+        };
+      })
+    );
+  }
+>  ```
+
 ### 22 Oct 2019
 
 [Illustration with CSS by Lynn Fisher @ CSSDay.io 2015](https://www.youtube.com/watch?v=l7VUhEdM2aY)
