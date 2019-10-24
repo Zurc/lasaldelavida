@@ -2,6 +2,30 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Oct 2019
+
+>  JS - Not null variables, check the difference between...
+
+```
+if (myVar) {...}
+```
+or 
+```
+if (myVar !== null) {...}
+```
+
+They are not equivalent. The first will execute the block following the if statement if myVar is truthy (i.e. evaluates to true in a conditional), while the second will execute the block if myVar is any value other than null.
+
+The only values that are not truthy in JavaScript are the following (a.k.a. falsy values):
+
+null
+undefined
+0
+"" (the empty string)
+false
+NaN
+
+
 ### 23 Oct 2019
 
 [angular in depth - about dynamic components in angular](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
