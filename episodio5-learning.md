@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Oct 2019
 
+[dev.to - how to create pure css illustrations and animate them](https://dev.to/agathacco/how-to-create-pure-css-illustrations-and-animate-them---part-1-1j1k)
+
 [CSS papercss](https://www.getpapercss.com/docs/)
 
 [codeburst - understanding null undefined and NaN](https://codeburst.io/understanding-null-undefined-and-nan-b603cb74b44c)
