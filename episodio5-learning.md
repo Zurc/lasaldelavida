@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Oct 2019
 
+[JS (stackoverflow) - 3 ways to check for not null](https://stackoverflow.com/questions/2422946/javascript-check-for-not-null/34817844#34817844)
+
 **JS - Not null variables, check the difference between...**
 
 ```
