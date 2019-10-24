@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Oct 2019
 
+[CRUZ - pure CSS smiley face](https://codepen.io/CruzWeb/pen/qBBmoyB)
+
 [dev.to - how to create pure css illustrations and animate them](https://dev.to/agathacco/how-to-create-pure-css-illustrations-and-animate-them---part-1-1j1k)
 
 [CSS papercss](https://www.getpapercss.com/docs/)
