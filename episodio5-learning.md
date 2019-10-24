@@ -18,11 +18,17 @@ They are not equivalent. The first will execute the block following the if state
 
 The only values that are not truthy in JavaScript are the following (a.k.a. falsy values):
 
+
 -null
+
 -undefined
+
 -0
+
 -"" (the empty string)
+
 -false
+
 -NaN
 
 
