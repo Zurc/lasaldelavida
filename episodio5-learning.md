@@ -31,6 +31,7 @@ The only values that are not truthy in JavaScript are the following (a.k.a. fals
 - false
 - NaN
 
+[codeburst - how to start contributing to open source](https://codeburst.io/how-to-start-contributing-to-open-source-d9e38b01a5e1)
 
 ### 23 Oct 2019
 
