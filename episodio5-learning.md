@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 24 Oct 2019
 
->  JS - Not null variables, check the difference between...
+**JS - Not null variables, check the difference between...**
 
 ```
 if (myVar) {...}
@@ -18,12 +18,12 @@ They are not equivalent. The first will execute the block following the if state
 
 The only values that are not truthy in JavaScript are the following (a.k.a. falsy values):
 
-null
-undefined
-0
-"" (the empty string)
-false
-NaN
+-null
+-undefined
+-0
+-"" (the empty string)
+-false
+-NaN
 
 
 ### 23 Oct 2019
