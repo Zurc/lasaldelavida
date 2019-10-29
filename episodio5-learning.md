@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### 29 Oct 2019
+
+>  Angular - 'Elvis operator' or 'safe navigation operator' = question mark in the template
+>  
+>  It notifies the template that a value that needs to be displayed may not be available yet, and allow the template to continue to be rendered and that value filled in at a later time.
+
+It saves you getting 'undefined' errors when your template renders before data arrives, perhaps from a service or database.
+
 ### 24 Oct 2019
 
 [CRUZ - pure CSS smiley face](https://codepen.io/CruzWeb/pen/qBBmoyB)
