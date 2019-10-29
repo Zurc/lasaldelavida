@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Oct 2019
 
+check this > [medium - 6 best practices pro tips for angular CLI better dev experience](https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81)
+
 [itnext - clean code checklist in angular](https://itnext.io/clean-code-checklist-in-angular-️-10d4db877f74)
 
 >  Angular - 'Elvis operator' or 'safe navigation operator' = question mark in the template
