@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 Oct 2019
 
+[itnext - clean code checklist in angular](https://itnext.io/clean-code-checklist-in-angular-️-10d4db877f74)
+
 >  Angular - 'Elvis operator' or 'safe navigation operator' = question mark in the template
 >  
 >  It notifies the template that a value that needs to be displayed may not be available yet, and allow the template to continue to be rendered and that value filled in at a later time.
