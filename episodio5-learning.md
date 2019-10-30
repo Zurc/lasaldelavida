@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Time To First Bite (TTFB)](https://kinsta.com/blog/ttfb/)
 
+[Discord Academind - learning](https://discordapp.com/invite/gxvEWGU)
+
 ### 29 Oct 2019
 
 check this > [medium - 6 best practices pro tips for angular CLI better dev experience](https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81)
