@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 4 Nov 2019
+
+[angular in depth - rxjs composing subscriptions](https://blog.angularindepth.com/rxjs-composing-subscriptions-b53ab22f1fd5)
+
 ### 30 Oct 2019
 
 [Time To First Bite (TTFB)](https://kinsta.com/blog/ttfb/)
