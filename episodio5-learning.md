@@ -62,6 +62,8 @@ Other ways to use it...
 
 [stackoverflow - ngx-translate with dynamic text on ts file](https://stackoverflow.com/questions/46155989/ngx-translate-with-dynamic-text-on-ts-file)
 
+[stackoverflow - use ngx-translate in ts file](https://stackoverflow.com/questions/46173238/use-ngx-translate-in-ts-file)
+
 [lessons from building large angular apps managing subscriptions](https://medium.com/passionate-people/lessons-from-building-large-angular-apps-managing-subscriptions-fe3aca839e35)
 
 [angular in depth - rxjs composing subscriptions](https://blog.angularindepth.com/rxjs-composing-subscriptions-b53ab22f1fd5)
