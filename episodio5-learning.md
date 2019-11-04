@@ -18,6 +18,7 @@ Cosas que voy aprendiendo...
 >  - setTimeout, setInterval, etc
 >  - Events like click, drag, mouseover, etc
 >  - XMLHttpRequest
+>  
 >  Angular runs a CD cycle whenever it detects any of these events through Zone.js. Angular CD cycle is triggered by a method tick in the ApplicationRef class.
 
 [how to safely access attributes in angular using ?](https://blog.bitsrc.io/how-to-safely-access-attributes-in-angular-using-6ddac4901044)
