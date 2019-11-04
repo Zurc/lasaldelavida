@@ -13,6 +13,12 @@ Cosas que voy aprendiendo...
 >  A Component == a View. Each View has a state, that decides whether to update its UI and its children or simply ignore it.
 >  
 >  **Change Detection** (CD) refreshes the DOM tree to display the changed states in an app
+>  
+>  Angular uses Zone.js to detect when to trigger a CD cycle. Angular actually wraps Zone.js functionality into a class NgZone. Zone.js emits an async event whenever an async operation is executed. Async operations are emitted by:
+>  - setTimeout, setInterval, etc
+>  - Events like click, drag, mouseover, etc
+>  - XMLHttpRequest
+>  Angular runs a CD cycle whenever it detects any of these events through Zone.js. Angular CD cycle is triggered by a method tick in the ApplicationRef class.
 
 [how to safely access attributes in angular using ?](https://blog.bitsrc.io/how-to-safely-access-attributes-in-angular-using-6ddac4901044)
 
