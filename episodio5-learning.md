@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Nov 2019
 
+[how to write better components in angular](https://blog.bitsrc.io/how-to-write-better-components-in-angular-7dd0721b56fb)
+
 [blog bitsrc - boosting angular app performance with localchange detection](https://blog.bitsrc.io/boosting-angular-app-performance-with-local-change-detection-8a6a3afa8d4d)
 
 [stackoverflow - ng2 how to navigate to another route using absolute or relative paths](https://stackoverflow.com/questions/33571605/angular-2-how-to-navigate-to-another-route-using-this-router-parent-navigate)
