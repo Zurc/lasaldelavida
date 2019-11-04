@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Nov 2019
 
+[stackoverflow - ng2 how to navigate to another route using absolute or relative paths](https://stackoverflow.com/questions/33571605/angular-2-how-to-navigate-to-another-route-using-this-router-parent-navigate)
+
 **Angular - using [ngx-translate](https://github.com/ngx-translate/core) internationalisation on the ts file**
 
 first imported and injected TranslateService
