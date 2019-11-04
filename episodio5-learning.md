@@ -9,6 +9,8 @@ Cosas que voy aprendiendo...
 >  An Angular app is nothing but a tree of components. The bootstrapping/rendering of the app starts from the root of the tree up to the “branches”.
 >  
 >  Components are structured in a parent/child relationship, when each component renders, its children Components are rendered recursively.
+>  
+>  A Component == a View. Each View has a state, that decides whether to update its UI and its children or simply ignore it.
 
 [how to safely access attributes in angular using ?](https://blog.bitsrc.io/how-to-safely-access-attributes-in-angular-using-6ddac4901044)
 
