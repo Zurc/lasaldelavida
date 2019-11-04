@@ -11,6 +11,8 @@ Cosas que voy aprendiendo...
 >  Components are structured in a parent/child relationship, when each component renders, its children Components are rendered recursively.
 >  
 >  A Component == a View. Each View has a state, that decides whether to update its UI and its children or simply ignore it.
+>  
+>  **Change Detection** refreshes the DOM tree to display the changed states in an app
 
 [how to safely access attributes in angular using ?](https://blog.bitsrc.io/how-to-safely-access-attributes-in-angular-using-6ddac4901044)
 
