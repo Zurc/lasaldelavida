@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 4 Nov 2019
 
+[understanding change detection startegies in angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a)
+
+>  An Angular app is nothing but a tree of components. The bootstrapping/rendering of the app starts from the root of the tree up to the “branches”.
+>  
+>  Components are structured in a parent/child relationship, when each component renders, its children Components are rendered recursively.
+
 [how to safely access attributes in angular using ?](https://blog.bitsrc.io/how-to-safely-access-attributes-in-angular-using-6ddac4901044)
 
 [github DEVELOPER ROADMAP](https://github.com/kamranahmedse/developer-roadmap)
