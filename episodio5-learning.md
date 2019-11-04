@@ -31,6 +31,10 @@ export class AppComponent {
 }
 ```
 
+>  The detectChanges() method is what is called in the tick() method. The detectChanges method in turn calls a fucntion, checkAndUpdateView: The checkAndUpdateView is responsible for the change detection cycle. It recursively walks through the Angular’s tree of views, checking and updating each component’s view.
+>  
+>  
+
 [how to safely access attributes in angular using ?](https://blog.bitsrc.io/how-to-safely-access-attributes-in-angular-using-6ddac4901044)
 
 [github DEVELOPER ROADMAP](https://github.com/kamranahmedse/developer-roadmap)
