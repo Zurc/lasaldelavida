@@ -20,6 +20,10 @@ Cosas que voy aprendiendo...
 >  - XMLHttpRequest
 >  
 >  Angular runs a CD cycle whenever it detects any of these events through Zone.js. Angular CD cycle is triggered by a method tick in the ApplicationRef class.
+>  
+>  So we see internalViewRef has all properties and methods of ViewRef and ChangeDetectorRef classes.
+>  
+>  When we want to manipulate CD from a Component, we inject the ChangeDetectorRef class.
 
 [how to safely access attributes in angular using ?](https://blog.bitsrc.io/how-to-safely-access-attributes-in-angular-using-6ddac4901044)
 
