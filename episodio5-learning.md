@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Nov 2019
 
+[how to safely access attributes in angular using ?](https://blog.bitsrc.io/how-to-safely-access-attributes-in-angular-using-6ddac4901044)
+
 [github DEVELOPER ROADMAP](https://github.com/kamranahmedse/developer-roadmap)
 
 [how to write better components in angular](https://blog.bitsrc.io/how-to-write-better-components-in-angular-7dd0721b56fb)
