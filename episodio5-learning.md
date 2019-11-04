@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [stackoverflow - ng2 how to navigate to another route using absolute or relative paths](https://stackoverflow.com/questions/33571605/angular-2-how-to-navigate-to-another-route-using-this-router-parent-navigate)
 
+[stackoverflow - how to use router navigatByUrl and router navigate in angular](https://stackoverflow.com/questions/45025334/how-to-use-router-navigatebyurl-and-router-navigate-in-angular)
+
 **Angular - using [ngx-translate](https://github.com/ngx-translate/core) internationalisation on the ts file**
 
 first imported and injected TranslateService
