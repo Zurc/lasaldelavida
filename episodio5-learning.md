@@ -16,6 +16,48 @@ constructor(
   ) {}
 ```
 
+then used get() method call and subscribing (remember to unsubscribe!!!) to retrieve an observable
+
+```
+ /**
+   * Handler for whenever Alert Type dropdown changes. Refresh current actions multiform.
+   */
+  onAlertTypeChanged(selectedType: TypeEntry) {
+    this.selectedType = selectedType;
+    this.subscription.add(this.translate.get(this.selectedType.type).subscribe(selected => (this.selectedTypeTranslated = selected)));
+    this.loading = true;
+
+    this.subscription.add(
+      this.alertActionDefinitionService.getAlertActionDefinitionsForAlertSupertype(selectedType.type).subscribe(actions => {
+        this.actionsMultiform = this.alertActionDefinitionFormBuilder.objectArrayToMultiform(actions);
+        this.loading = false;
+      })
+    );
+  }
+```
+
+On this example this.selectedType.type is dynamically coming from an enum. and the translation file is a json (en.json)
+
+```
+{
+  ...
+  "MOB":"Man Overboard",
+  "CUSTOM":"Custom",
+  "SART": "Search and rescue",
+  "SOS":"SOS",
+  "IDENTIFIER":"Transponder",
+  "AIS":"AIS",
+  "GEOFENCE": "Geo-fence",
+  "ATON":"AtoN",
+  "OPERATIONAL":"Operational",
+  "MONITORING_ZONE": "Gone Dark",
+  "SPOOFING": "Spoofing",
+  "RENDEZVOUS": "Rendezvous",
+  "VESSEL_LICENCE": "Vessel Licence",
+  ...
+}
+```
+
 [lessons from building large angular apps managing subscriptions](https://medium.com/passionate-people/lessons-from-building-large-angular-apps-managing-subscriptions-fe3aca839e35)
 
 [angular in depth - rxjs composing subscriptions](https://blog.angularindepth.com/rxjs-composing-subscriptions-b53ab22f1fd5)
