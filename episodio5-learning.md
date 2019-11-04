@@ -25,6 +25,12 @@ Cosas que voy aprendiendo...
 >  
 >  When we want to manipulate CD from a Component, we inject the ChangeDetectorRef class.
 
+```
+export class AppComponent {
+    constructor(cd: ChangeDetectorRef) { ... }
+}
+```
+
 [how to safely access attributes in angular using ?](https://blog.bitsrc.io/how-to-safely-access-attributes-in-angular-using-6ddac4901044)
 
 [github DEVELOPER ROADMAP](https://github.com/kamranahmedse/developer-roadmap)
