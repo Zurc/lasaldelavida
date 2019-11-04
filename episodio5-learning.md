@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 4 Nov 2019
 
-**Angular - using ngx-translate internationalisation on the ts file**
+**Angular - using [ngx-translate](https://github.com/ngx-translate/core) internationalisation on the ts file**
 
 
 
