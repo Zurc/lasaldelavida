@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Nov 2019
 
+[lessons from building large angular apps managing subscriptions](https://medium.com/passionate-people/lessons-from-building-large-angular-apps-managing-subscriptions-fe3aca839e35)
+
 [angular in depth - rxjs composing subscriptions](https://blog.angularindepth.com/rxjs-composing-subscriptions-b53ab22f1fd5)
 
 [intertech - angular best practice unsubsribing rxjs ovservables](https://www.intertech.com/Blog/angular-best-practice-unsubscribing-rxjs-observables/)
