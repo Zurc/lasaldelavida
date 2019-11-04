@@ -6,7 +6,15 @@ Cosas que voy aprendiendo...
 
 **Angular - using [ngx-translate](https://github.com/ngx-translate/core) internationalisation on the ts file**
 
+first imported and injected TranslateService
 
+```
+constructor(
+    ...
+    private translate: TranslateService,
+    ...
+  ) {}
+```
 
 [lessons from building large angular apps managing subscriptions](https://medium.com/passionate-people/lessons-from-building-large-angular-apps-managing-subscriptions-fe3aca839e35)
 
