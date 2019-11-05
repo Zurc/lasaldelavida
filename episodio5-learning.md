@@ -25,6 +25,20 @@ I didn't knew that...
 >  The default CD strategy every view has. It is set whenever we create a Component via @Component decorator:
 >  
 >  This is the configuration metadata for an Angular component. We see that it has changeDetection property. This is what is set to tell Angular that our view has either OnPush or Default CD strategy. It sets the CD strategy to use when propagating the component’s bindings.
+>  
+>  The Component decorator changeDetection property is set to ChangeDetectionStrategy.Default even before we use it. So, whenever we docorate our class with @component the changeDetection strategy is set to Default.
+>  
+>  But, if we want to change it, we can override it by simply doing this:
+
+```
+@Component({
+  changeDetection: ChangeDetectionStrategy.OnPush
+  ...
+})
+export class AppComponent {...}
+```
+
+
 
 ### 4 Nov 2019
 
