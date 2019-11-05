@@ -16,7 +16,9 @@ I didn't knew that...
 >  
 >  ## 3. View States and Change Detection States
 >  
+>  **View States** Each view in an Angular tree of views has possible states it can be in. These states decide whether to run a UI update/CD on a view and its children.
 >  
+>  **Change Detector Status** This defines the possible state of the change detector.
 
 ### 4 Nov 2019
 
