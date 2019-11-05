@@ -18,7 +18,7 @@ I didn't knew that...
 
 [understanding change detection strategies in angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a) +++
 
-> ## 1. View and Tree of Views*
+> ## 1. View and Tree of Views
 >  
 >  An Angular app is nothing but a tree of components. The bootstrapping/rendering of the app starts from the root of the tree up to the “branches”.
 >  
@@ -26,7 +26,7 @@ I didn't knew that...
 >  
 >  A Component == a View. Each View has a state, that decides whether to update its UI and its children or simply ignore it.
 >  
->  ## 2. Change Detection Cycle*
+>  ## 2. Change Detection Cycle
 >  
 >  **Change Detection** (CD) refreshes the DOM tree to display the changed states in an app
 >  
@@ -49,7 +49,7 @@ export class AppComponent {
 
 >  The detectChanges() method is what is called in the tick() method. The detectChanges method in turn calls a fucntion, checkAndUpdateView: The checkAndUpdateView is responsible for the change detection cycle. It recursively walks through the Angular’s tree of views, checking and updating each component’s view.
 >  
->  
+>  cont...
 
 [how to safely access attributes in angular using ?](https://blog.bitsrc.io/how-to-safely-access-attributes-in-angular-using-6ddac4901044)
 
