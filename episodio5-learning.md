@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 5 Nov 2019
 
+[angular in depth - everything you need to know about change detection in angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
+
 [oasisdigital - angular runtime performance guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
 
 [v savkin (ex angular team) - change detection in angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
