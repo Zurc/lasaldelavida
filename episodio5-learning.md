@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 4 Nov 2019
 
-[understanding change detection startegies in angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a) +++
+[understanding change detection strategies in angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a) +++
 
 >  An Angular app is nothing but a tree of components. The bootstrapping/rendering of the app starts from the root of the tree up to the “branches”.
 >  
