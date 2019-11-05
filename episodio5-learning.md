@@ -22,7 +22,7 @@ I didn't knew that...
 >  
 >  ## 4. Default CD Strategy
 >  
->  
+>   The default CD strategy every view has. It is set whenever we create a Component via @Component decorator:
 
 ### 4 Nov 2019
 
