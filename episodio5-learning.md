@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 5 Nov 2019
+
+[bitmask - there is space at the bottom](https://blog.bitsrc.io/bitmask-there-is-space-at-the-bottom-5a741d18c4e3)
+
 ### 4 Nov 2019
 
 [understanding change detection strategies in angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a) +++
