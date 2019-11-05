@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [oasisdigital - angular runtime performance guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
 
+[v savkin (ex angular team) - change detection in angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
+
 >  [angular.io blog - 3 tips for angular runtime performance from the real world](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
 >  
 >  To exclude a component subtree from change detection is by setting the `changeDetection` property to `ChangeDetectionStrategy.OnPush` in the @Component decorator. This tells Angular that the component only needs to be checked if an input has changed, and that all of the inputs can be considered immutable
