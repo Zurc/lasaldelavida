@@ -10,15 +10,23 @@ I didn't knew that...
 
 [bitmask - there is space at the bottom](https://blog.bitsrc.io/bitmask-there-is-space-at-the-bottom-5a741d18c4e3)
 
+... following yesterday's reading about change detection...
+
+>  checkAndUpdateView checks the state of the view throgout it lifecycle ( by checking/setting/updating lifecyclehook flags )
+
 ### 4 Nov 2019
 
 [understanding change detection strategies in angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a) +++
 
+> *1. View and Tree of Views*
+>  
 >  An Angular app is nothing but a tree of components. The bootstrapping/rendering of the app starts from the root of the tree up to the “branches”.
 >  
 >  Components are structured in a parent/child relationship, when each component renders, its children Components are rendered recursively.
 >  
 >  A Component == a View. Each View has a state, that decides whether to update its UI and its children or simply ignore it.
+>  
+>  *2. Change Detection Cycle*
 >  
 >  **Change Detection** (CD) refreshes the DOM tree to display the changed states in an app
 >  
