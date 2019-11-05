@@ -13,6 +13,10 @@ I didn't knew that...
 ... following yesterday's reading about change detection...
 
 >  checkAndUpdateView checks the state of the view throgout it lifecycle ( by checking/setting/updating lifecyclehook flags )
+>  
+>  ##3. View States and Change Detection States
+>  
+>  
 
 ### 4 Nov 2019
 
