@@ -38,7 +38,9 @@ I didn't knew that...
 export class AppComponent {...}
 ```
 
-
+>  With **Default CD strategy**, our Component is checked always in every CD run until it is deactivated.
+>  
+>  Now, imagine our app grows to be complex with hundreds (or more) of bindings (template bindings, property bindings, query bindings) to update on every single CD run. This will hugely impact the performance of our app.
 
 ### 4 Nov 2019
 
