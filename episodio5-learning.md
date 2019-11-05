@@ -7,7 +7,36 @@ Cosas que voy aprendiendo...
 >  [angular.io blog - 3 tips for angular runtime performance from the real world](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
 >  
 >  To exclude a component subtree from change detection is by setting the `changeDetection` property to `ChangeDetectionStrategy.OnPush` in the @Component decorator. This tells Angular that the component only needs to be checked if an input has changed, and that all of the inputs can be considered immutable
->  
+
+```
+<!--
+  Since all bound values arrive as inputs
+  this component is suitable for use with OnPush
+-->
+<ul>
+  <li *ngFor="let instructor of instructors">
+    {{ instructor }}
+  </li>
+</ul>
+```
+
+```
+import { Component, Input, ChangeDetectionStrategy} from '@angular/core';
+
+// Though this is a simple component, its template will only be checked for updates
+// should a new list of instructors arrive.
+// This is especially helpful when other portions of the application are undergoing
+// frequent updates.
+@Component({
+  selector: 'app-instructor-list',
+  templateUrl: './instructor-list.component.html',
+  changeDetection: ChangeDetectionStrategy.OnPush
+})
+export class InstructorListComponent {
+  @Input() instructors = [];
+}
+```
+
 >  by injecting the ChangeDetectorRef service, you can inform Angular that a component should be detached from change detection. You can then manually take control of calling `reattach` or `detectChanges()` yourself, giving you full control of when and where a component subtree is checked.
 
 I didn't knew that...
