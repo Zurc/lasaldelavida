@@ -14,7 +14,7 @@ I didn't knew that...
 
 >  checkAndUpdateView checks the state of the view throgout it lifecycle ( by checking/setting/updating lifecyclehook flags )
 >  
->  ##3. View States and Change Detection States
+>  ## 3. View States and Change Detection States
 >  
 >  
 
