@@ -39,6 +39,45 @@ export class InstructorListComponent {
 
 >  by injecting the ChangeDetectorRef service, you can inform Angular that a component should be detached from change detection. You can then manually take control of calling `reattach` or `detectChanges()` yourself, giving you full control of when and where a component subtree is checked.
 
+```
+import {
+  Component, Input, AfterViewInit,
+  ChangeDetectionStrategy, ChangeDetectorRef
+} from '@angular/core';
+
+@Component({
+  selector: 'app-instructor-list',
+  templateUrl: './instructor-list.component.html',
+  changeDetection: ChangeDetectionStrategy.OnPush
+})
+export class InstructorListComponent implements AfterViewInit {
+
+  // Suppose this time the instructor list doesn't change after it arrives
+  @Input() instructors = [];
+
+  constructor(private cdr: ChangeDetectorRef) { }
+
+  // Wait until the view inits before disconnecting
+  ngAfterViewInit() {
+    // Since we know the list is not going to change
+    // let's request that this component not undergo change detection at all
+    this.crd.detach();
+  }
+
+  // Angular provides additional controls such as the following
+  // if the situation allows
+
+  // Request a single pass of change detection for the application
+  // this.cdr.markForCheck();
+
+  // Request a single pass of change detection for just this component
+  // this.cdr.detectChanges();
+
+  // Connect this component back to the change detection process
+  // this.cdr.reattach();
+}
+```
+
 I didn't knew that...
 
 >  Angular made a very heavy use of bitmasks!
