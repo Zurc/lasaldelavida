@@ -22,7 +22,9 @@ I didn't knew that...
 >  
 >  ## 4. Default CD Strategy
 >  
->   The default CD strategy every view has. It is set whenever we create a Component via @Component decorator:
+>  The default CD strategy every view has. It is set whenever we create a Component via @Component decorator:
+>  
+>  This is the configuration metadata for an Angular component. We see that it has changeDetection property. This is what is set to tell Angular that our view has either OnPush or Default CD strategy. It sets the CD strategy to use when propagating the component’s bindings.
 
 ### 4 Nov 2019
 
