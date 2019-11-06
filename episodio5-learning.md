@@ -46,6 +46,8 @@ SOLUTION: We've changed that lifecycle hook for ngAfterViewInit and everything w
 >  By default, Angular Change Detection works by checking if the value of template expressions have changed. This is done for all components.
 >  
 >  By default, Angular does not do deep object comparison to detect changes, it only takes into account properties used by the template
+>  
+>  When using OnPush detectors, then the framework will check an OnPush component when any of its input properties changes, when it fires an event, or when an Observable fires an event
 
 
 ANGULAR: ENUMS
