@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 6 Nov 2019
 
+... cont 'everything you need to know about change detection...
+
+>  Angular separates updating the application model and reflecting the state of the model in the view into two distinct phases. The developer is responsible for updating the application model. Angular via bindings, by means of change detection, is responsible for reflecting the state of the model in the view. The framework does it automatically on every VM turn.
+
 [jake archibald - tasks microtasks queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
 [stackoverflow - ng understanding VM turns and events](https://stackoverflow.com/questions/38783544/angular2-understanding-vm-turns-and-events)
