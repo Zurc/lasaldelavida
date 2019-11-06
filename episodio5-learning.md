@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [nrwl - essential angular ngmodules](https://blog.nrwl.io/essential-angular-ngmodules-16474ea99713)
 
+>  NgModules are akin to ES modules: they have declarations, imports, and exports.
+>  
 >  An NgModule is the compilation context of its components, i.e., it tells Angular how these components should be compiled. As with ES, a component can only be declared in one module.
 
 ### 5 Nov 2019
