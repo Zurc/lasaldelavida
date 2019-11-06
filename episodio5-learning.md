@@ -45,7 +45,7 @@ SOLUTION: We've changed that lifecycle hook for ngAfterViewInit and everything w
 
 >  By default, Angular Change Detection works by checking if the value of template expressions have changed. This is done for all components.
 >  
->  
+>  By default, Angular does not do deep object comparison to detect changes, it only takes into account properties used by the template
 
 
 ANGULAR: ENUMS
