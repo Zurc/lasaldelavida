@@ -14,7 +14,9 @@ At the bottom, next to the summary (where you see how long it takes for each pro
 
 There we discovered about this custom options taking so long... 
 
-Reviewing the ts class for that component we discovered there was a ngAfterViewChecked lifecyclehook taking place. 
+Reviewing the ts class for that component we discovered there was a ngAfterViewChecked lifecyclehook taking place. WATCH OUT!!! **ANY lifecycle hook ending on ...check runs constantly**. You can easily check that by console.logging anything within them.
+
+SOLUTION: We've changed that lifecycle hook for ngAfterViewInit and everything was better... fiuuuu
 
 [angular in depth - understanding enumerations](https://blog.angularindepth.com/understanding-enumerations-f02935d4a66c)
 
