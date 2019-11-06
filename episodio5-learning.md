@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 6 Nov 2019
 
+[ninja squad blog - angular performances strategies](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)  // talks about  onPush strategy traps with mutability
+
 [sitepoint - change detection angular](https://www.sitepoint.com/change-detection-angular/)
 
 [thoughtram - ng change detection explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
