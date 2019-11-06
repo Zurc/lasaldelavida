@@ -4,6 +4,35 @@ Cosas que voy aprendiendo...
 
 ### 6 Nov 2019
 
+>  Angular: enums
+>  
+>  Imagine you export an enum 'Direction'
+
+```
+export enum Direction {
+    Up = "UP",
+    Down = "DOWN",
+    Left = "LEFT",
+    Right = "RIGHT",
+}
+```
+
+>  If you import that enum into your ts file (your component's class) you need to make it publicly available on that class to be able to use it on your html file (your component's template)
+
+```
+Direction = Direction;
+or 
+D = Direction;
+```
+
+>  on your template...
+
+```
+Direction.Up
+or
+D.Up
+```
+
 ... cont 'everything you need to know about change detection...
 
 >  Angular separates updating the application model and reflecting the state of the model in the view into two distinct phases. The developer is responsible for updating the application model. Angular via bindings, by means of change detection, is responsible for reflecting the state of the model in the view. The framework does it automatically on every VM turn.
