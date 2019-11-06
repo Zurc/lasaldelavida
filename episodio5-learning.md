@@ -9,6 +9,8 @@ Cosas que voy aprendiendo...
 >  NgModules are akin to ES modules: they have declarations, imports, and exports.
 >  
 >  An NgModule is the compilation context of its components, i.e., it tells Angular how these components should be compiled. As with ES, a component can only be declared in one module.
+>  
+>  The bootstrap property defines the components that are instantiated when a module is bootstrapped. First, Angular creates a component factory for each of the bootstrap components. And then, at runtime, it’ll use the factories to instantiate the components.
 
 ### 5 Nov 2019
 
