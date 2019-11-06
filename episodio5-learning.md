@@ -4,6 +4,18 @@ Cosas que voy aprendiendo...
 
 ### 6 Nov 2019
 
+[blog.angularjs - 5 rookie mistakes to avoid with angular](http://blog.angularjs.org/2016/04/5-rookie-mistakes-to-avoid-with-angular.html)
+
+CRUZ - Angular
+
+Today we run into heavy performance issues until we discover there was custom option component taking lots of time to run. This was discovered by using chrome developer tools > performance tab > recording page refresh...
+
+At the bottom, next to the summary (where you see how long it takes for each process to run - scripting, rendering, painting, system and idle) there is a 'Bottom up' tab where you can sort to check how much it take each sub-process to run
+
+There we discovered about this custom options taking so long... 
+
+Reviewing the ts class for that component we discovered there was a ngAfterViewChecked lifecyclehook taking place. 
+
 [angular in depth - understanding enumerations](https://blog.angularindepth.com/understanding-enumerations-f02935d4a66c)
 
 >  Angular: enums
