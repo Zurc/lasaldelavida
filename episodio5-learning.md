@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 ANGULAR NEWS related
 
+[pusher - lifecycle hooks Angular](https://pusher.com/tutorials/lifecycle-hooks-angular)
+
 >  [blog.angular - the angular team angular connect 2019](https://blog.angular.io/the-angular-team-angularconnect-2019-b23be3762ccb)
 >  
 >  [medium.mybridge - search 'angular'](https://medium.mybridge.co/search?q=angular) rank articles for profesionals
