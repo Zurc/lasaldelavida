@@ -11,6 +11,10 @@ Cosas que voy aprendiendo...
 >  An NgModule is the compilation context of its components, i.e., it tells Angular how these components should be compiled. As with ES, a component can only be declared in one module.
 >  
 >  The bootstrap property defines the components that are instantiated when a module is bootstrapped. First, Angular creates a component factory for each of the bootstrap components. And then, at runtime, it’ll use the factories to instantiate the components.
+>  
+>  Angular cannot statically figure out what components can be loaded into the outlet, and, as a result, cannot instantiate them directly. Here we need the extra abstraction, we need the component factories for both TalksCmp and SettingsCmp. We can tell Angular to generate those by listing them as entry components. It is cumbersome to declare every component used by the router in the entry components. Because this is so common, Angular supports a special provider token to automatically pre-populate entryComponents.
+
+
 
 ### 5 Nov 2019
 
