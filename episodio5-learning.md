@@ -4,11 +4,16 @@ Cosas que voy aprendiendo...
 
 ### 6 Nov 2019
 
-ANGULAR TEAM related
+ANGULAR NEWS related
 
 >  [blog.angular - the angular team angular connect 2019](https://blog.angular.io/the-angular-team-angularconnect-2019-b23be3762ccb)
+>  
+>  [medium.mybridge - search 'angular'](https://medium.mybridge.co/search?q=angular) rank articles for profesionals
+>  
+>  
 
-[blog.angularjs - 5 rookie mistakes to avoid with angular](http://blog.angularjs.org/2016/04/5-rookie-mistakes-to-avoid-with-angular.html)
+
+[blog.angularjs - 5 rookie mistakes to avoid with angular](http://blog.angularjs.org/2016/04/5-rookie-mistakes-to-avoid-with-angular.html)  by Kara Erickson
 
 CRUZ - Angular
 
