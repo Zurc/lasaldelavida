@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 6 Nov 2019
+
+[nrwl - essential angular ngmodules](https://blog.nrwl.io/essential-angular-ngmodules-16474ea99713)
+
 ### 5 Nov 2019
 
 [angular in depth - everything you need to know about change detection in angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
