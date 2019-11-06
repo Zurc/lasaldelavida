@@ -12,6 +12,10 @@ ANGULAR NEWS related
 >  
 >  
 
+JAVASCRIPT
+
+[JS plain](https://jsplain.com/javascript/)  // site with tuts, exercises, resources...
+
 
 [blog.angularjs - 5 rookie mistakes to avoid with angular](http://blog.angularjs.org/2016/04/5-rookie-mistakes-to-avoid-with-angular.html)  by Kara Erickson
 
