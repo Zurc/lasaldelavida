@@ -15,6 +15,8 @@ ANGULAR NEWS related
 >  [ngConf talks (youtube playlist)](https://www.youtube.com/watch?v=O0xx5SvjmnU&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
 >  
 >  [medium Ben Lesh (RxJS lead and angular team member)](https://medium.com/@benlesh)
+>  
+>  PEOPLE working on angular [github angular](https://github.com/orgs/angular/people)
 
 JAVASCRIPT
 
