@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [alligator - Angular hostbinding and hostlistener](https://alligator.io/angular/hostbinding-hostlistener/)
 
+[codecraft - hostlistener and hostbinding](https://codecraft.tv/courses/angular/custom-directives/hostlistener-and-hostbinding/)
+
 [nrwl - essential angular ngmodules](https://blog.nrwl.io/essential-angular-ngmodules-16474ea99713)
 
 >  NgModules are akin to ES modules: they have declarations, imports, and exports.
