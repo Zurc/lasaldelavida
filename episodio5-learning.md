@@ -13,6 +13,8 @@ ANGULAR NEWS related
 >  Angular Connect talks and videos [angularconnect.com/talks](https://angularconnect.com/talks)
 >  
 >  [ngConf talks (youtube playlist)](https://www.youtube.com/watch?v=O0xx5SvjmnU&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
+>  
+>  [medium Ben Lesh (RxJS lead and angular team member)](https://medium.com/@benlesh)
 
 JAVASCRIPT
 
