@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [nrwl - essential angular ngmodules](https://blog.nrwl.io/essential-angular-ngmodules-16474ea99713)
 
+>  An NgModule is the compilation context of its components, i.e., it tells Angular how these components should be compiled. As with ES, a component can only be declared in one module.
+
 ### 5 Nov 2019
 
 [angular in depth - everything you need to know about change detection in angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
