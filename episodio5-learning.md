@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 6 Nov 2019
 
+[stackoverflow - ng understanding VM turns and events](https://stackoverflow.com/questions/38783544/angular2-understanding-vm-turns-and-events)
+
 [alligator - Angular hostbinding and hostlistener](https://alligator.io/angular/hostbinding-hostlistener/)
 
 [codecraft - hostlistener and hostbinding](https://codecraft.tv/courses/angular/custom-directives/hostlistener-and-hostbinding/)
