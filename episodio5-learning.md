@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 6 Nov 2019
 
+[jake archibald - tasks microtasks queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+
 [stackoverflow - ng understanding VM turns and events](https://stackoverflow.com/questions/38783544/angular2-understanding-vm-turns-and-events)
 
 [alligator - Angular hostbinding and hostlistener](https://alligator.io/angular/hostbinding-hostlistener/)
