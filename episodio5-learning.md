@@ -11,6 +11,8 @@ ANGULAR NEWS related
 >  [medium.mybridge - search 'angular'](https://medium.mybridge.co/search?q=angular) rank articles for profesionals
 >  
 >  Angular Connect talks and videos [angularconnect.com/talks](https://angularconnect.com/talks)
+>  
+>  [ngConf talks (youtube playlist)](https://www.youtube.com/watch?v=O0xx5SvjmnU&list=PLOETEcp3DkCpimylVKTDe968yNmNIajlR)
 
 JAVASCRIPT
 
