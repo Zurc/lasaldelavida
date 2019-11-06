@@ -41,6 +41,8 @@ SOLUTION: We've changed that lifecycle hook for ngAfterViewInit and everything w
 
 [angular in depth - understanding enumerations](https://blog.angularindepth.com/understanding-enumerations-f02935d4a66c)
 
+[angular university - how does angular 2 change detection really work](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+
 >  Angular: enums
 >  
 >  Imagine you export an enum 'Direction'
