@@ -43,8 +43,13 @@ SOLUTION: We've changed that lifecycle hook for ngAfterViewInit and everything w
 
 [angular university - how does angular 2 change detection really work](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
 
->  Angular: enums
+>  By default, Angular Change Detection works by checking if the value of template expressions have changed. This is done for all components.
 >  
+>  
+
+
+ANGULAR: ENUMS
+  
 >  Imagine you export an enum 'Direction'
 
 ```
