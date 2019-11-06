@@ -49,6 +49,8 @@ SOLUTION: We've changed that lifecycle hook for ngAfterViewInit and everything w
 >  
 >  When using OnPush detectors, then the framework will check an OnPush component when any of its input properties changes, when it fires an event, or when an Observable fires an event
 
+The previous article has good references as well +++
+
 
 ANGULAR: ENUMS
   
