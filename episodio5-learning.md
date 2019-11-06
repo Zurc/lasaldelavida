@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 6 Nov 2019
 
+[thoughtram - ng change detection explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
+
 ANGULAR NEWS related
 
 [pusher - lifecycle hooks Angular](https://pusher.com/tutorials/lifecycle-hooks-angular)
