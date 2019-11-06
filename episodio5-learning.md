@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 6 Nov 2019
 
+[angular in depth - understanding enumerations](https://blog.angularindepth.com/understanding-enumerations-f02935d4a66c)
+
 >  Angular: enums
 >  
 >  Imagine you export an enum 'Direction'
