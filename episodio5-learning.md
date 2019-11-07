@@ -10,6 +10,8 @@ Use text-shadow instead...
 
 [css-tricks - text-shadow](https://css-tricks.com/almanac/properties/t/text-shadow/)
 
+[designhack - fun CSS text-shadows](https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/)
+
 Angular
 
 >  An array in JavaScript is also an object and variables only hold a _reference_ to an object, not the object itself. If you assign an array to another variable both variables have a reference to the same object.
