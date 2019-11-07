@@ -18,7 +18,7 @@ Use text-shadow instead...
 
 Angular
 
->  An array in JavaScript is also an object and variables only hold a _reference_ to an object, not the object itself. If you assign an array to another variable both variables have a reference to the same object.
+>  An array in JavaScript is also an object and **variables only hold a reference to an object, not the object itself**. If you assign an array to another variable both variables have a reference to the same object.
 
 ```
 var myArray = ['a', 'b', 'c'];
