@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 7 Nov 2019
 
+[21 VS code shortcuts to code faster and funnier](https://jsmanifest.com/21-vscode-shortcuts-to-code-faster-and-funner/)
+
 [tympanus codrops - CSS reference: text-shadow](https://tympanus.net/codrops/css_reference/text-shadow/)
 
 CSS - change text to bold push container to right
