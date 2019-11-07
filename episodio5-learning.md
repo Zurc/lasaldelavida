@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 7 Nov 2019
 
+CSS - change text to bold push container to right
+
+Use text-shadow instead...
+
+[css-tricks - text-shadow](https://css-tricks.com/almanac/properties/t/text-shadow/)
+
 Angular
 
 >  An array in JavaScript is also an object and variables only hold a _reference_ to an object, not the object itself. If you assign an array to another variable both variables have a reference to the same object.
