@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 7 Nov 2019
 
+Angular
+
+>  An array in JavaScript is also an object and variables only hold a *reference* to an object, not the object itself. Thus both variables have a reference to the same object.
+
 [positronx - unerstand angular change detection strategy](https://www.positronx.io/understand-angular-change-detection-strategy/)
 
 ### 6 Nov 2019
