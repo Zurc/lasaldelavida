@@ -43,8 +43,7 @@ addItem(item) {
 }
 ```
 
-
-[positronx - unerstand angular change detection strategy](https://www.positronx.io/understand-angular-change-detection-strategy/)
+[positronx - unerstand angular change detection strategy](https://www.positronx.io/understand-angular-change-detection-strategy/) +++
 
 ### 6 Nov 2019
 
