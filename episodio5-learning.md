@@ -25,6 +25,24 @@ var myArray = ['a', 'b', 'c'];
 var copyOfMyArray = myArray;
 ```
 
+If we detach Change Detection in our parent component by using ChangeDetectionStrategy.OnPush, changing an element of that array, i.e.
+
+```
+addItem(item) {
+  this.fruits.push(item);
+}
+```
+
+doesn't change the reference to that array (myArray) that @Input try to read on the child
+
+In that case you need to create a new reference like this
+
+```
+addItem(item) {
+  this.fruits = [...this.fruits, item];
+}
+```
+
 
 [positronx - unerstand angular change detection strategy](https://www.positronx.io/understand-angular-change-detection-strategy/)
 
