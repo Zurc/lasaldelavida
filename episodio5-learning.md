@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 7 Nov 2019
+
+[positronx - unerstand angular change detection strategy](https://www.positronx.io/understand-angular-change-detection-strategy/)
+
 ### 6 Nov 2019
 
 [dzone - angular 6 lifecycle of a component](https://dzone.com/articles/angular-6-part-3-life-cycle-of-a-component)
