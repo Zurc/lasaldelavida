@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 7 Nov 2019
 
+[tympanus codrops - CSS reference: text-shadow](https://tympanus.net/codrops/css_reference/text-shadow/)
+
 CSS - change text to bold push container to right
 
 Use text-shadow instead...
