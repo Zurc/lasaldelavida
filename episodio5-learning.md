@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 CSS - change text to bold push container to right
 
+[CRUZ codepen example](https://codepen.io/CruzWeb/pen/MWWGQwp)
+
 Use text-shadow instead...
 
 [css-tricks - text-shadow](https://css-tricks.com/almanac/properties/t/text-shadow/)
