@@ -18,7 +18,7 @@ Use text-shadow instead...
 
 Angular
 
->  An array in JavaScript is also an object and **variables only hold a reference to an object, not the object itself**. If you assign an array to another variable both variables have a reference to the same object.
+An array in JavaScript is also an object and **variables only hold a reference to an object, not the object itself**. If you assign an array to another variable both variables have a reference to the same object.
 
 ```
 var myArray = ['a', 'b', 'c'];
@@ -42,6 +42,10 @@ addItem(item) {
   this.fruits = [...this.fruits, item];
 }
 ```
+
+refs: 
+
+[CRUZ stackblitz](https://stackblitz.com/edit/ng-changedetectionstrategy-onpush?file=src/app/child/child.component.ts)
 
 [positronx - unerstand angular change detection strategy](https://www.positronx.io/understand-angular-change-detection-strategy/) +++
 
