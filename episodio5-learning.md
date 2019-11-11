@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Nov 2019
 
+[CRUZ - JS question stackoverflow](https://stackoverflow.com/questions/58805367/what-is-more-readable-better-way)
+
 [JS using a condition in switch cases](https://stackoverflow.com/questions/5464362/javascript-using-a-condition-in-switch-case)
 
 ### 7 Nov 2019
