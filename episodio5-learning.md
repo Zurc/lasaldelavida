@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 11 Nov 2019
+
+[JS using a condition in switch cases](https://stackoverflow.com/questions/5464362/javascript-using-a-condition-in-switch-case)
+
 ### 7 Nov 2019
 
 [21 VS code shortcuts to code faster and funnier](https://jsmanifest.com/21-vscode-shortcuts-to-code-faster-and-funner/)
