@@ -6,7 +6,9 @@ Cosas que voy aprendiendo...
 
 Angular - working with lists (performance)
 
-created a loading$ BehaviourSubject and set it to true: `protected loading$ = new BehaviorSubject<boolean>(true);`
+created a loading$ BehaviourSubject and set it to true: 
+
+`protected loading$ = new BehaviorSubject<boolean>(true);`
 
 
 
