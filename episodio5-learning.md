@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 
 [improving angular ngfor performance through trackby](https://medium.com/better-programming/improving-angular-ngfor-performance-through-trackby-ae4cf943b878)
 
-Angular - working with lists (performance)
+Angular - working with lists (performance) preventing re-paint items on every CPU cycle
 
 created a loading$ BehaviourSubject and set it to true: 
 
