@@ -2,6 +2,15 @@
 
 Cosas que voy aprendiendo...
 
+### 12 Nov 2019
+
+Angular - working with lists (performance)
+
+created a loading$ BehaviourSubject and set it to true: `protected loading$ = new BehaviorSubject<boolean>(true);`
+
+
+
+
 ### 11 Nov 2019
 
 [CRUZ - JS question stackoverflow](https://stackoverflow.com/questions/58805367/what-is-more-readable-better-way)
