@@ -10,7 +10,19 @@ created a loading$ BehaviourSubject and set it to true:
 
 `protected loading$ = new BehaviorSubject<boolean>(true);`
 
+OnInit subscribe to that
 
+```
+  ngOnInit() {
+    this.loading$.subscribe(loading => {
+      if (!loading) {
+        this.changeDetectorRef.reattach();
+        setTimeout(() => this.changeDetectorRef.detach());
+      }
+    });
+    ...
+  }
+```
 
 
 ### 11 Nov 2019
