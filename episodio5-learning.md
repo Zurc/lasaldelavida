@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 12 Nov 2019
 
+[MDN - File API - using files from web apps](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
+
 [malcoded - angular file explorer component](https://malcoded.com/posts/angular-file-explorer-component/)
 
 [stop repeating yourself in angular how to create abstract components](https://medium.com/@ozak/stop-repeating-yourself-in-angular-how-to-create-abstract-components-9726d43c99ab)
