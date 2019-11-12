@@ -28,6 +28,16 @@ OnInit subscribe to that
   }
 ```
 
+If I need to extend my list component, then, in order to overwrite the default constructor of the children components I will need to use
+
+```
+constructor(
+  ...
+  changeDetectorRef: ChangeDetectorRef      // remember to import!
+) {
+  super(..., changeDetectorRef)
+}
+```
 
 ### 11 Nov 2019
 
