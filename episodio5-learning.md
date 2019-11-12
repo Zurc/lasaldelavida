@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 12 Nov 2019
 
+[malcoded - angular file explorer component](https://malcoded.com/posts/angular-file-explorer-component/)
+
 [stop repeating yourself in angular how to create abstract components](https://medium.com/@ozak/stop-repeating-yourself-in-angular-how-to-create-abstract-components-9726d43c99ab)
 
 [Net Basal - ng2 improve performance with trackby](https://netbasal.com/angular-2-improve-performance-with-trackby-cc147b5104e5)
