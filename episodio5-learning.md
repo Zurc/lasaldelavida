@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Net Basal - ng2 improve performance with trackby](https://netbasal.com/angular-2-improve-performance-with-trackby-cc147b5104e5)
 
+[improving angular ngfor performance through trackby](https://medium.com/better-programming/improving-angular-ngfor-performance-through-trackby-ae4cf943b878)
+
 Angular - working with lists (performance)
 
 created a loading$ BehaviourSubject and set it to true: 
