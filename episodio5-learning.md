@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [MDN - JS global obj Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
+[geeks for geeks - JS date formats](https://www.geeksforgeeks.org/javascript-date-formats/)
+
 [williamsport web dev - 6 ways to work with dates in JS](http://williamsportwebdeveloper.com/cgi/wp/?p=503)
 
 [codehandbook - JS date format](https://codehandbook.org/javascript-date-format/)
