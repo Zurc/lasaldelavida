@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 13 Nov 2019
 
+[scoth.io - 3 useful typsecript tips for angular](https://scotch.io/tutorials/3-useful-typescript-tips-for-angular)
+
 **JS - DATE and TIME**
 
 [javascript.info - date](https://javascript.info/date)
