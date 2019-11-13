@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [javascript.info - date](https://javascript.info/date)
 
+[williamsport web dev - 6 ways to work with dates in JS](http://williamsportwebdeveloper.com/cgi/wp/?p=503)
+
 ### 12 Nov 2019
 
 [twilio - transfer files data JS apps angular node](https://www.twilio.com/blog/transfer-files-data-javascript-applications-angular-node-js)
