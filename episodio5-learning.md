@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [javascript.info - date](https://javascript.info/date)
 
+[ECMA-262 - Date Time](https://ecma-international.org/ecma-262/10.0/index.html#sec-date-objects)
+
 [MDN - JS global obj Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 [geeks for geeks - JS date formats](https://www.geeksforgeeks.org/javascript-date-formats/)
