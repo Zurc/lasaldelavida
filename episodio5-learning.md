@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Nov 2019
+
+**JS - DATE and TIME**
+
+[javascript.info - date](https://javascript.info/date)
+
 ### 12 Nov 2019
 
 [twilio - transfer files data JS apps angular node](https://www.twilio.com/blog/transfer-files-data-javascript-applications-angular-node-js)
