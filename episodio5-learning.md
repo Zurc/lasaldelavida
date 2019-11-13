@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [williamsport web dev - 6 ways to work with dates in JS](http://williamsportwebdeveloper.com/cgi/wp/?p=503)
 
+[codehandbook - JS date format](https://codehandbook.org/javascript-date-format/)
+
 ### 12 Nov 2019
 
 [twilio - transfer files data JS apps angular node](https://www.twilio.com/blog/transfer-files-data-javascript-applications-angular-node-js)
