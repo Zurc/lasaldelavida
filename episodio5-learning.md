@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [javascript.info - date](https://javascript.info/date)
 
+[MDN - JS global obj Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+
 [williamsport web dev - 6 ways to work with dates in JS](http://williamsportwebdeveloper.com/cgi/wp/?p=503)
 
 ### 12 Nov 2019
