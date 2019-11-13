@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 13 Nov 2019
 
+[stackoverflow - how to structure utility class Angular](https://stackoverflow.com/questions/32790311/how-to-structure-utility-class)
+
 [scoth.io - 3 useful typsecript tips for angular](https://scotch.io/tutorials/3-useful-typescript-tips-for-angular)
 
 **JS - DATE and TIME**
