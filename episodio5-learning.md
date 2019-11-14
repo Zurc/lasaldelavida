@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 14 Nov 2019
 
+[why its important to give your html button a type](https://dev.to/clairecodes/why-its-important-to-give-your-html-button-a-type-58k9)
+
 Visual Studio Code tips: select all ocurrences >  `Ctrl + Shift + L`
 
 Visual Studio Code tips: change terminal tab when multiple > `Alt + Left/Right arrow`
