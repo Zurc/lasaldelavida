@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 Visual Studio Code tips: select all ocurrences >  `Ctrl + Shift + L`
 
+Visual Studio Code tips: change terminal tab when multiple > `Alt + Left/Right arrow`
+
 [diana-adrianne - pure CSS lace](https://diana-adrianne.com/purecss-lace/)
 
 ### 13 Nov 2019
