@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 14 Nov 2019
+
+[diana-adrianne - pure CSS lace](https://diana-adrianne.com/purecss-lace/)
+
 ### 13 Nov 2019
 
 [codeburst - basis of typescript for angular](https://codeburst.io/learn-the-basis-of-typescript-to-start-writing-angular-7c5eebf1ba6)
