@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 14 Nov 2019
 
+Visual Studio Code tips: select all ocurrences
+
+`Ctrl + Shift + L`
+
 [diana-adrianne - pure CSS lace](https://diana-adrianne.com/purecss-lace/)
 
 ### 13 Nov 2019
