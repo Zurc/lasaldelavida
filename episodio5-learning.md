@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 20 Nov 2019
 
+[web Accessibility in Mind (AIM) - contrast (ratio)](https://webaim.org/articles/contrast/)
+
 [dev.to - why its important to give your htl button a type](https://dev.to/clairecodes/why-its-important-to-give-your-html-button-a-type-58k9)
 
 >  MDN advice on button's type: 
