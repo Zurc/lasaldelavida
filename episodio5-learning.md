@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 
 [dev.to - why its important to give your htl button a type](https://dev.to/clairecodes/why-its-important-to-give-your-html-button-a-type-58k9)
 
-current SRT >> `https://contrast-ratio.com/#white-on-%23ffa53b`
+[current SRT white on orange](https://contrast-ratio.com/#white-on-%23ffa53b)
 
 >  MDN advice on button's type: 
 >  
