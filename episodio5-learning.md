@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [dev.to - why its important to give your htl button a type](https://dev.to/clairecodes/why-its-important-to-give-your-html-button-a-type-58k9)
 
+>  MDN advice on button's type: 
+>  
+>  "If your buttons are not for submitting form data to a server, be sure to set their type attribute to button"
+
 ### 19 Nov 2019
 
 [chart.js - inside there's a tooltipFormat option...](https://www.chartjs.org/docs/latest/axes/cartesian/time.html)
