@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 20 Nov 2019
+
+[dev.to - why its important to give your htl button a type](https://dev.to/clairecodes/why-its-important-to-give-your-html-button-a-type-58k9)
+
 ### 19 Nov 2019
 
 [chart.js - inside there's a tooltipFormat option...](https://www.chartjs.org/docs/latest/axes/cartesian/time.html)
