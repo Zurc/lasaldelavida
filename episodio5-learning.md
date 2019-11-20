@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [web Accessibility in Mind (AIM) - contrast (ratio)](https://webaim.org/articles/contrast/)
 
+[w3 WCAG - contrast minimum](https://www.w3.org/TR/WCAG/#contrast-minimum)
+
 [dev.to - why its important to give your htl button a type](https://dev.to/clairecodes/why-its-important-to-give-your-html-button-a-type-58k9)
 
 >  MDN advice on button's type: 
