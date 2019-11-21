@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Nov 2019
 
+[39 ridiculous things to do with CSS3 box-shadows](https://www.viget.com/articles/39-ridiculous-things-to-do-with-css3-box-shadows/)
+
 [16 box-shadows to save your time](http://cssdeck.com/labs/16-box-shadows-to-save-your-time)
 
 [css-tricks - box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/)
