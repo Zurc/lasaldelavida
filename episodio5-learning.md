@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 21 Nov 2019
 
-[teaching - JS curso basico](https://deuk.io/curso/curso-de-javascript-basico)
+[teaching - JS curso basico](https://deuk.io/curso/curso-de-javascript-basico) // tienen curso de java tb ;)
 
 [thoughtram - understanding zones](https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
 
