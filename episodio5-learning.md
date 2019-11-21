@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [thoughtram - understanding zones](https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
 
+[thougtram - zones in angular 2](https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html)
+
 [39 ridiculous things to do with CSS3 box-shadows](https://www.viget.com/articles/39-ridiculous-things-to-do-with-css3-box-shadows/)
 
 [16 box-shadows to save your time](http://cssdeck.com/labs/16-box-shadows-to-save-your-time)
