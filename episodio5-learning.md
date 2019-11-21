@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Nov 2019
 
+[css-tricks - box-shadow](https://css-tricks.com/almanac/properties/b/box-shadow/)
+
 [graphics in angular (SVG and Canvas)](https://teropa.info/blog/2016/12/12/graphics-in-angular-2.html)
 
 ### 20 Nov 2019
