@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Nov 2019
+
+[thoughtram - angular 2 change detection explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
+
 ### 21 Nov 2019
 
 [teaching - JS curso basico](https://deuk.io/curso/curso-de-javascript-basico) // tienen curso de java tb ;)
