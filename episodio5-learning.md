@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [thoughtram - angular 2 change detection explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
 
+>  each component in angular has its own change detector
+
 ### 21 Nov 2019
 
 [teaching - JS curso basico](https://deuk.io/curso/curso-de-javascript-basico) // tienen curso de java tb ;)
