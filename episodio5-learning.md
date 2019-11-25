@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [sass - interpolation](https://sass-lang.com/documentation/interpolation)
 
+[malcoded - why angular does not work](https://malcoded.com/posts/why-angular-not-works/)
+
 ### 22 Nov 2019
 
 [thoughtram - angular 2 change detection explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
