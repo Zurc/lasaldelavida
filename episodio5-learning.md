@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Nov 2019
+
+[sass - interpolation](https://sass-lang.com/documentation/interpolation)
+
 ### 22 Nov 2019
 
 [thoughtram - angular 2 change detection explained](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
