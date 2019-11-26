@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 >  All components in Angular internally are represented in a data structure known as the view. Angular’s compiler parses a template and creates the bindings. Each binding defines a property of a DOM element to update and the expression used to obtain the value. The previous values used for comparison during change detection are stored on a view in the `oldValues` property. During change detection Angular runs over the bindings, evaluates expressions, compares them to the previous values and updates the DOM if necessary. After each change detection cycle, Angular runs a check to ensure the component state is in sync with user interface. This check is performed synchronously and may throw the `ExpressionChangedAfterItWasChecked` error.
 
+[blog ninja squad - angular performances part 4](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)
+
 ### 25 Nov 2019
 
 [sass - interpolation](https://sass-lang.com/documentation/interpolation)
