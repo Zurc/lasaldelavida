@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [shalowmworld org](https://shalomworld.org/)
 
+[shalomworld - garabandal only god knows](https://shalomworld.org/episode/garabandal-only-god-knows)
+
 [A Harvard Professor's Conversion to Catholicism | Roy Schoeman | Jesus, My Savior](https://www.youtube.com/watch?v=EWDevlijGUI)
 
 [juristr - learning ng2 dynamic styles](https://juristr.com/blog/2016/01/learning-ng2-dynamic-styles/)
