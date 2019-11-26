@@ -4,7 +4,11 @@ Cosas que voy aprendiendo...
 
 ### 26 Nov 2019
 
+JS - Event loop
+
 [Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0&t=1s)
+
+`requestAnimationFrame` comes before comes before processing CSS and comes before painting
 
 >  ANGULAR: debugging
 >  
