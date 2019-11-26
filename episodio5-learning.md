@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 26 Nov 2019
 
+>  ANGULAR: debugging
+>  
+>  If some method is not being called, then check on Chrome Developer tools with a debugger in place > get on that method by using the 'step over next function call' button >> and then use the 'step **into** next function call to see what happens
+>  
+>  today I was struggling with similar situation, and at the end, by using the 'step INTO...' I realized there was an overridable method called on the child component class and not on the parent...
+
 >  All components in Angular internally are represented in a data structure known as the view. Angular’s compiler parses a template and creates the bindings. Each binding defines a property of a DOM element to update and the expression used to obtain the value. The previous values used for comparison during change detection are stored on a view in the `oldValues` property. During change detection Angular runs over the bindings, evaluates expressions, compares them to the previous values and updates the DOM if necessary. After each change detection cycle, Angular runs a check to ensure the component state is in sync with user interface. This check is performed synchronously and may throw the `ExpressionChangedAfterItWasChecked` error.
 
 ### 25 Nov 2019
