@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 26 Nov 2019
 
+[A Harvard Professor's Conversion to Catholicism | Roy Schoeman | Jesus, My Savior](https://www.youtube.com/watch?v=EWDevlijGUI)
+
 [juristr - learning ng2 dynamic styles](https://juristr.com/blog/2016/01/learning-ng2-dynamic-styles/)
 
 JS - Event loop
