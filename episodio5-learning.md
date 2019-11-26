@@ -10,6 +10,8 @@ JS - Event loop
 
 `requestAnimationFrame` comes before comes before processing CSS and comes before painting
 
+[MDN - JS requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+
 >  ANGULAR: debugging
 >  
 >  If some method is not being called, then check on Chrome Developer tools with a debugger in place > get on that method by using the 'step over next function call' button >> and then use the 'step **into** next function call to see what happens
