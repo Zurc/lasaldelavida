@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 26 Nov 2019
 
+[Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0&t=1s)
+
 >  ANGULAR: debugging
 >  
 >  If some method is not being called, then check on Chrome Developer tools with a debugger in place > get on that method by using the 'step over next function call' button >> and then use the 'step **into** next function call to see what happens
