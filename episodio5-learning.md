@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 26 Nov 2019
 
+[juristr - learning ng2 dynamic styles](https://juristr.com/blog/2016/01/learning-ng2-dynamic-styles/)
+
 JS - Event loop
 
 [Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0&t=1s)
