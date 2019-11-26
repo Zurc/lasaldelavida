@@ -12,6 +12,8 @@ JS - Event loop
 
 [MDN - JS requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 
+[CSS-tricks - using requestAnimationFrame](https://css-tricks.com/using-requestanimationframe/)
+
 >  ANGULAR: debugging
 >  
 >  If some method is not being called, then check on Chrome Developer tools with a debugger in place > get on that method by using the 'step over next function call' button >> and then use the 'step **into** next function call to see what happens
