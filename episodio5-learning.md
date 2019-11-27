@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Nov 2019
+
+[CRUZ - CSS Flexbox gap buttons (codepen)](https://codepen.io/CruzWeb/pen/BaaXyPV)
+
 ### 26 Nov 2019
 
 [shalowmworld org](https://shalomworld.org/)
