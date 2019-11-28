@@ -39,13 +39,8 @@ So the solution was to create a specific file (I've named it overrides.scss) whe
 ```scss
 app-alert-definition-form {
   .adp-other {
-
-    .range-rule {
-      .gf-editable {
-        gvf-checkbox-tag {
-          flex: 1;
-        }
-      }
+    gvf-checkbox-tag {
+      flex: 1;
     }
   }
 }
