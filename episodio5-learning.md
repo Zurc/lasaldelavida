@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 28 Nov 2019
 
-[test stackblitz](https://stackblitz.com/edit/angular-kqhu8n-list-box?embed=1&file=src/app/app.component.ts)
+https://stackblitz.com/edit/angular-kqhu8n-list-box?embed=1&file=src/app/app.component.ts
 
 ANGULAR - overriding child's component styles
 
