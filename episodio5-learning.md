@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Nov 2019
 
+[test stackblitz](https://stackblitz.com/edit/angular-kqhu8n-list-box?embed=1&file=src/app/app.component.ts)
+
 ANGULAR - overriding child's component styles
 
 Today I was trying to change style of a child component from a parent component but it was not accepting my changes... ;) specifically it was not accepting my changes (`flex: 1`) for the gvf-checkbox-tag (child component)
