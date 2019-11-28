@@ -8,20 +8,20 @@ ANGULAR - overriding child's component styles
 
 Today I was trying to change style of a child component from a parent component but it was not accepting my changes... ;)
 
-```css
-    .adp-other {
+```scss
+.adp-other {
+  display: flex;
+  flex-direction: column;
+  ...
+  .range-rule {
+    .gf-editable {
       display: flex;
-      flex-direction: column;
-      ...
-      .range-rule {
-        .gf-editable {
-          display: flex;
-          gvf-checkbox-tag {
-            flex: 1;
-          }
-        }
+      gvf-checkbox-tag {
+        flex: 1;
       }
     }
+  }
+}
 ```
 
 I didn't wanted to change my child styles because that component it's used in other places on the app and it woulded break the layout there
