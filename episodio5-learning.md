@@ -8,7 +8,7 @@ ANGULAR - overriding child's component styles
 
 Today I was trying to change style of a child component from a parent component but it was not accepting my changes... ;)
 
-```
+```css
     .adp-other {
       display: flex;
       flex-direction: column;
