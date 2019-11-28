@@ -34,7 +34,7 @@ element.style {
 
 I didn't wanted to change my child styles because that component it's used in other places on the app and it woulded break the layout there
 
-So the solution was to create a specific file (I've named it overrides.scss) where the selector was the parent component tag name and within that CSS selector block just the minimal selectors to make my changes possible
+So the solution was to create a specific file (I've named it overrides.scss) where the selector was the parent component tag name and within that CSS selector block just the minimal selectors to make my changes possible. In my case I had to include the `adp-other` class because the child component `gvf-checkbox-tag` was used elsewhere on the same parent component (app-alert-definition-form)
 
 ```scss
 app-alert-definition-form {
