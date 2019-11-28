@@ -46,6 +46,8 @@ app-alert-definition-form {
 }
 ```
 
+related links:
+
 [cory dylan - CSS encapsulation with angular components](https://coryrylan.com/blog/css-encapsulation-with-angular-components)
 
 ### 27 Nov 2019
