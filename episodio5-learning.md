@@ -36,6 +36,21 @@ I didn't wanted to change my child styles because that component it's used in ot
 
 So the solution was to create a specific file (I've named it overrides.scss) where the selector was the parent component tag name and within that CSS selector block just the minimal selectors to make my changes possible
 
+```scss
+app-alert-definition-form {
+  .adp-other {
+
+    .range-rule {
+      .gf-editable {
+        gvf-checkbox-tag {
+          flex: 1;
+        }
+      }
+    }
+  }
+}
+```
+
 [cory dylan - CSS encapsulation with angular components](https://coryrylan.com/blog/css-encapsulation-with-angular-components)
 
 ### 27 Nov 2019
