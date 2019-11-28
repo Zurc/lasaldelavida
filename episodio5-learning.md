@@ -50,6 +50,8 @@ related links:
 
 [cory dylan - CSS encapsulation with angular components](https://coryrylan.com/blog/css-encapsulation-with-angular-components)
 
+[angular-university - angular host context](https://blog.angular-university.io/angular-host-context/)
+
 ### 27 Nov 2019
 
 [CRUZ - CSS Flexbox gap buttons (codepen)](https://codepen.io/CruzWeb/pen/BaaXyPV)
