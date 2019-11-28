@@ -56,6 +56,8 @@ related links:
 
 [ben nadel - CSS specificity and shadow DOM overrides in angular2](https://www.bennadel.com/blog/3204-solved-css-specificity-and-shadow-dom-overrides-in-angular-2-4-1.htm)  // it's old but maybe it's worth to read
 
+[stackoverflow - exten override style of reusable ng2 component](https://stackoverflow.com/questions/37568173/extend-override-style-of-reusable-angular2-component)
+
 ### 27 Nov 2019
 
 [CRUZ - CSS Flexbox gap buttons (codepen)](https://codepen.io/CruzWeb/pen/BaaXyPV)
