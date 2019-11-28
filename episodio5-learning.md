@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 ANGULAR - overriding child's component styles
 
-Today I was trying to change style of a child component from a parent component but it was not accepting my changes... ;) specifically it was not accepting my changes for the gvf-checkbox-tag (child component)
+Today I was trying to change style of a child component from a parent component but it was not accepting my changes... ;) specifically it was not accepting my changes (`flex: 1`) for the gvf-checkbox-tag (child component)
 
 ```scss
 .adp-other {
