@@ -4,6 +4,30 @@ Cosas que voy aprendiendo...
 
 ### 28 Nov 2019
 
+ANGULAR - overriding child's component styles
+
+Today I was trying to change style of a child component from a parent component but it was not accepting my changes... ;)
+
+```
+    .adp-other {
+      display: flex;
+      flex-direction: column;
+      ...
+      .range-rule {
+        .gf-editable {
+          display: flex;
+          gvf-checkbox-tag {
+            flex: 1;
+          }
+        }
+      }
+    }
+```
+
+I didn't wanted to change my child styles because that component it's used in other places on the app and it woulded break the layout there
+
+So the solution was to create a specific file (I've named it overrides.scss) where the selector was the parent component tag name and within that CSS selector block just the minimal selectors to make my changes possible
+
 [cory dylan - CSS encapsulation with angular components](https://coryrylan.com/blog/css-encapsulation-with-angular-components)
 
 ### 27 Nov 2019
