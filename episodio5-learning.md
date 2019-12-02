@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 2 Dec 2019
+
+[strongbrew - RXJS how share() can reduce network requests](https://blog.strongbrew.io/how-share()-can-reduce-network-requests/)
+
 ### 28 Nov 2019
 
 ANGULAR - overriding child's component styles
