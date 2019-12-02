@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 2 Dec 2019
 
+>  Banana: benefits...
+>  
+>  [cura tus heridas con la magica cascara de platano](http://www.gente.com.bo/salud/20171024/cura-tus-heridas-con-la-magica-cascara-de-platano)
+
 [software architekt - sticky routes in angular 2+](https://www.softwarearchitekt.at/aktuelles/sticky-routes-in-angular-2-3/)
 
 [strongbrew - RXJS how share() can reduce network requests](https://blog.strongbrew.io/how-share()-can-reduce-network-requests/)
