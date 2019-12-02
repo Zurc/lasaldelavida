@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 2 Dec 2019
 
+[software architekt - sticky routes in angular 2+](https://www.softwarearchitekt.at/aktuelles/sticky-routes-in-angular-2-3/)
+
 [strongbrew - RXJS how share() can reduce network requests](https://blog.strongbrew.io/how-share()-can-reduce-network-requests/)
 
 ### 28 Nov 2019
