@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 2 Dec 2019
 
+[geelsfprgeels - Object.entries JS](https://www.geeksforgeeks.org/object-entries-javascript/)
+
 >  Banana: benefits...
 >  
 >  [cura tus heridas con la magica cascara de platano](http://www.gente.com.bo/salud/20171024/cura-tus-heridas-con-la-magica-cascara-de-platano)
