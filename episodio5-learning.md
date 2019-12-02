@@ -7,6 +7,8 @@ Cosas que voy aprendiendo...
 >  Banana: benefits...
 >  
 >  [cura tus heridas con la magica cascara de platano](http://www.gente.com.bo/salud/20171024/cura-tus-heridas-con-la-magica-cascara-de-platano)
+>  
+>  [descubre 9 usos medicinales de la cascara de platano](https://ecoosfera.com/2016/09/descubre-9-usos-medicinales-de-la-cascara-de-platano/)
 
 [software architekt - sticky routes in angular 2+](https://www.softwarearchitekt.at/aktuelles/sticky-routes-in-angular-2-3/)
 
