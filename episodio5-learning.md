@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 3 Dec 2019
 
+FORMS - validation, buttons, etc...
+
+[ux.stackexchange - form validation and disabled buttons](https://ux.stackexchange.com/questions/76301/form-validation-and-disabled-buttons)
+
+[blog.usejournal - angular techniques improve submit buttons UX by not disabling it](https://blog.usejournal.com/angular-techniques-improve-submit-buttons-ux-by-not-disabling-it-896992a94a38)
+
 [thoughtram - taking advantage of observables in angular](https://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)
 
 [CRUZ stackblitz - wikipedia search as promise ](https://stackblitz.com/edit/angular-wikipedia-search-as-promise)
