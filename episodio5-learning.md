@@ -10,6 +10,8 @@ FORMS - validation, buttons, etc...
 
 [blog.usejournal - angular techniques improve submit buttons UX by not disabling it](https://blog.usejournal.com/angular-techniques-improve-submit-buttons-ux-by-not-disabling-it-896992a94a38)
 
+[uxmovement - why you shouldn't gray out disabled buttons](https://uxmovement.com/buttons/why-you-shouldnt-gray-out-disabled-buttons/)
+
 [thoughtram - taking advantage of observables in angular](https://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)
 
 [CRUZ stackblitz - wikipedia search as promise ](https://stackblitz.com/edit/angular-wikipedia-search-as-promise)
