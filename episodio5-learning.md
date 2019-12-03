@@ -10,6 +10,8 @@ angular forms - diff btwn template and reactive/model driven forms
 
 [stackchief - tmpl vs reactive forms](https://www.stackchief.com/tutorials/Angular%20Form%20Examples:%20Template%20Driven%20vs%20Reactive%20Forms)
 
+[pluralsight blog - difference between template and reactive driven forms in angular](https://www.pluralsight.com/guides/difference-between-template-driven-and-reactive-forms-angular)
+
 ### 2 Dec 2019
 
 [geelsfprgeels - Object.entries JS](https://www.geeksforgeeks.org/object-entries-javascript/)
