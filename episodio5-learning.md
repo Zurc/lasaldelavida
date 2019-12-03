@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [thoughtram - taking advantage of observables in angular](https://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)
 
+[CRUZ stackblitz - wikipedia search as promise ](https://stackblitz.com/edit/angular-wikipedia-search-as-promise)
+
 [itnext - don't clone backend models in angular](https://itnext.io/dont-clone-back-end-models-in-angular-f7a749bdc1b0)
 
 angular forms - diff btwn template and reactive/model driven forms
