@@ -12,6 +12,12 @@ angular forms - diff btwn template and reactive/model driven forms
 
 [pluralsight blog - difference between template and reactive driven forms in angular](https://www.pluralsight.com/guides/difference-between-template-driven-and-reactive-forms-angular)
 
+[malcoded - angular reactive form validation](https://malcoded.com/posts/angular-reactive-form-validation/)
+
+[codecraft: model/reactive driven forms](https://codecraft.tv/courses/angular/forms/model-driven/)
+
+[codecraft: template driven forms](https://codecraft.tv/courses/angular/forms/template-driven/)
+
 ### 2 Dec 2019
 
 [geelsfprgeels - Object.entries JS](https://www.geeksforgeeks.org/object-entries-javascript/)
