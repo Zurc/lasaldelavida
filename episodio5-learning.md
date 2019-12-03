@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 3 Dec 2019
+
+[itnext - don't clone backend models in angular](https://itnext.io/dont-clone-back-end-models-in-angular-f7a749bdc1b0)
+
 ### 2 Dec 2019
 
 [geelsfprgeels - Object.entries JS](https://www.geeksforgeeks.org/object-entries-javascript/)
