@@ -16,6 +16,8 @@ FORMS - validation, buttons, etc...
 
 [nngroup - errors forms design guidelines](https://www.nngroup.com/articles/errors-forms-design-guidelines/)
 
+[ux.stackexchange - should form continue button be disabled if validation is incomplete](https://ux.stackexchange.com/questions/73728/should-form-continue-button-be-disabled-if-validation-is-incomplete/73731)
+
 [thoughtram - taking advantage of observables in angular](https://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)
 
 [CRUZ stackblitz - wikipedia search as promise ](https://stackblitz.com/edit/angular-wikipedia-search-as-promise)
