@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 3 Dec 2019
 
+[angular2 component reuse strategy](https://medium.com/@juliapassynkova/angular-2-component-reuse-strategy-9f3ddfab23f5)
+
 FORMS - validation, buttons, etc...
 
 [ux.stackexchange - form validation and disabled buttons](https://ux.stackexchange.com/questions/76301/form-validation-and-disabled-buttons)
