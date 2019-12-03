@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [itnext - don't clone backend models in angular](https://itnext.io/dont-clone-back-end-models-in-angular-f7a749bdc1b0)
 
+angular forms - diff btwn template and reactive/model driven forms
+
+[stackchief - tmpl vs reactive forms](https://www.stackchief.com/tutorials/Angular%20Form%20Examples:%20Template%20Driven%20vs%20Reactive%20Forms)
+
 ### 2 Dec 2019
 
 [geelsfprgeels - Object.entries JS](https://www.geeksforgeeks.org/object-entries-javascript/)
