@@ -2,6 +2,25 @@
 
 Cosas que voy aprendiendo...
 
+### 4 Dec 2019
+
+Angular (JS) stuff
+
+>  If a function get's called a few times because of lifecycle hooks or similar situation => add an extra boolean param (eg shouldSetChild) defaulted to true
+
+```
+getSomething(param1, shouldSetChild = true) {
+  ...
+  if (shouldSetChild) {
+    this.setChild();
+  }
+  ...
+}
+```
+
+then call the function passing false (on the second param) wherever you need, in order to call `this.setChild` only once...
+
+
 ### 3 Dec 2019
 
 [angular2 component reuse strategy](https://medium.com/@juliapassynkova/angular-2-component-reuse-strategy-9f3ddfab23f5)
