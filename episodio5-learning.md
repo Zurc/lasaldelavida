@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Dec 2019
 
+angular - [how to implement conditional custom validation](https://medium.com/front-end-weekly/angular-how-to-implement-conditional-custom-validation-1ec14b0feb45)
+
 angular - [difference btwn valid and invalid form](https://itnext.io/valid-and-invalid-in-angular-forms-61cfa3f2a0cd)
 
 [Guru99 tuts - example of basic Java](https://www.guru99.com/pdf/Java_preview.pdf)
