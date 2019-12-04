@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Dec 2019
 
+[scotch.io - how to implement a custom validator directive confirm password ng2](https://scotch.io/tutorials/how-to-implement-a-custom-validator-directive-confirm-password-in-angular-2)
+
 [thoughtram - custom validators in angular](https://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html)
 
 angular - [how to implement conditional custom validation](https://medium.com/front-end-weekly/angular-how-to-implement-conditional-custom-validation-1ec14b0feb45)
