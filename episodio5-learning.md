@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Dec 2019
 
+[weblog - ng sync and async validators for template validation](https://weblog.west-wind.com/posts/2019/Nov/18/Creating-Angular-Synchronous-and-Asynchronous-Validators-for-Template-Validation)
+
 [auth0 - real world angular series: reactive forms and custom validation](https://auth0.com/blog/real-world-angular-series-part-6/)
 
 [scotch.io - how to implement a custom validator directive confirm password ng2](https://scotch.io/tutorials/how-to-implement-a-custom-validator-directive-confirm-password-in-angular-2)
