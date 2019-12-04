@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Dec 2019
 
+[Guru99 tuts - example of basic Java](https://www.guru99.com/pdf/Java_preview.pdf)
+
 Angular (JS) stuff
 
 >  If a function get's called a few times because of lifecycle hooks or similar situation => add an extra boolean param (eg shouldSetChild) defaulted to true
