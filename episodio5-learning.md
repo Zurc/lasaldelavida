@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Dec 2019
 
+angular - [difference btwn valid and invalid form](https://itnext.io/valid-and-invalid-in-angular-forms-61cfa3f2a0cd)
+
 [Guru99 tuts - example of basic Java](https://www.guru99.com/pdf/Java_preview.pdf)
 
 [guru99 - java tut](https://www.guru99.com/java-tutorial.html)
