@@ -8,7 +8,11 @@ Cosas que voy aprendiendo...
 
 >  "The only way to go fast is to go well" 
 
->  
+paradigms:
+
+>  structured programming: imposes discipline in direct transfer of control (if/else/while...)
+
+>  object-oriented programming: imposes discipline on indirect transfer of control
 
 ### 4 Dec 2019
 
