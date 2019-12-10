@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Dec 2019
 
+[Typescript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+
 Visual Studio Code - fold blocks of code, depending on the level
 
 Fold All: `Ctrl + K + 0`
