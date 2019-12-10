@@ -8,11 +8,15 @@ Cosas que voy aprendiendo...
 
 >  "The only way to go fast is to go well" 
 
-paradigms:
+Paradigms:
 
->  structured programming: imposes discipline in direct transfer of control (if/else/while...)
+>  Structured programming: imposes discipline in direct transfer of control (if/else/while...)
 
->  object-oriented programming: imposes discipline on indirect transfer of control
+>  Object-oriented programming: imposes discipline on indirect transfer of control
+
+>  Functional programming: imposes discipline upon assignment (immutability)
+
+
 
 ### 4 Dec 2019
 
