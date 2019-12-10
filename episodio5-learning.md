@@ -18,6 +18,8 @@ Paradigms:
 
 3 big concerns of achitecture: function, separation of concerns and data management.
 
+All programs can be constructed from from just 3 structures: sequence, selection and iteration.
+
 ### 4 Dec 2019
 
 [weblog - ng sync and async validators for template validation](https://weblog.west-wind.com/posts/2019/Nov/18/Creating-Angular-Synchronous-and-Asynchronous-Validators-for-Template-Validation)
