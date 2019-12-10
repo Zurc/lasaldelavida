@@ -12,11 +12,11 @@ Paradigms:
 
 >  Structured programming: imposes discipline in direct transfer of control (if/else/while...)
 
->  Object-oriented programming: imposes discipline on indirect transfer of control
+>  Object-oriented programming: imposes discipline on indirect transfer of control (polymorphism)
 
->  Functional programming: imposes discipline upon assignment (immutability)
+>  Functional programming: imposes discipline upon assignment (immutability, location and access of data)
 
-
+3 big concerns of achitecture: function, separation of concerns and data management.
 
 ### 4 Dec 2019
 
