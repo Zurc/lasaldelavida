@@ -4,6 +4,14 @@ Cosas que voy aprendiendo...
 
 ### 10 Dec 2019
 
+Visual Studio Code - fold blocks of code, depending on the level
+
+Fold All: `Ctrl + 0`
+
+Fold Level 1: `Ctrl + 1`
+
+Fold Level 2: `Ctrl + 2`    // This is methods level on typescript on my computer
+
 [Clean Architecture (CA) by Robert Martin (uncle Bob)](https://pdfs.semanticscholar.org/4e0e/958168e6390a26493e2ba599f454de1dfdc2.pdf)
 
 >  "The only way to go fast is to go well" 
