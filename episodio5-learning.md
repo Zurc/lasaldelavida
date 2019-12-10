@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Dec 2019
+
+[Clean Architecture (CA) by Robert Martin (uncle Bob)](https://pdfs.semanticscholar.org/4e0e/958168e6390a26493e2ba599f454de1dfdc2.pdf)
+
+>  "The only way to go fast is to go well" 
+
+>  
+
 ### 4 Dec 2019
 
 [weblog - ng sync and async validators for template validation](https://weblog.west-wind.com/posts/2019/Nov/18/Creating-Angular-Synchronous-and-Asynchronous-Validators-for-Template-Validation)
