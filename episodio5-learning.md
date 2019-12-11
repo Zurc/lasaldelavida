@@ -8,6 +8,9 @@ Another way to see the same RxJS
 
 [angularfirebase - rxjs quickstart with 20 examples](https://angularfirebase.com/lessons/rxjs-quickstart-with-20-examples/)
 
+Subject is just an Observable with the ability to call next() on itself to emit new values - in other words, it is an event emitter.
+
+
 [malcoded - rxjs for angular devs](https://malcoded.com/posts/rxjs-for-angular-devs/)
 
 **The Observer pattern.** (the pattern RxJS follows)
