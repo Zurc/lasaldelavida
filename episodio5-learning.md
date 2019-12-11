@@ -104,6 +104,48 @@ there we have the property `tooltipTemplateDirectiveInstances` that we are using
 
 we have a method `getTooltipTemplateForColumn` where we get a matching template for a column we pass as a param
 
+In the generic list-header component we check if there is an specific template for a column
+
+```ts
+<span *ngIf="shouldShowFilter" class="filter-box">
+    <!-- Named Filter -->
+    <span *ngIf="list.currentFilter.name" [ngbTooltip]="tooltip" placement="bottom-left">{{ list.currentFilter.name }}</span>
+    <!-- Unnamed Filter -->
+    <ng-container *ngIf="!list.currentFilter.name">
+      <!-- Custom override exists -->
+      <ng-container *ngIf="filterTemplateConfig.getValueTemplateForColumn(unnamedFilterColumnName())">
+        <em
+          *ngIf="!list.currentFilter.name"
+          [ngbTooltip]="tooltip"
+          placement="bottom-left"
+        >
+          {{ createTempFilterName(false, true) }}
+          <ng-container
+            *ngTemplateOutlet="
+              filterTemplateConfig.getValueTemplateForColumn(unnamedFilterColumnName());
+              context: { $implicit: { value: createTempFilterName(true, false) } }
+            "
+          ></ng-container>
+          <span *ngIf="multipleFilters">...</span>
+        </em>
+      </ng-container>
+      <!-- No custom override -->
+      <ng-container *ngIf="!filterTemplateConfig.getValueTemplateForColumn(unnamedFilterColumnName())">
+        <em *ngIf="!list.currentFilter.name" [ngbTooltip]="tooltip" placement="bottom-left">
+          {{ tempFilterName }} <span *ngIf="multipleFilters">...</span></em
+        >
+      </ng-container>
+    </ng-container>
+    <button
+      type="button"
+      class="btn btn-sm btn-image x-button"
+      appSymbol="cancel"
+      (click)="cancelFilter()"
+      ngbTooltip="Cancel Filter"
+    ></button>
+  </span>
+```
+
 On our specific list component we add our custom template
 
 ```ts
