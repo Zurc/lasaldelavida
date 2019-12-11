@@ -4,6 +4,20 @@ Cosas que voy aprendiendo...
 
 ### 11 Dec 2019
 
+[malcoded - rxjs for angular devs](https://malcoded.com/posts/rxjs-for-angular-devs/)
+
+**The Observer pattern.** (the pattern RxJS follows)
+
+Example: 
+
+Subject: the TV station, in charge of emitting the signal (data). Une subject can have multiple subscribers
+
+Observers: any TV connected to the station (subscribed to the subject), they don't emit anything
+
+It is the responsibility of the subject, to publish new data to the clients. Observers can not send any data back. They also don’t know about possible other subscribers.
+
+
+
 [ng-boostrap github io page, samples, code...](https://ng-bootstrap.github.io/)
 
 ANGULAR: directives within templates
