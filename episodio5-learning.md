@@ -104,6 +104,15 @@ there we have the property `tooltipTemplateDirectiveInstances` that we are using
 
 we have a method `getTooltipTemplateForColumn` where we get a matching template for a column we pass as a param
 
+On our specific list component we add our custom template
+
+```ts
+ <!-- Custom tooltips filter criterion display for Assignees column -->
+  <ng-template appTooltipTemplate columnName="Assignees" let-searchValue>
+    {{ searchValue.columnName }} {{ searchValue.comparisonType | lowercase }} <span [innerHTML]="[searchValue.value] | listPresentationGroups | async | safeHtml"></span>
+  </ng-template>
+```
+
 
 
 [que hacer cuando chorrea la nariz... (taringa)](https://www.taringa.net/+info/te-chorrea-la-nariz-santo-remedio_xb0zp)
