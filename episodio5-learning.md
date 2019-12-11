@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Dec 2019
 
+[angulartraining blog - rxjs subjects](https://blog.angulartraining.com/rxjs-subjects-a-tutorial-4dcce0e9637f)
+
 Another way to see the same RxJS
 
 [angularfirebase - rxjs quickstart with 20 examples](https://angularfirebase.com/lessons/rxjs-quickstart-with-20-examples/)
