@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Dec 2019
 
+[angulartraining blog - 5 rxjs angular pitfalls to be aware](https://blog.angulartraining.com/5-rxjs-angular-pitfalls-to-be-aware-of-160adfd402d8)  // ngConf about switchMap operator included!
+
 [angulartraining blog - rxjs subjects](https://blog.angulartraining.com/rxjs-subjects-a-tutorial-4dcce0e9637f)
 
 Another way to see the same RxJS
