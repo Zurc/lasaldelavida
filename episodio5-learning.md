@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 11 Dec 2019
 
+Another way to see the same RxJS
+
+[angularfirebase - rxjs quickstart with 20 examples](https://angularfirebase.com/lessons/rxjs-quickstart-with-20-examples/)
+
 [malcoded - rxjs for angular devs](https://malcoded.com/posts/rxjs-for-angular-devs/)
 
 **The Observer pattern.** (the pattern RxJS follows)
