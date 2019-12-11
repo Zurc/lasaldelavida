@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 11 Dec 2019
+
+[stackoverflow - HTML inside ngbtooltip](https://stackoverflow.com/questions/44275473/html-table-inside-ngbtooltip)
+
 ### 10 Dec 2019
 
 [Typescript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
