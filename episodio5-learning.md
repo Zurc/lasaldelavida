@@ -100,6 +100,11 @@ export class FilterTemplateConfig {
 
 ```
 
+there we have the property `tooltipTemplateDirectiveInstances` that we are using in our directive
+
+we have a method `getTooltipTemplateForColumn` where we pass the column as a param
+
+
 
 [que hacer cuando chorrea la nariz... (taringa)](https://www.taringa.net/+info/te-chorrea-la-nariz-santo-remedio_xb0zp)
 
