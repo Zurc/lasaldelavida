@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 
 Example: 
 
-Subject: the TV station, in charge of emitting the signal (data). Une subject can have multiple subscribers
+*Subject*: the TV station, in charge of emitting the signal (data). Une subject can have multiple subscribers
 
 Observers: any TV connected to the station (subscribed to the subject), they don't emit anything
 
