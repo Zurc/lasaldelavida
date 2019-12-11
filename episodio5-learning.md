@@ -16,7 +16,9 @@ Observers: any TV connected to the station (subscribed to the subject), they don
 
 It is the responsibility of the subject, to publish new data to the clients. Observers can not send any data back. They also don’t know about possible other subscribers.
 
+Hot observables are just like the TV station from our example. They always broadcast. It doesn't matter if there is actually a TV somewhere, that receives the signal.
 
+Cold observables, on the other hand, are like watching a DVD. They start when you want, typically from the beginning. Cold observables do not produce any output unless there is somebody subscribed to them. They start pushing values to the stream when the subscribe method is called.
 
 [ng-boostrap github io page, samples, code...](https://ng-bootstrap.github.io/)
 
