@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Dec 2019
 
+[que hacer cuando chorrea la nariz... (taringa)](https://www.taringa.net/+info/te-chorrea-la-nariz-santo-remedio_xb0zp)
+
 [angular in depth - the extensive guide to creating streams in rxjs](https://medium.com/angular-in-depth/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a)
 
 [stackoverflow - HTML inside ngbtooltip](https://stackoverflow.com/questions/44275473/html-table-inside-ngbtooltip)
