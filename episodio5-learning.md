@@ -4,6 +4,37 @@ Cosas que voy aprendiendo...
 
 ### 11 Dec 2019
 
+ANGULAR: directives within templates
+
+Directives to apply to specific templates to render it customised. eg. directive to render specific template for tooltips
+
+```
+import { Directive, Input, TemplateRef } from '@angular/core';
+import { FilterTemplateConfig } from './filter-template-config';
+
+/**
+ * This directive identifies templates that can be used to render
+ * a filter criterion tooltip (a filter criterion that has already
+ * been set).
+ */
+@Directive({
+  selector: 'ng-template[appTooltipTemplate]',
+})
+export class TooltipTemplateDirective {
+  /**
+   * Use this template for filter criteria of this specific column name.
+   */
+  @Input()
+  columnName: string;
+
+  constructor(public template: TemplateRef<any>, config: FilterTemplateConfig) {
+    config.tooltipTemplateDirectiveInstances.push(this);
+  }
+}
+```
+
+
+
 [que hacer cuando chorrea la nariz... (taringa)](https://www.taringa.net/+info/te-chorrea-la-nariz-santo-remedio_xb0zp)
 
 [angular in depth - the extensive guide to creating streams in rxjs](https://medium.com/angular-in-depth/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a)
