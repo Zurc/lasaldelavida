@@ -8,7 +8,7 @@ ANGULAR: directives within templates
 
 Directives to apply to specific templates to render it customised. eg. directive to render specific template for tooltips
 
-```
+```ts
 import { Directive, Input, TemplateRef } from '@angular/core';
 import { FilterTemplateConfig } from './filter-template-config';
 
