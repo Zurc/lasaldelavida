@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Dec 2019
 
+[full stack training - angular promise vs observable](https://blog.fullstacktraining.com/angular-promise-vs-observable/)
+
 [ITnext - JS promises Vs. RxJS observables](https://itnext.io/javascript-promises-vs-rxjs-observables-de5309583ca2) this includes: 
 
 async programming techniques
