@@ -102,7 +102,7 @@ export class FilterTemplateConfig {
 
 there we have the property `tooltipTemplateDirectiveInstances` that we are using in our directive
 
-we have a method `getTooltipTemplateForColumn` where we pass the column as a param
+we have a method `getTooltipTemplateForColumn` where we get a matching template for a column we pass as a param
 
 
 
