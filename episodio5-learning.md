@@ -33,6 +33,72 @@ export class TooltipTemplateDirective {
 }
 ```
 
+the FilterTemplateConfig is a collection of all custom templates for filters
+
+```ts
+import { Injectable, TemplateRef } from '@angular/core';
+import { FilterTemplateDirective } from './filter-template.directive';
+import { ValueTemplateDirective } from './value-template.directive';
+import { TooltipTemplateDirective } from './tooltip-template.directive';
+
+/**
+ * A place to store all of the customizable/overridable templates for the filter.
+ */
+@Injectable()
+export class FilterTemplateConfig {
+  /**
+   * The collection of all the [[FilterTemplateDirective]]s found in the template.
+   */
+  public filterTemplateDirectiveInstances: FilterTemplateDirective[] = [];
+
+  /**
+   * The collection of all the [[ValueTemplateDirective]]s found in the template.
+   */
+  public valueTemplateDirectiveInstances: ValueTemplateDirective[] = [];
+
+  /**
+   * The collection of all the [[TooltipTemplateDirective]]s found in the template.
+   */
+  public tooltipTemplateDirectiveInstances: TooltipTemplateDirective[] = [];
+
+  /**
+   * Get the matching template for this column name if it exists in the custom Filter Template Config.
+   *
+   * @param columnName The column name that has to match the columnName input of a custom [[FilterTemplateDirective]] (if any).
+   */
+  public getFilterTemplateForColumn(columnName: string): TemplateRef<any> | null {
+    const matchingTemplateDirective = this.filterTemplateDirectiveInstances.find(
+      filterTemplateDirectiveInstance => filterTemplateDirectiveInstance.columnName === columnName
+    );
+    return matchingTemplateDirective ? matchingTemplateDirective.template : null;
+  }
+
+  /**
+   * Get the matching template for this column name if it exists for displaying a saved filter criterion.
+   *
+   * @param columnName The column name that has to match the columnName input of a custom [[ValueTemplateDirective]] (if any).
+   */
+  public getValueTemplateForColumn(columnName: string): TemplateRef<any> | null {
+    const matchingTemplateDirective = this.valueTemplateDirectiveInstances.find(
+      valueTemplateDirectiveInstance => valueTemplateDirectiveInstance.columnName === columnName
+    );
+    return matchingTemplateDirective ? matchingTemplateDirective.template : null;
+  }
+
+  /**
+   * Get the matching tooltips template for this column name if it exists for displaying a saved filter criterion
+   *
+   * @param columnName The column name that has to match the columnName input of a custom [[TooltipTemplateDirective]] (if any).
+   */
+  public getTooltipTemplateForColumn(columnName: string): TemplateRef<any> | null {
+    const matchingTemplateDirective = this.tooltipTemplateDirectiveInstances.find(
+      tooltipTemplateDirectiveInstance => tooltipTemplateDirectiveInstance.columnName === columnName
+    );
+    return matchingTemplateDirective ? matchingTemplateDirective.template : null;
+  }
+}
+
+```
 
 
 [que hacer cuando chorrea la nariz... (taringa)](https://www.taringa.net/+info/te-chorrea-la-nariz-santo-remedio_xb0zp)
