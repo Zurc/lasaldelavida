@@ -8,7 +8,7 @@ ANGULAR: directives within templates
 
 Directives to apply to specific templates to render it customised. eg. directive to render specific template for tooltips
 
-```ts
+```js
 import { Directive, Input, TemplateRef } from '@angular/core';
 import { FilterTemplateConfig } from './filter-template-config';
 
@@ -35,7 +35,7 @@ export class TooltipTemplateDirective {
 
 the FilterTemplateConfig is a collection of all custom templates for filters
 
-```ts
+```js
 import { Injectable, TemplateRef } from '@angular/core';
 import { FilterTemplateDirective } from './filter-template.directive';
 import { ValueTemplateDirective } from './value-template.directive';
@@ -106,7 +106,7 @@ we have a method `getTooltipTemplateForColumn` where we get a matching template 
 
 In the generic list-header component we check if there is an specific template for a column
 
-```ts
+```html
 <span *ngIf="shouldShowFilter" class="filter-box">
     <!-- Named Filter -->
     <span *ngIf="list.currentFilter.name" [ngbTooltip]="tooltip" placement="bottom-left">{{ list.currentFilter.name }}</span>
@@ -148,7 +148,7 @@ In the generic list-header component we check if there is an specific template f
 
 On our specific list component we add our custom template
 
-```ts
+```html
  <!-- Custom tooltips filter criterion display for Assignees column -->
   <ng-template appTooltipTemplate columnName="Assignees" let-searchValue>
     {{ searchValue.columnName }} {{ searchValue.comparisonType | lowercase }} <span [innerHTML]="[searchValue.value] | listPresentationGroups | async | safeHtml"></span>
