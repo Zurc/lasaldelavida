@@ -22,6 +22,10 @@ It is the responsibility of the subject, to publish new data to the clients. Obs
 
 An example of Cold observable in Angular: the HttpClient. If you don't subscribe to the result of a request, the request is not actually made!
 
+The subscribe() method returns a subscription. Make sure to unsubscribe from that at some if you no longer need it. Otherwise, you create immortal objects and memory leaks.
+
+A good point in angular to unsubscribe from observables is the ngOnDestroy lifecycle event.
+
 [ng-boostrap github io page, samples, code...](https://ng-bootstrap.github.io/)
 
 ANGULAR: directives within templates
