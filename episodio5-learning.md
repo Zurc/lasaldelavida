@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Dec 2019
 
+[angular in depth - the extensive guide to creating streams in rxjs](https://medium.com/angular-in-depth/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a)
+
 [stackoverflow - HTML inside ngbtooltip](https://stackoverflow.com/questions/44275473/html-table-inside-ngbtooltip)
 
 ### 10 Dec 2019
