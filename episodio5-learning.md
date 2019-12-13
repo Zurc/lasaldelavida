@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Dec 2019
+
+[Correcting exposure with a gradient mask | Photoshop | lynda.com (youtube)](https://www.youtube.com/watch?v=t8FIzP62aWA)
+
 ### 11 Dec 2019
 
 [full stack training - angular promise vs observable](https://blog.fullstacktraining.com/angular-promise-vs-observable/)
