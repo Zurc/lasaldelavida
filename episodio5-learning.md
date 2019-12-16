@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Dec 2019
+
+[the best way to lazy load angular elements](https://medium.com/@tomastrajan/the-best-way-to-lazy-load-angular-elements-97a51a5c2007)
+
 ### 13 Dec 2019
 
 [Correcting exposure with a gradient mask | Photoshop | lynda.com (youtube)](https://www.youtube.com/watch?v=t8FIzP62aWA)
