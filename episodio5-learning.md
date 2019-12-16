@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Dec 2019
 
+[ng best practices change dtector performance](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/)
+
 [the best way to lazy load angular elements](https://medium.com/@tomastrajan/the-best-way-to-lazy-load-angular-elements-97a51a5c2007)
 
 ### 13 Dec 2019
