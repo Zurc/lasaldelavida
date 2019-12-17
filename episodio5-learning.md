@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Dec 2019
+
+[ng how to easily display loading indicators](https://dev.to/johncarroll/angular-how-to-easily-display-loading-indicators-4359)
+
 ### 16 Dec 2019
 
 [ng best practices change dtector performance](https://www.lucidchart.com/techblog/2016/05/04/angular-2-best-practices-change-detector-performance/)
