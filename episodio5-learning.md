@@ -45,6 +45,14 @@ export class EditContext {
 }
 ```
 
+remember to import to the component...
+
+inject into the constructor
+
+```js
+constructor(public ctx: EditMode, ...) {}
+```
+
 ### 17 Dec 2019
 
 [ng how to easily display loading indicators](https://dev.to/johncarroll/angular-how-to-easily-display-loading-indicators-4359)
