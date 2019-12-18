@@ -2,6 +2,49 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Dec 2019
+
+Angular - edit mode using context
+
+created class edit-context.ts
+
+```js
+import { BehaviorSubject, Observable } from 'rxjs';
+
+export enum Mode { ReadOnly, Update, Insert }
+
+export class EditContext {
+  private subject = new BehaviorSubject<Mode>(Mode.ReadOnly);
+
+  _editMode = Mode.ReadOnly;
+
+  get editMode(): Mode {
+    return this._editMode;
+  }
+
+  set editMode(mode: Mode) {
+    this._editMode = mode;
+    this.notify(mode);
+  }
+
+  get isEditing(): boolean {
+    return this._editMode !== Mode.ReadOnly;
+  }
+
+  set isEditing(isEditing: boolean) {
+    this._editMode = isEditing ? Mode.Update : Mode.ReadOnly;
+  }
+
+  private notify(mode: Mode) {
+      this.subject.next(mode);
+  }
+
+  mode(): Observable<Mode> {
+      return this.subject.asObservable();
+  }
+}
+```
+
 ### 17 Dec 2019
 
 [ng how to easily display loading indicators](https://dev.to/johncarroll/angular-how-to-easily-display-loading-indicators-4359)
