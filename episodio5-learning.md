@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Dec 2019
 
+[code-cartoons - cartoon intro to redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
+
 [xamacreative - example of UX/UI agency](https://www.xamacreative.com/)
 
 [codepen challenges](https://codepen.io/challenges/)    // quite interesting
