@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Dec 2019
 
+[philippine fish](https://philfoodie.blogspot.com/2011/05/philippine-fish.html)
+
 [http requests: axios vs fetch](https://medium.com/@jeffrey.allen.lewis/http-requests-compared-why-axios-is-better-than-node-fetch-more-secure-can-handle-errors-better-39fde869a4a6)
 
 [CSS transitions](https://www.w3schools.com/css/css3_transitions.asp)
