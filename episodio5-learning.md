@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Dec 2019
 
+[frontend architecture](https://medium.com/gumtree-dev-team/front-end-architecture-part-1-2046663d0bc) +++
+
 [code-cartoons - cartoon intro to redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 
 [xamacreative - example of UX/UI agency](https://www.xamacreative.com/)
