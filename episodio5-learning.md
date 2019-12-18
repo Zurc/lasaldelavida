@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Dec 2019
 
+[angular academy - angular architecture best practices](https://angular-academy.com/angular-architecture-best-practices/)
+
 [frontend architecture](https://medium.com/gumtree-dev-team/front-end-architecture-part-1-2046663d0bc) +++
 
 [code-cartoons - cartoon intro to redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
