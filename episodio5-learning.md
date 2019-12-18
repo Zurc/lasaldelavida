@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Dec 2019
 
+[CSS transitions](https://www.w3schools.com/css/css3_transitions.asp)
+
 Angular - edit mode using context
 
 created class edit-context.ts
