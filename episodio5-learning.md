@@ -8,7 +8,7 @@ Angular - edit mode using context
 
 created class edit-context.ts
 
-```js
+```ts
 import { BehaviorSubject, Observable } from 'rxjs';
 
 export enum Mode { ReadOnly, Update, Insert }
