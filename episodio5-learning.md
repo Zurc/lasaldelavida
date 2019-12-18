@@ -53,6 +53,22 @@ inject into the constructor
 constructor(public ctx: EditMode, ...) {}
 ```
 
+Examples of use on the template:
+
+// for an input, when Insert Mode...
+`<input *ngIf="ctx.editMode === Mode.Insert" ... >`
+
+// for an input, when NOT Insert Mode...
+`<input *ngIf="ctx.editMode !== Mode.Insert" ... >`
+
+// Edit button, to change context
+```html
+<button type="button" *ngIf="!ctx.isEditing" (click)="ctx.editMode = Mode.Update" class="btn btn-primary" appSymbol="edit">
+  <span>Edit</span>
+</button>
+```
+
+
 ### 17 Dec 2019
 
 [ng how to easily display loading indicators](https://dev.to/johncarroll/angular-how-to-easily-display-loading-indicators-4359)
