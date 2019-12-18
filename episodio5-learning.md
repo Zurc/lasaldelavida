@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [CSS transitions](https://www.w3schools.com/css/css3_transitions.asp)
 
+ref to leart CSS transition and animation: search for "css animation transition"
+
 Angular - edit mode using context
 
 created class edit-context.ts
