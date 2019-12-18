@@ -68,6 +68,17 @@ Examples of use on the template:
 </button>
 ```
 
+// a more complex button, evaluating to an expression, disabled if NOT editing mode...
+```html
+<button
+  *ngIf="status?.value !== IdentifierStatus.FREE && ctx.isEditing"
+  type="button"
+  [disabled]="disabled || !ctx.isEditing"
+  (click)="free()"
+  class="btn btn-primary free-transp-btn btn-loader"
+  [ngClass]="{ '-loading': saving }"
+>
+```
 
 ### 17 Dec 2019
 
