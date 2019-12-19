@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 19 Dec 2019
 
+[Supercharge Your Angular Development Workflow | Tim Stoddard](https://www.youtube.com/watch?v=w8Yt2ELU00Y)
+
 [code with dan - angular playground developing and running components in a sandbox](https://blog.codewithdan.com/angular-playground-developing-and-running-components-in-a-sandbox/)
 
 [angular playground](https://angularplayground.it/)  // to build / test components on isolation
