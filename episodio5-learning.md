@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Dec 2019
+
+[Front End architecture best practices](https://success.outsystems.com/Documentation/Best_Practices/Front-End_Architecture_Best_Practices)
+
 ### 18 Dec 2019
 
 [angular academy - angular architecture best practices](https://angular-academy.com/angular-architecture-best-practices/)
