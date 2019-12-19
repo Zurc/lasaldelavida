@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 CRUZ [base to test observables, subjects... (codesandbox)](https://codesandbox.io/s/keen-surf-c8352)
 
+CRUZ [base to test observables, subjects... (stackblitz)](https://stackblitz.com/edit/angular-b7gakg-ers)
+
 [angular io - practical observable usage](https://angular.io/guide/practical-observable-usage)
 
 CHROME DEV TOOLS [Code coverage - find unused code](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage)
