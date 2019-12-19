@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 19 Dec 2019
 
+[frontend masters - frontend handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+
 [Front End architecture best practices](https://success.outsystems.com/Documentation/Best_Practices/Front-End_Architecture_Best_Practices)
 
 ### 18 Dec 2019
