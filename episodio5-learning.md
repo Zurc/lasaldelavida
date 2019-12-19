@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 19 Dec 2019
 
+CHROME DEV TOOLS [Code coverage - find unused code](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage)
+
 [Mastering the subject - Dan](https://www.youtube.com/watch?v=_q-HL9YX_pk)
 
 [An option to simplify front end state management with Observable Store](https://blog.codewithdan.com/simplifying-front-end-state-management-with-observable-store/)
