@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 19 Dec 2019
 
+[angular io - practical observable usage](https://angular.io/guide/practical-observable-usage)
+
 CHROME DEV TOOLS [Code coverage - find unused code](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage)
 
 [Mastering the subject - Dan](https://www.youtube.com/watch?v=_q-HL9YX_pk)
