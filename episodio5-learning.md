@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 19 Dec 2019
 
+[code with dan - angular playground developing and running components in a sandbox](https://blog.codewithdan.com/angular-playground-developing-and-running-components-in-a-sandbox/)
+
+[angular playground](https://angularplayground.it/)  // to build / test components on isolation
+
 [frontend masters - frontend handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 
 [Front End architecture best practices](https://success.outsystems.com/Documentation/Best_Practices/Front-End_Architecture_Best_Practices)
