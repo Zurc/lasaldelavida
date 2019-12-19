@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 19 Dec 2019
 
+[Mastering the subject - Dan](https://www.youtube.com/watch?v=_q-HL9YX_pk)
+
+[An option to simplify front end state management with Observable Store](https://blog.codewithdan.com/simplifying-front-end-state-management-with-observable-store/)
+
 [angular training - automatically unsubscribe your rxjs observables](https://blog.angulartraining.com/how-to-automatically-unsubscribe-your-rxjs-observables-tutorial-2f98b0560298#e232)
 
 [Supercharge Your Angular Development Workflow | Tim Stoddard](https://www.youtube.com/watch?v=w8Yt2ELU00Y)
