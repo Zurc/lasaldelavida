@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 6 Jan 2020
+
+Angular - reoute
+
+Always check if the child route (i.e. user) exists OR redirect/reroute to an option
+
 ### 19 Dec 2019
 
 CRUZ [base to test observables, subjects... (codesandbox)](https://codesandbox.io/s/keen-surf-c8352)
