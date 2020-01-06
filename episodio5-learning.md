@@ -4,6 +4,26 @@ Cosas que voy aprendiendo...
 
 ### 6 Jan 2020
 
+dice coefficient: a statistic used to gauge the similarity of two samples.
+
+import from npm -> 'dice-coefficient'
+
+as a type
+
+```ts
+declare module 'dice-coefficient' {
+  /**
+   * Awards a score of the similarity of two strings using the dice coefficient algorithm.
+   * @param  {string} a
+   * @param  {string} b
+   * @returns number - the score from 0 - 1.
+   */
+  export default function dice(a: string, b: string): number;
+}
+```
+
+
+
 Angular - validation messages
 
 ```js
