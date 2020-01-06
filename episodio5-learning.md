@@ -4,6 +4,22 @@ Cosas que voy aprendiendo...
 
 ### 6 Jan 2020
 
+Angular - validation messages
+
+```
+  /**
+   * Triggers validation messages to show for a given form
+   * @param  {FormGroup} form
+   * @returns void
+   */
+  private showValidationMessages(form: FormGroup): void {
+    Object.values(form.controls).forEach(control => {
+      control.markAsDirty();
+      control.updateValueAndValidity();
+    });
+  }
+```
+
 Angular - reoute
 
 Always check if the child route (i.e. user) exists OR redirect/reroute to an option
