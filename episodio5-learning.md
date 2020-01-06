@@ -8,6 +8,8 @@ Angular - reoute
 
 Always check if the child route (i.e. user) exists OR redirect/reroute to an option
 
+[angular gist example](https://gist.github.com/Zurc/c437c59b74aabf98c5dc054fb2b01dbf)
+
 ### 19 Dec 2019
 
 CRUZ [base to test observables, subjects... (codesandbox)](https://codesandbox.io/s/keen-surf-c8352)
