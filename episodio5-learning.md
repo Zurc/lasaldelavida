@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 Angular - validation messages
 
-```
+```js
   /**
    * Triggers validation messages to show for a given form
    * @param  {FormGroup} form
