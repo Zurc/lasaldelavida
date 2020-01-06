@@ -22,7 +22,46 @@ declare module 'dice-coefficient' {
 }
 ```
 
+example of dice coefficient used on a typeahead search in angular
 
+```ts
+  /**
+   * Maps the returned results ready for the view
+   */
+  private mapResults(searchValue: string, results: IVesselSearchResult[]): IVesselSearchResult[] {
+    const scoredResults = results.map(result => {
+      let score = 0;
+
+      if (result.id === searchValue || result.name === searchValue) {
+        score = 1;
+      } else {
+        const idScore = dice(searchValue, result.id);
+        const nameScore = dice(searchValue, result.name.toLowerCase());
+        score = Math.max(idScore, nameScore);
+      }
+
+      let displayValue = result.id;
+
+      if (result.name) {
+        displayValue += ` - ${result.name}`;
+      }
+
+      return {
+        ...result,
+        displayValue,
+        score,
+      };
+    });
+
+    scoredResults.sort(sortBy('-score', 'name', 'id'));
+
+    if (this.resultLimit) {
+      return scoredResults.slice(0, this.resultLimit);
+    }
+
+    return scoredResults;
+  }
+```
 
 Angular - validation messages
 
