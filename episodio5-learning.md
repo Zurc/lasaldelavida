@@ -10,12 +10,12 @@ Angular - vertical scrolling issues: remember always check all the chain of pare
 .class-name {
   display: flex;
   flex-direction: column;
-  flex: 1 1 auto; // if needed
+  flex: 1 1 auto; // if/where needed
   overflow: hidden
 }
 ```
 
-the top parent needs a defined height too
+the top parent (:host) needs a defined height too
 
 ```css
 // height: calc(100vh - [header height...] - [titles height] - [whatever element in between the scrollable container and the top of the screen])
