@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 8 Jan 2020
 
-Angular - vertical scrolling issues: remember always check all the chain of parent components has:
+ANGULAR - VERTICAL SCROLLING issues: remember always check all the chain of parent components has:
 
 [check ers-user-details scss example](https://stackblitz.com/edit/angular-sggmpx)
 
