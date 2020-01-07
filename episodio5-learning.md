@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Jan 2020
 
+BOOKS: [Pro Angular 6](https://1.cdn.edl.io/bLeZNhF6uv5njS9WVkgP9bEZK07BI36cnF97GV7CRkxsPWqY.pdf)
+
 ANGULAR - VERTICAL SCROLLING: remember always check all the chain of parent components has:
 
 [check ers-user-details scss example](https://stackblitz.com/edit/angular-sggmpx)
