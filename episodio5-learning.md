@@ -7,9 +7,11 @@ Cosas que voy aprendiendo...
 Angular - vertical scrolling issues: remember always check all the chain of parent components has:
 
 ```css
-display: flex;
-flex-direction: column;
-overflow: hidden
+.class-name {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden
+}
 ```
 
 the top parent needs a defined height too
