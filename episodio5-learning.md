@@ -2,6 +2,23 @@
 
 Cosas que voy aprendiendo...
 
+### 8 Jan 2020
+
+Angular - vertical scrolling issues: remember always check all the chain of parent components has:
+
+```css
+display: flex;
+flex-direction: column;
+overflow: hidden
+```
+
+the top parent needs a defined height too
+
+```css
+// height: calc(100vh - [header height...] - [titles height] - [whatever element in between the scrollable container and the top of the screen])
+```
+
+
 ### 6 Jan 2020
 
 dice coefficient: a statistic used to gauge the similarity of two samples.
