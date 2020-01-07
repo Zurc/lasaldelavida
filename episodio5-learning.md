@@ -10,6 +10,7 @@ Angular - vertical scrolling issues: remember always check all the chain of pare
 .class-name {
   display: flex;
   flex-direction: column;
+  flex: 1 1 auto; // if needed
   overflow: hidden
 }
 ```
