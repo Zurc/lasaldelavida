@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Jan 2020
 
+teaching [angular observables](https://medium.com/@natelapinski/learning-observables-part-1-arrays-14480816eb61)
+
 [angular training - dynamic fultering with rxjs and angular forms tut](https://blog.angulartraining.com/dynamic-filtering-with-rxjs-and-angular-forms-a-tutorial-6daa3c44076a)
 
 BOOKS: [Pro Angular 6](https://1.cdn.edl.io/bLeZNhF6uv5njS9WVkgP9bEZK07BI36cnF97GV7CRkxsPWqY.pdf)
