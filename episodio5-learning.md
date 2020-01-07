@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Jan 2020
 
+[Eric Elliot - composing software an intro](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+
 teaching [angular observables](https://medium.com/@natelapinski/learning-observables-part-1-arrays-14480816eb61)
 
 [angular training - dynamic fultering with rxjs and angular forms tut](https://blog.angulartraining.com/dynamic-filtering-with-rxjs-and-angular-forms-a-tutorial-6daa3c44076a)
