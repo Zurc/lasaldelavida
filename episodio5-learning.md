@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 Angular - vertical scrolling issues: remember always check all the chain of parent components has:
 
+[check ers-user-details scss example](https://stackblitz.com/edit/angular-sggmpx)
+
 ```css
 .class-name {
   display: flex;
