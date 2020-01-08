@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Jan 2020
 
+[MDN - working with windows in chrome code](https://developer.mozilla.org/en-US/docs/Mozilla/Working_with_windows_in_chrome_code)
+
 [angular in depth - rxjs understanding lettable operators](https://medium.com/angular-in-depth/rxjs-understanding-lettable-operators-fe74dda186d3)
 
 [codeburst - a simple guide to ES6 iterators in JS with examples](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
