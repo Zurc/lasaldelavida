@@ -9,8 +9,13 @@ Cosas que voy aprendiendo...
 - 1: intent, 
 - 2: no distractions, 
 - 3: increase peripherial vision (exercise: don't look sides), 
-- 4: don't backtrack, 
-- 5: visualize
+- 4: don't backtrack (can use finger or whatever helps), 
+- 5: visualize (imagine what you are reading)
+- 6: carry through the book, read longer sessions
+- 7: take breaks in between
+- 8: switch locations to remember that particular book
+- 9: practice
+- 10: write about it (to remember better)
 
 [MDN - working with windows in chrome code](https://developer.mozilla.org/en-US/docs/Mozilla/Working_with_windows_in_chrome_code)
 
