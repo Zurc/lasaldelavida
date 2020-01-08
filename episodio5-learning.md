@@ -38,6 +38,8 @@ Cosas que voy aprendiendo...
 
 common Observable creational methods: *of, from and event*
 
+[build your own observable part 4](https://medium.com/@natelapinski/build-your-own-observable-part-4-map-filter-take-and-all-that-jazz-40388e2ab2b3)
+
 >  An Observable operation must always return a new Observable, otherwise, composition will not be possible.
 
 ### 7 Jan 2020
