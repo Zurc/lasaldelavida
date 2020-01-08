@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 8 Jan 2020
 
+[angular architecture related links](https://www.reddit.com/r/Angular2/comments/ekqntd/what_are_your_favorite_angular_architecture/)
+
+### 7 Jan 2020
+
 [Gang of Four - software design patterns](http://www.blackwasp.co.uk/gofpatterns.aspx)
 
 [Eric Elliot - composing software an intro](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
