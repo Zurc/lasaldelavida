@@ -6,7 +6,11 @@ Cosas que voy aprendiendo...
 
 [READ A BOOK IN A DAY (how to speed-read and remember it all)](https://www.youtube.com/watch?v=0Q0we4LjSws)
 
->  1: intent, 2: no distractions, 3: increase peripherial vision (exercise: don't look sides), 4: don't backtrack
+-1: intent, 
+-2: no distractions, 
+-3: increase peripherial vision (exercise: don't look sides), 
+-4: don't backtrack, 
+-5: visualize
 
 [MDN - working with windows in chrome code](https://developer.mozilla.org/en-US/docs/Mozilla/Working_with_windows_in_chrome_code)
 
