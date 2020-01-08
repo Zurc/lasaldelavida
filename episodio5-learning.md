@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Jan 2020
 
+[angular in depth - rxjs understanding lettable operators](https://medium.com/angular-in-depth/rxjs-understanding-lettable-operators-fe74dda186d3)
+
 [codeburst - a simple guide to ES6 iterators in JS with examples](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
 
 >  An iterable is a data structure that wants to make its elements accessible to the public. It does so by implementing a method whose key is Symbol.iterator. That method is a factory for iterators. That is, it will create iterators.
