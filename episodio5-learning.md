@@ -18,7 +18,7 @@ Cosas que voy aprendiendo...
 >  
 >  observers: they have the 3 methods: onNext(), onError(), onComplete()
 
->  Observer interface is similar to Iterator interface. The difference is how you interact with a collection (source). While iterators let a consumer pull data from a source (the consumer ask an Iterable for iterators and pull each value from the iterator), observers let a source push data to an observer
+>  Observer interface is similar to Iterator interface. The difference is how you interact with a collection (source). While iterators let a consumer pull data from a source (the consumer **ask** an Iterable -the producer- for iterators and pull each value from the iterator. The consumer is in control), observers let a source push data to an observer (the producer **give** to the consumer one item at the time. The producer is in control)
 
 ### 7 Jan 2020
 
