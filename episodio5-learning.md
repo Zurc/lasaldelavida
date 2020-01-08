@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Jan 2020
 
+[JS learn to chain map filter and reduce](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4)
+
 [equivalente a Jaimito en otros paises](https://es.wikipedia.org/wiki/Jaimito)
 
 [angular architecture related links](https://www.reddit.com/r/Angular2/comments/ekqntd/what_are_your_favorite_angular_architecture/)
