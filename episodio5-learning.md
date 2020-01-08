@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [codeburst - a simple guide to ES6 iterators in JS with examples](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
 
+>  An iterable is a data structure that wants to make its elements accessible to the public. It does so by implementing a method whose key is Symbol.iterator. That method is a factory for iterators. That is, it will create iterators.
+
+>  An iterator is a pointer for traversing the elements of a data structure.
+
 [codeburst - 60 JS tutus walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
 
 [codeburst - how to create a dynamic website in 30 min with fullpageJS](https://codeburst.io/how-to-create-a-dynamic-website-in-30-minutes-with-fullpage-js-7e91b70dcdee)
