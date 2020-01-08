@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Jan 2020
 
+[equivalente a Jaimito en otros paises](https://es.wikipedia.org/wiki/Jaimito)
+
 [angular architecture related links](https://www.reddit.com/r/Angular2/comments/ekqntd/what_are_your_favorite_angular_architecture/)
 
 [build your own observable](https://medium.com/@natelapinski/build-your-own-observable-part-1-containers-and-more-intuition-4210e8c28b4f)  // +++
