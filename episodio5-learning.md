@@ -14,7 +14,13 @@ Cosas que voy aprendiendo...
 
 [Eric Elliot book - composing software](https://leanpub.com/composingsoftware)  // interesting
 
-teaching [angular observables](https://medium.com/@natelapinski/learning-observables-part-1-arrays-14480816eb61)
+[ANGULAR observables, arrays...](https://medium.com/@natelapinski/learning-observables-part-1-arrays-14480816eb61)  // +++
+
+[CRUZ- composing arrays example (gist)](https://gist.github.com/Zurc/d6b93a6e88c1d4d0797d61ed1bff3c55)
+
+[CRUZ- composing arrays example (jsbin)](https://jsbin.com/vareloyugi/2/edit?js,console)
+
+>  I didn't knew that you can export jsbin to a gist!
 
 [angular training - dynamic fultering with rxjs and angular forms tut](https://blog.angulartraining.com/dynamic-filtering-with-rxjs-and-angular-forms-a-tutorial-6daa3c44076a)
 
