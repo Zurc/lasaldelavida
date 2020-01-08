@@ -14,7 +14,7 @@ Cosas que voy aprendiendo...
 
 >  Observable: they have the data. They start emiting once the observers subscribe
 >  
->  observers: they have the 3 methods: next(), error(), complete()
+>  observers: they have the 3 methods: onNext(), onError(), onComplete()
 
 ### 7 Jan 2020
 
