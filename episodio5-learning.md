@@ -18,7 +18,7 @@ Cosas que voy aprendiendo...
 
 [CRUZ- composing arrays example (gist)](https://gist.github.com/Zurc/d6b93a6e88c1d4d0797d61ed1bff3c55)
 
-[CRUZ- composing arrays example (jsbin)](https://jsbin.com/vareloyugi/2/edit?js,console)
+[CRUZ- composing arrays example (jsbin)](https://jsbin.com/kesulos/edit?js,console)
 
 >  I didn't knew that you can export jsbin to a gist!
 
