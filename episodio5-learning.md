@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 >  An iterator is a pointer for traversing the elements of a data structure.
 
+[ES6 cheatsheet - Eric Moeller](http://help.wtf/es6)
+
 [codeburst - 60 JS tutus walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
 
 [codeburst - how to create a dynamic website in 30 min with fullpageJS](https://codeburst.io/how-to-create-a-dynamic-website-in-30-minutes-with-fullpage-js-7e91b70dcdee)
