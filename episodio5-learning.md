@@ -20,6 +20,8 @@ Cosas que voy aprendiendo...
 
 >  Observer interface is similar to Iterator interface. The difference is how you interact with a collection (source). While iterators let a consumer pull data from a source (the consumer **ask** an Iterable -the producer- for iterators and pull each value from the iterator. The consumer is in control), observers let a source push data to an observer (the producer **give** to the consumer one item at the time. The producer is in control) ref: [reactive programing overview - Jafar Husain (netflix)](https://www.youtube.com/watch?v=-8Y1-lE6NSA)
 
+common Observable creational methods: *of, from and event*
+
 ### 7 Jan 2020
 
 [Gang of Four - software design patterns](http://www.blackwasp.co.uk/gofpatterns.aspx)
