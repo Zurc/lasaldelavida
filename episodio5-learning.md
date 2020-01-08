@@ -38,6 +38,8 @@ Cosas que voy aprendiendo...
 
 common Observable creational methods: *of, from and event*
 
+>  An Observable operation must always return a new Observable, otherwise, composition will not be possible.
+
 ### 7 Jan 2020
 
 [Gang of Four - software design patterns](http://www.blackwasp.co.uk/gofpatterns.aspx)
