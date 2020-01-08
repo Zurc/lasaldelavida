@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angular architecture related links](https://www.reddit.com/r/Angular2/comments/ekqntd/what_are_your_favorite_angular_architecture/)
 
+[build your own observable](https://medium.com/@natelapinski/build-your-own-observable-part-1-containers-and-more-intuition-4210e8c28b4f)
+
 ### 7 Jan 2020
 
 [Gang of Four - software design patterns](http://www.blackwasp.co.uk/gofpatterns.aspx)
