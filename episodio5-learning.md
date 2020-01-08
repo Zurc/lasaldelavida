@@ -12,6 +12,10 @@ Cosas que voy aprendiendo...
 
 >  There is some object containing state that will change over time. **This is known as the subject in the classical Observer Pattern**. All this subject does is accept callback functions from observers, which are objects that want to be notified whenever the subject’s state changes. Whenever such a state change happens, the subject loops through all of the observer callbacks, and invokes them with the new state as an argument.
 
+>  Observable: they have the data. They start emiting once the observers subscribe
+>  
+>  observers: they have the 3 methods: next(), error(), complete()
+
 ### 7 Jan 2020
 
 [Gang of Four - software design patterns](http://www.blackwasp.co.uk/gofpatterns.aspx)
