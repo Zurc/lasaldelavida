@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 8 Jan 2020
 
+[codeburst - 60 JS tutus walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
+
 [codeburst - how to create a dynamic website in 30 min with fullpageJS](https://codeburst.io/how-to-create-a-dynamic-website-in-30-minutes-with-fullpage-js-7e91b70dcdee)
 
 [JS learn to chain map filter and reduce](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4)
