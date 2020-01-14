@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [internet is hard - html and css flexbox](https://internetingishard.com/html-and-css/flexbox/)
 
+[css-tricks - accessible simple responsive tables](https://css-tricks.com/accessible-simple-responsive-tables/)
+
 ### 8 Jan 2020
 
 [READ A BOOK IN A DAY (how to speed-read and remember it all)](https://www.youtube.com/watch?v=0Q0we4LjSws)
