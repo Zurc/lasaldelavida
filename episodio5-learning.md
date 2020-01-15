@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Jan 2020
 
+[awesome open source - 30 secons of angular](https://awesomeopensource.com/project/30-seconds/30-seconds-of-angular)
+
 [Flexbox responsive form](https://codepen.io/argyleink/details/LYEegOO)
 
 [TYPESCRIPT: typing destructured object parameters in typescript](https://mariusschulz.com/blog/typing-destructured-object-parameters-in-typescript)
