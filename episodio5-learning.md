@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Jan 2020
 
+[The UX Infinity Gems 6 Ways to Create Great UX](https://www.youtube.com/watch?v=aZZCZpc0AcY)
+
 [NodeJS - read CSV file](https://www.youtube.com/watch?v=ErfEKTrgq5Y)
 
 --papa parse
