@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Flexbox responsive form](https://codepen.io/argyleink/details/LYEegOO)
 
+[TYPESCRIPT: typing destructured object parameters in typescript](https://mariusschulz.com/blog/typing-destructured-object-parameters-in-typescript)
+
 ### 14 Jan 2020
 
 [internet is hard - html and css flexbox](https://internetingishard.com/html-and-css/flexbox/)
