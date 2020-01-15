@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 15 Jan 2020
 
+[NodeJS - read CSV file](https://www.youtube.com/watch?v=ErfEKTrgq5Y)
+
 --papa parse
 
 [js-tutorials - reading csv file using js html5](https://www.js-tutorials.com/javascript-tutorial/reading-csv-file-using-javascript-html5/)
