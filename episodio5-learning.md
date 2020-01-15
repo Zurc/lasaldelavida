@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 15 Jan 2020
 
+--papa parse
+
+[js-tutorials - reading csv file using js html5](https://www.js-tutorials.com/javascript-tutorial/reading-csv-file-using-javascript-html5/)
+
 [awesome open source - 30 secons of angular](https://awesomeopensource.com/project/30-seconds/30-seconds-of-angular)
 
 [Flexbox responsive form](https://codepen.io/argyleink/details/LYEegOO)
