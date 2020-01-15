@@ -8,6 +8,10 @@ Cosas que voy aprendiendo...
 
 [js-tutorials - reading csv file using js html5](https://www.js-tutorials.com/javascript-tutorial/reading-csv-file-using-javascript-html5/)
 
+[joy of data - parsing local csv file with JS papa parse](https://www.joyofdata.de/blog/parsing-local-csv-file-with-javascript-papa-parse/)
+
+--
+
 [awesome open source - 30 secons of angular](https://awesomeopensource.com/project/30-seconds/30-seconds-of-angular)
 
 [Flexbox responsive form](https://codepen.io/argyleink/details/LYEegOO)
