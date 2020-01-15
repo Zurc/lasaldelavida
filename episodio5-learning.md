@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Jan 2020
+
+[Flexbox responsive form](https://codepen.io/argyleink/details/LYEegOO)
+
 ### 14 Jan 2020
 
 [internet is hard - html and css flexbox](https://internetingishard.com/html-and-css/flexbox/)
