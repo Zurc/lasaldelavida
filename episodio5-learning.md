@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Jan 2020
+
+[smashing magazine - BEM for beginners](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
+
 ### 15 Jan 2020
 
 [The UX Infinity Gems 6 Ways to Create Great UX](https://www.youtube.com/watch?v=aZZCZpc0AcY)
