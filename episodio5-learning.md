@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 21 Jan 2020
 
+-----angular tabs-----
+
+[thoughtram - developing a tabs component in angular 2](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
+
+----------------------
+
 [smashing magazine - BEM for beginners](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
 
 ### 15 Jan 2020
