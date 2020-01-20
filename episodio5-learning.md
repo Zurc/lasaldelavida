@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [thoughtram - developing a tabs component in angular 2](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
 
+example of google docs + comments on [Design: Template Syntax Constraints and Reasoning](https://docs.google.com/document/d/1HHy_zPLGqJj0bHMiWPzPCxn1pO5GlOYwmv-qGgl4f_s/edit#heading=h.liehm467i4ck)
+
 ----------------------
 
 [smashing magazine - BEM for beginners](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
