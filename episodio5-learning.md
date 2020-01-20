@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 example of google docs + comments on [Design: Template Syntax Constraints and Reasoning](https://docs.google.com/document/d/1HHy_zPLGqJj0bHMiWPzPCxn1pO5GlOYwmv-qGgl4f_s/edit#heading=h.liehm467i4ck)
 
+[juristr - learning ng2 creating tab component](https://juristr.com/blog/2016/02/learning-ng2-creating-tab-component/)
+
 ----------------------
 
 [smashing magazine - BEM for beginners](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
