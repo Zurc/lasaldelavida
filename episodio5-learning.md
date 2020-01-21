@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Jan 2020
+
+refs: 
+
+[ant design tabs](https://ng.ant.design/components/tabs/en?tab=one)
+
+[primefaces tabview](https://www.primefaces.org/primeng/#/tabview)
+
 ### 21 Jan 2020
 
 -----angular tabs-----
@@ -12,7 +20,7 @@ example of google docs + comments on [Design: Template Syntax Constraints and Re
 
 [juristr - learning ng2 creating tab component](https://juristr.com/blog/2016/02/learning-ng2-creating-tab-component/)
 
-----------------------
+-----
 
 [smashing magazine - BEM for beginners](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
 
