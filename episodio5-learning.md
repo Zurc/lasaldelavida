@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [seesparkbox - bem by example](https://seesparkbox.com/foundry/bem_by_example)
 
+[CSS table BEM style](https://gist.github.com/if540/219521871d9281962b3313cdb02fceb3)
+
 refs: 
 
 [ant design tabs](https://ng.ant.design/components/tabs/en?tab=one)
