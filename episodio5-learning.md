@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Jan 2020
 
+[juristr - Google Developer Expert](https://juristr.com/blog/)  // one section of his website: 'ask me anything'...
+
 [seesparkbox - bem by example](https://seesparkbox.com/foundry/bem_by_example)
 
 [CSS table BEM style](https://gist.github.com/if540/219521871d9281962b3313cdb02fceb3)
