@@ -14,6 +14,8 @@ refs:
 
 [primefaces tabview](https://www.primefaces.org/primeng/#/tabview)
 
+Example [CRUZ - (stackblitz)](https://stackblitz.com/edit/angular-cegdzh-tabs-kmqzg7)
+
 ### 20 Jan 2020
 
 -----angular tabs-----
