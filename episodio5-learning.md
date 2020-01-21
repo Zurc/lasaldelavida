@@ -2,7 +2,9 @@
 
 Cosas que voy aprendiendo...
 
-### 22 Jan 2020
+### 21 Jan 2020
+
+[seesparkbox - bem by example](https://seesparkbox.com/foundry/bem_by_example)
 
 refs: 
 
@@ -10,7 +12,7 @@ refs:
 
 [primefaces tabview](https://www.primefaces.org/primeng/#/tabview)
 
-### 21 Jan 2020
+### 20 Jan 2020
 
 -----angular tabs-----
 
