@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Jan 2020
+
+[Oh Shit Git](https://ohshitgit.com/)
+
 ### 23 Jan 2020
 
 [mixergy - interview egghead founder joel hooks](https://mixergy.com/interviews/egghead-io-with-joel-hooks/)
