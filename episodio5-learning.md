@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [altassian - git: comparing workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
+[juristr - demystifying dynamic angular forms](https://juristr.com/blog/2017/10/demystify-dynamic-angular-forms/)
+
 ### 23 Jan 2020
 
 [mixergy - interview egghead founder joel hooks](https://mixergy.com/interviews/egghead-io-with-joel-hooks/)
