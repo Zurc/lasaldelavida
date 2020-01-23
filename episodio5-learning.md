@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Jan 2020
+
+[mixergy - interview egghead founder joel hooks](https://mixergy.com/interviews/egghead-io-with-joel-hooks/)
+
 ### 21 Jan 2020
 
 [juristr - Google Developer Expert](https://juristr.com/blog/)  // one section of his website: 'ask me anything'...
