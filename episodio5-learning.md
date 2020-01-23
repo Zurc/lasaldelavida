@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Oh Shit Git](https://ohshitgit.com/)
 
+[altassian - git: comparing workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
 ### 23 Jan 2020
 
 [mixergy - interview egghead founder joel hooks](https://mixergy.com/interviews/egghead-io-with-joel-hooks/)
