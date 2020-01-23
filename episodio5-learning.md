@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [mixergy - interview egghead founder joel hooks](https://mixergy.com/interviews/egghead-io-with-joel-hooks/)
 
+[BOOKS - tutorialzine 15 FREE JS books](https://tutorialzine.com/2015/05/15-awesome-and-free-javascript-books)
+
 ### 21 Jan 2020
 
 [juristr - Google Developer Expert](https://juristr.com/blog/)  // one section of his website: 'ask me anything'...
