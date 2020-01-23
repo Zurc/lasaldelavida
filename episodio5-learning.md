@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [BOOKS - tutorialzine 15 FREE JS books](https://tutorialzine.com/2015/05/15-awesome-and-free-javascript-books)
 
+[github for You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+
 ### 21 Jan 2020
 
 [juristr - Google Developer Expert](https://juristr.com/blog/)  // one section of his website: 'ask me anything'...
