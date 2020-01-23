@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Jan 2020
 
+[freakjolly - ng7/8 global progress bar loader using angular interceptors](https://www.freakyjolly.com/angular-8-7-show-global-progress-bar-loader-on-http-calls-in-3-steps-using-angular-interceptors-in-angular-4-3/#more-2381)
+
 [Oh Shit Git](https://ohshitgit.com/)
 
 [altassian - git: comparing workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
