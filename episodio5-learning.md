@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [uxdesign - designing a complex table for mobile consumption](https://uxdesign.cc/designing-a-complex-table-for-mobile-consumption-nom-7472f7b11fe6)
 
+[5 practical solutions to make responsive data tables](https://medium.com/appnroll-publication/5-practical-solutions-to-make-responsive-data-tables-ff031c48b122)
+
 ### 25 Jan 2020
 
 [arla - industry suppliers for agents, landlords...](https://www.arla.co.uk/join/industry-suppliers/vouch/)
