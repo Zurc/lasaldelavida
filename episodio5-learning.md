@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angular in depth - angular cdk tables](https://medium.com/angular-in-depth/angular-cdk-tables-1537774d7c99)
 
+[uxdesign - designing a complex table for mobile consumption](https://uxdesign.cc/designing-a-complex-table-for-mobile-consumption-nom-7472f7b11fe6)
+
 ### 25 Jan 2020
 
 [arla - industry suppliers for agents, landlords...](https://www.arla.co.uk/join/industry-suppliers/vouch/)
