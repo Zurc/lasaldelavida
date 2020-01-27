@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Jan 2020
+
+[angular in depth - angular cdk tables](https://medium.com/angular-in-depth/angular-cdk-tables-1537774d7c99)
+
 ### 25 Jan 2020
 
 [arla - industry suppliers for agents, landlords...](https://www.arla.co.uk/join/industry-suppliers/vouch/)
