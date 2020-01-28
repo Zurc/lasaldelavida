@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [how to use NPM link](https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557)
 
+[the magic behind npm link](https://medium.com/@alexishevia/the-magic-behind-npm-link-d94dcb3a81af)
+
 [The big ball of mud](http://www.laputan.org/mud/)
 
 [angular in depth - model view presenter with angular](https://indepth.dev/model-view-presenter-with-angular/)
