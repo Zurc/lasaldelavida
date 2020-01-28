@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Jan 2020
 
+[angular in depth - model view presenter with angular](https://indepth.dev/model-view-presenter-with-angular/)
+
 [angular in depth - building extensible dynamic pluggable enterprise app with angular](https://medium.com/angular-in-depth/building-extensible-dynamic-pluggable-enterprise-application-with-angular-aed8979faba5)
 
 [angular in depth - angular revisited tree shakable components and optinal modules](https://indepth.dev/angular-revisited-tree-shakable-components-and-optional-ngmodules/)
