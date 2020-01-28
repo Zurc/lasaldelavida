@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh (youtube)](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 
+[Express.js Tutorial: Build RESTful APIs with Node and Express | Mosh](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+
 [how to use NPM link](https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557)
 
 [the magic behind npm link](https://medium.com/@alexishevia/the-magic-behind-npm-link-d94dcb3a81af)
