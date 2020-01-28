@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Jan 2020
 
+[how to use NPM link](https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557)
+
 [The big ball of mud](http://www.laputan.org/mud/)
 
 [angular in depth - model view presenter with angular](https://indepth.dev/model-view-presenter-with-angular/)
