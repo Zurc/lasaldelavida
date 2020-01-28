@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 28 Jan 2020
+
+[angular in depth - building extensible dynamic pluggable enterprise app with angular](https://medium.com/angular-in-depth/building-extensible-dynamic-pluggable-enterprise-application-with-angular-aed8979faba5)
+
+[CSS architecture](https://zellwk.com/blog/css-architecture-1/)
+
 ### 27 Jan 2020
 
 [angular in depth - angular cdk tables](https://medium.com/angular-in-depth/angular-cdk-tables-1537774d7c99)
