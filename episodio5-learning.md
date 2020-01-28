@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Jan 2020
 
+[Learning Node.js: The npm link](https://www.youtube.com/watch?v=nKFe1lhGSk0)
+
 [how to use NPM link](https://medium.com/dailyjs/how-to-use-npm-link-7375b6219557)
 
 [the magic behind npm link](https://medium.com/@alexishevia/the-magic-behind-npm-link-d94dcb3a81af)
