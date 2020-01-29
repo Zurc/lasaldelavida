@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 29 Jan 2020
+
+[dev to - pro tip npm link explained](https://dev.to/angular/pro-tip-npm-link-explained-57be)
+
 ### 28 Jan 2020
 
 [Learning Node.js: The npm link (youtube video)](https://www.youtube.com/watch?v=nKFe1lhGSk0)
