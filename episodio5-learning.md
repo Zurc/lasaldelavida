@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [dev to - pro tip npm link explained](https://dev.to/angular/pro-tip-npm-link-explained-57be)
 
+angular and npm link possible issues: 
+
+[stackoverflow - how to develop 2 ng modules locally where module A imports module B](https://stackoverflow.com/questions/46809276/how-to-develop-two-angular-modules-locally-where-module-a-imports-module-b)
+
 ### 28 Jan 2020
 
 [Learning Node.js: The npm link (youtube video)](https://www.youtube.com/watch?v=nKFe1lhGSk0)
