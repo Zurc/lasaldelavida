@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 30 Jan 2019
 
+[alligator - providers shared modules](https://alligator.io/angular/providers-shared-modules/)
+
 [love 2 dev - FLEXBOX absolute centering CSS](https://love2dev.com/blog/absolute-centering-css/)
 
 [the polyglot developer - how build resusable angular components share world](https://www.thepolyglotdeveloper.com/2018/11/how-build-reusable-angular-components-share-world/)
