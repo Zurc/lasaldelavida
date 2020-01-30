@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 30 Jan 2019
 
+[stackoverflow - ng2+ router link active with two links activation](https://stackoverflow.com/questions/44250271/angular-2-router-link-active-with-two-links-activating)
+
 [css tricks - a guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  // updated today!
 
 [css-tricks - couple takes sticky footer](https://css-tricks.com/couple-takes-sticky-footer/)
