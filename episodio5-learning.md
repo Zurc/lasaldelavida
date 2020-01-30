@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 30 Jan 2019
 
+[css tricks - a guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  // updated today!
+
 [w3resource - sharing modules](https://www.w3resource.com/angular/sharing-modules.php)
 
 [alligator - providers shared modules](https://alligator.io/angular/providers-shared-modules/)
