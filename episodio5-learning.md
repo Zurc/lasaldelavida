@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 30 Jan 2019
+
+[love 2 dev - FLEXBOX absolute centering CSS](https://love2dev.com/blog/absolute-centering-css/)
+
 ### 29 Jan 2020
 
 [dev to - pro tip npm link explained](https://dev.to/angular/pro-tip-npm-link-explained-57be)
