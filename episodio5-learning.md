@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [stackoverflow - ng2+ router link active with two links activation](https://stackoverflow.com/questions/44250271/angular-2-router-link-active-with-two-links-activating)
 
+>  If in my 'routes' array (app.routing.module) I'm redirecting my root path "" to  "/anotherPath", then in my template, when using routerLink I should set it to "/anotherPath", if not, because all the paths include the root path, this will always be active...
+
 [css tricks - a guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  // updated today!
 
 [css-tricks - couple takes sticky footer](https://css-tricks.com/couple-takes-sticky-footer/)
