@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [love 2 dev - FLEXBOX absolute centering CSS](https://love2dev.com/blog/absolute-centering-css/)
 
+[the polyglot developer - how build resusable angular components share world](https://www.thepolyglotdeveloper.com/2018/11/how-build-reusable-angular-components-share-world/)
+
 ### 29 Jan 2020
 
 [dev to - pro tip npm link explained](https://dev.to/angular/pro-tip-npm-link-explained-57be)
