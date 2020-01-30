@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [css tricks - a guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  // updated today!
 
+[css-tricks - couple takes stiky footer](https://css-tricks.com/couple-takes-sticky-footer/)
+
 [w3resource - sharing modules](https://www.w3resource.com/angular/sharing-modules.php)
 
 [alligator - providers shared modules](https://alligator.io/angular/providers-shared-modules/)
