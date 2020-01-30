@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 30 Jan 2019
 
+[w3resource - sharing modules](https://www.w3resource.com/angular/sharing-modules.php)
+
 [alligator - providers shared modules](https://alligator.io/angular/providers-shared-modules/)
 
 [love 2 dev - FLEXBOX absolute centering CSS](https://love2dev.com/blog/absolute-centering-css/)
