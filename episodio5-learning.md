@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 31 Jan 2019
+
+[flexbugs](https://github.com/philipwalton/flexbugs)
+
 ### 30 Jan 2019
 
 [stackoverflow - ng2+ router link active with two links activation](https://stackoverflow.com/questions/44250271/angular-2-router-link-active-with-two-links-activating)
