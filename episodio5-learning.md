@@ -12,6 +12,8 @@ img:not([alt]) {
 }
 ```
 
+Chrome Dev Tools has a CSS animations inspector!
+
 [state management technique in ng rxjs BehaviourSubject](https://medium.com/@rmcavin/my-favorite-state-management-technique-in-angular-rxjs-behavior-subjects-49f18daa31a7)
 
 [teaching: command line beginners](https://modulesunraveled.com/command-line-beginners)
