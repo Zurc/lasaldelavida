@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [jonas schmedtmann github complete js course](https://github.com/jonasschmedtmann/complete-javascript-course)
 
+[coding heroes io - resources](http://codingheroes.io/resources/)
+
 [akita](https://netbasal.gitbook.io/akita/) // state management pattern on top of rxjs
 
 [juristr - simple state management with scan](https://juristr.com/blog/2018/10/simple-state-management-with-scan/)
