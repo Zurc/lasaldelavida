@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 3 Jan 2019
+
+// Good to know about licenses...
+
+[Visual Studio Code vs vscode](https://github.com/Microsoft/vscode/issues/60#issuecomment-161792005)
+
 ### 31 Jan 2019
 
 [flexbugs](https://github.com/philipwalton/flexbugs)
