@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 3 Jan 2019
 
+[state management technique in ng rxjs BehaviourSubject](https://medium.com/@rmcavin/my-favorite-state-management-technique-in-angular-rxjs-behavior-subjects-49f18daa31a7)
+
 [teaching: command line beginners](https://modulesunraveled.com/command-line-beginners)
 
 [installing git if you do not have xcode or command line developer tools installed](http://modulesunraveled.com/installing-git/installing-git-if-you-do-not-have-xcode-or-command-line-developer-tools-installed)
