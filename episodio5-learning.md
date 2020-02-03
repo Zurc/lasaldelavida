@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 3 Jan 2019
 
+[juristr - simple state management with scan](https://juristr.com/blog/2018/10/simple-state-management-with-scan/)
+
 [dev.to - simple state management in angular with only services and rxjs](https://dev.to/avatsaev/simple-state-management-in-angular-with-only-services-and-rxjs-41p8)
 
 [telerik - managing state using rxjs subjects in angular apps](https://www.telerik.com/blogs/managing-state-using-rxjs-subjects-in-angular-applications)
