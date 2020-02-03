@@ -4,6 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 3 Jan 2019
 
+
 [telerik - managing state using rxjs subjects in angular apps](https://www.telerik.com/blogs/managing-state-using-rxjs-subjects-in-angular-applications)
 
 > tip: highlight images missing alt text with img:not([alt]) . // addy osmani tweeter account
