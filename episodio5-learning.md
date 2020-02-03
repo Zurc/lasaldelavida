@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [JAVASCRIPT JS complete course 2019](https://www.youtube.com/watch?v=1UZ7__D7dxs&list=PLJts6TmUG5zjHru71rN39c_3k8Lc2aSm8)
 
+[jonas schmedtmann github complete js course](https://github.com/jonasschmedtmann/complete-javascript-course)
+
 [akita](https://netbasal.gitbook.io/akita/) // state management pattern on top of rxjs
 
 [juristr - simple state management with scan](https://juristr.com/blog/2018/10/simple-state-management-with-scan/)
