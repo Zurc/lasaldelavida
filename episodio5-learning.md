@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [telerik - managing state using rxjs subjects in angular apps](https://www.telerik.com/blogs/managing-state-using-rxjs-subjects-in-angular-applications)
 
+[jonas bandi - the most simple state management solution for angular](https://medium.jonasbandi.net/the-most-simple-state-management-solution-for-angular-1d32706e6f1c)
+
 > tip: highlight images missing alt text with img:not([alt]) . // addy osmani tweeter account
 
 ```
