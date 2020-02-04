@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [codecraft - angular reactive programming with rxjs](https://codecraft.tv/courses/angular/reactive-programming-with-rxjs/overview/)
 
+>  Which parts of angular exposes observables?
+>  
+>  Event Emitters, Http requests, Reactive Forms
+
 ### 3 Jan 2020
 
 [JAVASCRIPT JS complete course 2019](https://www.youtube.com/watch?v=1UZ7__D7dxs&list=PLJts6TmUG5zjHru71rN39c_3k8Lc2aSm8)
