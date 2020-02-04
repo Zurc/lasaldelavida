@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Jan 2020
 
+[CRUZ - angular state management using change detection](https://stackblitz.com/edit/angular-varbzn)
+
 [dev to - best practices to keep objects and arrays immutable in JS](https://dev.to/antonio_pangall/best-practices-to-keep-objects-and-arrays-immutable-in-javascript-3nmm)
 
 [ng4 how to save your app state in localstorage](https://medium.com/@tiagovalverde/how-to-save-your-app-state-in-localstorage-with-angular-ce3f49362e31)
