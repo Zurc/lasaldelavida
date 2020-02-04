@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 4 Jan 2020
 
+[stackoverflow - angular best practice for data store](https://stackoverflow.com/questions/31626360/angularjs-best-practice-for-data-store)
+
 [codecraft - angular reactive programming with rxjs](https://codecraft.tv/courses/angular/reactive-programming-with-rxjs/overview/)
 
 >  Which parts of angular exposes observables?
