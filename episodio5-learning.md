@@ -2,7 +2,11 @@
 
 Cosas que voy aprendiendo...
 
-### 3 Jan 2019
+### 4 Jan 2020
+
+[codecraft - angular reactive programming with rxjs](https://codecraft.tv/courses/angular/reactive-programming-with-rxjs/overview/)
+
+### 3 Jan 2020
 
 [JAVASCRIPT JS complete course 2019](https://www.youtube.com/watch?v=1UZ7__D7dxs&list=PLJts6TmUG5zjHru71rN39c_3k8Lc2aSm8)
 
@@ -40,11 +44,11 @@ Chrome Dev Tools has a CSS animations inspector!
 
 [Visual Studio Code vs vscode](https://github.com/Microsoft/vscode/issues/60#issuecomment-161792005)
 
-### 31 Jan 2019
+### 31 Jan 2020
 
 [flexbugs](https://github.com/philipwalton/flexbugs)
 
-### 30 Jan 2019
+### 30 Jan 2020
 
 [stackoverflow - ng2+ router link active with two links activation](https://stackoverflow.com/questions/44250271/angular-2-router-link-active-with-two-links-activating)
 
