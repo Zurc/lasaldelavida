@@ -12,7 +12,7 @@ Cosas que voy aprendiendo...
 >  
 >  max-content (no soft-wrapping.  It would overflow the box it is in if that container was too narrow.)
 >  
->  *positive free space* When a flex container has positive free space, it has more space than is required to display the flex items inside the container. For example, if I have a 500 pixel-wide container, flex-direction is row, and I have three flex items each 100 pixels wide, then I have 200 pixels of positive free space, which could be distributed between the items if I wanted them to fill the container.
+>  **positive free space** When a flex container has positive free space, it has more space than is required to display the flex items inside the container. For example, if I have a 500 pixel-wide container, flex-direction is row, and I have three flex items each 100 pixels wide, then I have 200 pixels of positive free space, which could be distributed between the items if I wanted them to fill the container.
 
 ### 4 Jan 2020
 
