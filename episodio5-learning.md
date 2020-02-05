@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 >  
 >  max-content (no soft-wrapping.  It would overflow the box it is in if that container was too narrow.)
 >  
+>  It is this distribution of positive free space and removal of negative free space that we need to understand in order to understand the flex properties.
+>  
 >  **positive free space** When a flex container has positive free space, it has more space than is required to display the flex items inside the container. For example, if I have a 500 pixel-wide container, flex-direction is row, and I have three flex items each 100 pixels wide, then I have 200 pixels of positive free space, which could be distributed between the items if I wanted them to fill the container.
 >  
 >  **negative free space** We have negative free space when the natural size of the items adds up to larger than the available space in the flex container. If I have a 500 pixel-wide container like the one above, but the three flex items are each 200 pixels wide, the total space I need will be 600 pixels, so I have 100 pixels of negative free space. This could be removed from the items in order to make them fit the container.
