@@ -20,11 +20,11 @@ Cosas que voy aprendiendo...
 
 >  Our three properties control the following aspects of a flex item's flexibility:
 >  
->  flex-grow: How much of the positive free space does this item get?
+>  -flex-grow: How much of the positive free space does this item get?
 >  
->  flex-shrink: How much negative free space can be removed from this item?
+>  -flex-shrink: How much negative free space can be removed from this item?
 >  
->  flex-basis: What is the size of the item before growing and shrinking happens?
+>  -flex-basis: What is the size of the item before growing and shrinking happens?
 >  
 >  The properties are usually expressed as the shorthand flex property. The following code would set the flex-grow property to 2, flex-shrink to 1 and flex-basis to auto.
 >  
