@@ -28,6 +28,12 @@ Cosas que voy aprendiendo...
 >  
 >  The properties are usually expressed as the shorthand flex property. The following code would set the flex-grow property to 2, flex-shrink to 1 and flex-basis to auto.
 >  
+```
+.item {
+  flex: 2 1 auto;
+}
+```
+>  
 >  **Flex basis** The flex-basis property specifies the initial size of the flex item before any space distribution happens. The initial value for this property is auto. If flex-basis is set to auto then to work out the initial size of the item the browser first checks if the main size of the item has an absolute size set. This would be the case if you had given your item a width of 200 pixels. In that case 200px would be the flex-basis for this item.
 >  
 >  
