@@ -6,6 +6,14 @@ Cosas que voy aprendiendo...
 
 [MDN - controlling rations of Flex items along the main axis](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Controlling_Ratios_of_Flex_Items_Along_the_Main_Ax)
 
+>  Flex items sizing: 
+>  
+>  min-content (soft wrapping. the longest word in the string is dictating the size.)
+>  
+>  max-content (no soft-wrapping.  It would overflow the box it is in if that container was too narrow.)
+>  
+>  *positive free space* When a flex container has positive free space, it has more space than is required to display the flex items inside the container. For example, if I have a 500 pixel-wide container, flex-direction is row, and I have three flex items each 100 pixels wide, then I have 200 pixels of positive free space, which could be distributed between the items if I wanted them to fill the container.
+
 ### 4 Jan 2020
 
 [smashing magazine - help the community report browser bugs](https://www.smashingmagazine.com/2011/09/help-the-community-report-browser-bugs/)
