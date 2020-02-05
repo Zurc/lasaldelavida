@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 5 Jan 2020
+
+[MDN - controlling rations of Flex items along the main axis](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Controlling_Ratios_of_Flex_Items_Along_the_Main_Ax)
+
 ### 4 Jan 2020
 
 [smashing magazine - help the community report browser bugs](https://www.smashingmagazine.com/2011/09/help-the-community-report-browser-bugs/)
