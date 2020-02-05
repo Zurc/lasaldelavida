@@ -17,6 +17,16 @@ Cosas que voy aprendiendo...
 >  **positive free space** When a flex container has positive free space, it has more space than is required to display the flex items inside the container. For example, if I have a 500 pixel-wide container, flex-direction is row, and I have three flex items each 100 pixels wide, then I have 200 pixels of positive free space, which could be distributed between the items if I wanted them to fill the container.
 >  
 >  **negative free space** We have negative free space when the natural size of the items adds up to larger than the available space in the flex container. If I have a 500 pixel-wide container like the one above, but the three flex items are each 200 pixels wide, the total space I need will be 600 pixels, so I have 100 pixels of negative free space. This could be removed from the items in order to make them fit the container.
+
+>  Our three properties control the following aspects of a flex item's flexibility:
+>  
+>  flex-grow: How much of the positive free space does this item get?
+>  
+>  flex-shrink: How much negative free space can be removed from this item?
+>  
+>  flex-basis: What is the size of the item before growing and shrinking happens?
+>  
+>  The properties are usually expressed as the shorthand flex property. The following code would set the flex-grow property to 2, flex-shrink to 1 and flex-basis to auto.
 >  
 >  **Flex basis** The flex-basis property specifies the initial size of the flex item before any space distribution happens. The initial value for this property is auto. If flex-basis is set to auto then to work out the initial size of the item the browser first checks if the main size of the item has an absolute size set. This would be the case if you had given your item a width of 200 pixels. In that case 200px would be the flex-basis for this item.
 >  
