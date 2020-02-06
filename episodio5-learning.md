@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [angular in depth - RxJS subscribe Vs. async pipe in component templates](https://medium.com/angular-in-depth/angular-question-rxjs-subscribe-vs-async-pipe-in-component-templates-c956c8c0c794)
 
+[malcoded - why angular not works](https://malcoded.com/posts/why-angular-not-works/)
+
 ### 5 Feb 2020
 
 [MDN - controlling rations of Flex items along the main axis](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Controlling_Ratios_of_Flex_Items_Along_the_Main_Ax)
