@@ -2,7 +2,11 @@
 
 Cosas que voy aprendiendo...
 
-### 5 Jan 2020
+### 6 Feb 2020
+
+[stackoverflow - when angular not update after variable change in subscribe](https://stackoverflow.com/questions/38445670/angular-2-view-will-not-update-after-variable-change-in-subscribe)
+
+### 5 Feb 2020
 
 [MDN - controlling rations of Flex items along the main axis](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Controlling_Ratios_of_Flex_Items_Along_the_Main_Ax)
 
@@ -38,7 +42,7 @@ Cosas que voy aprendiendo...
 >  
 >  
 
-### 4 Jan 2020
+### 4 Feb 2020
 
 [smashing magazine - help the community report browser bugs](https://www.smashingmagazine.com/2011/09/help-the-community-report-browser-bugs/)
 
@@ -56,7 +60,7 @@ Cosas que voy aprendiendo...
 >  
 >  Event Emitters, Http requests, Reactive Forms
 
-### 3 Jan 2020
+### 3 Feb 2020
 
 [JAVASCRIPT JS complete course 2019](https://www.youtube.com/watch?v=1UZ7__D7dxs&list=PLJts6TmUG5zjHru71rN39c_3k8Lc2aSm8)
 
