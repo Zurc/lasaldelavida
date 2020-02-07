@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 7 Feb 2020
+
+[netbasal - detect unsaved changes in angular forms](https://netbasal.com/detect-unsaved-changes-in-angular-forms-75fd8f5f1fa6)
+
 ### 6 Feb 2020
 
 [stackoverflow - when angular not update after variable change in subscribe](https://stackoverflow.com/questions/38445670/angular-2-view-will-not-update-after-variable-change-in-subscribe)
