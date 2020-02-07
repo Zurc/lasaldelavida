@@ -8,6 +8,10 @@ Cosas que voy aprendiendo...
 
 [npm fix "missing write access error"](https://flaviocopes.com/npm-fix-missing-write-access-error/)
 
+angular: see your components
+
+>  If you want to see one of your components, simply go to the Chrome Dev Tools Sources tab, hit Ctrl + O and type in the name of your component.
+
 ### 6 Feb 2020
 
 [stackoverflow - when angular not update after variable change in subscribe](https://stackoverflow.com/questions/38445670/angular-2-view-will-not-update-after-variable-change-in-subscribe)
