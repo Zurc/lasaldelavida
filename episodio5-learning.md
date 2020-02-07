@@ -12,6 +12,8 @@ angular: see your components
 
 >  If you want to see one of your components, simply go to the Chrome Dev Tools Sources tab, hit Ctrl + O and type in the name of your component.
 
+[angular university - what is unidirectional data flow (development mode)](https://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/)
+
 ### 6 Feb 2020
 
 [stackoverflow - when angular not update after variable change in subscribe](https://stackoverflow.com/questions/38445670/angular-2-view-will-not-update-after-variable-change-in-subscribe)
