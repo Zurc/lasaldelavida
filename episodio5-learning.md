@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 
 [malcoded - why angular not works](https://malcoded.com/posts/why-angular-not-works/)
 
-[indepth dev - what every developer should know about change detection in angular and react](https://indepth.dev/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react/)
+[indepth dev - what every developer should know about change detection in angular and react](https://indepth.dev/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react/)  // √√√
 
 ### 5 Feb 2020
 
