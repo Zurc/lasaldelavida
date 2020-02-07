@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [netbasal - detect unsaved changes in angular forms](https://netbasal.com/detect-unsaved-changes-in-angular-forms-75fd8f5f1fa6)
 
+[npm fix "missing write access error"](https://flaviocopes.com/npm-fix-missing-write-access-error/)
+
 ### 6 Feb 2020
 
 [stackoverflow - when angular not update after variable change in subscribe](https://stackoverflow.com/questions/38445670/angular-2-view-will-not-update-after-variable-change-in-subscribe)
