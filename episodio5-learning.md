@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 8 Feb 2020
+
+[blog angular io - building a transaction service for managing large scale editing experiences](https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e)
+
 ### 7 Feb 2020
 
 [netbasal - detect unsaved changes in angular forms](https://netbasal.com/detect-unsaved-changes-in-angular-forms-75fd8f5f1fa6)
