@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - state management using change detection](https://stackblitz.com/edit/angular-vctlp5)
 
+[immutable changes in js](http://blog.ricardofilipe.com/post/immutable-changes-in-js)
+
 ### 8 Feb 2020
 
 [blog angular io - building a transaction service for managing large scale editing experiences](https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e)
