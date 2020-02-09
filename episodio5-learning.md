@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - got stuck on how to populate reactive form from service using change detection](https://stackblitz.com/edit/angular-eatx1p)
 
+[CRUZ - state management using change detection](https://stackblitz.com/edit/angular-vctlp5)
+
 ### 8 Feb 2020
 
 [blog angular io - building a transaction service for managing large scale editing experiences](https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e)
