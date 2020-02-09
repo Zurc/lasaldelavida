@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 9 Feb 2020
 
+[CRUZ - behavioursubject to communicate data changes...](https://stackblitz.com/edit/angular-lbyz4f)
+
 [CRUZ - got stuck on how to populate reactive form from service using change detection](https://stackblitz.com/edit/angular-eatx1p)
 
 [CRUZ - state management using change detection](https://stackblitz.com/edit/angular-vctlp5)
