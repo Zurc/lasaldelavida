@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 9 Feb 2020
+
+[CRUZ - got stuck on how to populate reactive form from service using change detection](https://stackblitz.com/edit/angular-eatx1p)
+
 ### 8 Feb 2020
 
 [blog angular io - building a transaction service for managing large scale editing experiences](https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e)
