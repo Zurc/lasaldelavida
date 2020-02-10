@@ -6,6 +6,24 @@ Cosas que voy aprendiendo...
 
 [stackoverflow - how to commit current changes in a new branch using tortoise svn](https://stackoverflow.com/questions/3290726/how-do-i-commit-current-changes-in-a-new-branch-using-tortoisesvn-and-subversion/3290762)
 
+ANGULAR: add  property dynamically to an array of objects
+
+imagine we have an array licenses with start and expiry date properties and we want to calculate status in/valid for each license...
+
+```
+methodName(licenses => {
+  this.licenses = licenses.map( license => ({...licence, status: this.getStatus() }) );
+  ...
+}
+
+this.getStatus() {
+  // do your calculations and assign to status (new property)
+  return status;
+}
+```
+
+
+
 ### 9 Feb 2020
 
 [CRUZ - behavioursubject to communicate data changes...](https://stackblitz.com/edit/angular-lbyz4f)
