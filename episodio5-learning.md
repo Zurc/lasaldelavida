@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Feb 2020
+
+[stackoverflow - how to commit current changes in a new branch using tortoise svn](https://stackoverflow.com/questions/3290726/how-do-i-commit-current-changes-in-a-new-branch-using-tortoisesvn-and-subversion/3290762)
+
 ### 9 Feb 2020
 
 [CRUZ - behavioursubject to communicate data changes...](https://stackblitz.com/edit/angular-lbyz4f)
