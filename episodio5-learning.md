@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [angular firebase - sharing data between angular components four methods](https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/)
 
+[david walsh - sort an arroy of objects by obj property by using sort(fn)](https://davidwalsh.name/array-sort)
+
 ### 10 Feb 2020
 
 [stackoverflow - how to commit current changes in a new branch using tortoise svn](https://stackoverflow.com/questions/3290726/how-do-i-commit-current-changes-in-a-new-branch-using-tortoisesvn-and-subversion/3290762)
