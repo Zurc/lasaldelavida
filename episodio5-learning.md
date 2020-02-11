@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Object assign Vs. Obj spread in angular ngrx reducers](https://medium.com/@tomastrajan/object-assign-vs-object-spread-in-angular-ngrx-reducers-3d62ecb4a4b0)
 
+[angular firebase - sharing data between angular components four methods](https://angularfirebase.com/lessons/sharing-data-between-angular-components-four-methods/)
+
 ### 10 Feb 2020
 
 [stackoverflow - how to commit current changes in a new branch using tortoise svn](https://stackoverflow.com/questions/3290726/how-do-i-commit-current-changes-in-a-new-branch-using-tortoisesvn-and-subversion/3290762)
