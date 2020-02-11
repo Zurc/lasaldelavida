@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 CPS meeting agoiut [SDS - status determination statement](https://www.larsenhowie.co.uk/knowledgehub/status-determination-statement)
 
+[top tools for angular developers](https://blog.bitsrc.io/my-top-favorite-tools-for-angular-developers-c2ed96397f6b)
+
 ### 10 Feb 2020
 
 [stackoverflow - how to commit current changes in a new branch using tortoise svn](https://stackoverflow.com/questions/3290726/how-do-i-commit-current-changes-in-a-new-branch-using-tortoisesvn-and-subversion/3290762)
