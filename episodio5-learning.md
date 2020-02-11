@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [freecodecamp - 48 answers (stackoverflow) to most popular angular questions](https://www.freecodecamp.org/news/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0/)
 
+CPS meeting agoiut [SDS - status determination statement](https://www.larsenhowie.co.uk/knowledgehub/status-determination-statement)
+
 ### 10 Feb 2020
 
 [stackoverflow - how to commit current changes in a new branch using tortoise svn](https://stackoverflow.com/questions/3290726/how-do-i-commit-current-changes-in-a-new-branch-using-tortoisesvn-and-subversion/3290762)
