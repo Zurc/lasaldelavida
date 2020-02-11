@@ -16,6 +16,8 @@ CPS meeting agoiut [SDS - status determination statement](https://www.larsenhowi
 
 [top tools for angular developers](https://blog.bitsrc.io/my-top-favorite-tools-for-angular-developers-c2ed96397f6b)
 
+[m gechev - angular tooling codelyzer angular cli ngrev](https://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/)
+
 ### 10 Feb 2020
 
 [stackoverflow - how to commit current changes in a new branch using tortoise svn](https://stackoverflow.com/questions/3290726/how-do-i-commit-current-changes-in-a-new-branch-using-tortoisesvn-and-subversion/3290762)
