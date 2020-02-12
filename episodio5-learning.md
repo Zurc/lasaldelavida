@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 12 Feb 2020
+
+For when creating extra columns on the client
+
+[CRUZ - pseudo list with pagination](https://stackblitz.com/edit/angular-sotpna)
+
 ### 11 Feb 2020
 
 [Object assign Vs. Obj spread in angular ngrx reducers](https://medium.com/@tomastrajan/object-assign-vs-object-spread-in-angular-ngrx-reducers-3d62ecb4a4b0)
