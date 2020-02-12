@@ -214,7 +214,7 @@ angular and npm link possible issues:
 
 [The big ball of mud](http://www.laputan.org/mud/)
 
-[angular in depth - model view presenter with angular](https://indepth.dev/model-view-presenter-with-angular/)
+[angular in depth - model view presenter with angular](https://indepth.dev/model-view-presenter-with-angular/)  // +++
 
 [angular in depth - building extensible dynamic pluggable enterprise app with angular](https://medium.com/angular-in-depth/building-extensible-dynamic-pluggable-enterprise-application-with-angular-aed8979faba5)
 
