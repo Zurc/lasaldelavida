@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 13 Feb 2020
 
-Using Switch with expressions: Just pass true as the condition for the switch to eveluate
+Using Switch with expressions: Just pass true as the condition for the switch to evaluate
 
 ```
 const age = 13;
