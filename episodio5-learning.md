@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 13 Feb 2020
 
+para ver dp... [Como educar para que le pasen cosas buenas a tus hijos](https://www.youtube.com/watch?v=Pmxn6Vj3_PI)
+
 Using Switch with expressions: Just pass true as the condition for the switch to evaluate
 
 ```
