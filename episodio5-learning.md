@@ -2,6 +2,22 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Feb 2020
+
+Using Switch with expressions: Just pass true as the condition for the switch to eveluate
+
+```
+const age = 13;
+switch(true) {
+  case age < 13:
+    ...
+    break;
+  case age >= 13 && < 20
+    ...
+    break;
+  ...
+```
+
 ### 12 Feb 2020
 
 For when creating extra columns on the client
