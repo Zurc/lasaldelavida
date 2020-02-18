@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 18 Feb 2020
 
+[What if english were phonetically consistent](https://www.youtube.com/watch?v=A8zWWp0akUU&feature=youtu.be)
+
 ANGULAR templates: Loading, not found or OK...
 
 ```
