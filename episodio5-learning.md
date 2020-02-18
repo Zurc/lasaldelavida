@@ -22,6 +22,12 @@ ANGULAR templates: Loading, not found or OK...
 </ng-template>
 ```
 
+if you need to navigate by url example...
+
+```
+  router.navigateByUrl(`sensor-station/weather-station/${id}`);
+```
+
 ### 13 Feb 2020
 
 para ver dp... [Como educar para que le pasen cosas buenas a tus hijos](https://www.youtube.com/watch?v=Pmxn6Vj3_PI)
