@@ -2,6 +2,26 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Feb 2020
+
+ANGULAR templates: Loading, not found or OK...
+
+```
+<ng-container *ngTemplateOutlet="loading ? loadingSwirl : isNullOrUndefined(sensorStation) ? notFound : loaded"> </ng-container>
+
+<ng-template #loadingSwirl>
+  <app-loading-swirly></app-loading-swirly>
+</ng-template>
+
+<ng-template #notFound>
+  <label class="centered-text">No information on the sensor station could be found</label>
+</ng-template>
+
+<ng-template #loaded>
+  ...
+</ng-template>
+```
+
 ### 13 Feb 2020
 
 para ver dp... [Como educar para que le pasen cosas buenas a tus hijos](https://www.youtube.com/watch?v=Pmxn6Vj3_PI)
