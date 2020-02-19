@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 19 Feb 2020
 
+[CRUZ temp files - changes from 'region' to 'flags'](https://stackblitz.com/edit/angular-8vncbx)
+
 JS - create an array ( [key, value] pairs ) of an object
 
 `Object.entries(objectName)`
