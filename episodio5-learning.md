@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 19 Feb 2020
 
+JS - create an array ( [key, value] pairs ) of an object
+
+`Object.entries(objectName)`
+
+[michael bromley personal site](https://www.michaelbromley.co.uk/project/)  // interesting website
+
 ANGULAR - component communication ( me gustó la forma en que explica, bien clarito)
 
 [intersys consulting - communication between components](https://www.intersysconsulting.com/blog/angular-components/)
