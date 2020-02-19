@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Feb 2020
+
+ANGULAR - component communication ( me gustó la forma en que explica, bien clarito)
+
+[intersys consulting - communication between components](https://www.intersysconsulting.com/blog/angular-components/)
+
 ### 18 Feb 2020
 
 [What if english were phonetically consistent](https://www.youtube.com/watch?v=A8zWWp0akUU&feature=youtu.be)
