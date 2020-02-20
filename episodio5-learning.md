@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 20 Feb 2020
+
+[javascript info - keys, values, entries](https://javascript.info/keys-values-entries)  // good explanation, check website
+
 ### 19 Feb 2020
 
 [CRUZ (forked stackblitz) - angular multiselect dropdown](https://stackblitz.com/edit/angular-ny1ibs)
