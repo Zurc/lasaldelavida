@@ -27,7 +27,7 @@ console.log(sumSalaries(salaries));  // 650
 
 example of **Object.entries()** (returns an array of a given object's own enumerable string-keyed property [key, value] pairs) and **Object.fromEntries()** (transforms a list of key-value pairs into an object)
 
-```
+```js
 let fruits = {
   apple: 1,
   banana: 3,
@@ -37,6 +37,16 @@ let fruits = {
 console.log(fruits);  // {apple: 1, banana: 3, pear: 2}
 console.log(Object.entries(fruits));  // [["apple", 1],["banana", 3],["pear", 2]]
 console.log(Object.fromEntries(Object.entries(fruits)));  // {apple: 1, banana: 3, pear: 2}
+```
+
+now... let perfom some action on the object properties and return a new object...
+
+```js
+let doublePrice = Object.fromEntries(
+  Object.entries(fruits).map(([key, value]) => [key, value * 2]);
+)
+
+console.log(doublePrice);  // {apple: 2, banana: 6, pear: 4}
 ```
 
 ### 20 Feb 2020
