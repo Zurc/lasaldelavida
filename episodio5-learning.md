@@ -6,11 +6,11 @@ Cosas que voy aprendiendo...
 
 JS - turn object into array to use Array methods. example:
 
-```
+```js
 let salaries = {
-"John": 100,
-"Pete": 300,
-"Mary": 250,
+  "John": 100,
+  "Pete": 300,
+  "Mary": 250,
 }
 
 const sumSalaries = salaries => {
