@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 21 Feb 2020
 
-JS - turn object into array to use Arrar methods. example:
+JS - turn object into array to use Array methods. example:
 
 ```
 let salaries = {
