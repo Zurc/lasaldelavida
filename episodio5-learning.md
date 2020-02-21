@@ -39,7 +39,7 @@ console.log(Object.entries(fruits));  // [["apple", 1],["banana", 3],["pear", 2]
 console.log(Object.fromEntries(Object.entries(fruits)));  // {apple: 1, banana: 3, pear: 2}
 ```
 
-now... let perfom some action on the object properties and return a new object...
+now... let's perfom some action on the object properties and return a new object...
 
 ```js
 let doublePrice = Object.fromEntries(
