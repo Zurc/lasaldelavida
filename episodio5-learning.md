@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Feb 2020
 
+[dev to - ++x Vs. x++](https://dev.to/somedood/the-difference-between-x-and-x-44dl)
+
 JS - turn object into array to use Array methods. example:
 
 ```js
