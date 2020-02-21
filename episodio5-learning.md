@@ -25,6 +25,20 @@ const sumSalaries = salaries => {
 console.log(sumSalaries(salaries));  // 650
 ```
 
+example of **Object.entries()** (returns an array of a given object's own enumerable string-keyed property [key, value] pairs) and **Object.fromEntries()** (transforms a list of key-value pairs into an object)
+
+```
+let fruits = {
+  apple: 1,
+  banana: 3,
+  pear: 2
+}
+
+console.log(fruits);  // {apple: 1, banana: 3, pear: 2}
+console.log(Object.entries(fruits));  // [["apple", 1],["banana", 3],["pear", 2]]
+console.log(Object.fromEntries(Object.entries(fruits)));  // {apple: 1, banana: 3, pear: 2}
+```
+
 ### 20 Feb 2020
 
 [javascript info - keys, values, entries](https://javascript.info/keys-values-entries)  // good explanation, check website
