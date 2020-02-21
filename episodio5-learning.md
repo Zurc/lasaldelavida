@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 [dev to - ++x Vs. x++](https://dev.to/somedood/the-difference-between-x-and-x-44dl)
 
-`++x` increments first and then return the value
+`++x`js increments first and then return the value
 
 `x++` returns the value and then increments it
 
