@@ -2,6 +2,29 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Feb 2020
+
+JS - turn object into array to use Arrar methods. example:
+
+```
+let salaries = {
+"John": 100,
+"Pete": 300,
+"Mary": 250,
+}
+
+const sumSalaries = salaries => {
+  const arr = Object.values(salaries);
+  if (!arr.length) { 
+  	return 0;
+  } else {
+    const reducer = (accumulator, currentValue) => accumulator + currentValue;
+    return arr.reduce(reducer);
+  }
+}
+console.log(sumSalaries(salaries));  // 650
+```
+
 ### 20 Feb 2020
 
 [javascript info - keys, values, entries](https://javascript.info/keys-values-entries)  // good explanation, check website
