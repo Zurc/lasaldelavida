@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Feb 2020
+
+[Resolver cubo de Rubik 3x3 (Principiantes) | HD | Tutorial | Español](https://www.youtube.com/watch?v=GyY0OxDk5lI)
+
 ### 21 Feb 2020
 
 [dev to - ++x Vs. x++](https://dev.to/somedood/the-difference-between-x-and-x-44dl)
