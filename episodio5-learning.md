@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Feb 2020
+
+[How To Solve Rubik's Cube: So Easy A 3 Year Old Can Do It (Full Tutorial)](https://www.youtube.com/watch?v=9spDGBeWl1o)
+
 ### 22 Feb 2020
 
 [Resolver cubo de Rubik 3x3 (Principiantes) | HD | Tutorial | Español](https://www.youtube.com/watch?v=GyY0OxDk5lI)
