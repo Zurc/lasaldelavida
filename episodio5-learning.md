@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Feb 2020
+
+[Java Stack and Heap - Java Memory Management](https://www.youtube.com/watch?v=450maTzSIvA)
+
 ### 23 Feb 2020
 
 [How To Solve Rubik's Cube: So Easy A 3 Year Old Can Do It (Full Tutorial)](https://www.youtube.com/watch?v=9spDGBeWl1o)
