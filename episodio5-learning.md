@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angular schematics](https://developer.okta.com/blog/2019/02/13/angular-schematics)
 
+[angular architecture overview concepts](https://www.tektutorialshub.com/angular/angular-architecture-overview-concepts/)
+
 [CRUZ - angular stackblitz: get JSON data as observable stream](https://stackblitz.com/edit/angular-httpclient-local-data-3xv69p)
 
 [CRUZ - angular stackblitz: get data from github JSON](https://stackblitz.com/edit/angular-httpclient-local-data-q1jwob)
