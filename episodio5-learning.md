@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Feb 2020
 
+[CRUZ - angular: get data from github JSON](https://stackblitz.com/edit/angular-httpclient-local-data-q1jwob)
+
 [Java Stack and Heap - Java Memory Management](https://www.youtube.com/watch?v=450maTzSIvA)
 
 ### 23 Feb 2020
