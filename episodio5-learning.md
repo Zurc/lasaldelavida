@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Feb 2020
 
+[addy osmani BOOK - essential JS design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
 [anatomy of a large angular application](https://medium.com/@krposlek/anatomy-of-a-large-angular-application-f098e5e36994)
 
 [angular schematics](https://developer.okta.com/blog/2019/02/13/angular-schematics)
