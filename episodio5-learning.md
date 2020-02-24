@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - angular stackblitz: get data from github JSON](https://stackblitz.com/edit/angular-httpclient-local-data-q1jwob)
 
+[stackoverflow - serve JSON data from github pages](https://stackoverflow.com/questions/39199042/serve-json-data-from-github-pages)
+
 [Java Stack and Heap - Java Memory Management](https://www.youtube.com/watch?v=450maTzSIvA)
 
 ### 23 Feb 2020
