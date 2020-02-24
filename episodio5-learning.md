@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [addy osmani BOOK - essential JS design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+[3 ways to define a JS class](https://www.phpied.com/3-ways-to-define-a-javascript-class/)
+
 [design patterns JS (with examples)](https://github.com/fbeline/design-patterns-JS)
 
 [anatomy of a large angular application](https://medium.com/@krposlek/anatomy-of-a-large-angular-application-f098e5e36994)
