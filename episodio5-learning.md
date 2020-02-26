@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [low carb meal plan (example for a week)](https://www.diabetes.org.uk/guide-to-diabetes/enjoy-food/eating-with-diabetes/meal-plans-/low-carb)
 
+[no carb diet](https://www.healthline.com/nutrition/no-carb-diet#bottom-line)
+
 [rubiks cube - last layer corners](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/orient-yellow-corners-how-to-solve-last-layer-corner/)
 
 ### 24 Feb 2020
