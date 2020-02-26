@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Feb 2020
+
+[rubiks cube - last layer corners](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/orient-yellow-corners-how-to-solve-last-layer-corner/)
+
 ### 24 Feb 2020
 
 [addy osmani BOOK - essential JS design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
