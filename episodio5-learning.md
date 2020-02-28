@@ -2,13 +2,17 @@
 
 Cosas que voy aprendiendo...
 
-### 26 Feb 2020
+### 28 Feb 2020
+
+[alligator - navigation routerlink navigate, navigatebyurl](https://alligator.io/angular/navigation-routerlink-navigate-navigatebyurl/)
+
+### 27 Feb 2020
 
 [IR35 - right of substitution](https://www.qdoscontractor.com/ir35/right-of-substitution)
 
 [How to Solve the Rubik’s Cube: An Easy Tutorial](https://www.youtube.com/watch?v=1t1OL2zN0LQ)
 
-### 25 Feb 2020
+### 26 Feb 2020
 
 [low carb meal plan (example for a week)](https://www.diabetes.org.uk/guide-to-diabetes/enjoy-food/eating-with-diabetes/meal-plans-/low-carb)
 
