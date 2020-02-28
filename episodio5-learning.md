@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [alligator - navigation routerlink navigate, navigatebyurl](https://alligator.io/angular/navigation-routerlink-navigate-navigatebyurl/)
 
+[headless drupal | angular](https://abh.ai/blog/headless-decoupled-drupal-using-drupal-8-and-angular-6)
+
 ### 27 Feb 2020
 
 [IR35 - right of substitution](https://www.qdoscontractor.com/ir35/right-of-substitution)
