@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [valid and invalid in angular forms](https://itnext.io/valid-and-invalid-in-angular-forms-61cfa3f2a0cd)
 
+[ng5 share data beween sibling components using eventemitter](https://medium.com/@pandukamuditha/angular-5-share-data-between-sibling-components-using-eventemitter-8ebb49b64a0a)
+
 ### 28 Feb 2020
 
 [alligator - navigation routerlink navigate, navigatebyurl](https://alligator.io/angular/navigation-routerlink-navigate-navigatebyurl/)
