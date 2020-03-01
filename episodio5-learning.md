@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 1 Mar 2020
+
+[valid and invalid in angular forms](https://itnext.io/valid-and-invalid-in-angular-forms-61cfa3f2a0cd)
+
 ### 28 Feb 2020
 
 [alligator - navigation routerlink navigate, navigatebyurl](https://alligator.io/angular/navigation-routerlink-navigate-navigatebyurl/)
