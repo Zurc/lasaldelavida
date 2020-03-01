@@ -137,7 +137,7 @@ ANGULAR - component communication ( me gustó la forma en que explica, bien clar
 
 ANGULAR templates: Loading, not found or OK...
 
-```
+```html
 <ng-container *ngTemplateOutlet="loading ? loadingSwirl : isNullOrUndefined(sensorStation) ? notFound : loaded"> </ng-container>
 
 <ng-template #loadingSwirl>
@@ -155,7 +155,7 @@ ANGULAR templates: Loading, not found or OK...
 
 if you need to navigate by url example...
 
-```
+```js
   router.navigateByUrl(`sensor-station/weather-station/${id}`);
 ```
 
@@ -165,7 +165,7 @@ para ver dp... [Como educar para que le pasen cosas buenas a tus hijos](https://
 
 Using Switch with expressions: Just pass true as the condition for the switch to evaluate
 
-```
+```js
 const age = 13;
 switch(true) {
   case age < 13:
