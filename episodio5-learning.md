@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 1 Mar 2020
 
+[net basal - reactive forms tips and tricks](https://netbasal.com/angular-reactive-forms-tips-and-tricks-bb0c85400b58)
+
 [valid and invalid in angular forms](https://itnext.io/valid-and-invalid-in-angular-forms-61cfa3f2a0cd)
 
 ### 28 Feb 2020
