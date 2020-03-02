@@ -8,6 +8,8 @@ JAVA resources:
 
 [freecodecamp JAVA](https://guide.freecodecamp.org/java/)
 
+[freecodecamp - java tutorial for complete beginners](https://www.freecodecamp.org/forum/t/java-tutorial-for-complete-beginners-free-course/78701)
+
 [record video on Mac](https://setapp.com/how-to/record-edit-share-videos-on-mac)
 
 [MDN - Array flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
