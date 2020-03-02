@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 2 Mar 2020
 
+[MDN - Array flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
+
 ANGULAR - JS: Good example of using ASYNC / AWAIT in a line...
 
 `this.internalValue = (await this.countryService.getCountriesByProp(value).toPromise()).map(country => country.mids)`
