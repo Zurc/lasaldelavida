@@ -4,11 +4,15 @@ Cosas que voy aprendiendo...
 
 ### 2 Mar 2020
 
-JAVA resources:
+----- JAVA resources:
 
 [freecodecamp JAVA](https://guide.freecodecamp.org/java/)
 
 [freecodecamp - java tutorial for complete beginners](https://www.freecodecamp.org/forum/t/java-tutorial-for-complete-beginners-free-course/78701)
+
+[freecodecamp news java](https://www.freecodecamp.org/news/tag/java/)
+
+-----
 
 [record video on Mac](https://setapp.com/how-to/record-edit-share-videos-on-mac)
 
