@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 2 Mar 2020
 
+JAVA resources:
+
+[freecodecamp JAVA](https://guide.freecodecamp.org/java/)
+
 [record video on Mac](https://setapp.com/how-to/record-edit-share-videos-on-mac)
 
 [MDN - Array flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
