@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 2 Mar 2020
 
------ JAVA resources:
+----- 
+
+JAVA resources:
 
 [freecodecamp JAVA](https://guide.freecodecamp.org/java/)
 
