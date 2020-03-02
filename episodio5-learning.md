@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 2 Mar 2020
 
+[Tortoise SVN - daily usage guide: merging](https://tortoisesvn.net/docs/release/TortoiseSVN_en/tsvn-dug-merge.html)
+
 [SVN merging](http://svnbook.red-bean.com/en/1.8/svn.branchmerge.html)
 
 [CRUZ (stackblitz) - temp elog redesign file changes](https://stackblitz.com/edit/angular-sat5qy)
