@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 2 Mar 2020
+
+[CRUZ (stackblitz) - temp elog redesign file changes](https://stackblitz.com/edit/angular-sat5qy)
+
 ### 1 Mar 2020
 
 [net basal - reactive forms tips and tricks](https://netbasal.com/angular-reactive-forms-tips-and-tricks-bb0c85400b58)
