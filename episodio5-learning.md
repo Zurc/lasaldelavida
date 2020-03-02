@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 2 Mar 2020
 
+ANGULAR - JS: Good example of using ASYNC / AWAIT in a line...
+
+`this.internalValue = (await this.countryService.getCountriesByProp(value).toPromise()).map(country => country.mids)`
+
 [code visualstudio - typescript compiling](https://code.visualstudio.com/docs/typescript/typescript-compiling)
 
 [Tortoise SVN - daily usage guide: merging](https://tortoisesvn.net/docs/release/TortoiseSVN_en/tsvn-dug-merge.html)
