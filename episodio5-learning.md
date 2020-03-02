@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 2 Mar 2020
 
+[SVN merging](http://svnbook.red-bean.com/en/1.8/svn.branchmerge.html)
+
 [CRUZ (stackblitz) - temp elog redesign file changes](https://stackblitz.com/edit/angular-sat5qy)
 
 ### 1 Mar 2020
