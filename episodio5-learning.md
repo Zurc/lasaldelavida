@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [BOOK - Automatic millionare](https://www.amazon.co.uk/Automatic-Millionaire-Powerful-One-Step-Finish/dp/0743538412)
 
+[observable.hq - a taste of observable platform](https://observablehq.com/@observablehq/a-taste-of-observable)
+
 ### 2 Mar 2020
 
 ----- 
