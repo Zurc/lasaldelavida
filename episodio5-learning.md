@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 3 Mar 2020
+
+[BOOK - Automatic millionare](https://www.amazon.co.uk/Automatic-Millionaire-Powerful-One-Step-Finish/dp/0743538412)
+
 ### 2 Mar 2020
 
 ----- 
