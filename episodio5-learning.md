@@ -26,7 +26,7 @@ JAVA resources:
 
 ANGULAR - JS: Good example of using ASYNC / AWAIT in a line...
 
-`this.internalValue = (await this.countryService.getCountriesByProp(value).toPromise()).map(country => country.mids)`
+`js this.internalValue = (await this.countryService.getCountriesByProp(value).toPromise()).map(country => country.mids)`
 
 [code visualstudio - typescript compiling](https://code.visualstudio.com/docs/typescript/typescript-compiling)
 
