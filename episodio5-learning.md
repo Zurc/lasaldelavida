@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 -----
 
-Google Sheets - Excel
+[ GOOGLE SHEETS - EXCEL ]
 
 [Advanced excel 2016 tips and tricks](https://www.youtube.com/watch?v=PU8ACyYxJBk)
 
