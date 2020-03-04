@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 4 Mar 2020
+
+[Youtube business example](https://www.youtube.com/watch?v=QqLxnljvV8E)
+
 ### 3 Mar 2020
 
 [BOOK - Automatic millionare](https://www.amazon.co.uk/Automatic-Millionaire-Powerful-One-Step-Finish/dp/0743538412)
