@@ -4,7 +4,15 @@ Cosas que voy aprendiendo...
 
 ### 4 Mar 2020
 
+-----
+
+Google Sheets - Excel
+
 [Advanced excel 2016 tips and tricks](https://www.youtube.com/watch?v=PU8ACyYxJBk)
+
+[Google Sheets Pivot Tables - Basic Tutorial](https://www.youtube.com/watch?v=Tty0RyD1KLw)
+
+-----
 
 [Youtube business example](https://www.youtube.com/watch?v=QqLxnljvV8E)
 
