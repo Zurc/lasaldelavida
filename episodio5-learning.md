@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [ GOOGLE SHEETS - EXCEL ]
 
+>  Today I've learnt about Pivot Tables, Slicers, Advanced Filters and more... Really really useful, it saves me lots of time
+
 [Advanced excel 2016 tips and tricks](https://www.youtube.com/watch?v=PU8ACyYxJBk)
 
 [Google Sheets Pivot Tables - Basic Tutorial](https://www.youtube.com/watch?v=Tty0RyD1KLw)
