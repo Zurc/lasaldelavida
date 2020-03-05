@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 5 Mar 2020
+
+[ERROR: DNS_PROBE_FINISHED_NO_INTERNET](https://ccm.net/forum/affich-811506-dns-probe-finished-no-internet-on-mac)
+
 ### 4 Mar 2020
 
 -----
