@@ -4,9 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 9 Mar 2020
 
-ANGULAR ERROR: "Identifier 'image' (whatever) is not defined. '{ value: string; }' does not contain such a memberng(0)"
+ANGULAR ERROR: "Identifier 'image' (whatever) is not defined. '{ value: string; }' does not contain such a member ng(0)"
 
-normally, that compiler error disappear if instead of trying to read `.image` as a property of an object you use `['image']` instead...
+This is an angular template error, normally, that compiler error disappear if instead of trying to read `.image` as a property of an object you use `['image']` instead...
 
 ### 5 Mar 2020
 
