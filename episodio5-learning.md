@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 9 Mar 2020
+
+ANGULAR ERROR: "Identifier 'image' (whatever) is not defined. '{ value: string; }' does not contain such a memberng(0)"
+
+normally, that compiler error disappear if instead of trying to read `.image` as a property of an object you use `['image']` instead...
+
 ### 5 Mar 2020
 
 [ERROR: DNS_PROBE_FINISHED_NO_INTERNET](https://ccm.net/forum/affich-811506-dns-probe-finished-no-internet-on-mac)
