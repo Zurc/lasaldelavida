@@ -14,6 +14,8 @@ refreshing on control value accessors
 
 [stackoverflow - event stoppropagation VS preventdefault](https://stackoverflow.com/questions/5963669/whats-the-difference-between-event-stoppropagation-and-event-preventdefault)
 
+[how to correctly use preventdefault, stoppropagation or return false on events](https://medium.com/@jacobwarduk/how-to-correctly-use-preventdefault-stoppropagation-or-return-false-on-events-6c4e3f31aedb)
+
 ### 9 Mar 2020
 
 ANGULAR ERROR: "Identifier 'image' (whatever) is not defined. '{ value: string; }' does not contain such a member ng(0)"
