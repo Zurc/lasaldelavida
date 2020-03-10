@@ -10,6 +10,8 @@ refreshing on control value accessors
 
 [bitovi - understanding nd control value accessor interface](https://dev.to/bitovi/understanding-angular-s-control-value-accessor-interface-5e7k)
 
+[codementor - conditional validators in reactive forms](https://www.codementor.io/@jimohhadi/angular-validators-with-conditional-validation-in-reactive-forms-pj5z7gsq5)
+
 ### 9 Mar 2020
 
 ANGULAR ERROR: "Identifier 'image' (whatever) is not defined. '{ value: string; }' does not contain such a member ng(0)"
