@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [CRUZ - implementing control value accessor interface](https://stackblitz.com/edit/angular-zmxtfe)
 
+refreshing on control value accessors
+
+[bitovi - understanding nd control value accessor interface](https://dev.to/bitovi/understanding-angular-s-control-value-accessor-interface-5e7k)
+
 ### 9 Mar 2020
 
 ANGULAR ERROR: "Identifier 'image' (whatever) is not defined. '{ value: string; }' does not contain such a member ng(0)"
