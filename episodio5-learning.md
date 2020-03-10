@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 10 Mar 2020
 
-[CRUZ - implementing control value accessor](https://stackblitz.com/edit/angular-zmxtfe)
+[CRUZ - implementing control value accessor interface](https://stackblitz.com/edit/angular-zmxtfe)
 
 ### 9 Mar 2020
 
