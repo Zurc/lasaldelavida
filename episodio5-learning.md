@@ -12,6 +12,8 @@ refreshing on control value accessors
 
 [codementor - conditional validators in reactive forms](https://www.codementor.io/@jimohhadi/angular-validators-with-conditional-validation-in-reactive-forms-pj5z7gsq5)
 
+[ngdevelop tech - ng tuts form validators](https://www.ngdevelop.tech/angular/tutorial/form-validators/)
+
 [stackoverflow - event stoppropagation VS preventdefault](https://stackoverflow.com/questions/5963669/whats-the-difference-between-event-stoppropagation-and-event-preventdefault)
 
 [how to correctly use preventdefault, stoppropagation or return false on events](https://medium.com/@jacobwarduk/how-to-correctly-use-preventdefault-stoppropagation-or-return-false-on-events-6c4e3f31aedb)
