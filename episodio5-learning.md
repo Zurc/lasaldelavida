@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Mar 2020
 
+[Building a Serverless Blog with Hugo and Netlify](https://www.youtube.com/watch?v=gSiAcyTWU3c)
+
 [CRUZ - implementing control value accessor interface](https://stackblitz.com/edit/angular-zmxtfe)
 
 refreshing on control value accessors
