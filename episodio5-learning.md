@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Building a Serverless Blog with Hugo and Netlify](https://www.youtube.com/watch?v=gSiAcyTWU3c)
 
+[Build a static website within 5min (Hugo + Netlify + Forestry)](https://www.youtube.com/watch?v=ResipmZmpDU&feature=youtu.be)
+
 [CRUZ - implementing control value accessor interface](https://stackblitz.com/edit/angular-zmxtfe)
 
 refreshing on control value accessors
