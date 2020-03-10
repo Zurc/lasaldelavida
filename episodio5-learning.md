@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Mar 2020
+
+[CRUZ - implementing control value accessor](https://stackblitz.com/edit/angular-zmxtfe)
+
 ### 9 Mar 2020
 
 ANGULAR ERROR: "Identifier 'image' (whatever) is not defined. '{ value: string; }' does not contain such a member ng(0)"
