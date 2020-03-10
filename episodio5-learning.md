@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [Build a static website within 5min (Hugo + Netlify + Forestry)](https://www.youtube.com/watch?v=ResipmZmpDU&feature=youtu.be)
 
+[Building A Website Using Hugo](https://www.youtube.com/watch?v=c7vpcqA6SEQ)
+
 [CRUZ - implementing control value accessor interface](https://stackblitz.com/edit/angular-zmxtfe)
 
 refreshing on control value accessors
