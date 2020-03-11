@@ -2,6 +2,11 @@
 
 Cosas que voy aprendiendo...
 
+
+### 11 Mar 2020
+
+[TYPESCRIPT - npm sort-by-typescript librare](https://www.npmjs.com/package/sort-by-typescript)  // nice library to sort
+
 ### 10 Mar 2020
 
 [Building a Serverless Blog with Hugo and Netlify](https://www.youtube.com/watch?v=gSiAcyTWU3c)
