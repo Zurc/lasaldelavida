@@ -6,6 +6,11 @@ Cosas que voy aprendiendo...
 
 [Teaching resources - kids coding: tynker](https://www.tynker.com/javascript/)
 
+>  VS CODE - VISUAL STUDIO CODE: Folding | collapsing code sections
+>  
+>  To collapse sections of code you can press `Ctrl+Shift+[` to fold or press `Ctrl+Shift+]` to unfold the ranges at the current cursor position. Folding can also be done with the +/- icons in the left gutter. To fold all sections use `Ctrl+K` `Ctrl+0` or to unfold all use `Ctrl+K` `Ctrl+J`
+>  
+>  Folding is based on indentation and as a result can apply to all languages. Simply indent your code to create a foldable section you can fold a certain number of levels with shortcuts like `Ctrl+K` `Ctrl+1` through to `Ctrl+K` `Ctrl+5`
 
 ### 11 Mar 2020
 
