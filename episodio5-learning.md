@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 12 Mar 2020
+
+[Teaching resources - kids coding: tynker](https://www.tynker.com/javascript/)
+
 
 ### 11 Mar 2020
 
