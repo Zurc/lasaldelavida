@@ -12,6 +12,24 @@ Cosas que voy aprendiendo...
 >  
 >  Folding is based on indentation and as a result can apply to all languages. Simply indent your code to create a foldable section you can fold a certain number of levels with shortcuts like `Ctrl+K` `Ctrl+1` through to `Ctrl+K` `Ctrl+5`
 
+For me to remember: sometimes I add properties on a JS object separately after spreading, e.g.
+
+```js
+const newObj = { ...oldObj };
+newObj.otherProp = ...;  // some expression here
+newObj.anotherProp = ...; // idem
+```
+
+Instead, I can do all at once...
+
+```js
+const newObj = { 
+  ...oldObj,
+  otherProp: ...,
+  anotherProp: ...
+};
+```
+
 ### 11 Mar 2020
 
 [TYPESCRIPT - npm sort-by-typescript librare](https://www.npmjs.com/package/sort-by-typescript)  // nice library to sort
