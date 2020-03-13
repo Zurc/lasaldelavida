@@ -2,6 +2,17 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Mar 2020
+
+EXCEL - SPREADSHEETS
+
+`=PRODUCT(A1,B1)` is the same as `=A1*B1`
+
+Keep cell constant - if I want to keep calculations against a fixed cell
+Add $ before column and row characters
+Eg. keep A1 constant
+`=$A$1*B1`
+
 ### 12 Mar 2020
 
 [Teaching resources - kids coding: tynker](https://www.tynker.com/javascript/)
