@@ -11,6 +11,7 @@ EXCEL - SPREADSHEETS
 Keep cell constant - if I want to keep calculations against a fixed cell
 Add $ before column and row characters
 Eg. keep A1 constant
+
 `=$A$1*B1`
 
 ### 12 Mar 2020
