@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 13 Mar 2020
 
+[Hugo workflow](https://docs.google.com/document/d/1pKlwPaPPSaK_wIBjl1DmVSwMgSF0MTGEGkD596XUhso/edit)
+
 EXCEL - SPREADSHEETS
 
 `=PRODUCT(A1,B1)` is the same as `=A1*B1`
