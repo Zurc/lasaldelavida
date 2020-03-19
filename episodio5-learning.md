@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Mar 2020
+
+[caddy - getting started](https://caddyserver.com/v1/tutorial/beginner)
+
 ### 13 Mar 2020
 
 [Hugo workflow](https://docs.google.com/document/d/1pKlwPaPPSaK_wIBjl1DmVSwMgSF0MTGEGkD596XUhso/edit)
