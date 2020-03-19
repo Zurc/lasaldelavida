@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 19 Mar 2020
 
+[subversion options for mac?](https://gigaom.com/2009/02/23/12-subversion-apps-for-os-x/)
+
 [caddy - download](https://caddyserver.com/v1/download)
 
 [caddy - getting started](https://caddyserver.com/v1/tutorial/beginner)
