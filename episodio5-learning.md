@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 19 Mar 2020
 
+[gyp no xcode mac error](https://medium.com/flawless-app-stories/gyp-no-xcode-or-clt-version-detected-macos-catalina-anansewaa-38b536389e8d)
+
 [subversion options for mac?](https://gigaom.com/2009/02/23/12-subversion-apps-for-os-x/)
 
 [caddy - download](https://caddyserver.com/v1/download)
