@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 20 Mar 2020
 
+[Chuck black art - Realistic Horse Painting Time-Lapse | Oil on Canvas](https://www.youtube.com/watch?v=c61yTplOkB8)
+
 [Josvanr - Apple oil painting time lapse demo](https://www.youtube.com/watch?v=MaeUfpBcggw)
 
 [Ross Draws - Top 5 Tips for Painting Portraits](https://www.youtube.com/watch?v=qOD_15efIp4)
