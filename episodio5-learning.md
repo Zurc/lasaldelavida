@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 20 Mar 2020
 
+[Josvanr - Apple oil painting time lapse demo](https://www.youtube.com/watch?v=MaeUfpBcggw)
+
 [Ross Draws - Top 5 Tips for Painting Portraits](https://www.youtube.com/watch?v=qOD_15efIp4)
 
 [ultimate courses - typescript setter getter](https://ultimatecourses.com/blog/typescript-setters-getter)
