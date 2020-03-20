@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 20 Mar 2020
+
+[ultimate courses - typescript setter getter](https://ultimatecourses.com/blog/typescript-setters-getter)
+
 ### 19 Mar 2020
 
 [gyp no xcode mac error](https://medium.com/flawless-app-stories/gyp-no-xcode-or-clt-version-detected-macos-catalina-anansewaa-38b536389e8d)
