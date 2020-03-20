@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 20 Mar 2020
 
+[Ross Draws - Top 5 Tips for Painting Portraits](https://www.youtube.com/watch?v=qOD_15efIp4)
+
 [ultimate courses - typescript setter getter](https://ultimatecourses.com/blog/typescript-setters-getter)
 
 ### 19 Mar 2020
