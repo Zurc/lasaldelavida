@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 20 Mar 2020
 
+[DAVID ICKE - THE TRUTH BEHIND THE CORONAVIRUS PANDEMIC: COVID-19 LOCKDOWN & THE ECONOMIC CRASH](https://www.youtube.com/watch?v=gMTZu6_TjU8)
+
 [carmelitas descalzas - 10 consejos en tiempos de virus con coronita](https://carmelitasdescalzascadiz.wordpress.com/2020/03/17/10-consejos-de-una-monja-de-clausura-para-vivir-los-dias-de-confinamiento-y-no-morir-en-el-intento/)
 
 [Chuck black art - Realistic Horse Painting Time-Lapse | Oil on Canvas](https://www.youtube.com/watch?v=c61yTplOkB8)
