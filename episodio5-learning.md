@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Mar 2020
 
+[example of color picker](https://pinetools.com/image-color-picker). // if saturation/brightness is set to black, changing the hue changes de square still...
+
 [22 Best Free Color Tools for UI/UX Designers to Create Amazing Web/App](https://www.mockplus.com/blog/post/color-tool)
 
 [ux stackexchange - color pickers and discussions about color theory](https://ux.stackexchange.com/questions/88055/most-user-friendly-color-picker)
