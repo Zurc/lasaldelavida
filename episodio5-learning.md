@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [22 Best Free Color Tools for UI/UX Designers to Create Amazing Web/App](https://www.mockplus.com/blog/post/color-tool)
 
+[ux stackexchange - color pickers and discussions about color theory](https://ux.stackexchange.com/questions/88055/most-user-friendly-color-picker)
+
 ### 20 Mar 2020
 
 [DAVID ICKE - THE TRUTH BEHIND THE CORONAVIRUS PANDEMIC: COVID-19 LOCKDOWN & THE ECONOMIC CRASH](https://www.youtube.com/watch?v=gMTZu6_TjU8)
