@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 24 Mar 2020
 
+[malcoded - angular color picker](https://malcoded.com/posts/angular-color-picker/)
+
 [example of color picker](https://pinetools.com/image-color-picker). // if saturation/brightness is set to black, changing the hue changes de square still...
 
 [another color picker example](https://htmlcolorcodes.com/color-picker/)
