@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [stackblitz - angular color picker](https://stackblitz.com/edit/github-jhsqew?file=src/app/app.component.ts)
 
+[stackblitz - angular srt color picker](https://stackblitz.com/edit/ng-bootstrap-minimal-2awqzg?file=app%2Fapp.component.ts)
+
 ### 24 Mar 2020
 
 [malcoded - angular color picker](https://malcoded.com/posts/angular-color-picker/) and [github](https://github.com/LukasMarx/angular-color-picker)
