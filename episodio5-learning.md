@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Mar 2020
+
+[agencia de sustancias toxicas - clorito de sodio](https://www.atsdr.cdc.gov/es/phs/es_phs160.html)
+
 ### 24 Mar 2020
 
 [malcoded - angular color picker](https://malcoded.com/posts/angular-color-picker/) and [github](https://github.com/LukasMarx/angular-color-picker)
