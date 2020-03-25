@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [agencia de sustancias toxicas - clorito de sodio](https://www.atsdr.cdc.gov/es/phs/es_phs160.html)
 
+[stackblitz - angular color picker](https://stackblitz.com/edit/github-jhsqew?file=src/app/app.component.ts)
+
 ### 24 Mar 2020
 
 [malcoded - angular color picker](https://malcoded.com/posts/angular-color-picker/) and [github](https://github.com/LukasMarx/angular-color-picker)
