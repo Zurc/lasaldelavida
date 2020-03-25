@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Mar 2020
 
+[c-virus dashboard Johns Hopkins University Center for Systems Science and Engineering](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
 [c-virus gov guidance](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/875304/240320_Revised_Guidance.pdf)
 
 [agencia de sustancias toxicas - clorito de sodio](https://www.atsdr.cdc.gov/es/phs/es_phs160.html)
