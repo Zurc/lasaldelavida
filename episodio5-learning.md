@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [florin pop - random meal generator](https://www.florin-pop.com/blog/2019/09/random-meal-generator/)
 
+[CRUZ - random meal generator (added to zurc.github.io)](https://js-38utqd.stackblitz.io/)
+
 Primer día de arte online con zoom... (1 flia desde españa, 2 desde argentina, 3 desde uk)
 
 [CRUZ - soundcloud, algunas canciones](https://soundcloud.com/cruz-jurado-traverso)
