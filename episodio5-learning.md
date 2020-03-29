@@ -8,7 +8,9 @@ Primer día de arte online con zoom... (1 flia desde españa, 2 desde argentina,
 
 [CRUZ - soundcloud, algunas canciones](https://soundcloud.com/cruz-jurado-traverso)
 
------ IDEAS webs - apps - inspiration... -----
+----- 
+
+IDEAS webs - apps - inspiration...
 
 [florin pop - app ideas](https://github.com/florinpop17/app-ideas)
 
