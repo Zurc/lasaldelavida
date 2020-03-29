@@ -2,6 +2,19 @@
 
 Cosas que voy aprendiendo...
 
+### 28 Mar 2020
+
+Primer día de arte online con zoom... (1 flia desde españa, 2 desde argentina, 3 desde uk)
+
+[CRUZ - soundcloud, algunas canciones](https://soundcloud.com/cruz-jurado-traverso)
+
+-----IDEAS webs - apps - inspiration...
+
+[florin pop - app ideas](https://github.com/florinpop17/app-ideas)
+
+
+
+
 ### 25 Mar 2020
 
 [c-virus dashboard Johns Hopkins University Center for Systems Science and Engineering](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
