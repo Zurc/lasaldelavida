@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 29 Mar 2020
+
+[zurc - best meat](http://zurc.github.io/collection/best-meat/)
+
+[bestmeat .cruzjurado .com](https://bestmeat.cruzjurado.com/)
+
 ### 28 Mar 2020
 
 [florin pop - random meal generator](https://www.florin-pop.com/blog/2019/09/random-meal-generator/)
