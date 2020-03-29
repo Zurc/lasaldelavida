@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Mar 2020
 
+[florin pop - random meal generator](https://www.florin-pop.com/blog/2019/09/random-meal-generator/)
+
 Primer día de arte online con zoom... (1 flia desde españa, 2 desde argentina, 3 desde uk)
 
 [CRUZ - soundcloud, algunas canciones](https://soundcloud.com/cruz-jurado-traverso)
