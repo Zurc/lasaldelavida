@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 30 Mar 2020
+
+[malcoded - angular reactive form validation](https://malcoded.com/posts/angular-reactive-form-validation/)
+
 ### 29 Mar 2020
 
 [zurc - best meat](http://zurc.github.io/collection/best-meat/)
