@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 01 Apr 2020
+
+A collection of recipes for common Angular application scenarios.
+
+[angular 2 cookbook](https://v2.angular.io/docs/ts/latest/cookbook/)
+
 ### 30 Mar 2020
 
 [malcoded - angular reactive form validation](https://malcoded.com/posts/angular-reactive-form-validation/)   √√√
