@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 01 Apr 2020
 
+[Garabandal película (español) - youtube](https://www.youtube.com/watch?v=5IV0b_NeCxY)
+
 A collection of recipes for common Angular application scenarios.
 
 [angular 2 cookbook](https://v2.angular.io/docs/ts/latest/cookbook/)
