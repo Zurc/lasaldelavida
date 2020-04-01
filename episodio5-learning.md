@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [Garabandal documental (ingles) - youtube](https://www.youtube.com/watch?v=DV6njXMKrOg)
 
+[Garabandal interviews](https://www.youtube.com/watch?v=j3vTeK78liQ)
+
 A collection of recipes for common Angular application scenarios.
 
 [angular 2 cookbook](https://v2.angular.io/docs/ts/latest/cookbook/)
