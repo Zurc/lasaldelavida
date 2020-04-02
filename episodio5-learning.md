@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 02 Apr 2020
+
+[Fr. Don Calloway, MIC: The Rosary: Spiritual Sword of Our Lady](https://www.youtube.com/watch?v=dwVdYXyxln0)
+
+[BOOK - Champions of the Rosary history](https://www.amazon.co.uk/Champions-Rosary-History-Heroes-Spiritual-ebook/dp/B06X9NKYW6)
+
 ### 01 Apr 2020
 
 [Garabandal película (español) - youtube](https://www.youtube.com/watch?v=5IV0b_NeCxY)
