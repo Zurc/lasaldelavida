@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 03 Apr 2020
+
+[Live Streaming Church Services - OBS Tutorial - Setup Basics](https://www.youtube.com/watch?v=VetZu8OwHOQ)
+
 ### 02 Apr 2020
 
 [Fr. Don Calloway, MIC: The Rosary: Spiritual Sword of Our Lady](https://www.youtube.com/watch?v=dwVdYXyxln0)
