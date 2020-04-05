@@ -2,6 +2,17 @@
 
 Cosas que voy aprendiendo...
 
+### 05 Apr 2020
+
+[Persevering and BREAKING THROUGH! - Episode #17 BETHANY VERE, Equine Artist](https://www.youtube.com/watch?v=vTgJ9QPwY4E&list=PLdE0Y1KGg4Jr-GAep9T7yK4jHe0iuPJRc&index=17)
+
+- no dejar de hacer y mostrar por las redes, a alguien le va a gustar
+- perseverar
+- hard work pays off
+
+- attitude, perception
+- perceptions > decisions > actions. change your perceptions, impact your decisions and it will change your actions...
+
 ### 03 Apr 2020
 
 [Live Streaming Church Services - OBS Tutorial - Setup Basics](https://www.youtube.com/watch?v=VetZu8OwHOQ)
