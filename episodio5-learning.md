@@ -10,8 +10,12 @@ Cosas que voy aprendiendo...
 - perseverar
 - hard work pays off
 
+[LIVING A CREATIVE AND INSPIRED LIFE - The Creative Endeavour - EPISODE 3 - Dr. Demartini](https://www.youtube.com/watch?v=15qQ7Rbjq50&list=PLdE0Y1KGg4Jr-GAep9T7yK4jHe0iuPJRc&index=1)
+
 - attitude, perception
 - perceptions > decisions > actions. change your perceptions, impact your decisions and it will change your actions...
+
+- compare your daily actions agains your mission/vision... not agains what people think
 
 ### 03 Apr 2020
 
