@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 06 Apr 2020
+
+[CRUZ - ng reactive form validation](https://stackblitz.com/edit/github-vg2quu)
+
 ### 05 Apr 2020
 
 [Persevering and BREAKING THROUGH! - Episode #17 BETHANY VERE, Equine Artist](https://www.youtube.com/watch?v=vTgJ9QPwY4E&list=PLdE0Y1KGg4Jr-GAep9T7yK4jHe0iuPJRc&index=17)
