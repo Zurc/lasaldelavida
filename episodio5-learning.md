@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 07 Apr 2020
+
+[grokonez - ng8 firebase tut CRUD example](https://grokonez.com/frontend/angular/angular-8/angular-8-firebase-tutorial-crud-operations-angular-fire-example)
+
 ### 06 Apr 2020
 
 [CRUZ - ng reactive form validation](https://stackblitz.com/edit/github-vg2quu)
