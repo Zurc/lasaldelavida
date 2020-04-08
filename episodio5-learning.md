@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 08 Apr 2020
 
+[medium - the ultimate guide to set up your ng library project](https://medium.com/angular-in-depth/the-ultimate-guide-to-set-up-your-angular-library-project-399d95b63500)
+
 [CRUZ - grid/flex form](https://stackblitz.com/edit/github-vg2quu-aa2e5z) // state where I left
 
 ### 07 Apr 2020
