@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 08 Apr 2020
+
+[CRUZ - grid/flex form](https://stackblitz.com/edit/github-vg2quu-aa2e5z) // state where I left
+
 ### 07 Apr 2020
 
 [grokonez - ng8 firebase tut CRUD example](https://grokonez.com/frontend/angular/angular-8/angular-8-firebase-tutorial-crud-operations-angular-fire-example)
