@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 09 Apr 2020
+
+[update vscode default terminal shell from bash to zsh](https://medium.com/fbdevclagos/updating-visual-studio-code-default-terminal-shell-from-bash-to-zsh-711c40d6f8dc)
+
 ### 08 Apr 2020
 
 [medium - the ultimate guide to set up your ng library project](https://medium.com/angular-in-depth/the-ultimate-guide-to-set-up-your-angular-library-project-399d95b63500)
