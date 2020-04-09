@@ -8,7 +8,7 @@ Cosas que voy aprendiendo...
 
 // JAVASCRIPT - create a fake amount of users
 
-```
+```js
 var names = [];
 
 for (let i = 0; i < 10 ; i++) {
