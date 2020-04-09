@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 09 Apr 2020
 
+[drawing tuts](https://www.youtube.com/playlist?list=PLn8sEx1Ny1Io-vWQmEpllSgTZ-6HJagAc)
+
 [top 10 JS libraries and tools](https://blog.bitsrc.io/10-top-javascript-libraries-and-tools-for-an-awesome-ui-ux-828a314752cc)
 
 [TYPESCRIPT - generics explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
