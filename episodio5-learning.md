@@ -13,7 +13,7 @@ var names = [];
 
 for (let i = 0; i < 10 ; i++) {
   names.push({
-   user: 'user ' + i,
+   name: 'name ' + i,
    id: i.toString().padStart(7, '0'),
   });
 }
