@@ -17,6 +17,18 @@ for (let i = 0; i < 10 ; i++) {
    id: i.toString().padStart(7, '0'),
   });
 }
+
+/* it will return...
+0: {name: "name 0", id: "0000000"}
+1: {name: "name 1", id: "0000001"}
+2: {name: "name 2", id: "0000002"}
+3: {name: "name 3", id: "0000003"}
+4: {name: "name 4", id: "0000004"}
+5: {name: "name 5", id: "0000005"}
+6: {name: "name 6", id: "0000006"}
+7: {name: "name 7", id: "0000007"}
+...
+*/
 ```
 
 ### 08 Apr 2020
