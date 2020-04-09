@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Apr 2020
+
+[WINNING STRATEGIES for ART BUSINESS - Episode #13 - CARLA GRACE, Wildlife Artist](https://www.youtube.com/watch?v=WMRCI8Rg61Y)
+
 ### 09 Apr 2020
 
 [drawing tuts](https://www.youtube.com/playlist?list=PLn8sEx1Ny1Io-vWQmEpllSgTZ-6HJagAc)
