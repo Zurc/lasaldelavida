@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 09 Apr 2020
 
+[top 10 JS libraries and tools](https://blog.bitsrc.io/10-top-javascript-libraries-and-tools-for-an-awesome-ui-ux-828a314752cc)
+
 [TYPESCRIPT - generics explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
 
 [update vscode default terminal shell from bash to zsh](https://medium.com/fbdevclagos/updating-visual-studio-code-default-terminal-shell-from-bash-to-zsh-711c40d6f8dc)
