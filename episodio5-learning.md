@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 09 Apr 2020
 
+[TYPESCRIPT - generics explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
+
 [update vscode default terminal shell from bash to zsh](https://medium.com/fbdevclagos/updating-visual-studio-code-default-terminal-shell-from-bash-to-zsh-711c40d6f8dc)
 
 // JAVASCRIPT - create a fake amount of users
