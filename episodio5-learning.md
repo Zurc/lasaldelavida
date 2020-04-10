@@ -2,6 +2,11 @@
 
 Cosas que voy aprendiendo...
 
+### 11 Apr 2020
+
+[Painting an EPIC Mountain Scene! ( Landscape Painting Techniques in Oils ) ](https://www.youtube.com/watch?v=bzM2yP6ysR4)
+
+
 ### 10 Apr 2020
 
 [WINNING STRATEGIES for ART BUSINESS - Episode #13 - CARLA GRACE, Wildlife Artist](https://www.youtube.com/watch?v=WMRCI8Rg61Y)
