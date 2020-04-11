@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [Going DEEP and ENGAGING with the PROCESS - Episode #14, MILES JOHNSTON, Surrealist Artist](https://www.youtube.com/watch?v=JfCQlqUQlNA)
 
+[freecodecamp - ng8 tut in easy steps](https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/)
+
 
 ### 10 Apr 2020
 
