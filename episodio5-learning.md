@@ -27,6 +27,8 @@ Cosas que voy aprendiendo...
 
 >  french academic method... (like [Jules Bastien-Lepage](https://artuk.org/discover/artists/bastien-lepage-jules-18481884))
 
+>  at the end of the interview explains how to varnish properly
+
 >  ruvlev oils, they put no stabilizers inside of their oils.
 
 [supremepaint - ruvlev paints](https://www.supremepaint.co.uk/collections/rublev-paints-natural-pigments/whites)
