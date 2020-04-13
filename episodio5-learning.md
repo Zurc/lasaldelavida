@@ -44,10 +44,7 @@ for (var i = 1; i <= 300; i++) {
 console.log(JSON.stringify(database));
 ```
 
-
-
-
-
+[npm tips](https://corgibytes.com/blog/2017/04/18/npm-tips/)
 
 ### 11 Apr 2020
 
