@@ -15,6 +15,10 @@ Cosas que voy aprendiendo...
 
 >  quality: intrinsic appeal
 
+>  ruvlev oils, they put no stabilizers inside of their oils.
+
+[facebook - traditional oil painting group](https://www.facebook.com/groups/959891544070003/)  // same name as his book
+
 [jackson art - michael harding lead white...](https://www.jacksonsart.com/blog/2013/09/27/michael-harding-lead-white-is-what-the-old-masters-would-have-used/)
 
 [natural pigments - masters paints painting](https://www.naturalpigments.com/artist-materials/masters-paints-painting/)
