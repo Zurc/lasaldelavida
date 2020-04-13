@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [7 vscode extensions for angular](https://medium.com/frontend-coach/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd)
 
+[techdiaries - angular](https://www.techiediaries.com/angular/)
+
 ### 11 Apr 2020
 
 [Painting an EPIC Mountain Scene! ( Landscape Painting Techniques in Oils ) ](https://www.youtube.com/watch?v=bzM2yP6ysR4)
