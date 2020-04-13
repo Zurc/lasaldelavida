@@ -17,6 +17,8 @@ Cosas que voy aprendiendo...
 
 >  ruvlev oils, they put no stabilizers inside of their oils.
 
+> book with updated info: The Painter's Handbook by Mark David Gottsegen
+
 [facebook - traditional oil painting group](https://www.facebook.com/groups/959891544070003/)  // same name as his book
 
 [jackson art - michael harding lead white...](https://www.jacksonsart.com/blog/2013/09/27/michael-harding-lead-white-is-what-the-old-masters-would-have-used/)
@@ -26,6 +28,10 @@ Cosas que voy aprendiendo...
 [michael harding - stack lead white](https://www.michaelharding.co.uk/colour/stack-lead-white/)
 
 [oldmasters academy - how rembrandt used lead white and chalk in his paintings](https://oldmasters.academy/old-masters-academy-art-lessons/how-rembrandt-used-lead-white-and-chalk-in-his-paintings)
+
+// libros que parecen interesantes: 
+
+[landscape painting - Mitchell Albala](https://www.amazon.co.uk/dp/0823032205)
 
 ----- end of painting
 
