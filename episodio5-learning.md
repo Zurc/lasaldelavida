@@ -11,6 +11,10 @@ Cosas que voy aprendiendo...
 
 > best primer: white lead + lindseed oil
 
+> avoid painting at flexible supports (canvas)
+
+>  quality: intrinsic appeal
+
 [jackson art - michael harding lead white...](https://www.jacksonsart.com/blog/2013/09/27/michael-harding-lead-white-is-what-the-old-masters-would-have-used/)
 
 [natural pigments - masters paints painting](https://www.naturalpigments.com/artist-materials/masters-paints-painting/)
