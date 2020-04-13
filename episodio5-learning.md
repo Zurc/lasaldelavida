@@ -15,6 +15,8 @@ Cosas que voy aprendiendo...
 
 [natural pigments - masters paints painting](https://www.naturalpigments.com/artist-materials/masters-paints-painting/)
 
+[michael harding - stack lead white](https://www.michaelharding.co.uk/colour/stack-lead-white/)
+
 ----- end of painting
 
 [7 vscode extensions for angular](https://medium.com/frontend-coach/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd)
