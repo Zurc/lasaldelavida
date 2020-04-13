@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 [7 vscode extensions for angular](https://medium.com/frontend-coach/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd)
 
-[techdiaries - angular](https://www.techiediaries.com/angular/)
+[techdiaries - angular 8/9 crud example and tut](https://www.techiediaries.com/angular/angular-9-8-crud-example-and-tutorial/)
 
 ### 11 Apr 2020
 
