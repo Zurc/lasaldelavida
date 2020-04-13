@@ -13,11 +13,19 @@ Cosas que voy aprendiendo...
 
 >  avoid painting at flexible supports (canvas)
 
->  no solvents at all, press hard your brush or with a big one stipple on top...
+>  no solvents / mediums at all, or the least you can use, press hard your brush or with a big one stipple on top...
 
 >  quality: intrinsic appeal
 
 >  acrylic prime it's maybe a better choice than oil prime
+
+>  polyester canvas it's maybe better than belgium linen, for the longevity standpoint. All the oil primed canvas coming from europe have zinc oxide (not good)
+
+>  painting support, rigid panel: linen glued and tacked to a rigid panel, mahogany plywood
+
+> use mars colors because they have high tinting strengh
+
+>  french academic method... (like [Jules Bastien-Lepage](https://artuk.org/discover/artists/bastien-lepage-jules-18481884))
 
 >  ruvlev oils, they put no stabilizers inside of their oils.
 
