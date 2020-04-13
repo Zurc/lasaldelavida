@@ -17,6 +17,8 @@ Cosas que voy aprendiendo...
 
 [michael harding - stack lead white](https://www.michaelharding.co.uk/colour/stack-lead-white/)
 
+[oldmasters academy - how rembrandt used lead white and chalk in his paintings](https://oldmasters.academy/old-masters-academy-art-lessons/how-rembrandt-used-lead-white-and-chalk-in-his-paintings)
+
 ----- end of painting
 
 [7 vscode extensions for angular](https://medium.com/frontend-coach/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd)
