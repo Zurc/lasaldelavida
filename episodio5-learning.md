@@ -12,6 +12,22 @@ Cosas que voy aprendiendo...
 
 [npmjs - json-server](https://www.npmjs.com/package/json-server)
 
+// package.json issues not running relative paths for scripts.
+
+// solution: writte the absolute path. here an example of generating data for a database and watching with json-server
+
+```json
+...
+"scripts": {
+  ...
+  "generate": "node src/ap/server/generateData > src/app/server/database.json",
+  "server": "json-server --watch src/app/server/database.json"
+```
+
+
+
+
+
 ### 11 Apr 2020
 
 [Painting an EPIC Mountain Scene! ( Landscape Painting Techniques in Oils ) ](https://www.youtube.com/watch?v=bzM2yP6ysR4)
