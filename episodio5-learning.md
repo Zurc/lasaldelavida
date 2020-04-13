@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Apr 2020
+
+[7 vscode extensions for angular](https://medium.com/frontend-coach/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd)
+
 ### 11 Apr 2020
 
 [Painting an EPIC Mountain Scene! ( Landscape Painting Techniques in Oils ) ](https://www.youtube.com/watch?v=bzM2yP6ysR4)
