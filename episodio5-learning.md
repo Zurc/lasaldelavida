@@ -31,6 +31,8 @@ Cosas que voy aprendiendo...
 
 [supremepaint - ruvlev paints](https://www.supremepaint.co.uk/collections/rublev-paints-natural-pigments/whites)
 
+>  finishing varnish: [gamvar - dammar - cps - uvs](https://www.ericsantoli.com/blog/gamvar-vs-dammar-vs-cpc-uvs-finishing-varnish) // Virgil Elliot uses uvs finishing varnish
+
 > book with updated info: The Painter's Handbook by Mark David Gottsegen
 
 [facebook - traditional oil painting group](https://www.facebook.com/groups/959891544070003/)  // same name as his book
