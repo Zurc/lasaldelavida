@@ -17,6 +17,8 @@ Cosas que voy aprendiendo...
 
 >  quality: intrinsic appeal
 
+>  acrylic prime it's maybe a better choice than oil prime
+
 >  ruvlev oils, they put no stabilizers inside of their oils.
 
 [supremepaint - ruvlev paints](https://www.supremepaint.co.uk/collections/rublev-paints-natural-pigments/whites)
