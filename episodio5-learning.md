@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [techdiaries - angular mock backend](https://www.techiediaries.com/angular-mock-backend/)
 
+[npmjs - json-server](https://www.npmjs.com/package/json-server)
+
 ### 11 Apr 2020
 
 [Painting an EPIC Mountain Scene! ( Landscape Painting Techniques in Oils ) ](https://www.youtube.com/watch?v=bzM2yP6ysR4)
