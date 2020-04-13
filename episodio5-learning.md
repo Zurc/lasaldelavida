@@ -4,6 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 13 Apr 2020
 
+
+----- painting section
+
 [The Creative Endeavour - EPISODE 2 - Virgil Elliott](https://www.youtube.com/watch?v=dmZBS81b0hI&list=PLdE0Y1KGg4Jr-GAep9T7yK4jHe0iuPJRc&index=2)
 
 > best primer: white lead + lindseed oil
@@ -11,6 +14,8 @@ Cosas que voy aprendiendo...
 [jackson art - michael harding lead white...](https://www.jacksonsart.com/blog/2013/09/27/michael-harding-lead-white-is-what-the-old-masters-would-have-used/)
 
 [natural pigments - masters paints painting](https://www.naturalpigments.com/artist-materials/masters-paints-painting/)
+
+----- end of painting
 
 [7 vscode extensions for angular](https://medium.com/frontend-coach/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd)
 
