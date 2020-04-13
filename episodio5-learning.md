@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [The Creative Endeavour - EPISODE 2 - Virgil Elliott](https://www.youtube.com/watch?v=dmZBS81b0hI&list=PLdE0Y1KGg4Jr-GAep9T7yK4jHe0iuPJRc&index=2)
 
+> best primer: white lead + lindseed oil
+
+[jackson art - michael harding lead white...](https://www.jacksonsart.com/blog/2013/09/27/michael-harding-lead-white-is-what-the-old-masters-would-have-used/)
+
 [7 vscode extensions for angular](https://medium.com/frontend-coach/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd)
 
 [techdiaries - angular 8/9 crud example and tut](https://www.techiediaries.com/angular/angular-9-8-crud-example-and-tutorial/)
