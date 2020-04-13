@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [jackson art - michael harding lead white...](https://www.jacksonsart.com/blog/2013/09/27/michael-harding-lead-white-is-what-the-old-masters-would-have-used/)
 
+[natural pigments - masters paints painting](https://www.naturalpigments.com/artist-materials/masters-paints-painting/)
+
 [7 vscode extensions for angular](https://medium.com/frontend-coach/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd)
 
 [techdiaries - angular 8/9 crud example and tut](https://www.techiediaries.com/angular/angular-9-8-crud-example-and-tutorial/)
