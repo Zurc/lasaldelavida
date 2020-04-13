@@ -9,9 +9,11 @@ Cosas que voy aprendiendo...
 
 [The Creative Endeavour - EPISODE 2 - Virgil Elliott](https://www.youtube.com/watch?v=dmZBS81b0hI&list=PLdE0Y1KGg4Jr-GAep9T7yK4jHe0iuPJRc&index=2)
 
-> best primer: white lead + lindseed oil
+>  best primer: white lead + lindseed oil
 
-> avoid painting at flexible supports (canvas)
+>  avoid painting at flexible supports (canvas)
+
+>  no solvents at all, press hard your brush or with a big one stipple on top...
 
 >  quality: intrinsic appeal
 
