@@ -2,8 +2,11 @@
 
 Cosas que voy aprendiendo...
 
-### 13 Apr 2020
+### 14 Apr 2020
 
+[CRUZ - Angular 8/9 fake backend](https://docs.google.com/document/d/1r_JIrqw1kFSIeqXWfCd0JtFYQdO0owxC3Kf1bA3n4fE/edit)
+
+### 13 Apr 2020
 
 ----- painting section
 
