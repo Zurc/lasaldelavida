@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 14 Apr 2020
 
+DISCORD chat: to leave a voice channel without leaving the server
+
+When connected, at the bottom left of the client, there is a small telephone with an X. Click on that and it'll disconnect you from the voice server, but not the Discord. :)
+
 [ultimate courses - typescript setters and getters (todd motto)](https://ultimatecourses.com/blog/typescript-setters-getter)
 
 [CRUZ - Angular 8/9 fake backend](https://docs.google.com/document/d/1r_JIrqw1kFSIeqXWfCd0JtFYQdO0owxC3Kf1bA3n4fE/edit)
