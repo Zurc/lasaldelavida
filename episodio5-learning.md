@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 14 Apr 2020
 
+[UX: autocomplete suggestions design patterns (baymard institute UX research)](https://baymard.com/blog/autocomplete-design)
+
 DISCORD chat: to leave a voice channel without leaving the server
 
 When connected, at the bottom left of the client, there is a small telephone with an X. Click on that and it'll disconnect you from the voice server, but not the Discord. :)
