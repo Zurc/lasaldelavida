@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 14 Apr 2020
 
+[ultimate courses - typescript setters and getters (todd motto)](https://ultimatecourses.com/blog/typescript-setters-getter)
+
 [CRUZ - Angular 8/9 fake backend](https://docs.google.com/document/d/1r_JIrqw1kFSIeqXWfCd0JtFYQdO0owxC3Kf1bA3n4fE/edit)
 
 ### 13 Apr 2020
