@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Apr 2020
+
+[Interesting podcast - indiehackers](indiehackers.com)
+
 ### 15 Apr 2020
 
 [levelup - advanced typescript types w/ examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
