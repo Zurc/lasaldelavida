@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Apr 2020
 
+[gitconnected tutorials](https://gitconnected.com/learn)  // parece muy interesante... chequear...
+
 [Interesting podcast - indiehackers](indiehackers.com)
 
 [YC - ycombinator](https://www.ycombinator.com/)
