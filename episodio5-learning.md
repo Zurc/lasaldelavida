@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [YC - ycombinator](https://www.ycombinator.com/)
 
+[Naval interview/podcast? status vs wealth](https://nav.al/seek-wealth)
+
 ### 15 Apr 2020
 
 [levelup - advanced typescript types w/ examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
