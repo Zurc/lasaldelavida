@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Apr 2020
+
+[levelup - advanced typescript types w/ examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
+
 ### 14 Apr 2020
 
 [UX: autocomplete suggestions design patterns (baymard institute UX research)](https://baymard.com/blog/autocomplete-design)
