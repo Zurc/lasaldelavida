@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Interesting podcast - indiehackers](indiehackers.com)
 
+[YC - ycombinator](https://www.ycombinator.com/)
+
 ### 15 Apr 2020
 
 [levelup - advanced typescript types w/ examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
