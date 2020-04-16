@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [Naval interview/podcast? status vs wealth](https://nav.al/seek-wealth)
 
+[levelup - building type safe dictionaries in typescript](https://levelup.gitconnected.com/building-type-safe-dictionaries-in-typescript-a072d750cbdf)
+
 ### 15 Apr 2020
 
 [levelup - advanced typescript types w/ examples](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
