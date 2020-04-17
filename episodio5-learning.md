@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [UNSCHOOLING EXPLAINED : Adventuring Family of 11](https://www.youtube.com/watch?v=DxfeJxyi8Ls)
 
+Deepfake technology... interesting
+
 ### 16 Apr 2020
 
 [gitconnected tutorials](https://gitconnected.com/learn)  // parece muy interesante... chequear...
