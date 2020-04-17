@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 17 Apr 2020
 
-[UNSCHOOLING EXPLAINED : Adventuring Family of 11](https://www.youtube.com/watch?v=DxfeJxyi8Ls)
+[UNSCHOOLING EXPLAINED : Adventuring Family of 11 - Knorpp and South](https://www.youtube.com/watch?v=DxfeJxyi8Ls)
 
 Deepfake technology... interesting
 
