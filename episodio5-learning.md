@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Apr 2020
+
+[art renewal](https://www.artrenewal.org/Article/Title/introduction-to-the-catalog-raisonne)
+
 [the art story - bouguereau](https://www.theartstory.org/artist/bouguereau-william-adolphe/)
 
 ### 17 Apr 2020
