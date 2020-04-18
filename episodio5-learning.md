@@ -8,9 +8,15 @@ Cosas que voy aprendiendo...
 
 Deepfake technology... interesting
 
+----- some business
+
 [bonfire store - custom t-shirts...](https://www.bonfire.com/store/knorpp-and-south/)
 
 [spreadshirt - similar idea](https://www.spreadshirt.co.uk/)  // preguntar a charly
+
+[doterra - essential oils](https://www.doterra.com/GB/en_GB)
+
+[Q & A : How Can We Afford Full-time Travel? : RV Full-time w/9 kids](https://www.youtube.com/watch?v=vcDL5YUBoDw)
 
 ### 16 Apr 2020
 
