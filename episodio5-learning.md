@@ -2,6 +2,8 @@
 
 Cosas que voy aprendiendo...
 
+[the art story - bouguereau](https://www.theartstory.org/artist/bouguereau-william-adolphe/)
+
 ### 17 Apr 2020
 
 [The Creative Endeavour - EPISODE 1- Cesar Santos](https://www.youtube.com/watch?v=MHPsW4Le8Qo&list=PLdE0Y1KGg4Jr-GAep9T7yK4jHe0iuPJRc&index=3)
