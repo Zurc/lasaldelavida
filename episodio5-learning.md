@@ -4,6 +4,10 @@ Cosas que voy aprendiendo...
 
 ### 17 Apr 2020
 
+[The Creative Endeavour - EPISODE 1- Cesar Santos](https://www.youtube.com/watch?v=MHPsW4Le8Qo&list=PLdE0Y1KGg4Jr-GAep9T7yK4jHe0iuPJRc&index=3)
+
+>  don't spend money on things that are not necessary
+
 [UNSCHOOLING EXPLAINED : Adventuring Family of 11 - Knorpp and South](https://www.youtube.com/watch?v=DxfeJxyi8Ls)
 
 Deepfake technology... interesting
@@ -16,7 +20,15 @@ Deepfake technology... interesting
 
 [doterra - essential oils](https://www.doterra.com/GB/en_GB)
 
+-----
+
 [Q & A : How Can We Afford Full-time Travel? : RV Full-time w/9 kids](https://www.youtube.com/watch?v=vcDL5YUBoDw)
+
+interesante, min 24:38 ish...
+
+>  if you have dreams that you want to live, and you find that your life is not getting you there, then go ahead and do something to change, to get to that dream (...) find some way that you start moving towards your dreams (...) that's something that may be scary, usually involve some risk, something that you are not comfortable with, but JUST DO IT
+
+>  what can I do to move into the direction of my dreams? whatever it is, do it, because there is no reason to live unhappily. They name Steve Harvey's 'Jump' video
 
 ### 16 Apr 2020
 
