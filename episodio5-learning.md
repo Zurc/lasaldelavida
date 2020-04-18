@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 Deepfake technology... interesting
 
+[bonfire store - custom t-shirts...](https://www.bonfire.com/store/knorpp-and-south/)
+
 ### 16 Apr 2020
 
 [gitconnected tutorials](https://gitconnected.com/learn)  // parece muy interesante... chequear...
