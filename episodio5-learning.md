@@ -10,6 +10,8 @@ Deepfake technology... interesting
 
 [bonfire store - custom t-shirts...](https://www.bonfire.com/store/knorpp-and-south/)
 
+[spreadshirt - similar idea](https://www.spreadshirt.co.uk/)  // preguntar a charly
+
 ### 16 Apr 2020
 
 [gitconnected tutorials](https://gitconnected.com/learn)  // parece muy interesante... chequear...
