@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Apr 2020
+
+[atlassian - learn code review bitbucket](https://www.atlassian.com/git/tutorials/learn-about-code-review-in-bitbucket-cloud). // try this w/ a couple of users
+
 ### 22 Apr 2020
 
 [frontendsociety - cast obj array into an obj dictionary in typescript](https://frontendsociety.com/how-to-cast-an-array-of-objects-into-a-dictionary-object-in-typescript-2a3b9790da81)
