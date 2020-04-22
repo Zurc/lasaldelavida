@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Apr 2020
+
+[codepen - prefill embeds](https://blog.codepen.io/2019/01/17/introducing-prefill-embeds/)
+
+[dynalist - embedding and other improvements](https://talk.dynalist.io/t/open-in-new-tab-sorting-embedding-separators-and-other-improvements/816/16)
+
 ### 18 Apr 2020
 
 [art renewal - introduction-to-the-catalog-raisonne](https://www.artrenewal.org/Article/Title/introduction-to-the-catalog-raisonne)
