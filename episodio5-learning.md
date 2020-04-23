@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [atlassian - learn code review bitbucket](https://www.atlassian.com/git/tutorials/learn-about-code-review-in-bitbucket-cloud). // try this w/ a couple of users
 
+[caravaggio style - roberto ferri](https://www.instagram.com/robertoferri_official/?hl=en)
+
 ### 22 Apr 2020
 
 [frontendsociety - cast obj array into an obj dictionary in typescript](https://frontendsociety.com/how-to-cast-an-array-of-objects-into-a-dictionary-object-in-typescript-2a3b9790da81)
