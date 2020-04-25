@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Apr 2020
+
+[Scott Waddell (realistic portraits)- patreon page](https://www.patreon.com/scottwaddell)
+
 ### 23 Apr 2020
 
 [atlassian - learn code review bitbucket](https://www.atlassian.com/git/tutorials/learn-about-code-review-in-bitbucket-cloud). // try this w/ a couple of users
