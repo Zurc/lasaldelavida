@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 25 Apr 2020
 
+[Portrait Drawing the Girl Techniques](https://www.youtube.com/watch?v=E7mpCPRmQ1c)
+
 [Scott Waddell (realistic portraits)- patreon page](https://www.patreon.com/scottwaddell)
 
 ### 23 Apr 2020
