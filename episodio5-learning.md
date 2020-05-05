@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 06 May 2020
+
+[LaTreille - After Bouguereau](https://www.youtube.com/watch?v=SRKOVZGeL7Y&list=RDCMUCuGQJQ3tbMAhkQlcKf0LxIw)
+
 ### 25 Apr 2020
 
 [Portrait Drawing the Girl Techniques](https://www.youtube.com/watch?v=E7mpCPRmQ1c) from [playlist](https://www.youtube.com/watch?v=E7mpCPRmQ1c&list=RDCMUCB9berO64_friwLRsKQ9fag&start_radio=1&t=1626)
