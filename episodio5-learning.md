@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [referencia Belén Bouguereau](https://www.pinterest.es/pin/569072102893791426/)
 
+[painting tube](https://painting.tube/blending-oil-painting/) // espectacular!!!
+
 ### 25 Apr 2020
 
 [Portrait Drawing the Girl Techniques](https://www.youtube.com/watch?v=E7mpCPRmQ1c) from [playlist](https://www.youtube.com/watch?v=E7mpCPRmQ1c&list=RDCMUCB9berO64_friwLRsKQ9fag&start_radio=1&t=1626)
