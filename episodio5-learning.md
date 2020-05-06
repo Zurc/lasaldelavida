@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [LaTreille - After Bouguereau](https://www.youtube.com/watch?v=SRKOVZGeL7Y&list=RDCMUCuGQJQ3tbMAhkQlcKf0LxIw)
 
+[referencia Belén Bouguereau](https://www.pinterest.es/pin/569072102893791426/)
+
 ### 25 Apr 2020
 
 [Portrait Drawing the Girl Techniques](https://www.youtube.com/watch?v=E7mpCPRmQ1c) from [playlist](https://www.youtube.com/watch?v=E7mpCPRmQ1c&list=RDCMUCB9berO64_friwLRsKQ9fag&start_radio=1&t=1626)
