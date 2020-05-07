@@ -6,9 +6,15 @@ Cosas que voy aprendiendo...
 
 [dev to - easy row and col layout with flexbox](https://dev.to/drews256/ridiculously-easy-row-and-column-layouts-with-flexbox-1k01)
 
+-----
+
 [CRUZ - forked demo angular auxiliary routes](https://stackblitz.com/edit/github-p73z2d) // check what's failing to work
 
 [original ref auxiliary routes](https://github.com/lucereal/angular-auxiliary-routes)
+
+[angular router series: secondary outlets](https://medium.com/angular-in-depth/angular-router-series-secondary-outlets-primer-139206595e2)
+
+-----
 
 ### 06 May 2020
 
