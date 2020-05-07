@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 07 May 2020
 
+[Santa María Magdalena de Pazzi y las almas del purgatorio - tekton (youtube playlist almas del purgatorio)](https://www.youtube.com/watch?v=PR8-ikHO_m0&list=PLrz4qRZvOr2srOS4zs_py6pr-q5-ORmIQ)
+
 [dev to - easy row and col layout with flexbox](https://dev.to/drews256/ridiculously-easy-row-and-column-layouts-with-flexbox-1k01)
 
 -----
@@ -15,6 +17,8 @@ Cosas que voy aprendiendo...
 [angular router series: secondary outlets](https://medium.com/angular-in-depth/angular-router-series-secondary-outlets-primer-139206595e2)
 
 [bookstack - ng2 training book (auxiliary routes)](https://www.bookstack.cn/read/angular-2-training-book/160.md)
+
+[livebook - ng2 development with typescript](https://livebook.manning.com/book/angular-2-development-with-typescript/chapter-3/114)
 
 -----
 
