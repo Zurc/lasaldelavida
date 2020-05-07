@@ -6,7 +6,9 @@ Cosas que voy aprendiendo...
 
 [dev to - easy row and col layout with flexbox](https://dev.to/drews256/ridiculously-easy-row-and-column-layouts-with-flexbox-1k01)
 
-[CRUZ - forked demo angular auxiliary routes](https://stackblitz.com/edit/github-p73z2d)
+[CRUZ - forked demo angular auxiliary routes](https://stackblitz.com/edit/github-p73z2d) // check what's failing to work
+
+[original ref auxiliary routes](https://github.com/lucereal/angular-auxiliary-routes)
 
 ### 06 May 2020
 
