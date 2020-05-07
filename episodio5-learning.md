@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 07 May 2020
+
+[dev to - easy row and col layout with flexbox](https://dev.to/drews256/ridiculously-easy-row-and-column-layouts-with-flexbox-1k01)
+
 ### 06 May 2020
 
 [angular - routes and nested auxiliary routes](https://blog.angular-university.io/angular-2-router-nested-routes-and-nested-auxiliary-routes-build-a-menu-navigation-system/)
