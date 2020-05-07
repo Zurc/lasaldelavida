@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [angular router series: secondary outlets](https://medium.com/angular-in-depth/angular-router-series-secondary-outlets-primer-139206595e2)
 
+[bookstack - ng2 training book (auxiliary routes)](https://www.bookstack.cn/read/angular-2-training-book/160.md)
+
 -----
 
 ### 06 May 2020
