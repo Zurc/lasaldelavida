@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 11 May 2020
+
+[Angular - track value and validation status of an individual FormControl](https://angular.io/api/forms/FormControl)
+
 ### 07 May 2020
 
 [Santa María Magdalena de Pazzi y las almas del purgatorio - tekton (youtube playlist almas del purgatorio)](https://www.youtube.com/watch?v=PR8-ikHO_m0&list=PLrz4qRZvOr2srOS4zs_py6pr-q5-ORmIQ)
