@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [dot net perls - language example pages and code example](https://www.dotnetperls.com/)
 
+[design scalable angular apps - pages, containers and views](https://blog.bitsrc.io/designing-scalable-angular-apps-pages-containers-and-views-ac9cd83afa2d)
+
 ### 11 May 2020
 
 [Angular - track value and validation status of an individual FormControl](https://angular.io/api/forms/FormControl)
