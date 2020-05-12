@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 12 May 2020
+
+[dot net perls - language example pages and code example](https://www.dotnetperls.com/)
+
 ### 11 May 2020
 
 [Angular - track value and validation status of an individual FormControl](https://angular.io/api/forms/FormControl)
