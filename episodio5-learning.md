@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 May 2020
+
+[introducing gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+
 ### 12 May 2020
 
 [dot net perls - language example pages and code example](https://www.dotnetperls.com/)
