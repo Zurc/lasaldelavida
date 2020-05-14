@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 15 May 2020
+
+[chelsea lang - full time made artist](https://www.chelsealang.com/blog)
+
 ### 14 May 2020
 
 [thouhtbot - css animation for beginners](https://thoughtbot.com/blog/css-animation-for-beginners)
