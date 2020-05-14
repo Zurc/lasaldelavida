@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 14 May 2020
+
+[thouhtbot - css animation for beginners](https://thoughtbot.com/blog/css-animation-for-beginners)
+
 ### 13 May 2020
 
 [introducing gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
