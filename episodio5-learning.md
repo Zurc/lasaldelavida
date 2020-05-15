@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [chelsea lang - full time made artist](https://www.chelsealang.com/blog)
 
+[ANGULAR ng refs - v6 router events](https://ngrefs.com/v6/router/events) // REFERENCIAS ANGULAR 6!!!  √√√
+
 ### 14 May 2020
 
 [thouhtbot - css animation for beginners](https://thoughtbot.com/blog/css-animation-for-beginners)
