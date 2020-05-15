@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [ANGULAR ng refs - v6 router events](https://ngrefs.com/v6/router/events) // REFERENCIAS ANGULAR 6!!!  √√√
 
+[virus and UK reaction](https://appeasement.org/)
+
 ### 14 May 2020
 
 [thouhtbot - css animation for beginners](https://thoughtbot.com/blog/css-animation-for-beginners)
