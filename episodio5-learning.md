@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [arte: savvypainter](https://savvypainter.com/)
 
+[arte: susanlyon com](https://www.susanlyon.com/)
+
 ### 15 May 2020
 
 [chelsea lang - full time made artist](https://www.chelsealang.com/blog)
