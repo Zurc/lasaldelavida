@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 May 2020
+
+[arte: savvypainter](https://savvypainter.com/)
+
 ### 15 May 2020
 
 [chelsea lang - full time made artist](https://www.chelsealang.com/blog)
