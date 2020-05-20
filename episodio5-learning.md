@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 20 May 2020
 
-[The Only Oil Painting Colors You Need](https://www.youtube.com/watch?v=IygvOethF14)
+[Art: The Only Oil Painting Colors You Need](https://www.youtube.com/watch?v=IygvOethF14)
+
+[I Paint Three Peaches - Painting Demo](https://www.youtube.com/watch?v=r-kxPLRaz_0)
 
 ### 18 May 2020
 
