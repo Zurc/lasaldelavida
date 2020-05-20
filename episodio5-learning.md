@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 20 May 2020
+
+[The Only Oil Painting Colors You Need](https://www.youtube.com/watch?v=IygvOethF14)
+
 ### 18 May 2020
 
 [arte: savvypainter](https://savvypainter.com/)
