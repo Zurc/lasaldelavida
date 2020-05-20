@@ -6,13 +6,13 @@ Cosas que voy aprendiendo...
 
 [Art: The Only Oil Painting Colors You Need](https://www.youtube.com/watch?v=IygvOethF14)
 
-[I Paint Three Peaches - Painting Demo](https://www.youtube.com/watch?v=r-kxPLRaz_0)
+[Art: I Paint Three Peaches - Painting Demo](https://www.youtube.com/watch?v=r-kxPLRaz_0)
 
 ### 18 May 2020
 
-[arte: savvypainter](https://savvypainter.com/)
+[Art: savvypainter](https://savvypainter.com/)
 
-[arte: susanlyon com](https://www.susanlyon.com/)
+[Art: susanlyon com](https://www.susanlyon.com/)
 
 ### 15 May 2020
 
