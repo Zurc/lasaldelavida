@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [Art: I Paint Three Peaches - Painting Demo](https://www.youtube.com/watch?v=r-kxPLRaz_0)
 
+[The Zorn Limited Palette & more – Ep.6 Oil Painting Q&A with Mark Carder](https://www.youtube.com/watch?v=TNlW50-fI-k)
+
 ### 18 May 2020
 
 [Art: savvypainter](https://savvypainter.com/)
