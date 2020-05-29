@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 29 May 2020
 
-[The Miracle Hidden in Your Rosary](https://www.youtube.com/watch?v=RCW36MwGl_c)
+[The Miracle Hidden in Your Rosary](https://www.youtube.com/watch?v=RCW36MwGl_c)  // min 13:13 rezo de un misterio con la hermana Emmanuel
 
 ### 20 May 2020
 
