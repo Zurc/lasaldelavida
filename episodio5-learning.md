@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 29 May 2020
+
+[The Miracle Hidden in Your Rosary](https://www.youtube.com/watch?v=RCW36MwGl_c)
+
 ### 20 May 2020
 
 [Art: The Only Oil Painting Colors You Need](https://www.youtube.com/watch?v=IygvOethF14)
