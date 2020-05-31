@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+
+### 31 May 2020
+
+[Rules of Composition & more – Ep.15 Oil Painting Q&A with Mark Carder](https://www.youtube.com/watch?v=X8WA2sAQ3IM)
+ // muy buenos consejos
+
 ### 29 May 2020
 
 [The Miracle Hidden in Your Rosary](https://www.youtube.com/watch?v=RCW36MwGl_c)  // min 13:13 rezo de un misterio con la hermana Emmanuel
