@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [MAC OSX Numbers - convert negative to Positive on Script Editor](https://discussions.apple.com/thread/8641370)
 
+[The Forger's Masterclass - Ep.08 - John Singer Sargent](https://www.youtube.com/watch?v=oPcQRa41hEo)
+
 
 ### 31 May 2020
 
