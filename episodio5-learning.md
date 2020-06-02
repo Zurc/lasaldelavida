@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Steve Atkinson - landscape oils demo](https://www.youtube.com/watch?v=JDRyQCBfpRk)
 
+[MAC OSX Numbers - convert negative to Positive on Script Editor](https://discussions.apple.com/thread/8641370)
+
 
 ### 31 May 2020
 
