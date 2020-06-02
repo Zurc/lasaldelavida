@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 02 Jun 2020
+
+[Steve Atkinson - landscape oils demo](https://www.youtube.com/watch?v=JDRyQCBfpRk)
+
 
 ### 31 May 2020
 
