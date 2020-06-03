@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 02 Jun 2020
 
+[¨The Forgotten Power of Fasting¨ Sister Emmanuel Maillard](https://www.youtube.com/watch?v=AYyewBfCVI0)
+
 [Steve Atkinson - landscape oils demo](https://www.youtube.com/watch?v=JDRyQCBfpRk)
 
 [MAC OSX Numbers - convert negative to Positive on Script Editor](https://discussions.apple.com/thread/8641370)
