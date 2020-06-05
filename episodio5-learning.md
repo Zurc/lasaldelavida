@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 05 Jun 2020
+
+[Volvo XC90 jump start](https://www.carcarekiosk.com/video/2008_Volvo_XC90_3.2_3.2L_6_Cyl./battery/jump_start)
+
 ### 04 Jun 2020
 
 [youtube - learnathome](https://learnathome.withyoutube.com/)
