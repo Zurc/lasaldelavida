@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 08 Jun 2020
+
+[xrun error when Xcode missing -> solution ](https://ma.ttias.be/mac-os-xcrun-error-invalid-active-developer-path-missing-xcrun/)
+
 ### 05 Jun 2020
 
 [Volvo XC90 jump start](https://www.carcarekiosk.com/video/2008_Volvo_XC90_3.2_3.2L_6_Cyl./battery/jump_start)
