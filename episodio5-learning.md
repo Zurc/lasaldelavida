@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 09 Jun 2020
+
+[Pintar un retrato con colores primarios. Consejos óleo. Chica Pelirroja](https://www.youtube.com/watch?v=8OSNu7D-s1Q)
+
 ### 08 Jun 2020
 
 [xrun error when Xcode missing -> solution ](https://ma.ttias.be/mac-os-xcrun-error-invalid-active-developer-path-missing-xcrun/)
