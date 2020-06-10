@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Pintar un retrato con colores primarios. Consejos óleo. Chica Pelirroja](https://www.youtube.com/watch?v=8OSNu7D-s1Q)
 
+[se puede vivir del arte?](https://www.youtube.com/watch?v=pR_7VmwRrDs)
+
 [retrato oleo](https://www.youtube.com/watch?v=HQjwtyOITKY)
 
 ### 08 Jun 2020
