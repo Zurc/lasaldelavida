@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Pintar un retrato con colores primarios. Consejos óleo. Chica Pelirroja](https://www.youtube.com/watch?v=8OSNu7D-s1Q)
 
+[retrato oleo](https://www.youtube.com/watch?v=HQjwtyOITKY)
+
 ### 08 Jun 2020
 
 [xrun error when Xcode missing -> solution ](https://ma.ttias.be/mac-os-xcrun-error-invalid-active-developer-path-missing-xcrun/)
