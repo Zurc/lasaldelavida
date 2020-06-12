@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 12 Jun 2020
+
+[ultimatecourses - exploring angular lifecyclehooks: onDestroy](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-ondestroy)
+
 ### 09 Jun 2020
 
 [Pintar un retrato con colores primarios. Consejos óleo. Chica Pelirroja](https://www.youtube.com/watch?v=8OSNu7D-s1Q)
