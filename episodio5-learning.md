@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [ultimatecourses - exploring angular lifecyclehooks: onDestroy](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-ondestroy)
 
+[jason watmore - angular: communicating between comps with Observables and Subjects](https://jasonwatmore.com/post/2019/02/07/angular-7-communicating-between-components-with-observable-subject)
+
 ### 09 Jun 2020
 
 [Pintar un retrato con colores primarios. Consejos óleo. Chica Pelirroja](https://www.youtube.com/watch?v=8OSNu7D-s1Q)
