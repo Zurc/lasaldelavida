@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 >  Just drag your working copy into Cornerstone repo. Done
 
+[mac command line tools no longer has SVN](https://stackoverflow.com/questions/60869347/mac-command-line-tools-11-4-no-longer-has-svn)
+
 ### 12 Jun 2020
 
 [ultimatecourses - exploring angular lifecyclehooks: onDestroy](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-ondestroy)
