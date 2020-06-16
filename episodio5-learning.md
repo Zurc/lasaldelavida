@@ -24,6 +24,8 @@ ERROR: Listen: listen tcp :80: bind: address already in use
 
 [ref compulsive coders](https://www.compulsivecoders.com/debug/fixing-on-mac-os-tcp-80-bind-address-already-in-use)
 
+[fix for license issue](https://stackblitz.com/edit/angular-ivy-wpvdry)
+
 ### 12 Jun 2020
 
 [ultimatecourses - exploring angular lifecyclehooks: onDestroy](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-ondestroy)
