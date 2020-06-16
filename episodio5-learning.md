@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Jun 2020
+
+[cornerstone - add existing working copy (folder) into your repository list](https://cornerstone.assembla.com/cornerstone/helpbook/pages/getting-started/add-working-copy.html)
+
+>  Just drag your working copy into Cornerstone repo. Done
+
 ### 12 Jun 2020
 
 [ultimatecourses - exploring angular lifecyclehooks: onDestroy](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-ondestroy)
