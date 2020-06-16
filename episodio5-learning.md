@@ -18,6 +18,12 @@ ERROR: zsh compinit: insecure directories, run compaudit for list... vscode
 
 [ref stackoverflow](https://stackoverflow.com/questions/13762280/zsh-compinit-insecure-directories)
 
+ERROR: Listen: listen tcp :80: bind: address already in use
+
+>  Solution: run `lsof -i:80` to display all ports and run `kill -9 [PID number]
+
+[ref compulsive coders](https://www.compulsivecoders.com/debug/fixing-on-mac-os-tcp-80-bind-address-already-in-use)
+
 ### 12 Jun 2020
 
 [ultimatecourses - exploring angular lifecyclehooks: onDestroy](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-ondestroy)
