@@ -6,9 +6,11 @@ Cosas que voy aprendiendo...
 
 [cornerstone - add existing working copy (folder) into your repository list](https://cornerstone.assembla.com/cornerstone/helpbook/pages/getting-started/add-working-copy.html)
 
->  Just drag your working copy into Cornerstone repo. Done
+>  Solution: Just drag your working copy into Cornerstone repo. Done
 
 [mac command line tools no longer has SVN](https://stackoverflow.com/questions/60869347/mac-command-line-tools-11-4-no-longer-has-svn)
+
+>  Solution: installed Homebrew and run `brew install svn`
 
 ### 12 Jun 2020
 
