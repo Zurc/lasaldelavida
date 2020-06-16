@@ -12,6 +12,12 @@ Cosas que voy aprendiendo...
 
 >  Solution: installed Homebrew and run `brew install svn`
 
+ERROR: zsh compinit: insecure directories, run compaudit for list... vscode
+
+>  Solution: run `compaudit | xargs chmod g-w`
+
+[ref stackoverflow](https://stackoverflow.com/questions/13762280/zsh-compinit-insecure-directories)
+
 ### 12 Jun 2020
 
 [ultimatecourses - exploring angular lifecyclehooks: onDestroy](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-ondestroy)
