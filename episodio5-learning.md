@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Jun 2020
+
+[MUSICA: Amazing Grace 40 Treasured Hymns Tennessee Ernie Ford](https://www.youtube.com/watch?v=lDBNGuODNlg)
+
 ### 16 Jun 2020
 
 [cornerstone - add existing working copy (folder) into your repository list](https://cornerstone.assembla.com/cornerstone/helpbook/pages/getting-started/add-working-copy.html)
