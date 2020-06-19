@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [enlasredesconjesus - comunión espiritual](https://enlasredesconjesus.blogspot.com/2017/09/la-comunion-espiritual.html)
 
+[native desktop apps Electron + Angular](https://www.youtube.com/watch?v=u_vMChpZMCk)
+
 ### 17 Jun 2020
 
 [MUSICA: Amazing Grace 40 Treasured Hymns Tennessee Ernie Ford](https://www.youtube.com/watch?v=lDBNGuODNlg)
