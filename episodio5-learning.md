@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Jun 2020
+
+[enlasredesconjesus - comunión espiritual](https://enlasredesconjesus.blogspot.com/2017/09/la-comunion-espiritual.html)
+
 ### 17 Jun 2020
 
 [MUSICA: Amazing Grace 40 Treasured Hymns Tennessee Ernie Ford](https://www.youtube.com/watch?v=lDBNGuODNlg)
