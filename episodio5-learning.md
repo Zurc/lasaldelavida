@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Jun 2020
+
+[catholic exchange - the surrender novena](https://catholicexchange.com/the-surrender-novena-let-jesus-take-care-of-everything)
+
 ### 19 Jun 2020
 
 [enlasredesconjesus - comunión espiritual](https://enlasredesconjesus.blogspot.com/2017/09/la-comunion-espiritual.html)
