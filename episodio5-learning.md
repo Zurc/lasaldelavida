@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Jun 2020
+
+[prevent chrome dev tools from closing when windows closes](https://medium.com/@ldong/how-do-i-prevent-chrome-developer-tools-from-closing-when-the-current-browser-window-closes-7957a995a373)
+
 ### 22 Jun 2020
 
 [catholic exchange - the surrender novena](https://catholicexchange.com/the-surrender-novena-let-jesus-take-care-of-everything)
