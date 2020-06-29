@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 29 jun 2020
+
+[juzga las acciones, no las personas](https://realidadesdeelsalvador.blogspot.com/2013/05/juzgar-las-acciones-y-no-las-personas.html)
+
 ### 24 Jun 2020
 
 [prevent chrome dev tools from closing when windows closes](https://medium.com/@ldong/how-do-i-prevent-chrome-developer-tools-from-closing-when-the-current-browser-window-closes-7957a995a373)
