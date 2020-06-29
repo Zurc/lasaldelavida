@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 29 jun 2020
 
+[stackoverflow - set default values for angular component properties](https://stackoverflow.com/questions/36071942/how-to-set-default-values-for-angular-2-component-properties)
+
 [juzga las acciones, no las personas](https://realidadesdeelsalvador.blogspot.com/2013/05/juzgar-las-acciones-y-no-las-personas.html)
 
 [organización mundial de la salud, clasificacion de desordenes mentales](https://www.who.int/classifications/icd/en/GRNBOOK.pdf)  // ej F64, F66
