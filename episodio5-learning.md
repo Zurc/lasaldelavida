@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [juzga las acciones, no las personas](https://realidadesdeelsalvador.blogspot.com/2013/05/juzgar-las-acciones-y-no-las-personas.html)
 
+[organización mundial de la salud, clasificacion de desordenes mentales](https://www.who.int/classifications/icd/en/GRNBOOK.pdf)  // ej F64, F66
+
+[juzgar o no juzgar, esa es la cuestion - religionenlibertad](https://www.religionenlibertad.com/blog/44426/juzgar-o-no-juzgar-ahi-esta-el-dilema.html)
+
 ### 24 Jun 2020
 
 [prevent chrome dev tools from closing when windows closes](https://medium.com/@ldong/how-do-i-prevent-chrome-developer-tools-from-closing-when-the-current-browser-window-closes-7957a995a373)
