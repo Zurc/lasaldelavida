@@ -2,7 +2,11 @@
 
 Cosas que voy aprendiendo...
 
-### 29 jun 2020
+### 30 Jun 2020
+
+[Eduardo Perez santa faz list](https://www.youtube.com/watch?v=6m4LDf-Iq4Y&list=PLtJncFKib0MmoWRt6yNFrp6QHy-hqU1aZ).   // to watch later
+
+### 29 Jun 2020
 
 [stackoverflow - set default values for angular component properties](https://stackoverflow.com/questions/36071942/how-to-set-default-values-for-angular-2-component-properties)
 
