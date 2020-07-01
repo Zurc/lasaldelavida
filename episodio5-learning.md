@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 01 Jul 2020
 
-[Wes Bos - JavaScript Event Capture, Propagation and Bubbling - #JavaScript30 25/30](https://www.youtube.com/watch?v=F1anRyL37lE)
+[Wes Bos - JavaScript Event Capture, Propagation and Bubbling - #JavaScript30 25/30](https://www.youtube.com/watch?v=F1anRyL37lE) // from [JS30](https://www.youtube.com/results?search_query=%23JavaScript30)
 
 [angular - ng-content the hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
 
