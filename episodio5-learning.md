@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 01 Jul 2020
+
+[angular - ng-content the hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
+
 ### 30 Jun 2020
 
 [Eduardo Perez santa faz list](https://www.youtube.com/watch?v=6m4LDf-Iq4Y&list=PLtJncFKib0MmoWRt6yNFrp6QHy-hqU1aZ).   // to watch later
