@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 02 Jul 2020
+
+[codecraft - http promises](https://codecraft.tv/courses/angular/http/http-with-promises/)
+
 ### 01 Jul 2020
 
 [Wes Bos - JavaScript Event Capture, Propagation and Bubbling - #JavaScript30 25/30](https://www.youtube.com/watch?v=F1anRyL37lE) // from [JS30](https://www.youtube.com/results?search_query=%23JavaScript30)
