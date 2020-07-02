@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [codecraft - http promises](https://codecraft.tv/courses/angular/http/http-with-promises/)
 
+[codecraft - es6 typescript promises](https://codecraft.tv/courses/angular/es6-typescript/promises/)
+
 ### 01 Jul 2020
 
 [Wes Bos - JavaScript Event Capture, Propagation and Bubbling - #JavaScript30 25/30](https://www.youtube.com/watch?v=F1anRyL37lE) // from [JS30](https://www.youtube.com/results?search_query=%23JavaScript30)
