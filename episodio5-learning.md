@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 03 Jul 2020
+
+[MDN - Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+
 ### 02 Jul 2020
 
 [codecraft - http promises](https://codecraft.tv/courses/angular/http/http-with-promises/)
