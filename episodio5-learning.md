@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 06 Jul 2020
+
+>  MDN: "Essentially, a promise is a returned object to which you attach callbacks, instead of passing callbacks into a function"
+
 ### 03 Jul 2020
 
 [MDN - Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
