@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 07 Jul 2020
+
+[javascript.info - try catch](https://javascript.info/try-catch)
+
 ### 06 Jul 2020
 
 >  MDN: "Essentially, a promise is a returned object to which you attach callbacks, instead of passing callbacks into a function"
