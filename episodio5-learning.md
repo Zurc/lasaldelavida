@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [medium - advanced open studio](https://medium.com/the-art-spirit/advanced-open-studio-with-sadie-part-2-b-5ffe7f02aae4)
 
+[sightsize - cesar tallone](https://www.sightsize.com/cesare-tallone/)
+
 ### 08 Jul 2020
 
 DRAWING - sight size
