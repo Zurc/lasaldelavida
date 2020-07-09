@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 08 Jul 2020
+
+DRAWING - sight size
+
+[Best Technique for REALISTIC DRAWING / PAINTING - SIGHT-SIZE Method : Tutorial and Demonstration](https://www.youtube.com/watch?v=wiUFUHdNIsM)
+
 ### 07 Jul 2020
 
 [javascript.info - try catch](https://javascript.info/try-catch)
