@@ -8,6 +8,8 @@ DRAWING - sight size
 
 [Best Technique for REALISTIC DRAWING / PAINTING - SIGHT-SIZE Method : Tutorial and Demonstration](https://www.youtube.com/watch?v=wiUFUHdNIsM)
 
+[Sight-Size method Vs Constrictive (Analytical) method! one more time:)](https://www.youtube.com/watch?v=iM2vTuxeMO8)
+
 ### 07 Jul 2020
 
 [javascript.info - try catch](https://javascript.info/try-catch)
