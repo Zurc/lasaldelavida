@@ -14,6 +14,8 @@ DRAWING - sight size
 
 [Discussion of Sight Size vs Other Figure Drawing Methods](https://www.youtube.com/watch?v=yJJPtct43JQ)
 
+[How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+
 ### 07 Jul 2020
 
 [javascript.info - try catch](https://javascript.info/try-catch)
