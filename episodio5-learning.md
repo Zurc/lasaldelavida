@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [studydrawing - sight size](https://www.studydrawing.com/sight-size)
 
+[pinterest - cast drawing](https://www.pinterest.co.uk/pin/414823815676708561/)
+
 ### 08 Jul 2020
 
 DRAWING - sight size
