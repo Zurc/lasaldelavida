@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [pinterest - cast drawing](https://www.pinterest.co.uk/pin/414823815676708561/)
 
+[medium - advanced open studio](https://medium.com/the-art-spirit/advanced-open-studio-with-sadie-part-2-b-5ffe7f02aae4)
+
 ### 08 Jul 2020
 
 DRAWING - sight size
