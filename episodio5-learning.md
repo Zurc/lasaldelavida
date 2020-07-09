@@ -10,6 +10,10 @@ DRAWING - sight size
 
 [Sight-Size method Vs Constrictive (Analytical) method! one more time:)](https://www.youtube.com/watch?v=iM2vTuxeMO8)
 
+[Preview | Classical Painting: The Realist Sight Size Method with Judith Kudlow](https://www.youtube.com/watch?v=gtt1FEebgkU)
+
+[Discussion of Sight Size vs Other Figure Drawing Methods](https://www.youtube.com/watch?v=yJJPtct43JQ)
+
 ### 07 Jul 2020
 
 [javascript.info - try catch](https://javascript.info/try-catch)
