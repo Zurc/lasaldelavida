@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Jul 2020
+
+[studydrawing - sight size](https://www.studydrawing.com/sight-size)
+
 ### 08 Jul 2020
 
 DRAWING - sight size
