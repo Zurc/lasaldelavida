@@ -6,7 +6,9 @@ Cosas que voy aprendiendo...
 
 [escapulario](https://www.virgendelcarmenlima.com/vrito.htm)
 
-[santateresadejesus](http://www.santateresadejesus.com/)
+[santateresadejesus com](http://www.santateresadejesus.com/)
+
+[carmelitas org](http://www.carmelitas.org/)
 
 ### 10 Jul 2020
 
