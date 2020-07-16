@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 16 Jul 2020
 
-[escapulario](https://www.virgendelcarmenlima.com/vrito.htm)
+[escapulario - virgen del carmen lima](https://www.virgendelcarmenlima.com/vrito.htm)
 
 [santateresadejesus com](http://www.santateresadejesus.com/)
 
