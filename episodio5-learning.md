@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Jul 2020
+
+[escapulario](https://www.virgendelcarmenlima.com/vrito.htm)
+
 ### 10 Jul 2020
 
 [studydrawing - sight size](https://www.studydrawing.com/sight-size)
