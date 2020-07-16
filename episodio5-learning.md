@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [escapulario](https://www.virgendelcarmenlima.com/vrito.htm)
 
+[santateresadejesus](http://www.santateresadejesus.com/)
+
 ### 10 Jul 2020
 
 [studydrawing - sight size](https://www.studydrawing.com/sight-size)
