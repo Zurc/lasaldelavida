@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 20 Jul 2020
+
+[about user session security](https://medium.com/hackernoon/all-you-need-to-know-about-user-session-security-ee5245e6bdad)
+
+[RFC 6819 - refresh tokens](https://tools.ietf.org/html/rfc6819#section-5.2.2.3)
+
 ### 16 Jul 2020
 
 [escapulario - virgen del carmen lima](https://www.virgendelcarmenlima.com/vrito.htm)
