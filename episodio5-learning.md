@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Jul 2020
+
+[malcoded - angular reactive forms with example](https://malcoded.com/posts/angular-fundamentals-reactive-forms/)
+
 ### 20 Jul 2020
 
 [about user session security](https://medium.com/hackernoon/all-you-need-to-know-about-user-session-security-ee5245e6bdad)
