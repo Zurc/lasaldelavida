@@ -20,14 +20,22 @@ revolcate en el pasto aunque te ensucies, que mas vale sucio y muerto de risa qu
 
 llenate la boca de palabras y decí tururu, que la niñez no te abandone nunca, y cual gurisito mocoso andá en bici
 
-ensuciate y bañate sucio cochino.
+ensuciate y bañate, sucio cochino.
 
-agarrá el mate y mateá, hacete hombre y dejá que los fifís se queden tomando sus juguitos
+agarrá el mate y mateá, hacete hombre y dejá que los fifís se queden tomando sus juguitos.
 
 viví la amistad hasta la manija, viajá, viajá, viajá... que el tiempo te lleve lejos y tus pies avancen a cada paso
 
-reíte que la risa es vida, mira el vaso medio vacio, medio lleno, llenalo de un buen vino o del que haya, y si no hay pisate unas uvas y tomate el jugo
+reíte que la risa es vida, mira el vaso medio vacio, medio lleno, llenalo de un buen vino o del que haya, y si no hay pisate unas uvas y tomate el jugo... y lavate las patas antes de andar pata pila por ahí.
 
-hablá con tu viejos, contale cuánto lo querés, sino estás enfrente hablales por telefono, whatsap, escaip o lo que mongo sea, pero no dejes de hablarles, que si tenés la dicha de ser padre vas a atesorar cada 'te quiero' de tu prole
+hablá con tu viejos, contale cuánto lo querés, sino estás enfrente hablales por telefono, guasáp, escaip o lo que mongo sea, pero no dejes de hablarles, que si tenés la dicha de ser padre vas a atesorar cada 'te quiero' de tu prole.
 
 andá y volvé y andá de nuevo, tomá el camino recto y el de la rotonda, subí a la montaña y bañate en el río, pero eso sí... cuando todo se acabe tomatelo con soda, que la vida es una, y la que vale... te espera.
+
+descartá
+
+andá y volvé y andá de nuevo, tomá el camino recto y el de la rotonda, subí a la montaña y bañate en el río, pero eso sí... cuando todo se acabe tomatelo con soda, que la vida es una, y la que vale... te espera.
+
+descartá lo accesorio ( si sos guaina leyendo descarterá los accesorios ), minimizando la cuestión... sin cartas ni Descartes, que si no pensás no existís... ;)
+
+
