@@ -12,7 +12,7 @@ Mas vale pájaro en mano... que cien picoteandote el marulo.
 
 La tercera es la vencida, no la comas o no la tomes
 
-Cococrilo que duerme es cartera... y de las güenas.
+Cocodrilo que duerme es cartera... y de las güenas.
 
 Cuando hay hambre no hay pan duro, hay hambre.
 
