@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [malcoded - angular reactive forms with example](https://malcoded.com/posts/angular-fundamentals-reactive-forms/)
 
+[CRUZ - stackblitz forked from malcoded](https://stackblitz.com/edit/github-acyusr?file=src%2Fapp%2Fcontact%2Fcontact.component.html)
+
 ### 20 Jul 2020
 
 [about user session security](https://medium.com/hackernoon/all-you-need-to-know-about-user-session-security-ee5245e6bdad)
