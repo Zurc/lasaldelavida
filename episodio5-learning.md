@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Jul 2020
+
+[ART: Paul Calle - drawing/painting](http://garretsdrawingadayblog.blogspot.com/2016/04/paul-calle.html)
+
 ### 21 Jul 2020
 
 [malcoded - angular reactive forms with example](https://malcoded.com/posts/angular-fundamentals-reactive-forms/)
