@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [lessons on trees](https://art.famsf.org/james-duffield-harding/illustration-21-book-lessons-trees-london-david-bogue-1850)
 
+[fishing off scarborough](https://www.artic.edu/artworks/16788/fishing-off-scarborough)
+
 ### 21 Jul 2020
 
 [malcoded - angular reactive forms with example](https://malcoded.com/posts/angular-fundamentals-reactive-forms/)
