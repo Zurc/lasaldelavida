@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [ART: Paul Calle - drawing/painting](http://garretsdrawingadayblog.blogspot.com/2016/04/paul-calle.html)
 
+[lessons on trees](https://art.famsf.org/james-duffield-harding/illustration-21-book-lessons-trees-london-david-bogue-1850)
+
 ### 21 Jul 2020
 
 [malcoded - angular reactive forms with example](https://malcoded.com/posts/angular-fundamentals-reactive-forms/)
