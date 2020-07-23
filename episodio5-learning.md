@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [watts atelier - composition](https://www.wattsatelier.com/composition-staging-for-visual-development/)
 
+[artist network - drawing strokes](https://www.artistsnetwork.com/art-mediums/drawing/drawing-short-lesson-broad-stroke/)
+
 ### 21 Jul 2020
 
 [malcoded - angular reactive forms with example](https://malcoded.com/posts/angular-fundamentals-reactive-forms/)
