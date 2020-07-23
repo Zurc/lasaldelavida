@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [pdf downloads books](https://www.pdfdrive.com/drawing-books.html)
 
+[watts atelier - composition](https://www.wattsatelier.com/composition-staging-for-visual-development/)
+
 ### 21 Jul 2020
 
 [malcoded - angular reactive forms with example](https://malcoded.com/posts/angular-fundamentals-reactive-forms/)
