@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [british museum drawing](https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_8/2d5e37ac_7ea5_4fd8_80d5_a3b600859261/mid_00180209_001.jpg)
 
+[pdf downloads books](https://www.pdfdrive.com/drawing-books.html)
+
 ### 21 Jul 2020
 
 [malcoded - angular reactive forms with example](https://malcoded.com/posts/angular-fundamentals-reactive-forms/)
