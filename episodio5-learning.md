@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Jul 2020
+
+[UX nngroup - drop down menus](https://www.nngroup.com/articles/drop-down-menus/)
+
 ### 22 Jul 2020
 
 [ART: Paul Calle - drawing/painting](http://garretsdrawingadayblog.blogspot.com/2016/04/paul-calle.html)
