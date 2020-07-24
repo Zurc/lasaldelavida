@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [UX nngroup - drop down menus](https://www.nngroup.com/articles/drop-down-menus/)
 
+[UX design - UI cheat sheet dropdown field](https://uxdesign.cc/ui-cheat-sheet-dropdown-field-a30025c0f432)    // anatomy of a dropdown
+
 ### 22 Jul 2020
 
 [ART: Paul Calle - drawing/painting](http://garretsdrawingadayblog.blogspot.com/2016/04/paul-calle.html)
