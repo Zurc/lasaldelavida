@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Jul 2020
+
+Adobe CC
+
+investigar esto de Photoshop [painting like photosohp plugin](https://www.youtube.com/watch?time_continue=13&v=F3rTEAAMgi4&feature=emb_logo)
+
 ### 24 Jul 2020
 
 [UX nngroup - drop down menus](https://www.nngroup.com/articles/drop-down-menus/)
