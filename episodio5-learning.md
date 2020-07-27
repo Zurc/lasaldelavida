@@ -14,6 +14,10 @@ Cosas que voy aprendiendo...
 
 [brtdesing - better form inputs](http://www.brtdesign.co.uk/work/better-form-inputs/)
 
+---
+
+[CRUZ - stackblitz Angular DatePipe from angular/common](https://stackblitz.com/edit/ngx-component-date-pipe-65cwbu)
+
 ### 26 Jul 2020
 
 Adobe CC
