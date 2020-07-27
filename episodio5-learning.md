@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Jul 2020
+
+**Date of Birth**
+
+[uxmovement - bad practices on DOB form fields](https://uxmovement.com/forms/bad-practices-on-birthdate-form-fields/)
+
 ### 26 Jul 2020
 
 Adobe CC
