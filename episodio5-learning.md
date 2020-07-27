@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [designnotes gov uk - asking for a DOB](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/)
 
+[brtdesing - better form inputs](http://www.brtdesign.co.uk/work/better-form-inputs/)
+
 ### 26 Jul 2020
 
 Adobe CC
