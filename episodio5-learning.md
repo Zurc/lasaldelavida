@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 
 [Interaction design and DOB shaken not stirred](https://voula.blog/2014/01/16/interaction-design-and-date-of-birth-shaken-not-stirred/)
 
-
+[designnotes gov uk - asking for a DOB](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/)
 
 ### 26 Jul 2020
 
