@@ -8,6 +8,8 @@ Adobe CC
 
 investigar esto de Photoshop [painting like photosohp plugin](https://www.youtube.com/watch?time_continue=13&v=F3rTEAAMgi4&feature=emb_logo)
 
+[Transform a Photo to a Realistic Oil Painting - Photoshop Tutorial](https://www.youtube.com/watch?v=Oo8IUxOj4DM)
+
 ### 24 Jul 2020
 
 [UX nngroup - drop down menus](https://www.nngroup.com/articles/drop-down-menus/)
