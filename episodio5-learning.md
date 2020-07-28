@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [formvalidation io - date](https://formvalidation.io/guide/validators/date/)
 
+[angular forms validation updateOn blur](https://fiyazhasan.me/angular-forms-validation-updateon-blur/)
+
 ### 27 Jul 2020
 
 **Date of Birth**
