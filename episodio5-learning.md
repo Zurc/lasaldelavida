@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [Angular Date Validator - directive and factory - validates strings m/d/yyyy](https://gist.github.com/kmaida/9fc502c722ed36fca2aa09ecfce46d1e)
 
+[formvalidation io - date](https://formvalidation.io/guide/validators/date/)
+
 ### 27 Jul 2020
 
 **Date of Birth**
