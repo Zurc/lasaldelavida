@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [medium - 3 ways to implememt conditional validation of reactive forms](https://medium.com/ngx/3-ways-to-implement-conditional-validation-of-reactive-forms-c59ed6fc3325)
 
+[JS stackoverflow - validate nubmer of days in a given month](https://stackoverflow.com/questions/1433030/validate-number-of-days-in-a-given-month)
+
 ### 27 Jul 2020
 
 **Date of Birth**
