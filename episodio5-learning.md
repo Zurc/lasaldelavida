@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [netbasal - Angular reactive forms tips and tricks](https://netbasal.com/angular-reactive-forms-tips-and-tricks-bb0c85400b58)
 
+[medium - 3 ways to implememt conditional validation of reactive forms](https://medium.com/ngx/3-ways-to-implement-conditional-validation-of-reactive-forms-c59ed6fc3325)
+
 ### 27 Jul 2020
 
 **Date of Birth**
