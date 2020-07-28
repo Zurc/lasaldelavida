@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 
 [JS stackoverflow - validate nubmer of days in a given month](https://stackoverflow.com/questions/1433030/validate-number-of-days-in-a-given-month)
 
-[Angular - date and factory validator](https://gist.github.com/kmaida/9fc502c722ed36fca2aa09ecfce46d1e)
+[Angular Date Validator - directive and factory - validates strings m/d/yyyy](https://gist.github.com/kmaida/9fc502c722ed36fca2aa09ecfce46d1e)
 
 ### 27 Jul 2020
 
