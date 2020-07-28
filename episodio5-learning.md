@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 28 Jul 2020
+
+[netbasal - Angular reactive forms tips and tricks](https://netbasal.com/angular-reactive-forms-tips-and-tricks-bb0c85400b58)
+
 ### 27 Jul 2020
 
 **Date of Birth**
