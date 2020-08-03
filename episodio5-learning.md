@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 03 Aug 2020
+
+```
+keyvalue
+```
+
 ### 31 Jul 2020
 
 [stackoverflow ng6 - view not updates after change variable within subscribe](https://stackoverflow.com/questions/50519200/angular-6-view-is-not-updated-after-changing-a-variable-within-subscribe)
