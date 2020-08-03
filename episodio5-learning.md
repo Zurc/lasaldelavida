@@ -4,8 +4,13 @@ Cosas que voy aprendiendo...
 
 ### 03 Aug 2020
 
-```
-keyvalue
+```html
+<div class="field vertical">
+  <label>Deployment *</label>
+  <gvf-dropdown formControlName="deployment" placeholder="Select..." [required]="true">
+    <gvf-option [value]="option.key" *ngFor="let option of Deployment | keyvalue">{{ option.value }}</gvf-option>
+  </gvf-dropdown>
+</div>
 ```
 
 ### 31 Jul 2020
