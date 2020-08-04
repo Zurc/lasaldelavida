@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [uxdesign inspiring illustrations](https://uxdesign.cc/10-inspiring-illustration-styles-from-the-best-illustrators-of-2020-89b42f08ba81)
 
+[artstation - nadar](https://www.artstation.com/nadar)
+
 ### 03 Aug 2020
 
 ```html
