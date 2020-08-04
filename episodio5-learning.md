@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 04 Aug 2020
+
+[uxdesign inspiring illustrations](https://uxdesign.cc/10-inspiring-illustration-styles-from-the-best-illustrators-of-2020-89b42f08ba81)
+
 ### 03 Aug 2020
 
 ```html
