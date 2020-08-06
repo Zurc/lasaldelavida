@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 06 Aug 2020
+
+[angular error - .scss file not recognised](https://stackoverflow.com/questions/43037590/field-browser-doesnt-contain-a-valid-alias-configuration)
+
 ### 04 Aug 2020
 
 [uxdesign inspiring illustrations](https://uxdesign.cc/10-inspiring-illustration-styles-from-the-best-illustrators-of-2020-89b42f08ba81)
