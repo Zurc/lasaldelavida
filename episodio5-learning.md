@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 06 Aug 2020
 
+[Scotty Kilmer - here's why I only buy toyotas](https://www.youtube.com/watch?v=8zgYh04a0OM)
+
 [angular error - .scss file not recognised](https://stackoverflow.com/questions/43037590/field-browser-doesnt-contain-a-valid-alias-configuration)
 
 ### 04 Aug 2020
