@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 07 Aug 2020
+
+[encuentra com - pagina católica, libros](https://encuentra.com/libros1180/)
+
 ### 06 Aug 2020
 
 [Scotty Kilmer - here's why I only buy toyotas](https://www.youtube.com/watch?v=8zgYh04a0OM)
