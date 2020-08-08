@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 08 Aug 2020
+
+[pencil books drawing titles](https://vk.com/topic-4918594_27696136?offset=540)
+
 ### 07 Aug 2020
 
 [encuentra com - pagina católica, libros](https://encuentra.com/libros1180/)
