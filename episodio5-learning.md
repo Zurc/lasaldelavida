@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 08 Aug 2020
 
-[pencil books drawing titles](https://vk.com/topic-4918594_27696136?offset=540)
+[pencil books drawing titles pdf epub...](https://vk.com/topic-4918594_27696136?offset=540)
+
+[pdfdrive books pdf...](https://www.pdfdrive.com/painting-trees-and-landscapes-in-watercolor-e157796381.html)
 
 ### 07 Aug 2020
 
