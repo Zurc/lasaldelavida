@@ -14,7 +14,7 @@ JAVASCRIPT - JS random number btwn max an min
 
 [CSSGR.ID - CSS grid  creator](https://cssgr.id/)
 
-[DESIGNCOIURSE - CSSGR.ID - An Easy, Interactive Way to Learn the CSS Grid](https://www.youtube.com/watch?v=XbEqfYr9pIo)
+[DESIGN COURSE - CSSGR.ID - An Easy, Interactive Way to Learn the CSS Grid](https://www.youtube.com/watch?v=XbEqfYr9pIo)  // haciendo una pagina responsive con ayuda de CSSGR.ID
 
 [CRUZ - CSS grid: header, 2 col, footer](https://codepen.io/CruzWeb/pen/XWdbOdd)
 
