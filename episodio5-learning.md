@@ -18,6 +18,8 @@ JAVASCRIPT - JS random number btwn max an min
 
 >  las 2 col pueden ser un sidebar y content o 2 columnas, pueden ser del mismo ancho o como éste ejemplo 1/3 y 2/3 o lo que sea... ;)
 
+[CRUZ - CSS grid: apply grid with classes (col/row span](https://codepen.io/CruzWeb/pen/mdPJZVY)
+
 ### 08 Aug 2020
 
 [pencil books drawing titles pdf epub...](https://vk.com/topic-4918594_27696136?offset=540)
