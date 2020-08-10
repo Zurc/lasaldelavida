@@ -14,6 +14,8 @@ JAVASCRIPT - JS random number btwn max an min
 
 [CSSGR.ID - CSS grid  creator](https://cssgr.id/)
 
+[DESIGNCOIURSE - CSSGR.ID - An Easy, Interactive Way to Learn the CSS Grid](https://www.youtube.com/watch?v=XbEqfYr9pIo)
+
 [CRUZ - CSS grid: header, 2 col, footer](https://codepen.io/CruzWeb/pen/XWdbOdd)
 
 >  las 2 col pueden ser un sidebar y content o 2 columnas, pueden ser del mismo ancho o como éste ejemplo 1/3 y 2/3 o lo que sea... ;)
