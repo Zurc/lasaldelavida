@@ -10,6 +10,8 @@ JAVASCRIPT - JS random number btwn max an min
 
 ``const rand = (min, max) => Math.floor(Math.random() * (max - min)) + min;``
 
+[css tricks - preventing a grid blowout](https://css-tricks.com/preventing-a-grid-blowout/)
+
 ### 08 Aug 2020
 
 [pencil books drawing titles pdf epub...](https://vk.com/topic-4918594_27696136?offset=540)
