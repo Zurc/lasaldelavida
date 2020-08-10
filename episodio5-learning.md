@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Aug 2020
+
+[george ladas - art composition, values](https://georgeladas.blogspot.com/2012/12/improve-your-painting-plotting-lights.html)
+
 ### 08 Aug 2020
 
 [pencil books drawing titles pdf epub...](https://vk.com/topic-4918594_27696136?offset=540)
