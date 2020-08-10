@@ -12,6 +12,8 @@ JAVASCRIPT - JS random number btwn max an min
 
 [css tricks - preventing a grid blowout](https://css-tricks.com/preventing-a-grid-blowout/)
 
+[CSSGR.ID - CSS grid  creator](https://cssgr.id/)
+
 ### 08 Aug 2020
 
 [pencil books drawing titles pdf epub...](https://vk.com/topic-4918594_27696136?offset=540)
