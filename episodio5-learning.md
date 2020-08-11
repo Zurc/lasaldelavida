@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [mi folcklore argentino](https://www.mifolkloreargentino.com.ar/)
 
+[CRUZ - cancionero con buscador](https://stackblitz.com/edit/angular-iframe-src-g4uxt3)
+
 ### 10 Aug 2020
 
 [george ladas - art composition, values](https://georgeladas.blogspot.com/2012/12/improve-your-painting-plotting-lights.html)
