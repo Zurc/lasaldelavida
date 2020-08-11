@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [cancionero con acorder - folcklore](https://cancionero-acordes.com.ar/)
 
+[mi folcklore argentino](https://www.mifolkloreargentino.com.ar/)
+
 ### 10 Aug 2020
 
 [george ladas - art composition, values](https://georgeladas.blogspot.com/2012/12/improve-your-painting-plotting-lights.html)
