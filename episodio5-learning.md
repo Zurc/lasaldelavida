@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [thinkster - behaviorSubject for values that change over time](https://thinkster.io/tutorials/learn-rxjs-observables/using-behaviorsubject-for-values-that-change-over-time)
 
+[Construcción de una Maqueta de Puente Levadizo de Cartón con Motor y Poleas](https://www.youtube.com/watch?v=BnTKILmFeL4)
+
 ### 11 Aug 2020
 
 [cancionero con acorder - folcklore](https://cancionero-acordes.com.ar/)
