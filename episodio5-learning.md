@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 12 Aug 2020
+
+[thinkster - behaviorSubject for values that change over time](https://thinkster.io/tutorials/learn-rxjs-observables/using-behaviorsubject-for-values-that-change-over-time)
+
 ### 11 Aug 2020
 
 [cancionero con acorder - folcklore](https://cancionero-acordes.com.ar/)
