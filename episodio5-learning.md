@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Aug 2020
+
+>  Microsoft Excel (tested on chrome): how to add a new line (carriage return)
+
+Alt + Enter
+
 ### 12 Aug 2020
 
 [thinkster - behaviorSubject for values that change over time](https://thinkster.io/tutorials/learn-rxjs-observables/using-behaviorsubject-for-values-that-change-over-time)
