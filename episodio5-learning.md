@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Aug 2020
+
+[MUSIC - Tocando al frente](https://www.musica.com/letras.asp?letra=1574526)
+
 ### 13 Aug 2020
 
 >  Microsoft Excel (tested on chrome): how to add a new line (carriage return)
