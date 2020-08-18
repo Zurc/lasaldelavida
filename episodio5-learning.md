@@ -6,6 +6,12 @@ Cosas que voy aprendiendo...
 
 [Hexo theme DOC](https://zalando-incubator.github.io/hexo-theme-doc/get-started.html)
 
+[hexo io](https://hexo.io/)
+
+to generate a project to deploy in a server
+
+`$ hexo generate`
+
 ### 17 Aug 2020
 
 [MUSIC - Tocando al frente](https://www.musica.com/letras.asp?letra=1574526)
