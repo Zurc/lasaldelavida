@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Aug 2020
+
+[Hexo theme DOC](https://zalando-incubator.github.io/hexo-theme-doc/get-started.html)
+
 ### 17 Aug 2020
 
 [MUSIC - Tocando al frente](https://www.musica.com/letras.asp?letra=1574526)
