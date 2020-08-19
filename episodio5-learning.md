@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Aug 2020
+
+[MUSIC - How to use the compression](https://www.youtube.com/watch?v=yi0J9JsRdI4)
+
 ### 18 Aug 2020
 
 [Hexo theme DOC](https://zalando-incubator.github.io/hexo-theme-doc/get-started.html)
