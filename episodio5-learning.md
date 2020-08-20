@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 20 Aug 2020
+
+[2 col in markdown](https://stackoverflow.com/questions/30514408/have-two-columns-in-markdown)
+
 ### 19 Aug 2020
 
 [MUSIC - How to use the compression](https://www.youtube.com/watch?v=yi0J9JsRdI4)
