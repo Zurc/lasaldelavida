@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [MUSIC - Ay, Carnaval de los carnavales](https://www.musixmatch.com/es/letras/Los-de-Jujuy/Ay-Carnaval-de-los-Carnavales)
 
+[MUSICA - Chacarera de la anunciación (Los amigos del alma)](https://www.youtube.com/watch?v=jLSwUiutmto)
+
 ### 19 Aug 2020
 
 [MUSIC - How to use the compression](https://www.youtube.com/watch?v=yi0J9JsRdI4)
