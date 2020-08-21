@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 
 [MUSICA - Chacarera de la anunciación (Los amigos del alma)](https://www.youtube.com/watch?v=jLSwUiutmto)
 
-[ARTE - juanma gutierrez (pinterest)](https://www.pinterest.co.uk/jmguti/boards/)
+[ARTE - juanma gutierrez (pinterest)](https://www.pinterest.co.uk/jmguti/boards/)  // arte costumbrista, criollo , gaucho
 
 ### 19 Aug 2020
 
