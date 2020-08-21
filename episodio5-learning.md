@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [MUSIC - Ay, Carnaval de los carnavales](https://www.musixmatch.com/es/letras/Los-de-Jujuy/Ay-Carnaval-de-los-Carnavales)
 
+[Rafael Escudero - Ay Carnaval](https://www.youtube.com/watch?v=Qcy4x_JcXbY)
+
 [MUSICA - Chacarera de la anunciación (Los amigos del alma)](https://www.youtube.com/watch?v=jLSwUiutmto)
 
 [ARTE - juanma gutierrez (pinterest)](https://www.pinterest.co.uk/jmguti/boards/)  // arte costumbrista, criollo , gaucho
