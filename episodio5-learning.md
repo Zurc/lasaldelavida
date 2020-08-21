@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [MUSICA - Chacarera de la anunciación (Los amigos del alma)](https://www.youtube.com/watch?v=jLSwUiutmto)
 
+[ARTE - juanma gutierrez (pinterest)](https://www.pinterest.co.uk/jmguti/boards/)
+
 ### 19 Aug 2020
 
 [MUSIC - How to use the compression](https://www.youtube.com/watch?v=yi0J9JsRdI4)
