@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [ARTE - juanma gutierrez (pinterest)](https://www.pinterest.co.uk/jmguti/boards/)  // arte costumbrista, criollo , gaucho
 
+[markdown - marked directive](https://www.jamiecockrill.com/2018-04-30-marked-directive/)
+
 ### 19 Aug 2020
 
 [MUSIC - How to use the compression](https://www.youtube.com/watch?v=yi0J9JsRdI4)
