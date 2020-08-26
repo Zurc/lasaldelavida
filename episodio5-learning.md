@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 26 Aug 2020
 
+[align labels in form next to input](https://stackoverflow.com/questions/9686538/align-labels-in-form-next-to-input)
+
 ANGULAR - TYPESCRIPT
 
 >  Sometimes you have to map or change to a different interface so you 'cast' it as any and then delete/add properties... example
