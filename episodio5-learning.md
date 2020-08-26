@@ -2,6 +2,35 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Aug 2020
+
+ANGULAR - TYPESCRIPT
+
+>  Sometimes you have to map or change to a different interface so you 'cast' it as any and then delete/add properties... example
+
+```
+/**
+   * Converts a server registration to a device registration
+   */
+  private serverRegistrationToAppRegistration(registration: DeviceRegistration): AppRegistration {
+    // tslint:disable-next-line: no-any
+    const registrationClone: AppRegistration = { ...(registration as any) };
+
+    if (registration.device) {
+      registrationClone.enabled = registration.device.enabled;
+      registrationClone.device = registration.device.imei.replace(/-/g, '');
+    } else {
+      delete registrationClone.device;
+    }
+
+    if (registration.status) {
+      registrationClone.statusName = this.translateService.instant(`device-status.${registration.status}`);
+    }
+
+    return registrationClone;
+  }
+```
+
 ### 20 Aug 2020
 
 [2 col in markdown](https://stackoverflow.com/questions/30514408/have-two-columns-in-markdown)
