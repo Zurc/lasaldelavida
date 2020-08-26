@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 26 Aug 2020
 
+[academind - scully introduction](https://academind.com/learn/angular/scully-introduction/)
+
 [align labels in form next to input](https://stackoverflow.com/questions/9686538/align-labels-in-form-next-to-input)
 
 ANGULAR - TYPESCRIPT
