@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 27 Aug 2020
 
+[Illustrator: Tarjetas de Presentación](https://www.youtube.com/watch?v=jUhG4ZCtmZw)
+
 [How to apply silicone to a bathtub](https://youtu.be/HiujAReaNRk)
 
 [Ideas para aprender Google App Script](https://www.udemy.com/course/google-apps-script-projects/?utm_source=email-sendgrid&utm_medium=920126)
