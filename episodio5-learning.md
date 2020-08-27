@@ -6,6 +6,12 @@ Cosas que voy aprendiendo...
 
 [How to apply silicone to a bathtub](https://youtu.be/HiujAReaNRk)
 
+[Ideas para aprender Google App Script](https://www.udemy.com/course/google-apps-script-projects/?utm_source=email-sendgrid&utm_medium=920126)
+
+>  más Goodle App Script ideas >> developers.google.com/apps-script, script.google.com
+
+
+
 ### 26 Aug 2020
 
 [Learn TypeScript in 50 Minutes - Tutorial for Beginners](https://www.youtube.com/watch?v=WBPrJSw7yQA)
