@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Aug 2020
+
+[How to apply silicone to a bathtub](https://youtu.be/HiujAReaNRk)
+
 ### 26 Aug 2020
 
 [Learn TypeScript in 50 Minutes - Tutorial for Beginners](https://www.youtube.com/watch?v=WBPrJSw7yQA)
