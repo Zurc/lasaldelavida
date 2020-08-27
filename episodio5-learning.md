@@ -8,9 +8,13 @@ Cosas que voy aprendiendo...
 
 [Ideas para aprender Google App Script](https://www.udemy.com/course/google-apps-script-projects/?utm_source=email-sendgrid&utm_medium=920126)
 
->  más Goodle App Script ideas >> developers.google.com/apps-script, script.google.com
-
-
+>  más Goodle App Script ideas: 
+>  
+>  developers.google.com/apps-script 
+>  
+>  script.google.com
+>  
+>  https://codelabs.developers.google.com/codelabs/apps-script-intro
 
 ### 26 Aug 2020
 
