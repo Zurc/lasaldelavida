@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 27 Aug 2020
 
-[Illustrator: Tarjetas de Presentación](https://www.youtube.com/watch?v=jUhG4ZCtmZw)
+[Illustrator: Tarjetas de Presentación](https://www.youtube.com/watch?v=jUhG4ZCtmZw) // usé la misma ide para las tarjetas (estampas) de bautismo de teresita
 
 [How to apply silicone to a bathtub](https://youtu.be/HiujAReaNRk)
 
