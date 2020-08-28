@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [mackeeper - step by step guide to reset mac to factory settings](https://mackeeper.com/blog/post/473-step-by-step-guide-to-reset-mac-to-factory-settings/)
 
+[macworld - reset mac](https://www.macworld.co.uk/how-to/mac/reset-mac-3494564/)
+
 ### 27 Aug 2020
 
 [Illustrator: Tarjetas de Presentación](https://www.youtube.com/watch?v=jUhG4ZCtmZw) // usé la misma ide para las tarjetas (estampas) de bautismo de teresita
