@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [How to Create a Book in Adobe InDesign](https://www.youtube.com/watch?v=FaJG3buRh2Y)
 
+buscar 'free flipping book' o algo así...
+
 ### 28 Aug 2020
 
 [mackeeper - step by step guide to reset mac to factory settings](https://mackeeper.com/blog/post/473-step-by-step-guide-to-reset-mac-to-factory-settings/)
