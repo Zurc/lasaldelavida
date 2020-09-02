@@ -22,6 +22,8 @@ buscar 'free flipbook' o algo así...
 
 [3dflipbook](https://3dflipbook.net/)
 
+[ANGULAR - freecodecamp: ng 8 tut to test](https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/)
+
 ### 28 Aug 2020
 
 [mackeeper - step by step guide to reset mac to factory settings](https://mackeeper.com/blog/post/473-step-by-step-guide-to-reset-mac-to-factory-settings/)
