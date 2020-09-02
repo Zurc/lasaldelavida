@@ -8,7 +8,7 @@ TERMINAL - crear/abrir archivo
 
 Hay varias formas de crear un archivo y abrirlo desde la terminal, una opción:
 
-`touch test.txt; open test.txt`
+`touch test.txt; open test.txt` | versión más corta: `touch test.txt; open $_`
 
 Si quiero crearlo con contenido...
 
