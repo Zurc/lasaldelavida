@@ -4,6 +4,16 @@ Cosas que voy aprendiendo...
 
 ### 02 Sep 2020
 
+TERMINAL - crear/abrir archivo 
+
+Hay varias formas de crear un archivo y abrirlo desde la terminal, una opción:
+
+`touch test.txt; open test.txt`
+
+Si quiero crearlo con contenido...
+
+`echo "esto es un test" > test.txt && open test.txt`
+
 [How to Create a Book in Adobe InDesign](https://www.youtube.com/watch?v=FaJG3buRh2Y)
 
 buscar 'free flipbook' o algo así...
