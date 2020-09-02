@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 02 Sep 2020
+
+[How to Create a Book in Adobe InDesign](https://www.youtube.com/watch?v=FaJG3buRh2Y)
+
 ### 28 Aug 2020
 
 [mackeeper - step by step guide to reset mac to factory settings](https://mackeeper.com/blog/post/473-step-by-step-guide-to-reset-mac-to-factory-settings/)
