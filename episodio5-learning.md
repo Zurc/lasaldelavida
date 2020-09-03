@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [ART - Alpay Efe youtube playlist](https://www.youtube.com/c/AlpayEfe/videos)
 
+[ART - Alpay Efe website | shop](https://www.alpayefe.com/shop/delorean)
+
 ### 02 Sep 2020
 
 TERMINAL - crear/abrir archivo 
