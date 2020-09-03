@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [github PatrickJS - awesome angular](https://github.com/PatrickJS/awesome-angular) // lots of angular resources
 
+[Photoshop - Sachin Tendulkar colourful smudge painting tutorial](https://www.youtube.com/watch?v=CwEXnEAAmv4)
+
 ### 02 Sep 2020
 
 TERMINAL - crear/abrir archivo 
