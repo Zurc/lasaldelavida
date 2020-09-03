@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [Photoshop - Sachin Tendulkar colourful smudge painting tutorial](https://www.youtube.com/watch?v=CwEXnEAAmv4)
 
+[ART - Alpay Efe youtube playlist](https://www.youtube.com/c/AlpayEfe/videos)
+
 ### 02 Sep 2020
 
 TERMINAL - crear/abrir archivo 
