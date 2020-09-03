@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angular tutorials and books 2020](https://store.akveo.com/blogs/news/learn-angular-with-free-step-by-step-angular-tutorial-in-2020)
 
+[github PatrickJS - awesome angular](https://github.com/PatrickJS/awesome-angular) // lots of angular resources
+
 ### 02 Sep 2020
 
 TERMINAL - crear/abrir archivo 
