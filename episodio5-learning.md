@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 04 Sep 2020
+
+[original Gitflow blog](https://nvie.com/posts/a-successful-git-branching-model/)
+
 ### 03 Sep 2020
 
 [angular tutorials and books 2020](https://store.akveo.com/blogs/news/learn-angular-with-free-step-by-step-angular-tutorial-in-2020)
