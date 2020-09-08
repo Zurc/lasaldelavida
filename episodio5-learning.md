@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 08 Sep 2020
+
+[kickstarter idea: dave malan book of drawings](https://www.kickstarter.com/projects/2092796724/dave-malan-book-of-drawings/description)
+
 ### 04 Sep 2020
 
 [original Gitflow blog](https://nvie.com/posts/a-successful-git-branching-model/)
