@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [JIT: Digital caricature on iPad Pro + Apple Pencil on Procreate](https://www.youtube.com/watch?time_continue=63&v=3EcoSMekjcg&feature=emb_logo&ab_channel=NolanHarris)
 
+[Dr Jack Janssen's 10 years experience on Kangen Water](https://www.youtube.com/watch?v=r_YQorX5xoA&ab_channel=StreamlineArtVideo)  // interesante
+
 ### 04 Sep 2020
 
 [original Gitflow blog](https://nvie.com/posts/a-successful-git-branching-model/)
