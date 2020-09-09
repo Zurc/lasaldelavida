@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [uxplanet - UX design dropdowns](https://uxplanet.org/ux-design-drop-downs-in-forms-c6943ec30037)
 
+[uxmatters - selection dependent inputs](https://www.uxmatters.com/mt/archives/2007/02/selection-dependent-inputs.php)
+
 ### 08 Sep 2020
 
 [kickstarter idea: dave malan book of drawings](https://www.kickstarter.com/projects/2092796724/dave-malan-book-of-drawings/description)
