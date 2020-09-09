@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [JIT: Digital caricature on iPad Pro + Apple Pencil on Procreate](https://www.youtube.com/watch?time_continue=63&v=3EcoSMekjcg&feature=emb_logo&ab_channel=NolanHarris)
 
+[JIT: caricatura Mr Bean digital](http://www.caricature.com.sg/2010/08/digital-caricature-of-mr-bean.html)
+
 [Dr Jack Janssen's 10 years experience on Kangen Water](https://www.youtube.com/watch?v=r_YQorX5xoA&ab_channel=StreamlineArtVideo)  // interesante
 
 [★ TRUCOS MUY FÁCILES PARA DIBUJAR EN PHOTOSHOP! | MILIKOEY](https://www.youtube.com/watch?v=mnabUM8PWTI&ab_channel=MiliKoey)
