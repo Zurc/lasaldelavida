@@ -4,7 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 09 Sep 2020
 
-[Top 7 Digital Painting Mistakes](https://www.youtube.com/watch?v=QFbYuWixFBU&ab_channel=Proko)
+[Court Jones - proko art of caricature](https://www.courtjones.com/proko-art-of-caricature)
+
+[Proko | Court Jones - Top 7 Digital Painting Mistakes](https://www.youtube.com/watch?v=QFbYuWixFBU&ab_channel=Proko)
 
 [dev to - working with enums in angular](https://dev.to/shane/working-with-enums-in-angular-html-templates-2io9)
 
