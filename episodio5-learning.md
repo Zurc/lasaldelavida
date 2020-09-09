@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [kickstarter idea: dave malan book of drawings](https://www.kickstarter.com/projects/2092796724/dave-malan-book-of-drawings/description)
 
+[pinterest - dave malan](https://www.pinterest.co.uk/pgmb01/dave-malan/)
+
 [JIT: Digital caricature on iPad Pro + Apple Pencil on Procreate](https://www.youtube.com/watch?time_continue=63&v=3EcoSMekjcg&feature=emb_logo&ab_channel=NolanHarris)
 
 [JIT: caricatura Mr Bean digital](http://www.caricature.com.sg/2010/08/digital-caricature-of-mr-bean.html)
