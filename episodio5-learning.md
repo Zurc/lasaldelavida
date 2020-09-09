@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [★ TRUCOS MUY FÁCILES PARA DIBUJAR EN PHOTOSHOP! | MILIKOEY](https://www.youtube.com/watch?v=mnabUM8PWTI&ab_channel=MiliKoey)
 
+[Digital Painting workflow in Photoshop](https://www.youtube.com/watch?v=IMy65h4PcAo&ab_channel=ericanthonyj)
+
 ### 04 Sep 2020
 
 [original Gitflow blog](https://nvie.com/posts/a-successful-git-branching-model/)
