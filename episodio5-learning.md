@@ -16,6 +16,8 @@ Cosas que voy aprendiendo...
 
 [Digital Painting workflow in Photoshop](https://www.youtube.com/watch?v=IMy65h4PcAo&ab_channel=ericanthonyj)
 
+[5 EASY Steps to Create a REALISTIC Line Drawing From a Photo In Photoshop](https://www.youtube.com/watch?v=IPilqFFcCqs&ab_channel=PhotoshopTrainingChannel)
+
 ### 04 Sep 2020
 
 [original Gitflow blog](https://nvie.com/posts/a-successful-git-branching-model/)
