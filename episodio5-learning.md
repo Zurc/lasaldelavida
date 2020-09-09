@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 09 Sep 2020
 
+[dev to - working with enums in angular](https://dev.to/shane/working-with-enums-in-angular-html-templates-2io9)
+
 [Designsmarts - The problem with dropdowns](https://designsmarts.co/the-problem-with-dropdowns/)
 
 [uxplanet - UX design dropdowns](https://uxplanet.org/ux-design-drop-downs-in-forms-c6943ec30037)
