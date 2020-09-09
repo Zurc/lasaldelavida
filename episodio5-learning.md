@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [Dr Jack Janssen's 10 years experience on Kangen Water](https://www.youtube.com/watch?v=r_YQorX5xoA&ab_channel=StreamlineArtVideo)  // interesante
 
+[★ TRUCOS MUY FÁCILES PARA DIBUJAR EN PHOTOSHOP! | MILIKOEY](https://www.youtube.com/watch?v=mnabUM8PWTI&ab_channel=MiliKoey)
+
 ### 04 Sep 2020
 
 [original Gitflow blog](https://nvie.com/posts/a-successful-git-branching-model/)
