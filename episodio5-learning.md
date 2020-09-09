@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 09 Sep 2020
 
+[Top 7 Digital Painting Mistakes](https://www.youtube.com/watch?v=QFbYuWixFBU&ab_channel=Proko)
+
 [dev to - working with enums in angular](https://dev.to/shane/working-with-enums-in-angular-html-templates-2io9)
 
 [Designsmarts - The problem with dropdowns](https://designsmarts.co/the-problem-with-dropdowns/)
