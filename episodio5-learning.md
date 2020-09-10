@@ -6,6 +6,12 @@ Cosas que voy aprendiendo...
 
 [MDN - console.dir() method](https://developer.mozilla.org/en-US/docs/Web/API/Console/dir)
 
+[chrome extensions: angular state inspector](https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem)
+
+>  Open Chrome dev tools > Elements and look for the 'state' tab
+
+![state tab](https://lh3.googleusercontent.com/lMACWH1PyerlVI56hA9GVnqoCRtcnt-vfd7pSmTZp_wsD-l9JYrQymAjg3j1s1XLURRQZmo3V0A=w640-h400-e365-rj-sc0x00ffffff)
+
 ### 09 Sep 2020
 
 [Court Jones - proko art of caricature](https://www.courtjones.com/proko-art-of-caricature)
