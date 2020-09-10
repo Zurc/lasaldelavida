@@ -8,7 +8,7 @@ Cosas que voy aprendiendo...
 
 [chrome extensions: angular state inspector](https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem)
 
->  Open Chrome dev tools > Elements and look for the 'state' tab
+>  Open Chrome dev tools > Elements (click on any) and look for the 'state' tab
 
 ![state tab](https://lh3.googleusercontent.com/lMACWH1PyerlVI56hA9GVnqoCRtcnt-vfd7pSmTZp_wsD-l9JYrQymAjg3j1s1XLURRQZmo3V0A=w640-h400-e365-rj-sc0x00ffffff)
 
