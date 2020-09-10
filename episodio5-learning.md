@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 10 Sep 2020
+
+[MDN - console.dir() method](https://developer.mozilla.org/en-US/docs/Web/API/Console/dir)
+
 ### 09 Sep 2020
 
 [Court Jones - proko art of caricature](https://www.courtjones.com/proko-art-of-caricature)
