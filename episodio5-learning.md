@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 ![state tab](https://lh3.googleusercontent.com/lMACWH1PyerlVI56hA9GVnqoCRtcnt-vfd7pSmTZp_wsD-l9JYrQymAjg3j1s1XLURRQZmo3V0A=w640-h400-e365-rj-sc0x00ffffff)
 
+[Working with enums on angular](https://dev.to/shane/working-with-enums-in-angular-html-templates-2io9)
+
 ### 09 Sep 2020
 
 [Court Jones - proko art of caricature](https://www.courtjones.com/proko-art-of-caricature)
