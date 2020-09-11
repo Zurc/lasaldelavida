@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 11 Sep 2020
+
+[gloria tv - SANTA TERESA DE JESÚS / Serie completa en ocho capítulos.](https://gloria.tv/post/pQzTA9a6ZnLp2zsNE4oi23Cd2)
+
 ### 10 Sep 2020
 
 [MDN - console.dir() method](https://developer.mozilla.org/en-US/docs/Web/API/Console/dir)
