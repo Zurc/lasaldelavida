@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 >  
 >  applicable to anything, e.g. work, code...
 
+[TÉCNICA GRANDES PINTORES, EL DISEÑO DE LA FORMA || PINTURA Y ARTE](https://www.youtube.com/watch?v=10uwwCmFh-Q&t=262s&ab_channel=GerardMillet)
+
 ### 11 Sep 2020
 
 [gloria tv - SANTA TERESA DE JESÚS / Serie completa en ocho capítulos.](https://gloria.tv/post/pQzTA9a6ZnLp2zsNE4oi23Cd2)
