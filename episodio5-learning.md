@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [3 Ways to Stay Motivated | Sam's Digital Art Tips](https://www.youtube.com/watch?v=DTpYXW_eL5A&t=27s&ab_channel=SamDoesArts)
 
+>  short/long term goals
+>  
+>  applicable to anything, e.g. work, code...
+
 ### 11 Sep 2020
 
 [gloria tv - SANTA TERESA DE JESÚS / Serie completa en ocho capítulos.](https://gloria.tv/post/pQzTA9a6ZnLp2zsNE4oi23Cd2)
