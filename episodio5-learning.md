@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Sep 2020
+
+[ux studio team - user attention](https://uxstudioteam.com/ux-blog/user-attention/)
+
 ### 17 Sep 2020
 
 [3 Ways to Stay Motivated | Sam's Digital Art Tips](https://www.youtube.com/watch?v=DTpYXW_eL5A&t=27s&ab_channel=SamDoesArts)
