@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Sep 2020
+
+[medium - angular performance: why you should never use function calls in angular template expressions](https://medium.com/showpad-engineering/why-you-should-never-use-function-calls-in-angular-template-expressions-e1a50f9c0496)
+
 ### 18 Sep 2020
 
 [ux studio team - user attention](https://uxstudioteam.com/ux-blog/user-attention/)
