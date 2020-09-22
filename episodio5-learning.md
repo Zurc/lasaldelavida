@@ -11,6 +11,8 @@ Email validation stuff:
 
 [medium - 100 correct way to validate email addresses](https://medium.com/hackernoon/the-100-correct-way-to-validate-email-addresses-7c4818f24643)
 
+[w3resource JS - email validation](https://www.w3resource.com/javascript/form/email-validation.php)
+
 -----
 
 [materialise - hands free door opener](https://www.materialise.com/en/hands-free-door-opener)
