@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [materialise - hands free door opener](https://www.materialise.com/en/hands-free-door-opener)
 
+[coronavirus essentials](https://cpr-savers.com/Coronavirus-Essentials_c_1622.html). // amazon opportunities?
+
 ### 21 Sep 2020
 
 [the code barbarian - Obj assign Vs. Obj spread](https://thecodebarbarian.com/object-assign-vs-object-spread.html)
