@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [ART - Illustration Master Course - Ep. 4: LANDSCAPES & ENVIRONMENTS](https://www.youtube.com/watch?v=AKXkTDSvb1k&ab_channel=RossDraws)
 
+[ross draws website](https://rossdraws.com/collections/tutorials)
+
 [ART - Painting the Head from Imagination - Lighting without Reference with Marco Bucci](https://www.youtube.com/watch?v=iqvFjJTIJx8&ab_channel=Proko)
 
 -----
