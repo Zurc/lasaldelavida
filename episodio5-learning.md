@@ -4,6 +4,13 @@ Cosas que voy aprendiendo...
 
 ### 22 Sep 2020
 
+-----
+Email validation stuff:
+
+[regular expressions info](https://www.regular-expressions.info/email.html)
+
+-----
+
 [materialise - hands free door opener](https://www.materialise.com/en/hands-free-door-opener)
 
 [coronavirus essentials](https://cpr-savers.com/Coronavirus-Essentials_c_1622.html). // amazon opportunities?
