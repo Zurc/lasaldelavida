@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Sep 2020
 
+[ART - Painting the Head from Imagination - Lighting without Reference with Marco Bucci](https://www.youtube.com/watch?v=iqvFjJTIJx8&ab_channel=Proko)
+
 -----
 Email validation stuff:
 
