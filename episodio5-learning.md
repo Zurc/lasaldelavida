@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 23 Sep 2020
 
+[Why Snatch Blocks are AWESOME (How Pulleys Work) - Smarter Every Day 228](https://www.youtube.com/watch?v=M2w3NZzPwOM&ab_channel=SmarterEveryDay)
+
 [Illustration Master Course - Ep. 3: PORTRAITS](https://www.youtube.com/watch?v=Pz9zE8qHcNE&ab_channel=RossDraws)
 
 [CRUZ stackblitz - angular 7 drag & drop btwn multiple lists](https://stackblitz.com/edit/angular7-drag-and-drop-between-lists-kse7n9)
