@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Sep 2020
+
+[Illustration Master Course - Ep. 3: PORTRAITS](https://www.youtube.com/watch?v=Pz9zE8qHcNE&ab_channel=RossDraws)
+
 ### 22 Sep 2020
 
 [ART - Illustration Master Course - Ep. 4: LANDSCAPES & ENVIRONMENTS](https://www.youtube.com/watch?v=AKXkTDSvb1k&ab_channel=RossDraws)
