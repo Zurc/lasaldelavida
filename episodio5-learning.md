@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ stackblitz - angular 7 drag & drop btwn multiple lists](https://stackblitz.com/edit/angular7-drag-and-drop-between-lists-kse7n9)
 
+[electrician courses 4 u - life with no electricity](https://www.electriciancourses4u.co.uk/useful-resources/life-with-no-electricity/)
+
 ### 22 Sep 2020
 
 [ART - Illustration Master Course - Ep. 4: LANDSCAPES & ENVIRONMENTS](https://www.youtube.com/watch?v=AKXkTDSvb1k&ab_channel=RossDraws)
