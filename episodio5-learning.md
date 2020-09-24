@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Sep 2020
+
+[css-tricks - how CSS perspective works](https://css-tricks.com/how-css-perspective-works/)
+
 ### 23 Sep 2020
 
 [Why Snatch Blocks are AWESOME (How Pulleys Work) - Smarter Every Day 228](https://www.youtube.com/watch?v=M2w3NZzPwOM&ab_channel=SmarterEveryDay)
