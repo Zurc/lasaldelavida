@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [css-tricks - how CSS perspective works](https://css-tricks.com/how-css-perspective-works/)
 
+[record screen on mac](https://filmora.wondershare.com/screen-recorder/best-screen-recorder-for-mac.html)
+
 ### 23 Sep 2020
 
 [Why Snatch Blocks are AWESOME (How Pulleys Work) - Smarter Every Day 228](https://www.youtube.com/watch?v=M2w3NZzPwOM&ab_channel=SmarterEveryDay)
