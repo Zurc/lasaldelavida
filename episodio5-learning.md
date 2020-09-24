@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [record screen on mac](https://filmora.wondershare.com/screen-recorder/best-screen-recorder-for-mac.html)
 
+[Best Screen Recorder Software and Adobe Premiere Pro Editing Tips](https://www.youtube.com/watch?v=Lc5YNbdb1tI&ab_channel=PremiereGal)
+
 ### 23 Sep 2020
 
 [Why Snatch Blocks are AWESOME (How Pulleys Work) - Smarter Every Day 228](https://www.youtube.com/watch?v=M2w3NZzPwOM&ab_channel=SmarterEveryDay)
