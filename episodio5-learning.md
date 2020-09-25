@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - Grid layout example (gvs-5981) Manual alerts](https://codepen.io/CruzWeb/pen/NWNoQPo)
 
+[git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+
 ### 24 Sep 2020
 
 [css-tricks - how CSS perspective works](https://css-tricks.com/how-css-perspective-works/)
