@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Sep 2020
+
+[CRUZ - Grid layout example (gvs-5981) Manual alerts](https://codepen.io/CruzWeb/pen/NWNoQPo)
+
 ### 24 Sep 2020
 
 [css-tricks - how CSS perspective works](https://css-tricks.com/how-css-perspective-works/)
