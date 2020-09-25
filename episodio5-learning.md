@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [Vida y Misterio de Jesús de Nazaret 01 - Martín Descalzo](http://files.oratorio-san-juan-diego.webnode.mx/200002027-85a89879d9/Vida%20y%20misterio%20de%20Jes%C3%BAs%20de%20Nazaret%20I%20-%20Mart%C3%ADn%20Descalzo.pdf)
 
+[erase and factory reset your Mac](https://www.youtube.com/watch?v=CjV7QnLAwjo&ab_channel=AppleInsider)
+
 ### 24 Sep 2020
 
 [css-tricks - how CSS perspective works](https://css-tricks.com/how-css-perspective-works/)
