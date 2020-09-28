@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [macworld - connecting two macs using thunderbolt](https://www.macworld.com/article/2142073/connecting-two-macs-using-thunderbolt.html)
 
+[osx daily - show hidden files finder](https://osxdaily.com/2018/02/12/show-hidden-files-mac-keyboard-shortcut/)
+
 ### 25 Sep 2020
 
 [GIT - squash commit using rebase interactive](https://www.internalpointers.com/post/squash-commits-into-one-git)
