@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 28 Sep 2020
+
+[macworld - connecting two macs using thunderbolt](https://www.macworld.com/article/2142073/connecting-two-macs-using-thunderbolt.html)
+
 ### 25 Sep 2020
 
 [GIT - squash commit using rebase interactive](https://www.internalpointers.com/post/squash-commits-into-one-git)
