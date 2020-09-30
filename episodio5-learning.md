@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [ASCII codes - key numbers](https://theasciicode.com.ar/)
 
+[destino reino unido - ser padres UK pasaporte registro papeles](https://destinoreinounido.com/ser-padres-inglaterra-pasaporte-registro-papeles/)
+
 ### 28 Sep 2020
 
 [macworld - connecting two macs using thunderbolt](https://www.macworld.com/article/2142073/connecting-two-macs-using-thunderbolt.html)
