@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 30 Sep 2020
+
+[UX design - error messages best practice | validation](https://uxdesign.cc/creating-error-messages-best-practice-in-ux-design-cda3be0f5e16)
+
 ### 28 Sep 2020
 
 [macworld - connecting two macs using thunderbolt](https://www.macworld.com/article/2142073/connecting-two-macs-using-thunderbolt.html)
