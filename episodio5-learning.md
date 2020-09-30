@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [NNGroup - error forms design guidelines](https://www.nngroup.com/articles/errors-forms-design-guidelines)
 
+[ASCII codes - key numbers](https://theasciicode.com.ar/)
+
 ### 28 Sep 2020
 
 [macworld - connecting two macs using thunderbolt](https://www.macworld.com/article/2142073/connecting-two-macs-using-thunderbolt.html)
