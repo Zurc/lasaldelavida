@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 01 Oct 2020
+
+[Angular - reactive forms trigger validation on submit](https://loiane.com/2017/08/angular-reactive-forms-trigger-validation-on-submit/)
+
 ### 30 Sep 2020
 
 [UX design - error messages best practice | validation](https://uxdesign.cc/creating-error-messages-best-practice-in-ux-design-cda3be0f5e16)
