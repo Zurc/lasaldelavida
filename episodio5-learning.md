@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 02 Oct 2020
+
+[Full stack developers roadmap](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
+
 ### 01 Oct 2020
 
 [Angular - reactive forms trigger validation on submit](https://loiane.com/2017/08/angular-reactive-forms-trigger-validation-on-submit/)
