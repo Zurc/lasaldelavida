@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Python book - automate the boring stuff](https://automatetheboringstuff.com/)
 
+[BOOK - Rxjs chapter 5: applied reactive streams](https://livebook.manning.com/book/rxjs-in-action/chapter-5/65)
+
 ### 02 Oct 2020
 
 [Full stack developers roadmap](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
