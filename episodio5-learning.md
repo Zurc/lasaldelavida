@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [BOOK - Rxjs chapter 5: applied reactive streams](https://livebook.manning.com/book/rxjs-in-action/chapter-5/65)
 
+[stackoverflow - angular filter observable array](https://stackoverflow.com/questions/43430715/angular-filter-observable-array)
+
 ### 02 Oct 2020
 
 [Full stack developers roadmap](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
