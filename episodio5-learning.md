@@ -4,6 +4,12 @@ Cosas que voy aprendiendo...
 
 ### 05 Oct 2020
 
+----- mac development setup
+
+[medium - setting up your mac for web dev 2020](https://medium.com/better-programming/setting-up-your-mac-for-web-development-in-2020-659f5588b883)
+
+-----
+
 [Python book - automate the boring stuff](https://automatetheboringstuff.com/)
 
 [BOOK - Rxjs chapter 5: applied reactive streams](https://livebook.manning.com/book/rxjs-in-action/chapter-5/65)
