@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 05 Oct 2020
 
------ mac development setup
+----- mac development setup -----
 
 [medium - better programming. setting up your mac for web dev 2020](https://medium.com/better-programming/setting-up-your-mac-for-web-development-in-2020-659f5588b883)
 
