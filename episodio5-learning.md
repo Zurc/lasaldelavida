@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 05 Oct 2020
+
+[Python book - automate the boring stuff](https://automatetheboringstuff.com/)
+
 ### 02 Oct 2020
 
 [Full stack developers roadmap](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
