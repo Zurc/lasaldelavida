@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 06 Oct 2020
+
+[setup mac for dev 2020](https://medium.com/macoclock/set-up-your-mac-for-development-in-2020-fe38829c8b1f)
+
 ### 05 Oct 2020
 
 ----- mac development setup -----
