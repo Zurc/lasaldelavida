@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 06 Oct 2020
 
+[dev.to - new macbook setup for devs](https://dev.to/therealdanvega/new-macbook-setup-for-developers-2nma)
+
 [mac o'clock - setup mac for dev 2020](https://medium.com/macoclock/set-up-your-mac-for-development-in-2020-fe38829c8b1f)
 
 [dev.to - mac setup for dev 2020](https://dev.to/v3frankie/setup-your-mac-for-development-2020-edition-1c8a)
