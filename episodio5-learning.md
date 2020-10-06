@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 ----- mac development setup -----
 
-[medium - better programming. setting up your mac for web dev 2020](https://medium.com/better-programming/setting-up-your-mac-for-web-development-in-2020-659f5588b883)
+[medium - vinicius de antoni better programming. setting up your mac for web dev 2020](https://medium.com/better-programming/setting-up-your-mac-for-web-development-in-2020-659f5588b883)
 
 [intro to zsh (Z Shell)](http://zsh.sourceforge.net/Intro/intro_toc.html)
 
