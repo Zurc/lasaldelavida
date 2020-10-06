@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [dev.to - mac setup for dev 2020](https://dev.to/v3frankie/setup-your-mac-for-development-2020-edition-1c8a)
 
+[Top 7 RxJS Concepts for Angular Developers](https://www.youtube.com/watch?v=65Us8NwmYf4&ab_channel=Fireship)
+
 ### 05 Oct 2020
 
 ----- mac development setup -----
