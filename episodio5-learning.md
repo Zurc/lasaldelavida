@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [freecodecamp - how to use the browser console to scrape/save data in a file with JS](https://www.freecodecamp.org/news/how-to-use-the-browser-console-to-scrape-and-save-data-in-a-file-with-javascript-b40f4ded87ef/)
 
+[devtool snippets - console.save](http://bgrins.github.io/devtools-snippets/#console-save)
+
 ### 06 Oct 2020
 
 [dev.to - new macbook setup for devs](https://dev.to/therealdanvega/new-macbook-setup-for-developers-2nma)
