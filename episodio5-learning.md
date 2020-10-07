@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 07 Oct 2020
+
+[Brew Cask - list of apps](https://formulae.brew.sh/cask/)    // check to see which ones could be interesting to download
+
 ### 06 Oct 2020
 
 [dev.to - new macbook setup for devs](https://dev.to/therealdanvega/new-macbook-setup-for-developers-2nma)
