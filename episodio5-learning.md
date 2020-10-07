@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [google devs - chrome dev tools > console utilities](https://developers.google.com/web/tools/chrome-devtools/console/utilities)
 
+[css-tricks - JS snippets - loop queryselectorall matches](https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/)
+
 ### 06 Oct 2020
 
 [dev.to - new macbook setup for devs](https://dev.to/therealdanvega/new-macbook-setup-for-developers-2nma)
