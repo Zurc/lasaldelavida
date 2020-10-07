@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [devtool snippets - console.save](http://bgrins.github.io/devtools-snippets/#console-save)
 
+[google devs - chrome dev tools > console utilities](https://developers.google.com/web/tools/chrome-devtools/console/utilities)
+
 ### 06 Oct 2020
 
 [dev.to - new macbook setup for devs](https://dev.to/therealdanvega/new-macbook-setup-for-developers-2nma)
