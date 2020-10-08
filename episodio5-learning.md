@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angular2-tree - drag and drop feature to look](https://angular2-tree.readme.io/docs/drag-drop)
 
+[codegrepper - JS examples: get data attribute](https://www.codegrepper.com/code-examples/csharp/javascript+get+data+attribute)
+
 ### 07 Oct 2020
 
 [Brew Cask - list of apps](https://formulae.brew.sh/cask/)    // check to see which ones could be interesting to download
