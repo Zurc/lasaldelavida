@@ -14,6 +14,8 @@ Cosas que voy aprendiendo...
 
 [css-tricks - JS snippets - loop queryselectorall matches](https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/)
 
+[love and blessed - unconditional love](https://lovedandblessed.com/blog/unconditional-love)
+
 ### 06 Oct 2020
 
 [dev.to - new macbook setup for devs](https://dev.to/therealdanvega/new-macbook-setup-for-developers-2nma)
