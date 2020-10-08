@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 08 Oct 2020
+
+[angular2-tree - drag and drop feature to look](https://angular2-tree.readme.io/docs/drag-drop)
+
 ### 07 Oct 2020
 
 [Brew Cask - list of apps](https://formulae.brew.sh/cask/)    // check to see which ones could be interesting to download
