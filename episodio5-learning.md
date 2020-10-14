@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [juristr - debugging angular](https://juristr.com/blog/2016/02/debugging-angular2-console/)
 
+[Angular - guide to debugging ng app](https://medium.com/@vamsivempati/a-guide-to-debugging-angular-applications-5a36bd88b4cf)
+
 ### 08 Oct 2020
 
 [angular2-tree - drag and drop feature to look](https://angular2-tree.readme.io/docs/drag-drop)
