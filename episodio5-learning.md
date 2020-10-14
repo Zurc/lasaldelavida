@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 14 Oct 2020
+
+[juristr - debugging angular](https://juristr.com/blog/2016/02/debugging-angular2-console/)
+
 ### 08 Oct 2020
 
 [angular2-tree - drag and drop feature to look](https://angular2-tree.readme.io/docs/drag-drop)
