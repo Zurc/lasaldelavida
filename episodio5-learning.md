@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Oct 2020
+
+[microsoft - monaco editor](https://microsoft.github.io/monaco-editor/)
+
+[npmjs - ngx monaco editor](https://www.npmjs.com/package/ngx-monaco-editor)
+
 ### 14 Oct 2020
 
 [juristr - debugging angular](https://juristr.com/blog/2016/02/debugging-angular2-console/)
