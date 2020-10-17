@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Oct 2020
+
+[MAC - como usar tu mac con dos pares de auriculares a la vez](https://www.profesionalreview.com/2018/09/21/como-usar-tu-mac-con-dos-pares-de-auriculares-a-la-vez/)
+
 ### 16 Oct 2020
 
 [microsoft - monaco editor](https://microsoft.github.io/monaco-editor/)
