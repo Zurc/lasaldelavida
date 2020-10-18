@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Oct 2020
+
+[osxdaily - how to launch gui apps from the terminal](https://osxdaily.com/2007/02/01/how-to-launch-gui-applications-from-the-terminal/)
+
 ### 17 Oct 2020
 
 [MAC - como usar tu mac con dos pares de auriculares a la vez](https://www.profesionalreview.com/2018/09/21/como-usar-tu-mac-con-dos-pares-de-auriculares-a-la-vez/)
