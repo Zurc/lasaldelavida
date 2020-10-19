@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Typescript weekly @ your mailbox](https://www.typescript-weekly.com/)
 
+[twitter - typescript daily](https://twitter.com/typescriptdaily)
+
 [CRUZ - ANGULAR Reactive Form Generator from Array of strings (control names)](https://stackblitz.com/edit/angular-ivy-rijpgc)
 
 ### 18 Oct 2020
