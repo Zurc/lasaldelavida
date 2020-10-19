@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Oct 2020
+
+[CRUZ - ANGULAR Reactive Form Generator from Array of strings (control names)](https://stackblitz.com/edit/angular-ivy-rijpgc)
+
 ### 18 Oct 2020
 
 [osxdaily - how to launch gui apps from the terminal](https://osxdaily.com/2007/02/01/how-to-launch-gui-applications-from-the-terminal/)
