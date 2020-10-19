@@ -12,6 +12,29 @@ Cosas que voy aprendiendo...
 
 [CRUZ - ANGULAR Reactive Form Generator from Array of strings (control names)](https://stackblitz.com/edit/angular-ivy-rijpgc)
 
+JS - ENCAPSULATE CONDITIONALS
+
+```
+/*
+* Clean code applied to JS Functions
+*/
+
+//Dirty
+if (platform.state === 'fetching' && isEmpty(cart)) {
+    //...
+}
+
+// Clean Code
+function showLoading(platform, cart) {
+    return platform.state === 'fetching' && isEmpty(cart);
+}
+//...
+
+if (showLoading(platform, cart)) {
+    //...
+}
+```
+
 ### 18 Oct 2020
 
 [osxdaily - how to launch gui apps from the terminal](https://osxdaily.com/2007/02/01/how-to-launch-gui-applications-from-the-terminal/)
