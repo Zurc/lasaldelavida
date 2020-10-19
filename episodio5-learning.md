@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 19 Oct 2020
 
+[node js open source projects](https://flatlogic.com/blog/14-best-node-js-open-source-projects/)
+
 [SQL implemented in typescript type annotations](https://github.com/codemix/ts-sql)
 
 [Typescript weekly @ your mailbox](https://www.typescript-weekly.com/)
