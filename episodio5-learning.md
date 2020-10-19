@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [node js open source projects](https://flatlogic.com/blog/14-best-node-js-open-source-projects/)
 
+[bootstrap open source projects](https://snip.ly/q0qqii#https://flatlogic.com/blog/typescript-vs-javascript-the-key-differences-you-should-know-in-2020/?ref=quuu)
+
 [SQL implemented in typescript type annotations](https://github.com/codemix/ts-sql)
 
 [Typescript weekly @ your mailbox](https://www.typescript-weekly.com/)
