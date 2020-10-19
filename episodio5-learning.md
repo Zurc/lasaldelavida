@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 19 Oct 2020
 
+[SQL implemented in typescript type annotations](https://github.com/codemix/ts-sql)
+
 [Typescript weekly @ your mailbox](https://www.typescript-weekly.com/)
 
 [twitter - typescript daily](https://twitter.com/typescriptdaily)
