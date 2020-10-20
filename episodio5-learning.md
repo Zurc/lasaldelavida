@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angular folder structure ideas](https://medium.com/@motcowley/angular-folder-structure-d1809be95542)
 
+[typescript - tips tricks](https://medium.com/@tomsu/typescript-tips-tricks-c8fdef998d50)
+
 ### 19 Oct 2020
 
 [node js open source projects](https://flatlogic.com/blog/14-best-node-js-open-source-projects/)
