@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 20 Oct 2020
+
+[angular folder structure ideas](https://medium.com/@motcowley/angular-folder-structure-d1809be95542)
+
 ### 19 Oct 2020
 
 [node js open source projects](https://flatlogic.com/blog/14-best-node-js-open-source-projects/)
