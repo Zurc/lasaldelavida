@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Oct 2020
 
+[Cómo usar tu Mac con dos pares de auriculares a la vez](https://www.profesionalreview.com/2018/09/21/como-usar-tu-mac-con-dos-pares-de-auriculares-a-la-vez/)
+
 [geeks for geeks - HTML colspan attr](https://www.geeksforgeeks.org/html-colspan-attribute/#:~:text=The%20colspan%20attribute%20in%20HTML,than%20one%20cell%20or%20column.&text=%3A%20The%20colspan%20attribute,standard%20cells%20it%20should%20span.)
 
 [CRUZ (BEN) - expandable table](https://stackblitz.com/edit/angular-ivy-qcesyv)
