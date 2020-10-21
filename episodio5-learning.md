@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Oct 2020
+
+[CRUZ (BEN) - expandable table](https://stackblitz.com/edit/angular-ivy-qcesyv)
+
 ### 20 Oct 2020
 
 [angular folder structure ideas](https://medium.com/@motcowley/angular-folder-structure-d1809be95542)
