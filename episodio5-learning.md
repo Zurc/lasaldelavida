@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Oct 2020
+
+[Github Rafa Guevara - Say It Out](https://github.com/rafaelgtraverso/SayItOut)
+
 ### 21 Oct 2020
 
 [Cómo usar tu Mac con dos pares de auriculares a la vez](https://www.profesionalreview.com/2018/09/21/como-usar-tu-mac-con-dos-pares-de-auriculares-a-la-vez/)
