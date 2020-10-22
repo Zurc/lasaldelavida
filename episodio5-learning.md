@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Oct 2020
 
+[indepth - exploring angular dom manipulation techniques using viewcontainerref](https://indepth.dev/exploring-angular-dom-manipulation-techniques-using-viewcontainerref/)
+
 [Github Rafa Guevara - Say It Out](https://github.com/rafaelgtraverso/SayItOut)
 
 ### 21 Oct 2020
