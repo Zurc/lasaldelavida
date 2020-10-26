@@ -8,7 +8,19 @@ Cosas que voy aprendiendo...
 
 > installed globally check-updates
 
-`npm i -g npm check-updates`
+```
+#Install npm-check-updates
+$ npm i -g npm-check-updates
+ 
+#Run npm-check-updates with -u, will upgrade package.json
+$ ncu -u
+ 
+#Install updated packages
+$ npm install
+
+#Then run
+npm install typescript@3.5.3
+```
 
 
 
