@@ -6,7 +6,9 @@ Cosas que voy aprendiendo...
 
 [stackoverflow - unable to update angular version](https://stackoverflow.com/questions/58024132/unable-to-update-angular-version)
 
-> installed globally check-updates
+installed globally check-updates
+
+ref: https://www.freakyjolly.com/how-to-update-local-angular-cli-version/#.X5bbkVP7TUI
 
 ```
 #Install npm-check-updates
