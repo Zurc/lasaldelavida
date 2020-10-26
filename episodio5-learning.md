@@ -2,6 +2,16 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Oct 2020
+
+[stackoverflow - unable to update angular version](https://stackoverflow.com/questions/58024132/unable-to-update-angular-version)
+
+> installed globally check-updates
+
+`npm i -g npm check-updates`
+
+
+
 ### 22 Oct 2020
 
 [indepth - exploring angular dom manipulation techniques using viewcontainerref](https://indepth.dev/exploring-angular-dom-manipulation-techniques-using-viewcontainerref/)
