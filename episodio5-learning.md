@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 27 Oct 2020
 
+[dev.to - scrollintoview](https://dev.to/steveblue/scrollintoview-is-the-best-thing-since-sliced-bread-3iog)
+
 [angular change detection strategies](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a)
 
 [angular 10 tut](https://www.ganatan.com/tutorials/getting-started-with-angular)
