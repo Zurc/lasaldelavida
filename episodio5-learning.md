@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Oct 2020
+
+[angular 10 tut](https://www.ganatan.com/tutorials/getting-started-with-angular)
+
 ### 26 Oct 2020
 
 [stackoverflow - unable to update angular version](https://stackoverflow.com/questions/58024132/unable-to-update-angular-version)
