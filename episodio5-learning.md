@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 27 Oct 2020
 
+[net basal - understanding viewchildren contentchildren and query list in angular](https://netbasal.com/understanding-viewchildren-contentchildren-and-querylist-in-angular-896b0c689f6e)
+
 [dev.to - scrollintoview](https://dev.to/steveblue/scrollintoview-is-the-best-thing-since-sliced-bread-3iog)
 
 [angular change detection strategies](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a)
