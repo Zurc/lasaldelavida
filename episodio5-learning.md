@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Oct 2020
 
+[devblogs - announcing typescript 4.0](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0/)
+
 [nektony - duplicate files mac](https://nektony.com/how-to/duplicate-files-mac)
 
 >  Duplicate in mac
