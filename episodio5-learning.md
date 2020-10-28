@@ -2,6 +2,16 @@
 
 Cosas que voy aprendiendo...
 
+### 28 Oct 2020
+
+[nektony - duplicate files mac](https://nektony.com/how-to/duplicate-files-mac)
+
+>  Duplicate in mac
+>  
+>  Option 1: Click on file/folder > Cmd + D
+>  
+>  Option 2: hold Opt key and drag and drop
+
 ### 27 Oct 2020
 
 [angular translation - transloco (github)](https://github.com/ngneat/transloco/)
