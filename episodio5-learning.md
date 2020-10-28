@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Oct 2020
 
+[How to Read/Parse CSV File in Browser with Papaparse Javascript Library](https://www.youtube.com/watch?v=WrI19Qp6Uoc&ab_channel=SouthBridge)
+
 [devblogs - announcing typescript 4.0](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0/)
 
 [nektony - duplicate files mac](https://nektony.com/how-to/duplicate-files-mac)
