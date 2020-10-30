@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Oct 2020
 
+[fast-csv](https://c2fo.io/fast-csv/)
+
 [reading and writing files - node](https://attacomsian.com/blog/reading-writing-files-nodejs#writing-to-files)
 
 [npm - jsonexport](https://www.npmjs.com/package/jsonexport) // from array of objects to csv
