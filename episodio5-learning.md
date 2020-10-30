@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Oct 2020
 
+[game dev academy - how to make a html5 game](https://gamedevacademy.org/how-to-make-a-html5-game/)
+
 [make school academy](https://www.makeschool.com/academy)
 
 [engineering books](https://www.engbookspdf.com/)
