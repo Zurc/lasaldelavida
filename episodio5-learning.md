@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 Oct 2020
 
+[reading and writing files - node](https://attacomsian.com/blog/reading-writing-files-nodejs#writing-to-files)
+
 [npm - jsonexport](https://www.npmjs.com/package/jsonexport) // from array of objects to csv
 
 [How to Read/Parse CSV File in Browser with Papaparse Javascript Library](https://www.youtube.com/watch?v=WrI19Qp6Uoc&ab_channel=SouthBridge)
