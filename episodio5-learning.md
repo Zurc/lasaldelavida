@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 29 Oct 2020
+
+[Generate CSV and Download it Client Side from the Browser](https://www.youtube.com/watch?v=eicLNabvZN8&ab_channel=optikalefx)
+
 ### 28 Oct 2020
 
 [js and html canvas game tut](https://www.codemahal.com/javascript-and-html5-canvas-game-tutorial-code/)
