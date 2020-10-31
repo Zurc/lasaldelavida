@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 31 Oct 2020
+
+[Top CSS & Javascript Animation & Hover Effects | August 2020](https://www.youtube.com/watch?v=S4HSEbWPqlA&ab_channel=OnlineTutorials)
+
 ### 29 Oct 2020
 
 [Generate CSV and Download it Client Side from the Browser](https://www.youtube.com/watch?v=eicLNabvZN8&ab_channel=optikalefx)
