@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 01 Nov 2020
+
+[dev.to - oops I just pushed a git commit to the wrong branch](https://dev.to/nickraphael/oops-i-just-pushed-a-git-commit-to-the-wrong-branch-what-now-1nle)
+
 ### 31 Oct 2020
 
 [Top CSS & Javascript Animation & Hover Effects | August 2020](https://www.youtube.com/watch?v=S4HSEbWPqlA&ab_channel=OnlineTutorials)
