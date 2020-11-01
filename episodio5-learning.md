@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [dev.to - oops I just pushed a git commit to the wrong branch](https://dev.to/nickraphael/oops-i-just-pushed-a-git-commit-to-the-wrong-branch-what-now-1nle)
 
+[gist - undo commit to wrong branch push to the right brunch](https://gist.github.com/carltondickson/28a90ccfed2f6b697aba)
+
 ### 31 Oct 2020
 
 [Top CSS & Javascript Animation & Hover Effects | August 2020](https://www.youtube.com/watch?v=S4HSEbWPqlA&ab_channel=OnlineTutorials)
