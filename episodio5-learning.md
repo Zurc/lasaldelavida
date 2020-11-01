@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [gist - undo commit to wrong branch push to the right brunch](https://gist.github.com/carltondickson/28a90ccfed2f6b697aba)
 
+[commit to the wrong branch - different options](https://www.clearvision-cm.com/blog/what-to-do-when-you-commit-to-the-wrong-git-branch/)
+
 ### 31 Oct 2020
 
 [Top CSS & Javascript Animation & Hover Effects | August 2020](https://www.youtube.com/watch?v=S4HSEbWPqlA&ab_channel=OnlineTutorials)
