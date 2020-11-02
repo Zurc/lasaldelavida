@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [The 2019 Frontend Developer Crash Course - HTML & CSS Tutorial for Beginners](https://www.youtube.com/watch?v=8gNrZ4lAnAw&ab_channel=DesignCourse)
 
+[embryology - when human beings start for science](https://www.princeton.edu/~prolife/articles/embryoquotes2.html#:~:text=%22The%20development%20of%20a%20human,new%20organism%2C%20the%20zygote.%22)
+
 ### 01 Nov 2020
 
 [dev.to - oops I just pushed a git commit to the wrong branch](https://dev.to/nickraphael/oops-i-just-pushed-a-git-commit-to-the-wrong-branch-what-now-1nle)
