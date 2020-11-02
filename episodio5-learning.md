@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 02 Nov 2020
 
+[10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU&ab_channel=GoogleChromeDevelopers)
+
 [attlassian - gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 [The 2019 Frontend Developer Crash Course - HTML & CSS Tutorial for Beginners](https://www.youtube.com/watch?v=8gNrZ4lAnAw&ab_channel=DesignCourse)
