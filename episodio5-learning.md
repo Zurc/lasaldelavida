@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [embryology - when human beings start for science](https://www.princeton.edu/~prolife/articles/embryoquotes2.html#:~:text=%22The%20development%20of%20a%20human,new%20organism%2C%20the%20zygote.%22)
 
+[CIC - part III, section 2, chapter 2, article 6](https://www.vatican.va/archive/ccc_css/archive/catechism/p3s2c2a6.htm)
+
 ### 01 Nov 2020
 
 [dev.to - oops I just pushed a git commit to the wrong branch](https://dev.to/nickraphael/oops-i-just-pushed-a-git-commit-to-the-wrong-branch-what-now-1nle)
