@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [CIC - part III, section 2, chapter 2, article 6](https://www.vatican.va/archive/ccc_css/archive/catechism/p3s2c2a6.htm)
 
+[vatican ](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_en.html)
+
 ### 01 Nov 2020
 
 [dev.to - oops I just pushed a git commit to the wrong branch](https://dev.to/nickraphael/oops-i-just-pushed-a-git-commit-to-the-wrong-branch-what-now-1nle)
