@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 02 Nov 2020
 
+[attlassian - gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
 [The 2019 Frontend Developer Crash Course - HTML & CSS Tutorial for Beginners](https://www.youtube.com/watch?v=8gNrZ4lAnAw&ab_channel=DesignCourse)
 
 [embryology - when human beings start for science](https://www.princeton.edu/~prolife/articles/embryoquotes2.html#:~:text=%22The%20development%20of%20a%20human,new%20organism%2C%20the%20zygote.%22)
