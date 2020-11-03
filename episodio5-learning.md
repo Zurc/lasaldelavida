@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 03 Nov 2020
+
+[Loopback.io - A highly extensible Node.js and TypeScript framework for building APIs and microservices](https://loopback.io)
+
 ### 02 Nov 2020
 
 [10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU&ab_channel=GoogleChromeDevelopers)
