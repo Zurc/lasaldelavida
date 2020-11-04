@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 04 Nov 2020
+
+[PRO GIT BOOK](https://git-scm.com/book/en/v2)
+
 ### 03 Nov 2020
 
 [Loopback.io - A highly extensible Node.js and TypeScript framework for building APIs and microservices](https://loopback.io)
