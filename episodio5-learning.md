@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Loopback.io - A highly extensible Node.js and TypeScript framework for building APIs and microservices](https://loopback.io)
 
+[Motion design in UI - Designing in the Browser](https://www.youtube.com/watch?v=jWur1VrxNUg&ab_channel=GoogleChromeDevelopers)
+
 ### 02 Nov 2020
 
 [10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU&ab_channel=GoogleChromeDevelopers)
