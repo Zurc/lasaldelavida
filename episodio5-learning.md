@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [PRO GIT BOOK](https://git-scm.com/book/en/v2)
 
+[open APIs specification](http://spec.openapis.org/oas/v3.0.3)
+
 ### 03 Nov 2020
 
 [Loopback.io - A highly extensible Node.js and TypeScript framework for building APIs and microservices](https://loopback.io)
