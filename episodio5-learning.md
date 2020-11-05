@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 05 Nov 2020
+
+[blog patrick triest - text search docker elasticsearch](https://blog.patricktriest.com/text-search-docker-elasticsearch/)
+
 ### 04 Nov 2020
 
 [PRO GIT BOOK](https://git-scm.com/book/en/v2)
