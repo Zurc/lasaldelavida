@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [blog patrick triest - text search docker elasticsearch](https://blog.patricktriest.com/text-search-docker-elasticsearch/)
 
+[blog patrick triest - async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
+
 ### 04 Nov 2020
 
 [PRO GIT BOOK](https://git-scm.com/book/en/v2)
