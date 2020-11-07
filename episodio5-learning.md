@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 05 Nov 2020
 
+[no celebres halloween - padre espinoza](https://www.youtube.com/watch?v=z4xQBjuFtoE&ab_channel=Padre%C3%81ngelEspinosadelosMonteros)
+
 [blog patrick triest - text search docker elasticsearch](https://blog.patricktriest.com/text-search-docker-elasticsearch/)
 
 [blog patrick triest - async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
