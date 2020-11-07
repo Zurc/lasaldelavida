@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 07 Nov 2020
+
+[The Adobe XD Visual Studio Code Plugin (Crash Course)](https://www.youtube.com/watch?v=5MhfwvlGkfA&ab_channel=DesignCourse)
+
 ### 05 Nov 2020
 
 [no celebres halloween - padre espinoza](https://www.youtube.com/watch?v=z4xQBjuFtoE&ab_channel=Padre%C3%81ngelEspinosadelosMonteros)
