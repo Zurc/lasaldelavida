@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Java on VS Code](https://code.visualstudio.com/docs/languages/java)
 
+[10 vscode tricks](https://dzone.com/articles/10-tricks-every-developer-should-know-in-visual-st)
+
 ### 07 Nov 2020
 
 [The Adobe XD Visual Studio Code Plugin (Crash Course)](https://www.youtube.com/watch?v=5MhfwvlGkfA&ab_channel=DesignCourse)
