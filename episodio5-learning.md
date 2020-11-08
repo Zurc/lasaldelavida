@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 08 Nov 2020
+
+[Java on VS Code](https://code.visualstudio.com/docs/languages/java)
+
 ### 07 Nov 2020
 
 [The Adobe XD Visual Studio Code Plugin (Crash Course)](https://www.youtube.com/watch?v=5MhfwvlGkfA&ab_channel=DesignCourse)
