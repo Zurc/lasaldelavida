@@ -18,6 +18,8 @@ Cosas que voy aprendiendo...
 
 [marius schulz - function definitions in JS](https://mariusschulz.com/blog/function-definitions-in-javascript)
 
+[Investing - finantial future...](https://www.hl.co.uk/)
+
 ### 08 Nov 2020
 
 [Java on VS Code](https://code.visualstudio.com/docs/languages/java)
