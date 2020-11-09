@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 09 Nov 2020
+
+[JS - vanilla JS projects collection](https://reposhub.com/javascript/css/proghead00-Ultimate-JS-Projects-Collection.html)
+
 ### 08 Nov 2020
 
 [Java on VS Code](https://code.visualstudio.com/docs/languages/java)
