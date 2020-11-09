@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [JS - vanilla JS projects collection](https://reposhub.com/javascript/css/proghead00-Ultimate-JS-Projects-Collection.html)
 
+[github - 30 seconds JS blog](https://github.com/Zurc/30-seconds-blog)
+
 ### 08 Nov 2020
 
 [Java on VS Code](https://code.visualstudio.com/docs/languages/java)
