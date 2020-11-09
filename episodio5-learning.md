@@ -10,6 +10,10 @@ Cosas que voy aprendiendo...
 
 [example - Code Anatomy - For loops, array reduce and method chaining](https://www.30secondsofcode.org/blog/s/code-anatomy-chaining-reduce-for-loop)
 
+[javascript tutorial . net](https://www.javascripttutorial.net/) √√√√√
+
+>  Very detailed tuts for JS!. Liked 'JS runtime' section
+
 ### 08 Nov 2020
 
 [Java on VS Code](https://code.visualstudio.com/docs/languages/java)
