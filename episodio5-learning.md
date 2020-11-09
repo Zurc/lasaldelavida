@@ -13,6 +13,10 @@ Cosas que voy aprendiendo...
 [javascript tutorial . net](https://www.javascripttutorial.net/) √√√√√
 
 >  Very detailed tuts for JS!. Liked 'JS runtime' section
+>  
+>  Function expressions and arrow functions aren’t hoisted
+
+[marius schulz - function definitions in JS](https://mariusschulz.com/blog/function-definitions-in-javascript)
 
 ### 08 Nov 2020
 
