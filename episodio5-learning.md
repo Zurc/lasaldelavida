@@ -20,6 +20,8 @@ Cosas que voy aprendiendo...
 
 [Investing - finantial future...](https://www.hl.co.uk/)
 
+[typescript dyctionary](https://www.carlrippon.com/typescript-dictionary/)
+
 ### 08 Nov 2020
 
 [Java on VS Code](https://code.visualstudio.com/docs/languages/java)
