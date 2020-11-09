@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [10 vscode tricks](https://dzone.com/articles/10-tricks-every-developer-should-know-in-visual-st)
 
+[Java Programming - Derek Banas](https://www.youtube.com/watch?v=WPvGqX-TXP0&ab_channel=DerekBanas)
+
 ### 07 Nov 2020
 
 [The Adobe XD Visual Studio Code Plugin (Crash Course)](https://www.youtube.com/watch?v=5MhfwvlGkfA&ab_channel=DesignCourse)
