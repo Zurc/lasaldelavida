@@ -18,8 +18,6 @@ Cosas que voy aprendiendo...
 
 [marius schulz - function definitions in JS](https://mariusschulz.com/blog/function-definitions-in-javascript)
 
-[freecodecamp - var hoisting, var let const in ES6](https://www.freecodecamp.org/news/what-is-variable-hoisting-differentiating-between-var-let-and-const-in-es6-f1a70bb43d/)
-
 ### 08 Nov 2020
 
 [Java on VS Code](https://code.visualstudio.com/docs/languages/java)
