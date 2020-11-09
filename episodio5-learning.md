@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [github - 30 seconds JS blog](https://github.com/Zurc/30-seconds-blog)
 
+[example - Code Anatomy - For loops, array reduce and method chaining](https://www.30secondsofcode.org/blog/s/code-anatomy-chaining-reduce-for-loop)
+
 ### 08 Nov 2020
 
 [Java on VS Code](https://code.visualstudio.com/docs/languages/java)
