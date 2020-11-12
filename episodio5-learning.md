@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 12 Nov 2020
+
+[comunidades tech increibles de Argentina](https://dev.to/franqsanz/comunidades-tech-increibles-de-argentina-5a7i)
+
 ### 09 Nov 2020
 
 [JS - vanilla JS projects collection](https://reposhub.com/javascript/css/proghead00-Ultimate-JS-Projects-Collection.html)
