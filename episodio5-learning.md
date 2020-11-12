@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - stackblitz: collapsible table](https://stackblitz.com/edit/angular-ivy-m3espr)
 
+[codyhouse - ideas, tuts](https://codyhouse.co/library)
+
 ### 09 Nov 2020
 
 [JS - vanilla JS projects collection](https://reposhub.com/javascript/css/proghead00-Ultimate-JS-Projects-Collection.html)
