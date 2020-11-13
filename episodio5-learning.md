@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [stackblitz - angular ngb-carousel example](https://stackblitz.com/edit/angular-wyfcfs?file=app%2Fcarousel-config.html)
 
+[stackblitz - angular ngb-progressbar example](https://stackblitz.com/run?file=src%2Fapp%2Fprogressbar-basic.html)
+
 ### 12 Nov 2020
 
 [comunidades tech increibles de Argentina](https://dev.to/franqsanz/comunidades-tech-increibles-de-argentina-5a7i)
