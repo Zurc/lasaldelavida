@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Nov 2020
+
+[stackblitz - angular ngb-carousel example](https://stackblitz.com/edit/angular-wyfcfs?file=app%2Fcarousel-config.html)
+
 ### 12 Nov 2020
 
 [comunidades tech increibles de Argentina](https://dev.to/franqsanz/comunidades-tech-increibles-de-argentina-5a7i)
