@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [codyhouse - ideas, tuts](https://codyhouse.co/library)
 
+[JAVA - sololearn](https://www.sololearn.com/Course/Java/)
+
 ### 09 Nov 2020
 
 [JS - vanilla JS projects collection](https://reposhub.com/javascript/css/proghead00-Ultimate-JS-Projects-Collection.html)
