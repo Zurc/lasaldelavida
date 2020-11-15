@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Nov 2020
+
+[5 CSS tricks every Web Developer should know in 2020](https://www.youtube.com/watch?v=wfaDzSL6ll0&ab_channel=MDB-justcodeit)
+
 ### 13 Nov 2020
 
 [stackblitz - angular ngb-carousel example](https://stackblitz.com/edit/angular-wyfcfs?file=app%2Fcarousel-config.html)
