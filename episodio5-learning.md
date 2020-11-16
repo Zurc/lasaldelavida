@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 16 Nov 2020
 
+[angular - interceptor, fake response...](https://stackblitz.com/edit/angular-fake-http-response?file=src%2Fapp%2Fhttp.interceptor.ts)
+
 [CRUZ - weekend started time tables game... (codepen)](https://codepen.io/Zurc/pen/XWKoGjR?editors=1111)
 
 ### 15 Nov 2020
