@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [CRUZ - weekend started time tables game... (codepen)](https://codepen.io/Zurc/pen/XWKoGjR?editors=1111)
 
+[fun learning for children](https://www.funlearning.com/resources)
+
 ### 15 Nov 2020
 
 [5 CSS tricks every Web Developer should know in 2020](https://www.youtube.com/watch?v=wfaDzSL6ll0&ab_channel=MDB-justcodeit)
