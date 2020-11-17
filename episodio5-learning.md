@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [how to make learning and development fun for your child](https://thriveglobal.com/stories/how-to-make-learning-and-development-fun-for-your-child/)
 
+[Mother Teresa - how to love God](https://www.youtube.com/watch?v=-yFzCBIK-PY)
+
 ### 15 Nov 2020
 
 [5 CSS tricks every Web Developer should know in 2020](https://www.youtube.com/watch?v=wfaDzSL6ll0&ab_channel=MDB-justcodeit)
