@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Nov 2020
+
+[JS promises in 10 min](https://www.youtube.com/watch?v=DHvZLI7Db8E&ab_channel=WebDevSimplified)
+
 ### 16 Nov 2020
 
 [angular - interceptor, fake server response...](https://stackblitz.com/edit/angular-fake-http-response?file=src%2Fapp%2Fhttp.interceptor.ts)
