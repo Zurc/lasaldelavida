@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [JS promises in 10 min](https://www.youtube.com/watch?v=DHvZLI7Db8E&ab_channel=WebDevSimplified)
 
+[santoscatolicospeliculas - matrimonio](https://santoscatolicospeliculas.blogspot.com/2011/06/una-promesa-para-cumplir-matrimonio.html)
+
 ### 16 Nov 2020
 
 [angular - interceptor, fake server response...](https://stackblitz.com/edit/angular-fake-http-response?file=src%2Fapp%2Fhttp.interceptor.ts)
