@@ -8,7 +8,7 @@ Cosas que voy aprendiendo...
 
 [santoscatolicospeliculas - matrimonio](https://santoscatolicospeliculas.blogspot.com/2011/06/una-promesa-para-cumplir-matrimonio.html)
 
-[HTML, CSS - Mixer clone](https://www.youtube.com/watch?v=VnH22P_MPzc)
+[HTML, CSS - Mixer clone](https://www.youtube.com/watch?v=VnH22P_MPzc) // watched [part 4](https://www.youtube.com/watch?v=QkgHG6r21kI&ab_channel=CodingPhase) till min 28 aprox
 
 ### 16 Nov 2020
 
