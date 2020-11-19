@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [santoscatolicospeliculas - matrimonio](https://santoscatolicospeliculas.blogspot.com/2011/06/una-promesa-para-cumplir-matrimonio.html)
 
+[HTML, CSS - Mixer clone](https://www.youtube.com/watch?v=VnH22P_MPzc)
+
 ### 16 Nov 2020
 
 [angular - interceptor, fake server response...](https://stackblitz.com/edit/angular-fake-http-response?file=src%2Fapp%2Fhttp.interceptor.ts)
