@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Nov 2020
+
+[Betta tech - que es Docker y como funciona](https://www.youtube.com/watch?v=Uu49ID0NBRQ&ab_channel=BettaTech)
+
 ### 18 Nov 2020
 
 [JS promises in 10 min](https://www.youtube.com/watch?v=DHvZLI7Db8E&ab_channel=WebDevSimplified)
