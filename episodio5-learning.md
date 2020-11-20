@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [Betta tech - que es Docker y como funciona](https://www.youtube.com/watch?v=Uu49ID0NBRQ&ab_channel=BettaTech)
 
+>  CSS linear-gradient not taking up full screen?
+>  
+>  add: 'background-attachment: fixed;'
+
 ### 18 Nov 2020
 
 [JS promises in 10 min](https://www.youtube.com/watch?v=DHvZLI7Db8E&ab_channel=WebDevSimplified)
