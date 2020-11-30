@@ -10,6 +10,8 @@ ANGULAR
 
 [Launch nd schematics CLI commands from Finder or Command Palette in VS Code](https://github.com/cyrilletuzi/vscode-angular-schematics)
 
+investigate: [SimonTest - Angular test generator](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest)
+
 ### 19 Nov 2020
 
 [Betta tech - que es Docker y como funciona](https://www.youtube.com/watch?v=Uu49ID0NBRQ&ab_channel=BettaTech)
