@@ -2,6 +2,14 @@
 
 Cosas que voy aprendiendo...
 
+### 30 Nov 2020
+
+ANGULAR
+
+[ngx-spec - spec generator](https://github.com/smnbbrv/ngx-spec)
+
+[Launch nd schematics CLI commands from Finder or Command Palette in VS Code](https://github.com/cyrilletuzi/vscode-angular-schematics)
+
 ### 19 Nov 2020
 
 [Betta tech - que es Docker y como funciona](https://www.youtube.com/watch?v=Uu49ID0NBRQ&ab_channel=BettaTech)
