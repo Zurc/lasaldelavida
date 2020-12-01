@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 01 Dec 2020
+
+[J B Rainsberger Integrated Tests are a Scam](https://www.youtube.com/watch?v=VDfX44fZoMc&ab_channel=ChristopherCabanne)
+
 ### 30 Nov 2020
 
 ANGULAR
