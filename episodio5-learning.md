@@ -6,6 +6,18 @@ Cosas que voy aprendiendo...
 
 [J B Rainsberger Integrated Tests are a Scam](https://www.youtube.com/watch?v=VDfX44fZoMc&ab_channel=ChristopherCabanne)
 
+Why do we need to update Angular? (from 6 to 11!!! 5 major versions!!!!)
+
+[changelog list here with all of the details](https://github.com/angular/angular/blob/master/CHANGELOG.md)
+
+lots of bug fixes
+new features
+performance improvements
+BREAKING CHANGES
+Typescript support removed for older versions
+router changes
+
+
 ### 30 Nov 2020
 
 ANGULAR
