@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 06 Dec 2020
+
+// Inspired by https://isometric.online/
+
+[CRUZ - Dverghamrar dwarf rocks](https://codepen.io/CruzWeb/pen/oNzxJKQ)
+
 ### 01 Dec 2020
 
 [J B Rainsberger Integrated Tests are a Scam](https://www.youtube.com/watch?v=VDfX44fZoMc&ab_channel=ChristopherCabanne)
