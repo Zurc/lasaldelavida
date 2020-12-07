@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 07 Dec 2020
+
+[10 steps to solving a programming problem](https://codeburst.io/10-steps-to-solving-a-programming-problem-8a32d1e96d74)
+
 ### 06 Dec 2020
 
 // Inspired by https://isometric.online/
