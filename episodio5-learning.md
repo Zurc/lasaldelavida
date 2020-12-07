@@ -5,6 +5,7 @@ Cosas que voy aprendiendo...
 ### 06 Dec 2020
 
 // Inspired by https://isometric.online/
+
 [CRUZ - Dverghamrar dwarf rocks](https://codepen.io/CruzWeb/pen/oNzxJKQ)
 
 [JS, Node and Spring Boot tutorials](https://attacomsian.com/)
