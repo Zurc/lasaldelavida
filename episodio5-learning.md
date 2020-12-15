@@ -2,6 +2,16 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Dec 2020
+
+```
+const dogAge = prompt("What's the age of your dog?");
+
+const humanAge = (dogAge - 2) * 4 + 21;
+
+console.log("To a human thats equivalent to... " + humanAge);
+```
+
 ### 07 Dec 2020
 
 [10 steps to solving a programming problem](https://codeburst.io/10-steps-to-solving-a-programming-problem-8a32d1e96d74)
