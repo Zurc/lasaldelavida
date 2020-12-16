@@ -2,6 +2,20 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Dec 2020
+
+```
+// weight (kg) height (m)
+function calculateBMI(weight, height) {
+  const BMI =  weight / (height * height)
+  
+  return BMI;
+}
+
+// example
+console.log(calculateBMI(77, 1.75));
+```
+
 ### 15 Dec 2020
 
 ```
