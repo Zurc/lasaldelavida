@@ -5,6 +5,18 @@ Cosas que voy aprendiendo...
 ### 18 Dec 2020
 
 ```
+function whosPaying(names) {
+  const pos = Math.floor(Math.random() * names.length);
+  
+  return names[pos] + " is going to buy lunch today!";
+}
+
+const arr = ["Angela", "Ben", "Jenny", "Michael", "Chloe"];
+
+console.log(whosPaying(arr));
+```
+
+```
 function isLeap(year) {
   
   if (year % 4 === 0) {
