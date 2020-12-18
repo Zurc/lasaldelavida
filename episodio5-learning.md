@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Dec 2020
+
+[Decídete, Sólo Tienes Una Vida - Padre Angel Espinosa](https://www.youtube.com/watch?v=U7yGTBCsc4g&ab_channel=ROSARIOMARIANO)
+
 ### 16 Dec 2020
 
 ```
