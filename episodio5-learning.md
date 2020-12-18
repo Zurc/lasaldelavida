@@ -4,6 +4,32 @@ Cosas que voy aprendiendo...
 
 ### 18 Dec 2020
 
+```
+function isLeap(year) {
+  
+  if (year % 4 === 0) {
+    
+    if (year % 100 === 0) {
+      
+      if (year % 400 ===0) {
+        console.log("Leap year.");
+      } else {
+        console.log("Not leap year.");
+      }
+    } else {
+      console.log("Leap year.");
+    }
+    
+  } else {
+    console.log("Not leap year.");
+  }
+}
+
+isLeap(2400); // "Leap year."
+isLeap(1989); // "Not leap year."
+isLeap(2100); // "Not leap year."
+```
+
 [Decídete, Sólo Tienes Una Vida - Padre Angel Espinosa](https://www.youtube.com/watch?v=U7yGTBCsc4g&ab_channel=ROSARIOMARIANO)
 
 ### 16 Dec 2020
