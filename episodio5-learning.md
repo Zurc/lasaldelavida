@@ -2,6 +2,36 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Dec 2020
+
+```
+function fibonacci(n) {
+
+  let output = [0, 1];
+  
+  if (n === 1) { 
+    output = [0];
+  }
+  else if (n === 2) {
+    output = [0, 1];
+  }
+  else {
+    
+    for (var i = 0; i < n; i++) {
+  
+      if ( n !== output.length) {
+
+        output.push(output[i] + output[i + 1]);
+      }
+    }
+  }
+  
+  return output;
+}
+
+console.log(fibonacci(7));
+```
+
 ### 18 Dec 2020
 
 ```
