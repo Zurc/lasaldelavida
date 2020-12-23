@@ -2,6 +2,26 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Dec 2020
+
+Higher Order Functions
+
+>  Higher order funcitons are functions that can take other functions as inputs
+
+```
+function add(num1, num2) {
+  return num1 + num2;
+}
+
+function multiply(num1, num2) {
+  return num1 * num2;
+}
+
+function calculator(num1, num2, operator) {
+ return operator(num1, num2);
+}
+```
+
 ### 22 Dec 2020
 
 MOCKOON - Mock API's locally very fast √√√√√
