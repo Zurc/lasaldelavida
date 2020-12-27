@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Dec 2020
+
+Node JS modules > [nodejs.org/api](https://nodejs.org/api/)
+
 ### 23 Dec 2020
 
 Higher Order Functions
