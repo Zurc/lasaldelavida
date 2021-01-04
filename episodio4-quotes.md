@@ -2,6 +2,17 @@
 
 ***Quotes***
 
+Mamerto Menapace
+
+>  Mi percepción a medida que envejezco es que no hay años malos. Hay años de fuertes aprendizajes y otros que son como un recreo, pero malos no son. Creo firmemente que la forma en que se debería evaluar un año tendría más que ver con cuánto fuimos capaces de amar, de perdonar, de reír, de aprender cosas nuevas, de haber desafiado nuestros egos y nuestros apegos. Por eso, no debiéramos tenerle miedo al sufrimiento ni al tan temido fracaso, porque ambos son sólo instancias de aprendizaje. Nos cuesta mucho entender que la vida y el cómo vivirla depende de nosotros, el cómo enganchamos con las cosas que no queremos, depende sólo del cultivo de la voluntad.
+>  Si no me gusta la vida que tengo, deberé desarrollar las estrategias para cambiarla, pero está en mi voluntad el poder hacerlo. Ser feliz es una decisión, no nos olvidemos de eso.
+>  A esta vida vinimos a tres cosas: A aprender a amar, a dejar huella y a ser felices.
+>  Tratemos de crecer en lo espiritual, cualquiera sea la visión de ello. La trascendencia y el darle sentido a lo que hacemos tiene que ver con la inteligencia espiritual. Tratemos de dosificar la tecnología y demos paso a la conversación, a los juegos “antiguos”, a los encuentros familiares, a los encuentros con amigos. Valoremos la intimidad, el calor y el amor dentro de nuestras familias.
+>  Si logramos trabajar en estos puntos habremos decretado ser felices, lo cual no nos exime de los problemas, pero nos hace entender que la única diferencia entre alguien feliz o no, no tiene que ver con los problemas que tengamos sino con la ACTITUD con la cual enfrentemos lo que nos toca.
+>  Dicen que las alegrías, cuando se comparten, se agrandan. Y que en cambio, con las penas pasa al revés. Se achican. Tal vez lo que sucede, es que al compartir, lo que se dilata es el corazón. Y un corazón dilatado esta mejor capacitado para gozar de las alegrías y mejor defendido para que las penas no nos lastimen por dentro.
+>  En este comienzo de año les deseo la bendición de Dios.
+
+
 [Design Systems](www.designbetter.co/design-systems-handbook)
 
 >  Understanding not only the what, but the why, behind the design of a system is critical to creating an exceptional user experience. Defining and adhering to standards is how we create that understanding. Doing so removes the subjectivity and ambiguity that often creates friction and confusion within product teams.
