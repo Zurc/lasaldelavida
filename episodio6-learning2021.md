@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [fraction operations chearsheet](https://betterlesson.com/community/document/96403/fraction-operations-cheatsheet-docx)
 
+[Fraction cheatsheet II](https://www.mymathplanner.com/resources/Fraction-Cheat-Sheets.pdf)
+
 ### 3 Jan 2021
 
 Node JS - base app.js
