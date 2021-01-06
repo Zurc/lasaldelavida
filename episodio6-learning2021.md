@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Let's Do Math (youtube channel)](https://www.youtube.com/channel/UCW5diHfMyIPW3XNFzh4-1SA)
 
+[fraction operations chearsheet](https://betterlesson.com/community/document/96403/fraction-operations-cheatsheet-docx)
+
 ### 3 Jan 2021
 
 Node JS - base app.js
