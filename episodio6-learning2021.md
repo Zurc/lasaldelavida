@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 06 Jan 2021
+
+[Let's Do Math (youtube channel)](https://www.youtube.com/channel/UCW5diHfMyIPW3XNFzh4-1SA)
+
 ### 3 Jan 2021
 
 Node JS - base app.js
