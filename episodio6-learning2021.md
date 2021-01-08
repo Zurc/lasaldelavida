@@ -15,6 +15,7 @@ $graph-colours: white #07647f $info $primary $secondary $success $danger $warnin
   seagreen teal thistle tan powderblue;
 ...
 ```
+and then do the loop within graphs.scss
 
 ```
 @import '../pallet.scss';
