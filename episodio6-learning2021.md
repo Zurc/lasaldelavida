@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 08 Jan 2021
+
+[live without google](https://spreadprivacy.com/how-to-remove-google/)
+
 ### 06 Jan 2021
 
 [Let's Do Math (youtube channel)](https://www.youtube.com/channel/UCW5diHfMyIPW3XNFzh4-1SA)
