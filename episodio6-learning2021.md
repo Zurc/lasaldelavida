@@ -6,9 +6,13 @@ Cosas que voy aprendiendo...
 
 [live without google](https://spreadprivacy.com/how-to-remove-google/)
 
+**converters**
+
 [split text into columns - google sheets](https://www.bettercloud.com/monitor/the-academy/split-text-columns-google-sheets/)
 
 [split text](https://www.textcompare.org/text/split-text)
+
+browserling
 
 [remove all whitespace](https://www.browserling.com/tools/remove-all-whitespace)
 
