@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [live without google](https://spreadprivacy.com/how-to-remove-google/)
 
+[split text into columns - google sheets](https://www.bettercloud.com/monitor/the-academy/split-text-columns-google-sheets/)
+
 ### 06 Jan 2021
 
 [Let's Do Math (youtube channel)](https://www.youtube.com/channel/UCW5diHfMyIPW3XNFzh4-1SA)
