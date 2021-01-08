@@ -4,6 +4,32 @@ Cosas que voy aprendiendo...
 
 ### 08 Jan 2021
 
+SCSS - loop through different colors to create classes
+
+we'll take colours from another file 'pallet.scss'
+
+```
+...
+// Construct classes for colours for the pie chart in a loop (will be .graph-colour-1 .graph-colour-2 etc.)
+$graph-colours: white #07647f $info $primary $secondary $success $danger $warning blue magenta brown yellow purple grey aquamarine indianred
+  seagreen teal thistle tan powderblue;
+...
+```
+
+```
+@import '../pallet.scss';
+// Construct classes for colours for the pie chart in a loop (will be .graph-colour-1 .graph-colour-2 etc.)
+$i: 0;
+@each $colour in $graph-colours {
+    .graph-colour-#{$i} {
+        color: $colour;
+        background-color: $colour;
+        stroke: $colour;
+    }
+    $i: $i + 1;
+}
+```
+
 [live without google](https://spreadprivacy.com/how-to-remove-google/)
 
 **converters**
