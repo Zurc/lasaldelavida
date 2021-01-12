@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 12 Jan 2021
+
+[goskills - animated loading circle](https://www.goskills.com/Course/Photoshop-Advanced/Lesson/361/Animated-Loading-Circle)
+
 ### 08 Jan 2021
 
 SCSS - loop through different colors to create classes
