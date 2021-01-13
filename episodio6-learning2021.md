@@ -6,6 +6,14 @@ Cosas que voy aprendiendo...
 
 [Max Schwarzmüller - 7 techniques to learn & grow more efficiently](https://academind.com/tutorials/efficient-learning-7-techniques)
 
+Find a Learning Partner or Community
+Set Ambitious Long-Term Goals
+Set Simple Short-Term Goals
+Use Your Knowledge As Often As Possible
+The “5 Minutes” Trick
+Understand That Everyone Is Showing Off
+Don’t Read Too Many “Motivational Guides”
+
 ### 12 Jan 2021
 
 [goskills - animated loading circle](https://www.goskills.com/Course/Photoshop-Advanced/Lesson/361/Animated-Loading-Circle)
