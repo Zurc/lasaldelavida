@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 14 Jan 2021
+
+[John Papa at FreeCodeCamp - how to use lite-server for simple dev web server](https://www.freecodecamp.org/news/how-you-can-use-lite-server-for-a-simple-development-web-server-33ea527013c9/)
+
 ### 13 Jan 2021
 
 [Max Schwarzmüller - 7 techniques to learn & grow more efficiently](https://academind.com/tutorials/efficient-learning-7-techniques)
