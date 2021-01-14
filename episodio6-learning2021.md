@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 14 Jan 2021
 
+[what's new on Chrome dev tools](https://developers.google.com/web/updates/2020/10/devtools?utm_source=devtools)
+
 [Web animation gotchas - HTTP 203](https://www.youtube.com/watch?v=9-6CKCz58A8&feature=emb_rel_pause)
 
 [John Papa at FreeCodeCamp - how to use lite-server for simple dev web server](https://www.freecodecamp.org/news/how-you-can-use-lite-server-for-a-simple-development-web-server-33ea527013c9/)
