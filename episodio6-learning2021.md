@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Jan 2021
+
+children code resources
+
+[BLockly - get started](https://developers.google.com/blockly/guides/get-started/web)
+
 ### 14 Jan 2021
 
 [what's new on Chrome dev tools](https://developers.google.com/web/updates/2020/10/devtools?utm_source=devtools)
