@@ -8,6 +8,8 @@ children code resources
 
 [BLockly - developers google](https://developers.google.com/blockly)
 
+[blockly code labs](https://blocklycodelabs.dev/codelabs/getting-started/index.html#0)
+
 ### 14 Jan 2021
 
 [what's new on Chrome dev tools](https://developers.google.com/web/updates/2020/10/devtools?utm_source=devtools)
