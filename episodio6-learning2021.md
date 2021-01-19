@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 children code resources
 
-[BLockly - get started](https://developers.google.com/blockly/guides/get-started/web)
+[BLockly - developers google](https://developers.google.com/blockly)
 
 ### 14 Jan 2021
 
