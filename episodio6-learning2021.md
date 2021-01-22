@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Meditaciones - Marco Aurelio](http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/Meditaciones_MarcoAurelio.pdf)
 
+[CSS pattern fills](https://iros.github.io/patternfills/sample_css.html)
+
 ### 19 Jan 2021
 
 children code resources
