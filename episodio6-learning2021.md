@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 26 Jan 2021
 
+[ANGULAR - stackoverflow - access directive child elements](https://stackoverflow.com/questions/42715318/can-i-access-child-elements-within-a-directive-in-angular2)
+
 [BOOKS](https://b-ok.cc/)
 
 ### 22 Jan 2021
