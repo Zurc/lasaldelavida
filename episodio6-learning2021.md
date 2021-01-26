@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Jan 2021
+
+[BOOKS](https://b-ok.cc/)
+
 ### 22 Jan 2021
 
 [Meditaciones - Marco Aurelio](http://bibliotecadigital.ilce.edu.mx/Colecciones/ObrasClasicas/_docs/Meditaciones_MarcoAurelio.pdf)
