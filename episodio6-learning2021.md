@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 27 Jan 2021
+
+[Design Systems - practical guide](https://medium.com/grensesnittet/a-practical-guide-to-creating-design-systems-with-7-tips-ff870c73ccff)
+
 ### 26 Jan 2021
 
 [ANGULAR - stackoverflow - access directive child elements](https://stackoverflow.com/questions/42715318/can-i-access-child-elements-within-a-directive-in-angular2)
