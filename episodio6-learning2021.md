@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 29 Jan 2021
+
+[indepth - beware angular can steal your time](https://indepth.dev/posts/1015/beware-angular-can-steal-your-time)
+
 ### 27 Jan 2021
 
 [Design Systems - practical guide](https://medium.com/grensesnittet/a-practical-guide-to-creating-design-systems-with-7-tips-ff870c73ccff)
