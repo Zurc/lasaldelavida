@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 02 Feb 2021
+
+[robomongo - mongoDB Client (GUI)](https://robomongo.org/)
+
 ### 29 Jan 2021
 
 [indepth - beware angular can steal your time](https://indepth.dev/posts/1015/beware-angular-can-steal-your-time)
