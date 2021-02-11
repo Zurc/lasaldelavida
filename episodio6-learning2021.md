@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 11 Feb 2021
 
+[CRUZ - progress bar](https://codesandbox.io/s/progress-bar-xlgdd)
+
 [frontend tips - Customised slider control](https://www.youtube.com/watch?v=1wQVVJ7ase0&ab_channel=FrontendTips)
 
 ### 02 Feb 2021
