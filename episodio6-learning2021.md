@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 11 Feb 2021
+
+[frontend tips - Customised slider control](https://www.youtube.com/watch?v=1wQVVJ7ase0&ab_channel=FrontendTips)
+
 ### 02 Feb 2021
 
 [robomongo - mongoDB Client (GUI)](https://robomongo.org/)
