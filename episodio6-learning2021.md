@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [frontend tips - Customised slider control](https://www.youtube.com/watch?v=1wQVVJ7ase0&ab_channel=FrontendTips)
 
+[CRUZ - inline style for React](https://codesandbox.io/s/inline-style-for-react-r967i?file=/src/index.js)
+
 ### 02 Feb 2021
 
 [robomongo - mongoDB Client (GUI)](https://robomongo.org/)
