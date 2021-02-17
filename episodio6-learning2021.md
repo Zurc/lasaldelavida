@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [keeping a github fork updated](https://thoughtbot.com/blog/keeping-a-github-fork-updated)
 
+[react native training - gitbook](https://unbug.gitbooks.io/react-native-training/content/11_building_an_app_in_5_minutes.html)
+
 ### 11 Feb 2021
 
 [CRUZ - progress bar](https://codesandbox.io/s/progress-bar-xlgdd)
