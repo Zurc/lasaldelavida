@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [how to fork a github repo and contribute to Open Source project](https://sqldbawithabeard.com/2019/11/29/how-to-fork-a-github-repository-and-contribute-to-an-open-source-project/)
 
+[keeping a github fork updated](https://thoughtbot.com/blog/keeping-a-github-fork-updated)
+
 ### 11 Feb 2021
 
 [CRUZ - progress bar](https://codesandbox.io/s/progress-bar-xlgdd)
