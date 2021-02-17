@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [react native training - gitbook](https://unbug.gitbooks.io/react-native-training/content/11_building_an_app_in_5_minutes.html)
 
+[react native guide - gitbook](https://www.reactnative.guide/index.html)
+
 ### 11 Feb 2021
 
 [CRUZ - progress bar](https://codesandbox.io/s/progress-bar-xlgdd)
