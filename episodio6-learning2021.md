@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Feb 2021
+
+[how to fork a github repo and contribute to Open Source project](https://sqldbawithabeard.com/2019/11/29/how-to-fork-a-github-repository-and-contribute-to-an-open-source-project/)
+
 ### 11 Feb 2021
 
 [CRUZ - progress bar](https://codesandbox.io/s/progress-bar-xlgdd)
