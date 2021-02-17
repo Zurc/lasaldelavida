@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 17 Feb 2021
 
+[mac - how to install security SSL certificate](https://support.securly.com/hc/en-us/articles/206058318-How-to-install-the-Securly-SSL-certificate-on-Mac-OSX-)
+
 [how to fork a github repo and contribute to Open Source project](https://sqldbawithabeard.com/2019/11/29/how-to-fork-a-github-repository-and-contribute-to-an-open-source-project/)
 
 [keeping a github fork updated](https://thoughtbot.com/blog/keeping-a-github-fork-updated)
