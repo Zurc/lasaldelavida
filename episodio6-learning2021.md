@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 03 Mar 2021
+
+[CRUZ - clock](https://codepen.io/CruzWeb/pen/jOVKaJp)
+
 ### 17 Feb 2021
 
 [mac - how to install security SSL certificate](https://support.securly.com/hc/en-us/articles/206058318-How-to-install-the-Securly-SSL-certificate-on-Mac-OSX-)
