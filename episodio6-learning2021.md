@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Mar 2021
+
+[10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU)
+
 ### 03 Mar 2021
 
 [CRUZ - clock](https://codepen.io/CruzWeb/pen/jOVKaJp)
