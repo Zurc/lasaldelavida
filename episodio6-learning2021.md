@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Mar 2021
+
+[inverted rounded corner border radius in CSS](https://www.pakainfo.com/inverted-rounded-corner-border-radius-in-css/)
+
+[CRUZ - pen codepen](https://codepen.io/CruzWeb/pen/WNReWyX)
+
 ### 21 Mar 2021
 
 [10 modern layouts in 1 line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU)
