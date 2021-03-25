@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 25 Mar 2021
+
+[combine flexbos and css grid for layouts how to](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/)
+
 ### 22 Mar 2021
 
 [inverted rounded corner border radius in CSS](https://www.pakainfo.com/inverted-rounded-corner-border-radius-in-css/)
