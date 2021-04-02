@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [1 line layouts (CSS)](https://1linelayouts.glitch.me/)
 
+[Musical interactions](https://tympanus.net/Development/MusicalInteractions/#)
+
 ### 25 Mar 2021
 
 [combine flexbos and css grid for layouts how to](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/)
