@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [ease yourself into animation](http://gilmoreorless.github.io/sydjs-preso-easing/)
 
+[CSS easing animation tool](https://matthewlein.com/tools/ceaser)
+
 [1 line layouts (CSS)](https://1linelayouts.glitch.me/)
 
 ### 25 Mar 2021
