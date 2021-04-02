@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [gilmoreorless - animation and maths](https://gilmoreorless.github.io/)
 
+[ease yourself into animation](http://gilmoreorless.github.io/sydjs-preso-easing/)
+
 [1 line layouts (CSS)](https://1linelayouts.glitch.me/)
 
 ### 25 Mar 2021
