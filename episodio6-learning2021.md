@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 02 Apr 2021
+
+[gilmoreorless - animation and maths](https://gilmoreorless.github.io/)
+
+
+
 ### 25 Mar 2021
 
 [combine flexbos and css grid for layouts how to](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/)
