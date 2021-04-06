@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 06 Apr 2021
+
+[try, catch, finally, throw - error handling in JavaScript - freecodecamp](https://www.youtube.com/watch?v=cFTFtuEQ-10&ab_channel=freeCodeCamp.org)
+
 ### 02 Apr 2021
 
 [gilmoreorless - animation and maths](https://gilmoreorless.github.io/)
