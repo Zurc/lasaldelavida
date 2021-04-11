@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 11 Apr 2021
+
+[Build a GitHub Jobs App With React Hooks](https://www.youtube.com/watch?v=fxY1q4SCB64&ab_channel=TraversyMedia)
+
 ### 09 April (ish...) 2021
 
 [CRUZ - JS accordion](https://jsbin.com/gatuyim/)
