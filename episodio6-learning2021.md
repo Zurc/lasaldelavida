@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 16 Apr 2021
+
+[WordPress Website Design - How to Approach A Client Redesign Project](https://www.youtube.com/watch?v=oR-2w4Rx4l8&ab_channel=WPTuts)
+
 ### 11 Apr 2021
 
 [Build a GitHub Jobs App With React Hooks](https://www.youtube.com/watch?v=fxY1q4SCB64&ab_channel=TraversyMedia)
