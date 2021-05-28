@@ -6,7 +6,7 @@ Cosas que voy aprendiendo...
 
 **Conditionals, Short circuiting and default arguments**
 
-```
+```js
 // Conditionals
 function createCompany(name) {
   let companyName;
