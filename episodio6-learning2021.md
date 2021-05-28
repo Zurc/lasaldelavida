@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 28 May 2021
 
+[CSS-tricks - advanced CSS animations cubic bezier](https://css-tricks.com/advanced-css-animation-using-cubic-bezier/)
+
 [A list apart - blending modes demystified](https://alistapart.com/article/blending-modes-demystified/)
 
 **Conditionals, Short circuiting and default arguments**
