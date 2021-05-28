@@ -2,6 +2,45 @@
 
 Cosas que voy aprendiendo...
 
+### 28 May 2021
+
+**Conditionals, Short circuiting and default arguments**
+
+```
+// Conditionals
+function createCompany(name) {
+  let companyName;
+  if (name) {
+    companyName = name;
+  } else {
+    companyName = 'The Best Company!';
+  }
+}
+createCompany('coco');
+createCompany();
+
+
+// Better Short circuiting than conditionals
+function createCompany(name) {
+  let companyName;
+  companyName = name || 'The Best Company!';
+  console.log(companyName)
+}
+createCompany('coco');
+createCompany();
+
+// Better Default arguments than short circuiting
+function createCompany(name = 'The Best Company!') {
+  let companyName = name;
+  console.log(companyName);
+}
+createCompany('coco');
+createCompany();
+
+```
+
+
+
 ### 16 Apr 2021
 
 [WordPress Website Design - How to Approach A Client Redesign Project](https://www.youtube.com/watch?v=oR-2w4Rx4l8&ab_channel=WPTuts)
