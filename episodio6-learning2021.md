@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 01 Jun 2021
 
+[Angular user authentication with auth0](https://auth0.com/blog/complete-guide-to-angular-user-authentication/)
+
 [Hithesh Choudhary - GraphQL Crash Course easy way](https://www.youtube.com/watch?v=_Zss2Mbz4Bs)
 
 ### 31
