@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Hithesh Choudhary - GraphQL Crash Course easy way](https://www.youtube.com/watch?v=_Zss2Mbz4Bs)
 
+### 31
+
 ### 28 May 2021
 
 [CSS-tricks - SVG path syntax illustrated guide](https://css-tricks.com/svg-path-syntax-illustrated-guide/)
