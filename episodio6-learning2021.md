@@ -2,13 +2,16 @@
 
 Cosas que voy aprendiendo...
 
+### first week of Jun 2021
+
+// practicing SCSS - variables, functions, mixins, nesting, include...
+[CRUZ - zurc github io / sass-practice](https://zurc.github.io/sass-practice/)
+
 ### 01 Jun 2021
 
 [Angular user authentication with auth0](https://auth0.com/blog/complete-guide-to-angular-user-authentication/)
 
 [Hithesh Choudhary - GraphQL Crash Course easy way](https://www.youtube.com/watch?v=_Zss2Mbz4Bs)
-
-### 31
 
 ### 28 May 2021
 
