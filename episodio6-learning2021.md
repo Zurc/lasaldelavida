@@ -5,7 +5,14 @@ Cosas que voy aprendiendo...
 ### first week of Jun 2021
 
 // practicing SCSS - variables, functions, mixins, nesting, include...
+
 [CRUZ - zurc github io / sass-practice](https://zurc.github.io/sass-practice/)
+
+// working on angular authentication seed - work in progress
+// fouind issues when deploying into production and auth0 routing after signin
+
+https://github.com/Zurc/angular-auth-seed
+
 
 ### 01 Jun 2021
 
