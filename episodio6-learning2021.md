@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 19 Jun 2021
+
+[Stackblitz - introducing web containers: run nodeJS natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
+
 ### 18 Jun 2021
 
 JS tricks
