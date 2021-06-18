@@ -4,6 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 19 Jun 2021
 
+// starts around min 18
+[Live Coding with Firebase & stackblitz by Frank van Puffelen](https://www.youtube.com/watch?v=hawcfq3KN3g)
+
 [Stackblitz - introducing web containers: run nodeJS natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
 
 ### 18 Jun 2021
