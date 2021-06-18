@@ -2,6 +2,21 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Jun 2021
+
+JS tricks
+
+- to use array methods on Nodelist > select using `$$`. Example to get duration of all videos on jamstack.org/tv
+ 
+ 
+```
+$$('.jamstacktv-card').map(card => parseInt(card.children[1].innerHTML)).reduce(function (accumulator, currentValue) {
+  return accumulator + currentValue
+}, 0)
+```
+
+
+
 ### 10 Jun 2021
 
 [CRUZWEB stackblitz - Angular Material Starter](https://stackblitz.com/edit/cwd-angular-material-starter)
