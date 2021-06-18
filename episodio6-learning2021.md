@@ -15,7 +15,7 @@ $$('.jamstacktv-card').map(card => parseInt(card.children[1].innerHTML)).reduce(
 }, 0)
 ```
 
-```
+```js
 // instead of:
 document
  .querySelectorAll('.cards')
