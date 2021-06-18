@@ -15,6 +15,15 @@ $$('.jamstacktv-card').map(card => parseInt(card.children[1].innerHTML)).reduce(
 }, 0)
 ```
 
+```
+// instead of:
+document
+ .querySelectorAll('.cards')
+ .forEach(card => card.addEventListener('click', handleClick));
+ 
+// use:
+$$('.cards').on('click', handleClick);
+```
 
 
 ### 10 Jun 2021
