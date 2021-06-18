@@ -9,7 +9,7 @@ JS tricks
 - to use array methods on Nodelist > select using `$$`. Example to get duration of all videos on jamstack.org/tv
  
  
-```
+```js
 $$('.jamstacktv-card').map(card => parseInt(card.children[1].innerHTML)).reduce(function (accumulator, currentValue) {
   return accumulator + currentValue
 }, 0)
