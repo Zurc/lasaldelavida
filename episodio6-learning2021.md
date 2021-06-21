@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Jun 2021
+
+[CRUZ - codepen - CSS Grid auto flow example](https://codepen.io/CruzWeb/pen/VwpNKNz?editors=1100)
+
+
+
 ### 19 Jun 2021
 
 // starts around min 18
