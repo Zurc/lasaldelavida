@@ -12,6 +12,14 @@ Cosas que voy aprendiendo...
 
 [CRUZ - Firebase + Stackblitz](https://stackblitz.com/edit/weathersunnyfoggy?file=index.js)  >> https://weathersunnyfoggy.stackblitz.io
 
+>  I can access firebase collection by adding `.json` to the end of the url for that collection
+
+```
+https://[name and location].firebasedatabase.app/[collection].json
+```
+
+
+
 ### 19 Jun 2021
 
 // starts around min 18
