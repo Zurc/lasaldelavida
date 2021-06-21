@@ -9,6 +9,7 @@ Cosas que voy aprendiendo...
 [CRUZ - jamstack example psba (dynalist examples)](https://happy-neumann-58010d.netlify.app/)
 
 [Live Coding with Firebase & StackBlitz by Frank van Puffelen (Google)](https://www.youtube.com/watch?v=hawcfq3KN3g)
+
 [CRUZ - Firebase + Stackblitz](https://stackblitz.com/edit/js-wyuqwh?file=index.js)
 
 ### 19 Jun 2021
