@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 21 Jun 2021
 
+[web dev - optimize your images](https://web.dev/fast/#optimize-your-images)
+
 [CRUZ - codepen - CSS Grid auto flow example](https://codepen.io/CruzWeb/pen/VwpNKNz?editors=1100)
 
 [CRUZ - jamstack example psba (dynalist examples)](https://happy-neumann-58010d.netlify.app/)
