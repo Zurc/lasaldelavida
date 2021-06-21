@@ -10,7 +10,7 @@ Cosas que voy aprendiendo...
 
 [Live Coding with Firebase & StackBlitz by Frank van Puffelen (Google)](https://www.youtube.com/watch?v=hawcfq3KN3g)
 
-[CRUZ - Firebase + Stackblitz](https://stackblitz.com/edit/js-wyuqwh?file=index.js)
+[CRUZ - Firebase + Stackblitz](https://stackblitz.com/edit/weathersunnyfoggy?file=index.js)  >> https://weathersunnyfoggy.stackblitz.io
 
 ### 19 Jun 2021
 
