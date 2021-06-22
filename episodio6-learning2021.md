@@ -9,7 +9,7 @@ Cosas que voy aprendiendo...
 
 index.js
 
-```
+```js
 const marked = require("marked");
 const express = require("express");
 const app = express();
