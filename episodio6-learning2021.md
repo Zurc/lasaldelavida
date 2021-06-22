@@ -2,6 +2,30 @@
 
 Cosas que voy aprendiendo...
 
+### 22 Jun 2021
+
+// Basic use of **Markdown in Node.js**
+// install marked and express
+
+index.js
+
+```
+const marked = require("marked");
+const express = require("express");
+const app = express();
+
+const html = marked("# Marked in Node.js\n\n Rendered by **marked**");
+
+app.get("/", (req, res) => {
+  res.send(html);
+});
+
+app.listen(5000);
+```
+
+
+
+
 ### 21 Jun 2021
 
 [web dev - optimize your images](https://web.dev/fast/#optimize-your-images)
