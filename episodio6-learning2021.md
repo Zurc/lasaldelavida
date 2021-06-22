@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 22 Jun 2021
 
+[How To Build A Markdown Blog Using Node.js, Express, And MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM)
+
 // Basic use of **Markdown in Node.js**
 // install marked and express
 
