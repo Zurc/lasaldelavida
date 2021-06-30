@@ -34,7 +34,7 @@ app.listen(5000);
 
 [CRUZ - codepen - CSS Grid auto flow example](https://codepen.io/CruzWeb/pen/VwpNKNz?editors=1100)
 
-[CRUZ - jamstack example psba (dynalist examples)](https://happy-neumann-58010d.netlify.app/)
+[CRUZ - jamstack example PSBA matt (dynalist examples)](https://happy-neumann-58010d.netlify.app/)
 
 [Live Coding with Firebase & StackBlitz by Frank van Puffelen (Google)](https://www.youtube.com/watch?v=hawcfq3KN3g)
 
