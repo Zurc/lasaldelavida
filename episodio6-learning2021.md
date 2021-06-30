@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [How to add HTML Head Element Tags to a NextJS website](https://coderrocketfuel.com/article/how-to-add-html-head-element-tags-to-a-next-js-website)
 
+[Strange JS errors and hot to fix them - davidwalsh](https://davidwalsh.name/fix-javascript-errors)
+
 ### 22 Jun 2021
 
 [How To Build A Markdown Blog Using Node.js, Express, And MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM)
