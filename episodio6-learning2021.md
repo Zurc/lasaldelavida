@@ -4,6 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 06 Jul 2021
 
+// Ben Awad - Part of Practical React (using class, state...)
+[Fetch Data from an API in React.js - Part 12](https://www.youtube.com/watch?v=T3Px88x_PsA)
+
 [API randomuser . me](https://randomuser.me/)
 
 [CRUZ - React users card - fetch data from API](https://stackblitz.com/edit/react-rzb9qf)
