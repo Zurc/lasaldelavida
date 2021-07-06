@@ -4,6 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 06 Jul 2021
 
+// Hackerrank certification for react - solutions
+[Akash Ingole YT playlist](https://www.youtube.com/c/devChannelbyAkashIngole/playlists)
+
 // Ben Awad - Part of Practical React (using class, state...)
 [Fetch Data from an API in React.js - Part 12](https://www.youtube.com/watch?v=T3Px88x_PsA)
 
