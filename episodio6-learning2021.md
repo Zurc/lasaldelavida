@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 06 Jul 2021
+
+[API randomuser . me](https://randomuser.me/)
+
+[CRUZ - React users card - fetch data from API](https://stackblitz.com/edit/react-rzb9qf)
+
 ### 30 Jun 2021
 
 [How to add HTML Head Element Tags to a NextJS website](https://coderrocketfuel.com/article/how-to-add-html-head-element-tags-to-a-next-js-website)
