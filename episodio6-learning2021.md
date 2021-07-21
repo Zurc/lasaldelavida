@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [how to handle subscription in angular 10](https://www.thesunflowerlab.com/blog/how-to-subscription-handling-in-angular-10/)
 
+[FreeCodeCamp - how JS implements OOP](https://www.freecodecamp.org/news/how-javascript-implements-oop/)
+
 ### 06 Jul 2021
 
 // Hackerrank certification for react - solutions
