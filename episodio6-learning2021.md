@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 21 Jul 2021
+
+[Angular - when to use subscribe method or async pipe](https://debugmode.net/2019/10/24/when-to-use-the-subscribe-method-or-async-pipe-in-angular/)
+
 ### 06 Jul 2021
 
 // Hackerrank certification for react - solutions
