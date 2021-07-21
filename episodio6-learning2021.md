@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [Angular - when to use subscribe method or async pipe](https://debugmode.net/2019/10/24/when-to-use-the-subscribe-method-or-async-pipe-in-angular/)
 
+[how to handle subscription in angular 10](https://www.thesunflowerlab.com/blog/how-to-subscription-handling-in-angular-10/)
+
 ### 06 Jul 2021
 
 // Hackerrank certification for react - solutions
