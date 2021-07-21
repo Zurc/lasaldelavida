@@ -12,6 +12,8 @@ Cosas que voy aprendiendo...
 
 [geekforgeeks - intro OOP JS](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/)
 
+[javascriptissexy - OOP in JS what you need to know](https://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+
 ### 06 Jul 2021
 
 // Hackerrank certification for react - solutions
