@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [FreeCodeCamp - how JS implements OOP](https://www.freecodecamp.org/news/how-javascript-implements-oop/)
 
+[geekforgeeks - intro OOP JS](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/)
+
 ### 06 Jul 2021
 
 // Hackerrank certification for react - solutions
