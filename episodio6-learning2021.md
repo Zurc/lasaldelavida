@@ -6,6 +6,10 @@ Cosas que voy aprendiendo...
 
 [Angular 10 tuts for beginners YT playlist - ARC tutorials](https://www.youtube.com/playlist?list=PLp50dWW_m40XTcxIaXVqO60LaIlyHWxDS)
 
+BONE BROTH
+[Bone Broth: How-Tos, Recipes, Health Benefits, and History | Digging In with Dr. Kellyann](https://www.youtube.com/watch?v=canEZNMEJag)
+
+
 ### 21 Jul 2021
 
 [Angular - when to use subscribe method or async pipe](https://debugmode.net/2019/10/24/when-to-use-the-subscribe-method-or-async-pipe-in-angular/)
