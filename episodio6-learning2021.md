@@ -6,8 +6,9 @@ Cosas que voy aprendiendo...
 
 [Angular 10 tuts for beginners YT playlist - ARC tutorials](https://www.youtube.com/playlist?list=PLp50dWW_m40XTcxIaXVqO60LaIlyHWxDS)
 
-BONE BROTH
-[Bone Broth: How-Tos, Recipes, Health Benefits, and History | Digging In with Dr. Kellyann](https://www.youtube.com/watch?v=canEZNMEJag)
+[The Galen Foundation - Fasting For Survival Lecture by Dr Pradip Jamnadas](https://www.youtube.com/watch?v=RuOvn4UqznU)
+
+[Dr Kellyann - Bone Broth: How-Tos, Recipes, Health Benefits, and History | Digging In with Dr. Kellyann](https://www.youtube.com/watch?v=canEZNMEJag)
 
 
 ### 21 Jul 2021
