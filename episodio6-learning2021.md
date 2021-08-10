@@ -10,6 +10,16 @@ angular 10 tips... cont
 
 Fran tips 'pasta' empresa, impuestos y ganancias; casas, hipotecas intereses alquiler...
 
+// ng Schematics
+[Quick UI using Angular Material Schematics [#2] | Front end development | Web Application](https://www.youtube.com/watch?v=dcACk0WTqNc)
+
+>  Address Form Schematics provides a component with a demo form fields of shipping address.
+>  Navigation Schematics provides a component with a side navigation panel and a toolbar displaying the application name.
+>  Table Schematics provides a component with pre-built material table in it, which supports sorting and pagination. 
+>  Dashboard Schematics provides component containing multiple material design cards and menus which are aligned in grid layout.
+>  Tree Schematics provides a component which interactively visualizes a nested  folder structure.
+>  Drag and Drop Schematics provides a component for creating interactive to-do list using drag and drop.
+
 ### 03 Aug 2021
 
 [Angular 10 tuts for beginners YT playlist - ARC tutorials](https://www.youtube.com/playlist?list=PLp50dWW_m40XTcxIaXVqO60LaIlyHWxDS)
