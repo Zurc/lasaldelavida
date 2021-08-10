@@ -8,6 +8,8 @@ angular 10 tips... cont
 >  package.json scripts > ng start > ng serve > angular.json config
 >  if you need to know how a project starts go to package.json scripts
 
+Fran tips 'pasta' empresa, impuestos y ganancias; casas, hipotecas intereses alquiler...
+
 ### 03 Aug 2021
 
 [Angular 10 tuts for beginners YT playlist - ARC tutorials](https://www.youtube.com/playlist?list=PLp50dWW_m40XTcxIaXVqO60LaIlyHWxDS)
