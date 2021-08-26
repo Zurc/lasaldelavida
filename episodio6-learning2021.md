@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Aug 2021
+
+[An Event Apart - “Atomic Design” by Brad Frost—An Event Apart Austin 2015](https://www.youtube.com/watch?v=W-h1FtNYim4)
+
 ### 10 Aug 2021
 
 angular 10 tips... cont
