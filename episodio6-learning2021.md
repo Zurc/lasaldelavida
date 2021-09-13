@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Sep 2021
+
+[angular.io - angular devtools](https://blog.angular.io/introducing-angular-devtools-2d59ff4cf62f)
+
 ### 26 Aug 2021
 
 [An Event Apart - “Atomic Design” by Brad Frost—An Event Apart Austin 2015](https://www.youtube.com/watch?v=W-h1FtNYim4)
