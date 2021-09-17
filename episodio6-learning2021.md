@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 17 Sep 2021
+
+[16 ways to search find and edit wiwth chrome devtools](https://www.telerik.com/blogs/16-ways-to-search-find-and-edit-with-chrome-devtools)
+
 ### 13 Sep 2021
 
 [angular.io - angular devtools](https://blog.angular.io/introducing-angular-devtools-2d59ff4cf62f)
