@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [16 ways to search find and edit wiwth chrome devtools](https://www.telerik.com/blogs/16-ways-to-search-find-and-edit-with-chrome-devtools)
 
+[indepth - about debugging angular apps](https://indepth.dev/posts/1138/everything-you-need-to-know-about-debugging-angular-applications)
+
 ### 13 Sep 2021
 
 [angular.io - angular devtools](https://blog.angular.io/introducing-angular-devtools-2d59ff4cf62f)
