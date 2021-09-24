@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [angular ngtemplateoutlet](https://www.tektutorialshub.com/angular/ngtemplateoutlet-in-angular/)  √√√
 
+[stackoverflow - ng6 ngtemplateoutlet inside ngFor multiple context](https://stackoverflow.com/questions/50842631/angular-6-ngtemplateoutlet-inside-ngfor-multiple-context)
+
 ### 17 Sep 2021
 
 [16 ways to search find and edit wiwth chrome devtools](https://www.telerik.com/blogs/16-ways-to-search-find-and-edit-with-chrome-devtools)
