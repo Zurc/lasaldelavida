@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 24 Sep 2021
+
+[angular ngtemplateoutlet](https://www.tektutorialshub.com/angular/ngtemplateoutlet-in-angular/)
+
 ### 17 Sep 2021
 
 [16 ways to search find and edit wiwth chrome devtools](https://www.telerik.com/blogs/16-ways-to-search-find-and-edit-with-chrome-devtools)
