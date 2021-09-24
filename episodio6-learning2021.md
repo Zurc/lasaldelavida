@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 24 Sep 2021
 
-[angular ngtemplateoutlet](https://www.tektutorialshub.com/angular/ngtemplateoutlet-in-angular/)
+[angular ngtemplateoutlet](https://www.tektutorialshub.com/angular/ngtemplateoutlet-in-angular/)  √√√
 
 ### 17 Sep 2021
 
