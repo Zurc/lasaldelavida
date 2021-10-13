@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 13 Oct 2021
+
+[CRUZ - stackblitz: CSS :host and TS @Hostbinding](https://stackblitz.com/edit/angular-ivy-8dcejj?file=src%2Fapp%2Fhello.component.ts)
+
 ### 24 Sep 2021
 
 [angular ngtemplateoutlet](https://www.tektutorialshub.com/angular/ngtemplateoutlet-in-angular/)  √√√
