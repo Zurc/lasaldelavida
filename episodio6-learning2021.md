@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [handle angular forms Race Conditions with RxJS](https://betterprogramming.pub/handling-angular-forms-race-conditions-with-rxjs-b4e31bb73ba0)
 
+[Net Basal: who's afraid of Observables?](https://netbasal.com/whos-afraid-of-observables-bde0dc4f48cc)
+
 ### 13 Oct 2021
 
 [CRUZ - stackblitz: CSS :host and TS @Hostbinding](https://stackblitz.com/edit/angular-ivy-8dcejj?file=src%2Fapp%2Fhello.component.ts)
