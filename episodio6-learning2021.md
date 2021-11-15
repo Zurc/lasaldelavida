@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 15 Nov 2021
+
+[handle angular forms Race Conditions with RxJS](https://betterprogramming.pub/handling-angular-forms-race-conditions-with-rxjs-b4e31bb73ba0)
+
 ### 13 Oct 2021
 
 [CRUZ - stackblitz: CSS :host and TS @Hostbinding](https://stackblitz.com/edit/angular-ivy-8dcejj?file=src%2Fapp%2Fhello.component.ts)
