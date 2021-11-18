@@ -10,6 +10,8 @@ Cosas que voy aprendiendo...
 
 [stackoverflow - add delay time to ng to simulate latency](https://stackoverflow.com/questions/28277133/adding-a-delay-pr-timer-to-an-angular-get-to-test-latency)
 
+[related to latency and measuring times](https://stackoverflow.com/questions/313893/how-to-measure-time-taken-by-a-function-to-execute)
+
 ### 15 Nov 2021
 
 [handle angular forms Race Conditions with RxJS](https://betterprogramming.pub/handling-angular-forms-race-conditions-with-rxjs-b4e31bb73ba0)
