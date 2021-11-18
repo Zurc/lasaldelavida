@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [top reasons why your ng app is slow](https://blog.bitsrc.io/top-reasons-why-your-angular-app-is-slow-c36780a0a289)
 
+[stackoverflow - add delay time to ng to simulate latency](https://stackoverflow.com/questions/28277133/adding-a-delay-pr-timer-to-an-angular-get-to-test-latency)
+
 ### 15 Nov 2021
 
 [handle angular forms Race Conditions with RxJS](https://betterprogramming.pub/handling-angular-forms-race-conditions-with-rxjs-b4e31bb73ba0)
