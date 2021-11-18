@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 18 Nov 2021
+
+[blog angular - tips for ng runtime performance from the real world](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
+
 ### 15 Nov 2021
 
 [handle angular forms Race Conditions with RxJS](https://betterprogramming.pub/handling-angular-forms-race-conditions-with-rxjs-b4e31bb73ba0)
