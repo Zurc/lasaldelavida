@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 23 Nov 2021
+
+[jake archibald - tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+
 ### 18 Nov 2021
 
 [blog angular - tips for ng runtime performance from the real world](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
