@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [jake archibald - tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
+[angular - async pipe, change detection, ...](https://www.thinktecture.com/en/angular/understanding-the-async-pipe/)
+
 ### 18 Nov 2021
 
 [blog angular - tips for ng runtime performance from the real world](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
