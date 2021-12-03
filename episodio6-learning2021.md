@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 03 Dec 2021
+
+[bootstrap display utility class](https://getbootstrap.com/docs/4.0/utilities/display/)
+
+>  this one is quite useful...
+
 ### 23 Nov 2021
 
 [jake archibald - tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
