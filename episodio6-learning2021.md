@@ -4,9 +4,9 @@ Cosas que voy aprendiendo...
 
 ### 03 Dec 2021
 
-[bootstrap display utility class](https://getbootstrap.com/docs/4.0/utilities/display/)
+>  this one is quite useful... e.g. `d-block d-xl-none` (display block, but don't display in on xl)
 
->  this one is quite useful...
+[bootstrap display utility class](https://getbootstrap.com/docs/4.0/utilities/display/)
 
 ### 23 Nov 2021
 
