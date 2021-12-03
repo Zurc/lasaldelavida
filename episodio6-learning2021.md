@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 03 Dec 2021
 
+[blog angular - ngFor](https://blog.angular-university.io/angular-2-ngfor/)
+
 >  this one is quite useful... e.g. `d-block d-xl-none` (display block, but don't display in on xl)
 
 [bootstrap display utility class](https://getbootstrap.com/docs/4.0/utilities/display/)
