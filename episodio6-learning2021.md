@@ -2,6 +2,35 @@
 
 Cosas que voy aprendiendo...
 
+### 06 Dec 2021
+
+Angular some router options...
+
+```
+imports: [RouterModule.forRoot(
+        routes,
+        {
+            useHash: true,
+            relativeLinkResolution: 'legacy',
+            onSameUrlNavigation: 'reload',          // on refresh in the same url it reloads... so it allows you to get to any subscription
+        }
+    )],
+```
+
+e.g.
+
+```
+this.router.events
+            .pipe(
+                takeUntil(this.destroyed$)
+            )
+            .subscribe((event) => {
+                if (event instanceof NavigationEnd) {
+                    this.isSystemAdministrationRoute = this.router.url.includes('/system-administration');
+                }
+            });
+```
+
 ### 03 Dec 2021
 
 [blog angular - ngFor](https://blog.angular-university.io/angular-2-ngfor/)
