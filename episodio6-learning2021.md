@@ -31,6 +31,41 @@ this.router.events
             });
 ```
 
+```
+menu(isSystemAdministrationRoute: boolean, dashboardDefinitions: DashboardDefinition[]): NavigationMenu[] {
+
+        if (isSystemAdministrationRoute) {
+            return [
+                {
+                    label: 'Users & Teams',
+                    id: 'system-administration-users-and-teams',
+                    icon: 'book-user',
+                    routerLink: [
+                        '/app/system-administration',
+                        'users-and-teams',
+                    ],
+                    menu: [
+                        {
+                            label: 'Users',
+                            routerLink: [
+                                '/app/system-administration',
+                                'users-and-teams',
+                            ],
+                            queryParams: { 'tab-users-and-teams': 0 },
+                        },
+                        {
+                            label: 'Teams',
+                            routerLink: [
+                                '/app/system-administration',
+                                'users-and-teams',
+                            ],
+                            queryParams: { 'tab-users-and-teams': 1 },
+                        },
+                        ...
+                    ],
+                },
+```
+
 ### 03 Dec 2021
 
 [blog angular - ngFor](https://blog.angular-university.io/angular-2-ngfor/)
