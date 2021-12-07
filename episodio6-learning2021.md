@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 07 Dec 2021
+
+[event bubbling javascript](https://www.sitepoint.com/event-bubbling-javascript/)
+
 ### 06 Dec 2021
 
 Angular some router options...
