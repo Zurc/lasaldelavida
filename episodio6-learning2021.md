@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 07 Dec 2021
 
+[JS - when to use preventDefault, stopPropagation or return false](https://medium.com/@jacobwarduk/how-to-correctly-use-preventdefault-stoppropagation-or-return-false-on-events-6c4e3f31aedb)
+
 [event bubbling javascript](https://www.sitepoint.com/event-bubbling-javascript/)
 
 ### 06 Dec 2021
