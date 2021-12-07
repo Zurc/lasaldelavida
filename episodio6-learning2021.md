@@ -8,6 +8,8 @@ Cosas que voy aprendiendo...
 
 [event bubbling javascript](https://www.sitepoint.com/event-bubbling-javascript/)
 
+[JS - bubbling and capturing](https://javascript.info/bubbling-and-capturing)
+
 ### 06 Dec 2021
 
 Angular some router options...
