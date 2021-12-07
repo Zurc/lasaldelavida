@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 07 Dec 2021
 
+[CRUZ - JS preventDefault and stopPropagation](https://codepen.io/Zurc/pen/RwLaKZw)
+
 [reduce change detection cycles - event coalescing](https://netbasal.com/reduce-change-detection-cycles-with-event-coalescing-in-angular-c4037199859f)
 
 [JS - when to use preventDefault, stopPropagation or return false](https://medium.com/@jacobwarduk/how-to-correctly-use-preventdefault-stoppropagation-or-return-false-on-events-6c4e3f31aedb)
