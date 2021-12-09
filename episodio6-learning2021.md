@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [JS, Angular - persist state with localstorage](https://javascript.plainenglish.io/how-to-persist-state-with-localstorage-in-angular-42a4a47ed123)
 
+[Angular - managing localstorage](https://blog.briebug.com/blog/managing-local-storage-in-angular)
+
 ### 08 Dec 2021
 
 [JS - array splice](https://www.javascripttutorial.net/javascript-array-splice/)
