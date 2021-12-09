@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 08 Dec 2021
+
+[JS - array splice](https://www.javascripttutorial.net/javascript-array-splice/)
+
 ### 07 Dec 2021
 
 [CRUZ - JS preventDefault and stopPropagation](https://codepen.io/Zurc/pen/RwLaKZw)
