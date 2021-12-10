@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [CSS-tricks - flexbox truncated text](https://css-tricks.com/flexbox-truncated-text/)
 
+[dev to - truncate text with CSS the possible ways](https://dev.to/coderchamp/truncate-text-with-css-the-possible-ways-1p4o)
+
 ### 09 Dec 2021
 
 [JS, Angular - persist state with localstorage](https://javascript.plainenglish.io/how-to-persist-state-with-localstorage-in-angular-42a4a47ed123)
