@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 10 Dec 2021
 
+[maggie appleton - developer's illustrator](https://maggieappleton.com/)
+
 [CSS-tricks - flexbox truncated text](https://css-tricks.com/flexbox-truncated-text/)
 
 [dev to - truncate text with CSS the possible ways](https://dev.to/coderchamp/truncate-text-with-css-the-possible-ways-1p4o)
