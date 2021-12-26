@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 26 Dec 2021
 
+[Dr Ricardo Castañón - Equilibrio emocional y paz interior](https://youtu.be/6GDhV-W9JV4)
+
 [TED - how every child can thrive by five](https://youtu.be/aISXCw0Pi94)
 
 [how to learn anything faster](https://youtu.be/ZVO8Wt_PCgE)
