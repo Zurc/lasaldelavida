@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 26 Dec 2021
+
+[how to learn anything faster](https://youtu.be/ZVO8Wt_PCgE)
+
 ### 10 Dec 2021
 
 [maggie appleton - developer's illustrator](https://maggieappleton.com/)
