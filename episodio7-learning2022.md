@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [fork - RxDB reactive database for JS](https://github.com/Zurc/rxdb)
 
+[qwik - the HTML-first framework](https://github.com/BuilderIO/qwik)
+
 ### 27 Jan 2022
 
 [ReactJS for the visual learner - book](https://leanpub.com/reactjsforthevisuallearner/read#leanpub-auto-chapter-1--what-is-this-all-about)
