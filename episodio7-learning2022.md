@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 31 Jan 2022
+
+[fork - RxDB reactive database for JS](https://github.com/Zurc/rxdb)
+
 ### 27 Jan 2022
 
 [ReactJS for the visual learner - book](https://leanpub.com/reactjsforthevisuallearner/read#leanpub-auto-chapter-1--what-is-this-all-about)
