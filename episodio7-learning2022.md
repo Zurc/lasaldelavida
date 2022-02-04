@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 04 Feb 2022
+
+[CRUZ - stackblitz Music Search - angular](https://stackblitz.com/edit/angular-ivy-ohdq3s)
+
 ### 31 Jan 2022
 
 [fork - RxDB reactive database for JS](https://github.com/Zurc/rxdb)
