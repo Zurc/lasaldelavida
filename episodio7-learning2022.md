@@ -2,6 +2,10 @@
 
 Cosas que voy aprendiendo...
 
+### 07 Feb 2022
+
+[angular ngrx material starter](https://github.com/tomastrajan/angular-ngrx-material-starter)
+
 ### 04 Feb 2022
 
 [CRUZ - stackblitz Music Search - angular](https://stackblitz.com/edit/angular-ivy-ohdq3s)
