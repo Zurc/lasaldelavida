@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 08 Feb 2022
 
+[angular - JS - chris Kohler](https://christiankohler.net/)
+
 [indepth - ngrx bad practices](https://indepth.dev/posts/1442/ngrx-bad-practices)
 
 ### 07 Feb 2022
