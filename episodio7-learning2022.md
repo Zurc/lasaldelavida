@@ -2,6 +2,18 @@
 
 Cosas que voy aprendiendo...
 
+### 09 Feb 2022
+
+--github-pages issues--
+
+in many tuts you can deploy by writting `ng deploy --base-href=https://zurc.github.io/featured-playlists/`
+
+this will lead to 404 errors, not finding bundled files on dist/[repo-name]
+
+solution: remove '=' and add quotes around github base-ref link
+
+`ng deploy --base-href "https://zurc.github.io/featured-playlists"`
+
 ### 08 Feb 2022
 
 [E2E alternatives for Angular](https://dzone.com/articles/protractor-end-of-life-alternative-tools)
