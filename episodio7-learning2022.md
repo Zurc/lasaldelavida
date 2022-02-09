@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 09 Feb 2022
 
----github-pages issues---
+__github-pages issues__
 
 
 in many tuts you can deploy by writting `ng deploy --base-href=https://zurc.github.io/featured-playlists/`
