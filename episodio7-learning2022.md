@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 08 Feb 2022
 
+[E2E alternatives for Angular](https://dzone.com/articles/protractor-end-of-life-alternative-tools)
+
 [testing angular 13 service](https://typeshare.co/eliagentili/posts/how-to-test-an-angular-13-service)
 
 [angular - JS - chris Kohler](https://christiankohler.net/)
