@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 09 Feb 2022
 
+[testing approaches in angular](https://www.ifourtechnolab.com/blog/a-simple-guide-on-unit-testing-in-angular)
+
 [responsive design literature - interaction-design org](https://www.interaction-design.org/literature/topics/responsive-design)
 
 [ngrx - angular/react](https://www.toptal.com/angular/why-use-ngrx)
