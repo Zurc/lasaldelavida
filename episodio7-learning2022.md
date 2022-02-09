@@ -9,7 +9,7 @@ __github-pages issues__ :monocle_face:
 
 in many tuts you can deploy by writting `ng deploy --base-href=https://<username>.github.io/<repository>/`
 
-this will lead to 404 errors, not finding bundled files on dist/[repo-name]
+this will lead to 404 errors, not finding bundled files on dist/<repository>
 
 solution: remove '=' and add quotes around github base-ref link
 
