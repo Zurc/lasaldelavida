@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 09 Feb 2022
 
-<mark>github-pages issues</mark>
+<span style="background-color: #ffff00">github-pages issues</span>
 
 in many tuts you can deploy by writting `ng deploy --base-href=https://zurc.github.io/featured-playlists/`
 
