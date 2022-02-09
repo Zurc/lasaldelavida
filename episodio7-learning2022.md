@@ -18,6 +18,8 @@ Cosas que voy aprendiendo...
 
 [eslint config canonical - comparison btwn style guides](https://github.com/gajus/eslint-config-canonical#table-of-comparison)
 
+[using EsLint and Prettier for Style Guide](https://www.linkedin.com/pulse/using-eslint-prettier-style-guide-david-ara%25C3%25BAjo/)
+
 ### 07 Feb 2022
 
 [angular ngrx material starter](https://github.com/tomastrajan/angular-ngrx-material-starter)
