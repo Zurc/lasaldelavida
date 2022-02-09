@@ -12,6 +12,12 @@ Cosas que voy aprendiendo...
 
 [indepth - ngrx bad practices](https://indepth.dev/posts/1442/ngrx-bad-practices)
 
+>  Linting...
+
+[all about enforcing a style guide with eslint](https://codeburst.io/eslint-everything-you-need-to-know-about-enforcing-a-style-guide-with-eslint-d4520c732dcb)
+
+[eslint config canonical - comparison btwn style guides](https://github.com/gajus/eslint-config-canonical#table-of-comparison)
+
 ### 07 Feb 2022
 
 [angular ngrx material starter](https://github.com/tomastrajan/angular-ngrx-material-starter)
