@@ -6,6 +6,8 @@ Cosas que voy aprendiendo...
 
 [ngrx - angular/react](https://www.toptal.com/angular/why-use-ngrx)
 
+[angular state management](https://massivepixel.io/blog/angular-state-management/)
+
 __github-pages issues__ :monocle_face:
 
 
