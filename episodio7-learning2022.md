@@ -4,7 +4,7 @@ Cosas que voy aprendiendo...
 
 ### 09 Feb 2022
 
-🤦‍♂️ __github-pages issues__ :monocle_face:
+__github-pages issues__ :monocle_face:
 
 
 in many tuts you can deploy by writting `ng deploy --base-href=https://zurc.github.io/featured-playlists/`
