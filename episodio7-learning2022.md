@@ -4,6 +4,8 @@ Cosas que voy aprendiendo...
 
 ### 09 Feb 2022
 
+[ngrx - angular/react](https://www.toptal.com/angular/why-use-ngrx)
+
 __github-pages issues__ :monocle_face:
 
 
