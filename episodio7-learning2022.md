@@ -7,13 +7,13 @@ Cosas que voy aprendiendo...
 __github-pages issues__ :monocle_face:
 
 
-in many tuts you can deploy by writting `ng deploy --base-href=https://zurc.github.io/featured-playlists/`
+in many tuts you can deploy by writting `ng deploy --base-href=https://<username>.github.io/<repository>/`
 
 this will lead to 404 errors, not finding bundled files on dist/[repo-name]
 
 solution: remove '=' and add quotes around github base-ref link
 
-`ng deploy --base-href "https://zurc.github.io/featured-playlists"`
+`ng deploy --base-href "https://<username>.github.io/<repository>"`
 
 ### 08 Feb 2022
 
