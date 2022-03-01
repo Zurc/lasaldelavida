@@ -2,6 +2,11 @@
 
 Cosas que voy aprendiendo...
 
+### 01 Mar 2022
+
+// Cornell note taking method -> download to a file
+[CRUZ - Cornell Note Taking Method](https://codepen.io/CruzWeb/pen/qBVQRLa)
+
 ### 09 Feb 2022
 
 [testing approaches in angular](https://www.ifourtechnolab.com/blog/a-simple-guide-on-unit-testing-in-angular)
