@@ -2,6 +2,12 @@
 
 Cosas que voy aprendiendo...
 
+### 07 Mar 2022
+
+Maca proposed Alexandra Tolstoi donate one of my paintings to help Ucranian Red Cross. She accepted
+
+[AZ quotes - Leo Tolstoy](https://www.azquotes.com/author/14706-Leo_Tolstoy)
+
 ### 01 Mar 2022
 
 // Cornell note taking method -> download to a file
